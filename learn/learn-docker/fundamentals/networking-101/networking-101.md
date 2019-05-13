@@ -46,3 +46,46 @@ Then `ping webserver` to ensure it is linked.
 
 ### User defined networks
 
+`bridge` will be used if we do not specify explicitly.
+
+`docker network create mynet`: create network
+
+`docker network inspect <NETWORK NAME>`
+
+Run container on specified network: `docker container run —network mynet -it —rm alpine:latest`
+
+Remove network: `docker network rm <NETWORK NAME>`
+
+### Resolving hostnames
+
+`docker container run —network mynet —name c1 —rm -it alpine:latest`
+
+`docker container run —network mynet -name c2 -rm -it alpine:latest`
+
+Running `ping c2` inside a shell of `c1` container produces a successful response.
+
+You can specify the `ip` address at run: `docker container run —network mynet —name c2 —rm -it —ip 172.18.0.99 alpine:latest`
+
+### User defined networks and links
+
+- Combining user defined networks and links
+- Creating aliases to connect them
+
+`docker container run —network mynet -it —rm —link postgres:pg alpine:latest`
+
+`docker container run —network mynet —name postgres —rm postgres:9.6.6-alpine`
+
+You can `ping pg` and get a successful response. 
+
+### Sharing names
+
+Create multiple containers on the same network using a `network-alias` with the same name:
+
+- start initial container: `docker container run —network mynet -it alpine:latest`
+- Start multiple containers on network with same `network-alias`
+  - `docker container run —network mynet -d —network-alias webserver nginx:latest`
+  - run this command multiple times
+
+### Quiz
+
+- The IP address `127.0.0.11` can be used as a DNS server in user-defined networks.
