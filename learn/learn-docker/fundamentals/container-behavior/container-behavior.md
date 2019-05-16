@@ -38,5 +38,25 @@ This is after `docker container run -it jfahrer/myalpine:latest`
 
 ### More on env vars
 
+- list environment variables in docker container: `docker container run alpine:latest`
+- passing in environment variables file: `docker container run —env-file <ENV FILENAME> alpine:latest env`
+- Pass in existing environment variable: `docker container run —env-file <ENV FILENAME> -e <ENV VARIABLE NAME> alpine:latest env`
+
+### Quiz
+
+- You run a container based on an image that has the following line in its Dockerfile: `ENV MYVAR test`.
+  The container is started with the following command: `docker container run <image_name>`.
+  The value of the environment variable `MYVAR` inside the container is `test`.
+- You run a container based on an image that has the following line in its Dockerfile: `ENV MYVAR test OTHERVAR foobar`.
+  The container is started with the following command: `docker container run <image_name>`.
+  The environment variable `MYVAR` will have the value `test OTHERVAR foobar` and `OTHERVAR` will not be set.
+- You run a container based on an image that has the following line in its Dockerfile: `ENV MYVAR=test OTHERVAR=foobar`.
+  The container is started with the following command: `docker container run <image_name>`.
+  `MYVAR` will have the value `test` and `OTHERVAR` will have the value `foobar`.
+- What happens when you assign an environment variable via the `-e` flag of the `docker container run` command without a value?
+  Ans: Docker will look for an environment variable with the same name locally and use the value of that environment variable if it exists.
+
+### Postgres in a nutshell
+
 
 
