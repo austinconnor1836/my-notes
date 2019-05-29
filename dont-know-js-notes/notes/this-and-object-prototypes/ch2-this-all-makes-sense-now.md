@@ -107,3 +107,26 @@ Use `strict mode` exclusively or non-`strict mode` for the entirety of your code
 
 Does the call-site have a context object, also referred to as an owning or containing object, though these alternate terms could be slightly misleading.
 
+Consider:
+
+```javascript
+function foo() {
+	console.log( this.a );
+}
+
+var obj = {
+	a: 2,
+	foo: foo
+};
+
+obj.foo(); // 2
+```
+
+The function `foo()` is not really "owned" or "contained" by the `obj` object.
+
+However, the call-site uses the `obj` context to **reference** the function, so you could say that the `obj` object "owns" or "contains" the **function reference** at the time the function is called.
+
+At the point that `foo()` is called, it's preceded by an object reference to `obj`.
+When there is a context object for a function reference, the **_implicit binding_** rule says that it's **_that_** object which should be used for the function call's `this` binding.
+
+Because `obj` is the `this` for the `foo()` call, `this.a` is synonymous with `obj.a`.
