@@ -130,3 +130,4 @@ At the point that `foo()` is called, it's preceded by an object reference to `ob
 When there is a context object for a function reference, the **_implicit binding_** rule says that it's **_that_** object which should be used for the function call's `this` binding.
 
 Because `obj` is the `this` for the `foo()` call, `this.a` is synonymous with `obj.a`.
+
