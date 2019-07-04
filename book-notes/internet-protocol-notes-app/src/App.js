@@ -1,26 +1,50 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import React, { createContext, useState } from 'react'
+import './App.css'
+import TableOfContents from './components/table-of-contents/TableOfContents'
+import Notes from './components/Notes'
+
+export const TableOfContentsContext = createContext(
+  [
+    {
+        id: 1,
+        content: {
+            section: {
+                title: "Section 1.1: What is the Internet",
+                isActive: false
+            }
+        }
+    },
+    {
+        id: 2,
+        content: {
+            section: {
+                title: "Section 1.2: The Network Edge",
+                isActive: false
+            }
+        }
+    }
+  ]
+);
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div className={'App'}>
+      <TableOfContentsProvider>
+        <TableOfContents />
+        <Notes />
+      </TableOfContentsProvider>
     </div>
-  );
+  )
 }
 
-export default App;
+const TableOfContentsProvider = (props) => {
+  const [state, setState] = useState(TableOfContentsContext)
+
+  return (
+    <TableOfContentsContext.Provider value={[state, setState]}>
+      {props.children}
+    </TableOfContentsContext.Provider>
+  )
+}
+
+export default App
