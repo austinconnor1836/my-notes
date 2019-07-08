@@ -17,3 +17,5 @@ Ray's and his company's **Work Principles**:
 3. Have agreed-upon ways of deciding (e.g., voting, having clear authorities) if disagreements remain so that we can move beyond them without resentments.
 
 Ray: "I believe that for any organization or for any relationship to be great, these things are required. I also believe that for a group decision-making system to be effective, the people using have to belive that it's fair."
+
+Ray talked with psychologists, neuroscientists, and educators and learned there are two parts to each brain: the upper-level logical part and the lower-level emotional part...While the logical part of people's brains could easily understand that knowing one's weaknesses is a good thing (because it's the first step toward getting around them), the emotional part typically hates it.
