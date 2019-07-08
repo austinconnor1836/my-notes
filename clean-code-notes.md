@@ -70,3 +70,67 @@ Tests are just as important to the health of the project as the production code 
 If you let the tests rot, then your code will rot too. Keep your tests clean.
 
 ## Chapter 10: Classes
+### Class Organization
+Following the standard Java convention, a class should begin with a list of variables. Public static constants, if any, should come first. Then private static variables, followed by private instance variables. There is seldom a good reason to have a public variable.
+
+### Classes Should Be Small!
+The first rule of classes is that they should be small. The second rule of classes is that they should be smaller than that.
+
+We measure the size of classes not by the number of lines, but by *responsibilities*.
+
+The name of a class should describe what responsibilities a class fulfills.
+
+### The Single Responsibility Principle
+The Single Responsibility Principle states that a class or module should have one and only one, *reason to change*.
+
+Classes should have one responsibility - one reason to change.
+
+An example of a single responsibility class:
+```java
+public class Version {
+    public int getMajorVersionNumber();
+    public int getMinorVersionNumber();
+    public int getBuildNumber();
+}
+```
+
+Do you want your tools organized into toolboxes with many small drawers each containing well-defined and well-labeled components? Or do you want a few drawers that you just toss everything into?
+
+### Cohesion
+Classes should have a small number of instance variables. 
+
+Each of the methods of a class should manipulate one or more of those variables.
+
+In general the more variables a method manipulates the more cohesive that method is to its class.
+
+A class in which each variable is used by each method is maximally cohesive.
+
+In general it is neither advisable nor possible to create such maximally cohesive classes; on the other hand, we would like cohesion to be high.
+
+**When cohesion is high, it means that the methods and variables of the class are co-dependent and hang together as a logical whole**.
+
+A cohesive class example:
+```java
+public class Stack {
+    private int topOfStack = 0;
+    List<Integer> elements = new LinkedList<Integer>();
+
+    public int size() {
+        return topOfStack;
+    }
+
+    public void push(int element) {
+        topOfStack++;
+        elements.add(element);
+    }
+
+    public int pop() throws PoppedWhenEmpty {
+        if (topOfStack == 0) {
+            throw new PoppedWhenEmpty();
+        }
+        int element = elements.get(--topOfStack);
+        elements.remove(topOfStack);
+        return element;
+    }
+}
+```
