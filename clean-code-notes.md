@@ -200,3 +200,71 @@ public class ColumnList {
 ```
 
 The code in each class becomes incredibly simple. Our required comprehension time to understand any class decreases to almost nothing.
+
+The risk that one function could break another becomes vanishingly small.
+
+Tests also get easier, as the classes are all isolated from one another.
+
+Equally important, when it's time to add the `update` statements, none of the existing classes need change. We code the logic to build `update` statements in a new subclass of `Sql` named `UpdateSql`. No other code in the system will break because of this change.
+
+This restructured `Sql` logic represents the best of all worlds. It supports the SRP (Single Responsibility Principle).
+
+It also supports an Object Oriented class design principle known as the Open-Closed Principle, or OCP.
+
+**Classes should be open for extension but closed for modification**.
+
+**In an ideal system, we incorporate new features by extending the system, not by making modifications to existing code**.
+
+#### Isolating From Change
+We learned in Object Oriented 101 that there are concrete classes, which contain implementation details (code), and abstract classes, which represent concepts only.
+
+A client class depending upon concrete details is at risk when those details change. Interfaces and abstract classes help isolate the impact of those details.
+
+Dependencies upon concrete details create challenges for testing our system. If we're building a `Portfolio` class and it depends upon an external `TokyoStockExchange` API to derive the portfolio's value, our test cases are impacted by the volatility of such a lookup. It's hard to write a test when we get a different answer every five minutes!
+
+We create an interface `StockExchange`, that declares a single method:
+```java
+public interface StockExchange {
+    Money currentPrice(String symbol);
+}
+```
+
+We design `TokyoStockExchange` to implement this interface. We also make sure that the constructor of `Portfolio` takes a `StockExchange` reference as an argument:
+```java
+public Portfolio {
+    private StockExchange exchange;
+    public Portfolio(StockExchange exchange) {
+        this.exchange = exchange;
+    }
+    // ...
+}
+```
+
+We then write a test:
+```java
+public class PortfolioTest {
+    private FixedStockExchangeStub exchange;
+    private Portfolio portfolio;
+
+    @Before
+    protected void setUp() throws Exception {
+        exchange = new FixedStockExchangeStub();
+        exchange.fix("MSFT", 100);
+        portfolio = new Portfolio(exchange);
+    }
+
+    @Test
+    public void GivenFiveMSFTTotalShouldBe500() throws Exception {
+        portfolio.add(5, "MSFT");
+        Assert.assertEquals(500, portfolio.value());
+    }
+}
+```
+
+The lack of coupling means that the elements of our system are better isolated from each other and from change. This isolation makes it easier to understand each element of the system.
+
+By minimizing coupling in this way, our classes adhere to another class design principle known as the Dependency Inversion Principle (DIP). In essence, the DIP says that our classes should depend upon abstractions, not on concrete details.
+
+Instead of being dependent upon the implementation details of the `TokyoStockExchange` class, our `Portfolio` class is now dependent upon the `StockExchange` interface. The `StockExchange` interface represents the abstract concept of asking for the current price of a symbol. This abstraction isolates all of the specific details of obtaining such a price, including from where that price is obtained.
+
+## Chapter 11: Systems
