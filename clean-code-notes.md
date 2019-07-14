@@ -268,3 +268,115 @@ By minimizing coupling in this way, our classes adhere to another class design p
 Instead of being dependent upon the implementation details of the `TokyoStockExchange` class, our `Portfolio` class is now dependent upon the `StockExchange` interface. The `StockExchange` interface represents the abstract concept of asking for the current price of a symbol. This abstraction isolates all of the specific details of obtaining such a price, including from where that price is obtained.
 
 ## Chapter 11: Systems
+It is a myth that we can get systems "right the first time." Instead, we should implement only today's *stories*, then refactor and expand the system to implmenet new stories tomorrow.
+
+*Software systems are unique compared to physical systems. Their architectures can grow incrementally ,if we maintain the proper separation of concerns*.
+
+The ephemeral nature of software systems makes this possible, as we will see. Let's consider a counterexample of an architecture that doesn't separate concerns adequately.
+
+The original EJB1 AND EJB2 architectures did not separate concerns appropriately and thereby imposed unnecessary barriers to organic growth. Consider an *Entity Bean* for a persistent `Bank` class. An entity bean is an in-memory representation of relational data, in other words, a table row.
+
+First, you had to define a local (in process) or remote (separate JVM) interface, which clients would use:
+
+**Listing 11-1**:
+```java
+package com.example.banking;
+import java.util.Collections;
+import javax.ejb.*;
+
+public interface BankLocal extends java.ejb.EJBLocalObject {
+  String getStreetAddr1() throws EJBException;
+  String getStreetAddr2() throws EJBException;
+  String getCity() throws EJBException;
+  String getState() throws EJBException;
+  String getZipCode() throws EJBException;
+  void setStreetAddr1(String street1) throws EJBException;
+  void setStreetAddr2(String street2) throws EJBException;
+  void setCity(String city) throws EJBException;
+  void setState(String state) throws EJBException;
+  void setZipCode(String zip) throws EJBException;
+  Collection getAccounts() throws EJBException;
+  void setAccounts(Collection accounts) throws EJBException;
+  void addAccount(AccountDTO accountDTO) throws EJBException;
+}
+```
+This shows several attributes for the `Bank`'s address and a collection of accounts the bank owns, each of which would have its data handled by a separate `Account` EJB.
+
+Listing 11-2 shows the corresponding implementation class for the `Bank` bean.
+
+**Listing 11-2**:
+```java
+package com.example.banking;
+import java.util.Collections;
+import javax.ejb.*;
+
+public abstract class Bank implements javax.ejb.EntityBean {
+  // Business logic...
+  public abstract String getStreetAddr1();
+  public abstract String getStreetAddr2();
+  public abstract String getCity();
+  public abstract String getState();
+  public abstract String getZipCode();
+  public abstract void setStreetAddr1(String street1);
+  public abstract void setStreetAddr2(String street2);
+  public abstract void setCity(String city);
+  public abstract void setState(String state);
+  public abstract void setZipCode(String zip);
+  public abstract Collection getAccounts();
+  public abstract void setAccounts(Collection accounts);
+  public void addAccount(AccountDTO accountDTO) {
+    InitialContext context = new InitialContext();
+    AccountHomeLocal accountHome = context.lookup("AccountHomeLocal");
+    AccountLocal account = accountHome.create(accountDTO);
+    Collection accounts = getAccounts();
+    accounts.add(account);
+  }
+
+  // EJB container logic
+  public abstract void setId(Integer id);
+  public abstract Integer getId();
+  public Integer ejbCreate(Integer id) { ... }
+  public void ejbPostCreate(Integer id) { ... }
+
+  // The rest had to be implemented but were usually empty:
+  public void setEntityContext(EntityContext ctx) {}
+  public void unsetEntityContext() {}
+  public void ejbActivate() {}
+  public void ejbPassivate() {}
+  public void ejbLoad() {}
+  public void ejbStore() {}
+  public void ejbRemove() {}
+}
+```
+The corresponding *LocalHome* interface is not shown, essentially being a factory used to create objects, nor any of the possible `Bank` finder (query) methods you might add.
+
+Finally, you had to write one or more XML deployment descriptors that specify the object-relational mapping details to a persistence store, the desired transactional behavior, security constraints, and so on.
+
+The business logic is thightly coupled to the EJB2 application "container." You must subclass container types and you must provide many lifecycle methods that are required by the container.
+
+Because of this coupling to the heavyweight container, **isolated unit-testing is difficult**. 
+
+It is necessary to mock out the container, which is hard, or wastes a lot of time deploying EJBs and tests to a real server. 
+
+Reuse outside of the EJB2 architecture is effectively impossible, due to the tight coupling.
+
+Finally, even object-oriented programming is undermined.
+
+One bean cannot inherit from another bean.
+
+The logic for adding a new account uses the common strategy in EJB2 beans to define "data transfer objects" (DTOs) that are essentially "structs" with no behavior. 
+
+This usually leads to redundant types holding essentially the same data, and it requires boilerplate code to copy data from one object to another.
+
+### Cross-Cutting Concerns
+*Concerns* like persistence tend to cut across the natural object boundaries of a domain.
+
+In principle, you can reason about your persistence strategy in a modular, encapsulated way. Yet, in practice, you have to spread essentially the same code that implements the persistence strategy across many objects.
+
+These are the *concerns* addressed when we use the term *cross-cutting concerns*.
+
+Again, the persistence framework might be modular and our domain logic, in isolation, might be modular.
+
+The problem is the fine-grained *intersection* of these domains.
+
+The EJB architecture handled persistence, security, and transactions in an "anticipated" *aspect-oriented programming* (AOP) way, which is a general-purpose approach to restoring modularity for cross-cutting concerns.
