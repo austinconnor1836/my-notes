@@ -380,3 +380,9 @@ Again, the persistence framework might be modular and our domain logic, in isola
 The problem is the fine-grained *intersection* of these domains.
 
 The EJB architecture handled persistence, security, and transactions in an "anticipated" *aspect-oriented programming* (AOP) way, which is a general-purpose approach to restoring modularity for cross-cutting concerns.
+
+**In AOP, modular constructs called *aspects* specify which points in the system should have their behavior modified in some consistent way to support a particular concern.**
+
+Let's look at three aspects or aspect-like mechanisms in Java:
+
+### Java Proxies
