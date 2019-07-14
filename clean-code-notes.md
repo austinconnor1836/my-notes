@@ -386,3 +386,242 @@ The EJB architecture handled persistence, security, and transactions in an "anti
 Let's look at three aspects or aspect-like mechanisms in Java:
 
 ### Java Proxies
+Java proxies are suitable for simple situations, such as wrapping method calls in individual objects or classes.
+
+However, the dynamic proxies provided in the JDK Only work with interfaces.
+
+To proxy classes, you have to use a byte-code manipulation library, such as CGLIB, ASM, or Javassist.
+
+**Listing 11-3: JDK Proxy Example**
+```java
+// Bank.java (suppressing package names...)
+import java.utils.*;
+// The abstraction of a bank.
+public interface Bank {
+  Collection<Account> getAccounts();
+  void setAccounts(Collection<Account> accounts);
+}
+
+// BankImpl.java
+import java.utils.*;
+
+// The “Plain Old Java Object” (POJO) implementing the abstraction.
+public class BankImpl implements Bank {
+  private List<Account> accounts;
+  public Collection<Account> getAccounts() {
+    return accounts;
+  }
+
+  public void setAccounts(Collection<Account> accounts) {
+    this.accounts = new ArrayList<Account>();
+    for (Account account: accounts) {
+      this.accounts.add(account);
+    }
+  }
+}
+
+// BankProxyHandler.java
+import java.lang.reflect.*;
+import java.util.*;
+
+// “InvocationHandler” required by the proxy API.
+public class BankProxyHandler implements InvocationHandler {
+  private Bank bank;
+  public BankHandler (Bank bank) {
+    this.bank = bank;
+  }
+
+  // Method defined in InvocationHandler
+  public Object invoke(Object proxy, Method method, Object[] args) throws Throwable {
+    String methodName = method.getName();
+    if (methodName.equals("getAccounts")) {
+      bank.setAccounts(getAccountsFromDatabase());
+      return bank.getAccounts();
+    } else if (methodName.equals("setAccounts")) {
+      bank.setAccounts((Collection<Account>) args[0]);
+      setAccountsToDatabase(bank.getAccounts());
+      return null;
+    } else {
+      ...
+    }
+  }
+  
+  // Lots of details here:
+  protected Collection<Account> getAccountsFromDatabase() { ... }
+  protected void setAccountsToDatabase(Collection<Account> accounts) { ... }
+}
+
+// Somewhere else...
+Bank bank = (Bank) Proxy.newProxyInstance(
+Bank.class.getClassLoader(), new Class[] { Bank.class }, new BankProxyHandler(new BankImpl()));
+```
+
+We defined an interface `Bank`, which will be *wrapped* by the proxy, and a *Plain-Old Java Object* (POJO), `BankImpl`, that implements the business logic.
+
+This code "volume" and complexity are two of the drawbacks of proxies.
+
+They make it hard to create clean code!
+
+Also, proxies don't provide a mechanism for specifying system-wide execution "points" of interest, which is needed for a true AOP solution.
+
+### Pure Java AOP Frameworks
+The real value of an AOP system is the ability to specify systemic behaviors in a concise and modular way.
+
+Fortunately, most of the proxy boilerplate can be handled automatically by tools.
+
+Proxies are used internally in several Java frameworks, for example, Spring AOP and JBoss AOP, to implement aspects in pure Java.
+
+In Spring, you write your business logic as *Plain-Old Java Objects*.
+
+They have no dependencies on enterprise frameworks (or any other domains).
+
+This makes them easier to understand and test drive.
+
+You incorporate the required application infrastructure, including cross-cutting concerns like persistence, transactions, security, caching, failover, and so on,using declarative configuration files or APIs.
+
+Listing 11-4 shows a typical fragment of a Spring V2.5 configuration file, app.xml:
+
+**Listing 11-4: Spring 2.X configuration file**:
+```java
+<beans>
+  ...
+  <bean id="appDataSource"
+  class="org.apache.commons.dbcp.BasicDataSource"
+  destroy-method="close"
+  p:driverClassName="com.mysql.jdbc.Driver"
+  p:url="jdbc:mysql://localhost:3306/mydb"
+  p:username="me"/>
+  <bean id="bankDataAccessObject"
+  class="com.example.banking.persistence.BankDataAccessObject"
+  p:dataSource-ref="appDataSource"/>
+  <bean id="bank"
+  class="com.example.banking.model.Bank"
+  p:dataAccessObject-ref="bankDataAccessObject"/>
+  ...
+</beans>
+```
+
+Each "bean" is like one part of a nested "Russian doll," with a domain object for a `Bank` proxied (wrapped) by a data accessor object (DAO), which is itself proxied by a JDBC driver data source. (See Figure 11-3.)
+
+![](./figure-11-3-russian-doll-of-decorators.png)
+
+
+The client believes it is invoking `getAccounts()` on a `Bank` object, but it is actually talking to the outermost of a set of nested DECORATOR objects that extend the basic behavior of the `Bank` POJO.
+
+In the application, a few lines are needed to ask the DI container for the top-level objects in the system, as specified in the XML file:
+
+```java
+XmlBeanFactory bf = new XmlBeanFactory(new ClassPathResource("app.xml", getClass()));
+Bank bank = (Bank) bf.getBean("bank");
+```
+
+Because so few lines of Spring-specific Java code are required, *the application is almost completely decoupled from Spring*, eliminating all the tight-coupling problems of systems like EJB2.
+
+This type of architecture is so compelling that frameworks like Spring led to a complete overhaul of the EJB standard for version 3. 
+
+EJB3 largely follows the Spring model of declaratively supporting cross-cutting concerns using XML configuration files and/or Java 5 annotations.
+
+Listing 11-5 shows our Bank object rewritten in EJB3:
+
+**Listing 11-5: An EJB3 Bank EJB**:
+```java
+package com.example.banking.model;
+import javax.persistence.*;
+import java.util.ArrayList;
+import java.util.Collection;
+
+@Entity
+@Table(name = "BANKS")
+public class Bank implements java.io.Serializable {
+  @Id @GeneratedValue(strategy=GenerationType.AUTO)
+  private int id;
+
+  @Embeddable // An object “inlined” in Bank’s DB row
+  public class Address {
+    protected String streetAddr1;
+    protected String streetAddr2;
+    protected String city;
+    protected String state;
+    protected String zipCode;
+  }
+
+  @Embedded
+  private Address address;
+  @OneToMany(cascade = CascadeType.ALL, fetch = FetchType.EAGER, mappedBy="bank")
+  
+  private Collection<Account> accounts = new ArrayList<Account>();
+  public int getId() {
+    return id;
+  }
+
+  public void setId(int id) {
+    this.id = id;
+  }
+
+  public void addAccount(Account account) {
+    account.setBank(this);
+    accounts.add(account);
+  }
+
+  public Collection<Account> getAccounts() {
+    return accounts;
+  }
+
+  public void setAccounts(Collection<Account> accounts) {
+    this.accounts = accounts;
+  }
+}
+```
+
+This code is much cleaner than the original EJB2 code. Some of the entity details are still here, contained in the annotations. However, because none of that information is outside of the annotations, the code is clean, clear, and hence easy to test drive, maintain, and so on.
+
+### AspectJ Aspects
+Finally, the most full-featured tool for separating concerns through aspects is the AspectJ language, an extension of Java that provides "first-class" support for aspects as modularity constructs. 
+
+The pure Java approaches provided by Spring AOP and JBoss AOP are sufficient for 80-90 percent of the cases where aspects are most useful.
+
+The drawback of using AspectJ is having to learn several new tools and language constructs and usage idioms.
+
+### Test Drive the System Architecture
+The power of separating concerns through aspect-like approaches can't be overstated.
+
+If you can write your application's domain logic using POJOs, decoupled from any architecture concerns at the code level, then it is possible to truly *test drive* your architecture.
+
+You can evolve it from simple to sophisticated, as needed, by adopting new technologies on demand.
+
+It is not necessary to do a *Big Design Up Front* (BDUF).
+
+BDUF is even harmful becuase it inhibits adapting to change, due to the psychological resistance to discarding prior effort and because of the way architecture choices influence subsequent thinking about the design.
+
+**Coupling**: the dependency of one class on another.
+
+Some of the world's largest Web sites have achieved very high availability and performance, using sophisticated data caching, security, virtualization, and so forth, all done efficiently and flexibly because the minimally coupled designs are appropriately *simple* at each level of abstraction and scope.
+
+We must maintain the ability to change course in response to evolving circumstances.
+
+A good API should largely *disappear* from view most of the time, so the team expends the majority of its creative efforts focused on the user stories being implemented.
+
+**_An optimal system architecture consists of modularized domains of concern, each of which is implemented with Plain Old Java (or other) Objects. The different domains are integrated together with minimally invasive Aspects or Aspect-like tools. This architecture can be test-driven, just like the code._**
+
+### Optimize Decision Making
+Modularity and separation of concerns make decentralized management and decision making possible.
+
+We often forget that it is also best to *postpone decisions until the last possible moment*. This isn't lazy or irresponsible; it lets us make informed choices with the best possible information.
+
+**_The agility provided by a POJO system with modularized concerns allows us to make optimal, just-in-time decisions, based on the most recent knowledge. The complexity of these decisions is also reduced._**
+
+### Use Standards Wisely, When They Add *Demonstrable* Value
+
+Construction is a mature industry with highly optimized parts, methods, and standards that have evolved under pressure for centuries.
+
+**_Standards make it easier to reuse ideas and components, recruit people with relevant experience, encapsulate good ideas, and wire components together. However, the process of creating standards can sometimes take too long for industry to wait, and some standards lose touch with the real needs of the adopters they are intended to serve._**
+
+### Systems Need Domain-Specific Languages
+Building construction, like most domains, has developed a rich language with a vocabulary, idioms, and patterns that convey essential information clearly and concisely.
+
+**_Domain-Specific Languages allow all levels of abstraction and all domains in the application to be expressed as POJOs, from high-level policy to low-level details._**
+
+### Conclusion
+Whether you are designing systems or individual modules, never forget to *use the simplest thing that can possibly work*.
+
+## Chapter 12: Emergence
