@@ -684,3 +684,7 @@ This rule suggests that we also keep our function and class counts low.
 Dogma should be resisted and pragmatic approaches should be embraced.
 
 Although it is important to keep class and function count low, it is more important to have tests, eliminate duplication, and express yourself.
+
+### Chapter 13: Concurrency
+*"Objects are abstractions of processing. Threads are abstractions of schedule."* -James O. Coplien
+
