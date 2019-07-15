@@ -625,3 +625,62 @@ Building construction, like most domains, has developed a rich language with a v
 Whether you are designing systems or individual modules, never forget to *use the simplest thing that can possibly work*.
 
 ## Chapter 12: Emergence
+### Getting Clean via Emergent Design
+Four rules that facilitate the *emergence* of good designs.
+
+Kent Beck's four rules of *Simple Design* are of significant help in creating well-designed software.
+
+According to Kent, a design is "simple" if it follows these rules:
+- Runs all the tests
+- Contains no duplication
+- Expresses the intent of the programmer
+- Minimizes the number of classes and methods.
+
+The rules are given in order of importance.
+
+### Simple Design Rule 1: Runs All the Tests
+First and foremost, a design must produce a system that acts as intended.
+
+A system that is comprehensively tested and passes all of its tests all of the time is a testable system.
+
+The more tests we write, the more we'll continue to push toward things that are simpler to test.
+
+Tight coupling makes it difficult to write tests.
+
+The more tests we write, the more we use principles like DIP (Dependency Inversion Principle, dependent upon abstractions rather than classes themselves) and tools like dependency injection, interfaces, and abstraction to minimize coupling.
+
+### Simple Design Rules 2-4: Refactoring
+Incrementally refactor code as we code every few lines.
+
+Ask ourselves: did we degrade it? If so, we clean it up and run our tests to demonstrate that we haven't broken anything.
+
+*The fact that we have these tests eliminates the fear that cleaning up the code will break it!*
+
+Here we can apply the final three rules of simple design: Eliminate duplication, ensure expressiveness, and minimize the number of classes and methods.
+
+### No Duplication
+**Duplication is the primary enemy of a well-designed system.**
+
+### Expressive
+It's easy to write code that *we* understand.
+
+<u>The majority of the cost of a software project is in long-term maintenance.</u>
+
+**The clearer the author can make the code, the less time others will have to spend understanding it.**
+
+Keep classes and functions small as they are easier to understand and maintain.
+
+Unit tests should be easy to describe what is happening to the reader.
+
+*Try*. All too often we get our code working and then move on to the next problem without giving sufficient thought to making that code easy for the next person to read.
+
+The most likely candidate to be reading your code after you is you.
+
+### Minimal Classes and Methods
+In an effort to make our classes and methods small, we might create too many tiny classes and methods.
+
+This rule suggests that we also keep our function and class counts low.
+
+Dogma should be resisted and pragmatic approaches should be embraced.
+
+Although it is important to keep class and function count low, it is more important to have tests, eliminate duplication, and express yourself.
