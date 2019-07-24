@@ -12,3 +12,9 @@
 ## Part 1
 ### Basic Selectors, Relational Selectors
 ![basic selectors](./basic-selectors.PNG)
+
+- `ul li`:
+  - descendant selector
+- `ol > li`:
+  - direct child selector
+  - matches `<li>`'s in `<ol>` but not nested `<ul>`
