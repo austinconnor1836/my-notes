@@ -11,4 +11,4 @@
 
 ## Part 1
 ### Basic Selectors, Relational Selectors
-![basic selectors](./basic-selectors)
+![basic selectors](./basic-selectors.PNG)
