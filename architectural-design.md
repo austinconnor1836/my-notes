@@ -69,6 +69,17 @@ The object-oriented programming community has taken the lead in producing catalo
 
 Software design patterns tend to be more problem-oriented than architectural styles.
 
+## Chapter 2: Newtwork-based Application Architectures
+### 2.1 Scope
+This dissertation examines the highest level of abstraction in software architecture, where the interactions among components are capable of being realized in network communication.
 
+#### 2.1.1 Network-based vs. Distributed
+The primary distinction between network-based architectures and software architectures in general is that communication between components is restricted to message passing.
 
+#### 2.1.2 Application Software vs. Networking Software
+Applications represent the "business-aware" functionality of a system.
 
+Application software architecture is an abstraction level of an overall system, in which the goals of a user action are representable as functional architectural properties.
+
+### 2.2 Evaluating the Design of Application Architectures
+One of the goals of this dissertation is to provide design guidance for the task of selecting or creating the most appropriate architecture for a given application domain, keeping in mind that an architecture is the realization of an architectural design and not the design itself.
