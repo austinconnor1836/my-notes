@@ -33,4 +33,10 @@
     - Element `E` has the attribute `attr` with the exact value `val`
   - `E[attr|=val]`:
     - `E` whose attribute `attr` has a value `val` or begins with `val-` (dash, hyphen)
-  
+    - Example matches:
+      - `p[lang|="data"] {} <p lang="en-us"> <p lang="en-uk">`
+  - In HTML5, one can create any attribute they want starting with `data-*`
+  - `E[attr~=val]:
+    - `E` whose attribute `attr` has within its value the space-separated full word `val`
+    - Example Matches:
+      - `a[title~=more] {} <a title="want more info about this?">
