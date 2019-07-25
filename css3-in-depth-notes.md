@@ -40,3 +40,9 @@
     - `E` whose attribute `attr` has within its value the space-separated full word `val`
     - Example Matches:
       - `a[title~=more] {} <a title="want more info about this?">`
+  - CSS3 has regex implementation (not full)
+  - `E[attr^=val]`: attribute `attr` starts with value `val`
+    - Example Matches: `a[href^=mailto] {background-image: url(emailicon.gif);}`
+  - `E[attr$=val]`: attribute `attr` ends with value `val`
+  - `E[attr*=val]`: attribute `attr` matches value `val` anywhere within the attribute.
+    - similar to `E[attr~=val]` above except the `val` can be part of a word.
