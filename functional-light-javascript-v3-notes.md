@@ -7,6 +7,7 @@
   * [Same Input Same Output](#same-input-same-output)
   * [Function Purity: Level of Confidence](#function-purity-level-of-confidence)
   * [Extracting Impurity](#extracting-impurity)
+  * [Impurity Solution: Wrappers](#impurity-solution-wrappers)
   
 <!-- table of contents -->
 ## Function Purity
@@ -88,3 +89,19 @@ getId({
 ### Extracting Impurity
 - Database calls are inherently impure.
 
+### Impurity Solution: Wrappers
+- contain impure function by wrapping it with another function
+```javascript
+function getStudentsByName() {
+  
+  function sortStudentsByName() {
+    //Don't modify this function
+    students.sort(function byName(s1,s2) {
+      if (s1.name < s2.name) return -1;
+      else if (s1.name > s2.name) return 1;
+      else return 0;
+    });
+    return students;
+  }
+}
+```
