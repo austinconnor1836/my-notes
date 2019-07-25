@@ -15,6 +15,22 @@
 
 - `ul li`:
   - descendant selector
+  - matches nested `<li>`s
 - `ol > li`:
   - direct child selector
   - matches `<li>`'s in `<ol>` but not nested `<ul>`
+- `li.myclass ~ li`
+  - grabs `<li>` after the `myclass`
+  
+  ### Attribute Selectors
+  - `element[attribute]`
+    - global selector: `*[attribute]`
+    - implicit global selector: `[attribute]`
+    - don't use global selectors, bad performance
+    - `img[alt]`
+      - matches all `img`s on page that have an `alt` attribute
+  - `E[attr="val"]`:
+    - Element `E` has the attribute `attr` with the exact value `val`
+  - `E[attr|=val]`:
+    - `E` whose attribute `attr` has a value `val` or begins with `val-` (dash, hyphen)
+  
