@@ -55,4 +55,20 @@ Style does not refer to the personalization of the design process.
 Since referring to a named set of constraints as a style makes it easier to communicate the characteristics of common constraints, we use architectureal styles as a method of abstraction, rather than as an indicator of personalized design.
 
 ### 1.6 Patterns and Pattern Languages
+A design patter is defined as an important and recurring system construct.
+
+A pattern language is a system of patterns organized in a structure that guides the patterns' application.
+
+A primary benefit of patterns is that they can describe relatively complex protocols of interactions between objects as a single abstraction, thus including both constraints on behavior and specifics of the implementation.
+
+### 1.7 Views
+*An architectural viewpoint is often application-specific and varies widely based on the application domain...*
+
+### 1.8 Related Work
+The object-oriented programming community has taken the lead in producing catalogs of design patterns, as exemplified by the "Gang of Four" book and the essays edited by Coplien and Schmidt [33].
+
+Software design patterns tend to be more problem-oriented than architectural styles.
+
+
+
 
