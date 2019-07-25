@@ -40,4 +40,19 @@ Components can also generate data, as in the case of a software encapsulation of
 ### 1.3 Configuration
 **Configuration**: the structure of architectural relationships among components, connectors, and data during a period of system run-time.
 
+### 1.4 Properties
+Properties are induced by the set of constraints within an architecture.
+
+The goal of architectural design is to create an architecture with a set of architectural properties that form a superset of the system requirements.
+
+### 1.5 Styles
+**Architectural Style**: a coordinated set of architectural constraints that restricts the roles/features of architectural elements and the allowed relationships among those elements within any architecture that conforms to that style.
+
+Styles are a mechanism for categorizing architectures and for defining their common characteristics.
+
+Style does not refer to the personalization of the design process.
+
+Since referring to a named set of constraints as a style makes it easier to communicate the characteristics of common constraints, we use architectureal styles as a method of abstraction, rather than as an indicator of personalized design.
+
+### 1.6 Patterns and Pattern Languages
 
