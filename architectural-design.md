@@ -270,3 +270,26 @@ Disadvantages:
 - reliability also suffers, since partial failure can leave the workspace in an unknown state
 
 ### 3.5 Mobile Code Styles
+Mobile code styles use mobility in order to dynamically change the distance between the processing and source of data or destination of results.
+
+#### 3.5.1 Virtual Machine (VM)
+Underlying all of the mobile code styles is the notion of a virtual machine, or interpreter, style.
+
+#### 3.5.2 Remote Evaluation (REV)
+In the remote evaluation style, derived from the client-server and virtual machine styles, a client component has the know-how necessary to perform a service, but lacks the resources (CPU cycles, data source, etc.) required, which happen to be located at a remote site.
+
+The remote evaluation style assumes that the provided code will be executed in a sheltered environment, such that it won't impact other clients of the same server aside from the resources being used.
+
+#### 3.5.3 Code on Demand (COD)
+In the code-on-demand style, a client component has access to a set of resources, but not the know-how on how to process them. It sends a request to a remote server for the code representing that know-how, receives that code, and executes it locally.
+
+The advantages of code-on-demand include the ability to add features to a deployed client, which provides for improved extensibility and configurability, and better user-perceived performance and efficiency when the code can adapt its actions to the client's environment and interact with the user locally rather than through remote interactions.
+
+Scalability of the server is improved, since it can off-load work to the client that would otherwise have consumed its resources.
+
+#### 3.5.5 Mobile Agent (MA)
+In the mobile agent style, an entire computational component is moved to a remote site, along with its state, the code it needs, and possibly some data required to perform the task.
+
+An application can be in the midst of processing information at one location when it decides to move to another location, presumably in order to reduce the distance between it and the next set of data it wishes to process.
+
+### 3.6 Peer-to-Peer Styles
