@@ -225,3 +225,14 @@ LCS is a solution to managing identity in a large scale distributed system, wher
 Instead, servers are organized in layers such that rarely used services are handled by intermediaries rather than directly by each client.
 
 #### 3.4.3 Client-Stateless-Server (CSS)
+Each request from client to server must contain all of the information necessary to understand the request, and cannot take advantage of any stored context on the server. Session state is kept entirely on the client.
+
+Visibility is improved because a monitoring system does not have to look beyond a single request datum in order to determine the full nature of the request.
+
+Reliability is improved because it eases the task of recovering from partial failures.
+
+Scalability is improved because not having to store state between requests allows the server component to quickly free resources and further simplifies implementation.
+
+The disdvantage of client-stateless-server is that it may decrease network performance by increasing the repetitive data (per-interaction overhead) sent in a series of requests, since that data cannot be left on the server in a shared context.
+
+### 3.4.4 Client-Cache-Stateless-Server (C$SS)
