@@ -140,3 +140,54 @@ The primary mechanisms for inducing reusability within architectural styles is r
 
 #### 2.3.5 Visiblity
 Visibility in this case refers to the ability of a component to monitor or mediate the interaction between two other components.
+
+Visibility can enable improved performance via shared caching of interactions, scalability through layered services, reliability through reflective monitoring, and security by allowing the interactions to be inspected by mediators (e.g., network firewalls).
+
+#### 2.3.7 Reliability
+Reliability, within the perspective of application architectures, can be viewed as the degree to which an architecture is susceptible to failure at the system level in the presence of partial failures within components, connectors, or data.
+
+## Chapter 3: Network-based Architectural Styles
+### 3.1 Classification Methodology
+The purpose of building software is not to create a specific topology of interactions or use a particular component type - it is to create a system that meets or exceeds the application needs.
+
+The architectural styles chosen for a system's design must conform to those needs, not the other way around.
+
+#### 3.1.2 Style-induced Architectural Properties
+Since we do not intend to declare any single style as being universally desirable for all types of software, restricting the focus of our evaluation simply reduces the dimensions over which we need to evaluate.
+
+### 3.2 Data-flow Styles
+#### 3.2.1 Pipe and Filter (PF)
+In a pipe and filter style, each component (filter) reads streams of data on its inputs and produces streams of data on its outputs, usually while applying a transformation to the input streams and processing them incrementally so that output begins before the input is completely consumed.
+
+This style is also referred to as a one-way data flow network.
+
+The constraint is that a filter must be completely independent of other filters (zero coupling): it must not share state, control thread, or identity with the other filters on its upstream and downstream interfaces.
+
+#### 3.2.2 Uniform Pipe and Filter (UPF)
+The uniform pipe and filter style adds the constraint that all filters must have the same interface.
+
+The primary example of this style is found in the Unix operating system, where filter processes have an interface consisting of one input data stream of characters (stdin) and two output data streams of characters (stdout and stderr).
+
+### 3.3 Replication Styles
+#### 3.3.1 Replicated Repository (RR)
+Systems based on the replicated repository style improve the accessibility of data and scalability of services by having more than one process provide the same service.
+
+These decentralized servers interact to provide clients the illusion that there is just one, centralized service.
+
+Distributed filesystems, such as XMS, and remote versioning systems, like CVS, are the primary examples.
+
+#### Cache ($)
+Cache is the replication of the result of an individual request such that it may be reused by later requests.
+
+This form of replication is most often found in cases where the potential data set far exceeds the capacity of any one client, as in the WWW, or where complete access to the repository is unnecessary.
+
+Caching provides slightly less improvement than the replicated repository style in terms of user-perceived performance, since more requests will miss the cache and only recently accessed data will be available for disconnected operation.
+
+On the other hand, caching is much easier to implement, doesn't require as much processing and storage, and is more efficient because data is transmitted only when it is requested.
+
+### 3.4 Hierarchical Styles
+#### 3.4.1 Client-Server (CS)
+A server component, offering a set of services, listens for requests upon those services.
+
+
+
