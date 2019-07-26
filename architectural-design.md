@@ -83,3 +83,23 @@ Application software architecture is an abstraction level of an overall system, 
 
 ### 2.2 Evaluating the Design of Application Architectures
 One of the goals of this dissertation is to provide design guidance for the task of selecting or creating the most appropriate architecture for a given application domain, keeping in mind that an architecture is the realization of an architectural design and not the design itself.
+
+### 2.3 Architectural Properties of Key Interest
+#### 2.3.1 Performance
+##### 2.3.1.1 Network Performance
+*Throughput* is the rate at which information, including both application data and communication overhead, is transferred between components.
+
+*Overhead* can be separated into initial setup overhead and per-interaction overhead, a distinction which is useful for identifying connectors that can share setup overhead across multiple interactions (*amortization*).
+
+*Bandwidth* is a measure of the maximum available throughput over a given network link.
+
+*Usable bandwidth* refers to that portion of bandwidth which is actually available to the application.
+
+Styles impact network performance by their influence on the number of interactions per user action and the granularity of data elements.
+
+##### 2.3.1.2 User-perceived Performance
+*Latency* is the time period between initial stimulus and the first indication of a response.
+
+*Completion* is the amount of time taken to complete an application action.
+
+
