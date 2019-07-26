@@ -259,3 +259,14 @@ Disadvantages:
 - reduces visibility of interactions, since a monitor would have to know the complete state of the server
 
 #### 3.4.7 Remote Data Access (RDA)
+The remote data access style is a variant of client-server that spreads the application state across both client and server.
+
+Advantages:
+- a large data set can be iteratively reduced on the server side without transmitting it across the network, improving efficiency
+- visibility is improved by using a standard query language
+
+Disadvantages:
+- the client needs to understand the same database manipulation concepts as the server implementation (lacking simplicity) and storing application context on the server decreases scalability.
+- reliability also suffers, since partial failure can leave the workspace in an unknown state
+
+### 3.5 Mobile Code Styles
