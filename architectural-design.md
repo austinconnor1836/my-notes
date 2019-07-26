@@ -102,4 +102,41 @@ Styles impact network performance by their influence on the number of interactio
 
 *Completion* is the amount of time taken to complete an application action.
 
+#### 2.3.2 Scalability
+Scalability refers to the ability of the architecture to support large numbers of components, or interactions among components, within an active configuration.
 
+#### 2.3.3 Simplicity
+The primary means by which architectural styles induce simplicity is by applying the principle of separation of concerns to the allocation of functionality within components.
+
+#### 2.3.4 Modifiability
+Modifiability is about the ease with which a change can be made to an application architecture.
+
+Modifiability can be further broken down into evolvability, extensibility, customizability, configurability, and reusability.
+
+Because the components participating in a network-based application may be distributed across multiple organizational boundaries, the system must be prepared for gradual and fragmented change, where old and new implementations coexist, without preventing the new implementations from making use of their extended capabilities.
+
+##### 2.3.4.1 Evolvability
+Evolvability represents the degree to which a component implementation can be changed without negatively impacting other components.
+
+##### 2.3.4.2 Extensibility
+Extensibility is defined as the ability to add functionality to a system.
+
+Dynamic extensibility implies that functionality can be added to a deployed system without impacting the rest of the system.
+
+Extensibility is induced within an architectural style by reducing the coupling between components, as exemplified by event-based integration.
+
+##### 2.3.4.3 Customizability
+Customizability refers to the ability to temporarily specialize the behavior of an architectural element, such that it can then perform an unusual service.
+
+A componnent is customizable if it can be extended by one client of that component's services without adversely impacting other clients of that component.
+
+##### 2.3.4.4 Configurability
+Configurability is related to both extensibility and reusability in that it refers to post-deployment modification of components, or configurations of components, such that they are capable of using a new service or data element type.
+
+##### 2.3.4.5 Reusability
+Reusability is a property of an application architecture if its components, connectors, or data elements can be reused, without modification, in other applications.
+
+The primary mechanisms for inducing reusability within architectural styles is reduction of coupling (knowledge of identity) between components and constraining the generality of component interfaces.
+
+#### 2.3.5 Visiblity
+Visibility in this case refers to the ability of a component to monitor or mediate the interaction between two other components.
