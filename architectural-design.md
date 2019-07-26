@@ -189,5 +189,39 @@ On the other hand, caching is much easier to implement, doesn't require as much 
 #### 3.4.1 Client-Server (CS)
 A server component, offering a set of services, listens for requests upon those services.
 
+A client component, desiring that a service be performed, sends a request to the server via a connector.
 
+A server is usually anon-terminating process and often provides service to more than one client.
 
+Separation of concerns is the principle behind the client-server constraints.
+
+A proper separation of functionality should simplify the server component in order to improve scalability.
+
+This simplification usually takes the form of moving all of the user interface functionality into the client component.
+
+The separation also allows the two types of components to evolve independently, provided that the interface doesn't change.
+
+#### 3.4.2 Layered System (LS) and Layered-Client-Server (LCS)
+A layered system is organized hierarchically, each layer providing services to the layer above it and using services of the layer below it. 
+
+Layered systems reduce coupling across multiple layers by hiding the inner layers from all except the adjacent outer layer, thus improving evolvability and reusability.
+
+Examples include the processing of layered communication protocols, such as the TCP/IP and OSI protocol stacks, and hardware interface libraries.
+
+Disadvantages: add overhead and latency to the processing of data, reducing user-perceived performance.
+
+Layered-client-server adds proxy and gateway components to the client-server style.
+
+A proxy acts as a shared server for one or more client components, taking requests and forwarding them, with possible translation, to server components.
+
+A gateway component appears to be a normal server to clients or proxies that request its services, but is in face forwarding those requests, with possible translation, to its "inner-layer" servers.
+
+These additional mediator components can be added in multiple layers to add features like load balancing and security checking to the system.
+
+Architectures based on layered-client-server are referred to as two-tiered, three-tiered, or multi-tiered architectures in the information systems literature.
+
+LCS is a solution to managing identity in a large scale distributed system, where complete knowledge of all servers would be prohibitively expensive.
+
+Instead, servers are organized in layers such that rarely used services are handled by intermediaries rather than directly by each client.
+
+#### 3.4.3 Client-Stateless-Server (CSS)
