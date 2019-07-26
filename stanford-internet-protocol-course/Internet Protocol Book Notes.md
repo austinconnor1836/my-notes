@@ -130,3 +130,21 @@ By creating its own network, a content provider not only reduces its payments to
 
 Google's network infrastructure is described in greater detail in Section 7.2.4.
 
+## Chapter 2: The Application Layer
+### 2.1.1: Network Application Architectures
+The two predominant architectural paradigms used in modern network applications are the client-server architecture or the peer-to-peer (P2P) architecture.
+
+In the Web application, two browsers do not communicate directly with one another.
+
+Since a server is always on and has a fixed, well-known IP address, it is easy to connect.
+
+In a P2P architecture, the application exploits direct communication between pairs of intermittently connected hosts, called *peers*.
+
+Many instant messaging applications, servers are used to track the IP addresses of users, but user-to-user messages are sent directly between user hosts (without passing through intermediate servers).
+
+Challenges facing future P2P applications:
+1. Most residential ISPs have "asymmetrical" bandwidth usage, that is, for much more downstream than upstream traffic. But P2P video streaming and file distribution applications shift upstream traffic from servers to residential ISPs, thereby putting significant stress on the ISPs. Future P2P applications need to be designed so that they are friendly to ISPs.
+2. *Security*. Because of their highly distributed and open nature, P2P applications can be a challenge to secure.
+3. *Incentives*. The success of future P2P applications also depends on convincing users to volunteer bandwidth, storage, and computation resources to the applications, which is the challenge of incentive design.
+
+#### 2.1.2 Processes Communicating
