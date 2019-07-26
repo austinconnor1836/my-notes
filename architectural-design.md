@@ -235,4 +235,27 @@ Scalability is improved because not having to store state between requests allow
 
 The disdvantage of client-stateless-server is that it may decrease network performance by increasing the repetitive data (per-interaction overhead) sent in a series of requests, since that data cannot be left on the server in a shared context.
 
-### 3.4.4 Client-Cache-Stateless-Server (C$SS)
+#### 3.4.4 Client-Cache-Stateless-Server (C$SS)
+A cache acts as a mediator between client and server in which the responses to prior requests can, if they are considered cacheable, be reused in response to later requests that equivalent and likely to result in a response identical to that in the cache if the request were to be forwarded to the server.
+
+#### 3.4.5 Layered-Client-Cache-Stateless-Server (LC$SS)
+This style derives from both the layered-client-server and client-cache-stateless-server through the addition and/or gateway components.
+
+An example system that uses an LC$SS style is the Internet domain name system (DNS).
+
+#### 3.4.6 Remote Session (RS)
+The remote session style is a variant of client-server that attempts to minimize the complexity, or maximize the reuse, of the client components rather than the server component.
+
+Application state is kept entirely on the server.
+
+This style is typically used when it is desired to access a remote service using a generic client (e.g., TELNET) or via an interface that mimics a generic client (e.g., FTP).
+
+Advantages:
+- easier to centrally maintain the interface at the server
+- improves efficiency if the interactions make use of extended session context on the server
+
+Disadvantages:
+- reduces scalability of the server, due to the stored application state
+- reduces visibility of interactions, since a monitor would have to know the complete state of the server
+
+#### 3.4.7 Remote Data Access (RDA)
