@@ -134,4 +134,71 @@ Pull out the varying `fly()` and `quack()` methods into there own subclasses.
    }
    ```
 
+3. **Type and compile the test class:**
+
+   ```java
+   public class MiniDuckSimulator {
+       public static void main(String[] args) {
+           Duck mallard = new MallardDuck();
+           mallard.performQuack();
+           mallard.performFly();
+       }
+   }
+   ```
+
    
+
+### Setting behavior dynamically
+
+We can `setFlyBehavior` inside the Duck class using a setter method:
+
+```java
+public void setFlyBehavior(FlyBehavior fb) {
+    flyBehavior = fb;
+}
+```
+
+In test class `MiniDuckSimulator` add:
+
+```java
+Duck model = new ModelDuck();
+
+model.performFly();
+
+// the model now has rocket-powered flying capability
+model.setFlyBehavior(new FlyRocketPowered());
+
+model.performFly();
+```
+
+**To change a duck's behavior at runtime, just call the duck's setter method for that behavior.**
+
+
+
+### The Big Picture on encapsulated behaviors
+
+Zoom out and look at the big picture:
+
+![big picture of Duck class](./big-picture-duck-class.png)
+
+We've started to describe things a little differently. Instead of thinking of the duck behaviors as a *set of behaviors*, we'll start thinking of them as a *family of algorithms*.
+
+
+
+### HAS-A can be better than IS-A
+
+**Composition**: putting two classes together like this:
+
+- Each duck has a `FlyBehavior` and a `QuackBehavior` to which it delegates flying and quacking.
+
+Instead of *inheriting* their behavior, the ducks get their behavior by being *composed* with the right behavior object.
+
+**Design Principle 3**: Favor composition over inheritance.
+
+Composition lets you **_change behavior at runtime_** as long as the object you're composing with implements the correct behavior interface.
+
+**Composition is used in many design patterns**.
+
+This is the **STRATEGY** pattern.
+
+*pg. 26*
