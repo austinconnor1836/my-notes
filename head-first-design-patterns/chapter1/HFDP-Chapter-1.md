@@ -20,7 +20,7 @@ Pull out the varying `fly()` and `quack()` methods into there own subclasses.
 
 **Questions**:
 
-- **Aren't classes supposed to represent *things*? *Aren't classes supposed to have both state AND behavior?**
+- **Aren't classes supposed to represent *things*? Aren't classes supposed to have both state AND behavior?**
   - Answer: **In an OO system, yes, classes represent things that generally have both state (instance variables) and methods. And in this case, the *thing* happens to be a behavior. But even a behavior can still have state and methods; a flying behavior might have instance variables representing the attributes for the flying (wing beats per minute, max altitude and speed, etc.) behavior**.
 
 
@@ -201,4 +201,25 @@ Composition lets you **_change behavior at runtime_** as long as the object you'
 
 This is the **STRATEGY** pattern.
 
-*pg. 26*
+Design Patterns give you a shared vocabulary with other developers.
+
+
+
+### Chapter 1 Summary
+
+**OO Basics**:
+
+- Abstraction
+- Encapsulation
+- Polymorphism
+- Inheritance
+
+**OO Principles**:
+
+- Encapsulate what varies.
+- Favor composition over inheritance.
+- Program to interfaces, not implementations.
+
+**OO Patterns**:
+
+- **Strategy**: defines a family of algorithms, encapsulates each one, and makes them interchangeable. Strategy lets the algorithm vary independently from clients that use it.
