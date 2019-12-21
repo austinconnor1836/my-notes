@@ -304,3 +304,56 @@ Second breakpoint:
 }
 ```
 
+
+
+### Off-Canvas
+
+**Off-Canvas**:
+
+- instead of stacking content vertically, content is off-screen
+- only shows if the screen is large enough
+- on small devices, typically when the user presses the hamburger icon.
+
+```html
+<nav id="drawer" class="dark_blue"></nav>
+<main class="light_blue"></main>
+```
+
+In order to get the elements to take up the full viewport width:
+
+```css
+html, body, main {
+    height: 100%;
+    width: 100%;
+}
+
+nav {
+    width: 300px; // small enough to not flow off-screen
+    height: 100%;
+    position: absolute;
+    transform: translate(-300px, 0);
+    transition: transform 0.3s ease;
+}
+
+nav.open {
+    transform: translate(0, 0); // reset the transform
+}
+
+@media screen and (min-width: 600px) {
+    nav {
+        position: relative;
+        transform: translate(0, 0);
+    }
+    
+    body {
+        display: flex;
+        flex-flow: row nowrap;
+    }
+    
+    main {
+        width: auto;
+        flex-grow: 1;
+    }
+}
+```
+
