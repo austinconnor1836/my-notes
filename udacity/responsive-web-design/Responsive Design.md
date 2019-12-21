@@ -123,7 +123,7 @@ Most patterns used by responsive web pages can be categorized into 4 groups:
 
 
 **Column Drop**:
-![image-20191219094706572](C:\Users\au3643\AppData\Roaming\Typora\typora-user-images\image-20191219094706572.png)
+![column drop](/home/austin/repos/my-notes/udacity/responsive-web-design/images/column-drop.png)
 
 - go from multiple rows to smaller number of rows after hitting each breakpoint
 
@@ -186,7 +186,7 @@ Most patterns used by responsive web pages can be categorized into 4 groups:
 
 - similar to Column Drop, more grid-like though
 
-![image-20191219105304837](C:\Users\au3643\AppData\Roaming\Typora\typora-user-images\image-20191219105304837.png)
+![mostly fluid](/home/austin/repos/my-notes/udacity/responsive-web-design/images/mostly-fluid.png)
 
 - margins are added on the left and right instead of expanding out
 
@@ -245,7 +245,7 @@ At third breakpoint at `700px`:
 
 - probably the most responsive pattern
 
-![image-20191219110814662](C:\Users\au3643\AppData\Roaming\Typora\typora-user-images\image-20191219110814662.png)
+![layout shifter](/home/austin/repos/my-notes/udacity/responsive-web-design/images/layout-shifter.png)
 
 ```html
 <div class="container">
