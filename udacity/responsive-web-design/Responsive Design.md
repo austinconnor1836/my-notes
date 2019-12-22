@@ -357,3 +357,32 @@ nav.open {
 }
 ```
 
+
+
+### Lesson 5
+
+#### Images
+
+HTTP archive:
+
+- Images take up 65% 
+- 1.2 MB per page
+
+
+
+#### Tables
+
+3 Techniques for handling tables:
+
+- Hidden Columns
+- No more tables
+- Contained tables
+
+
+
+##### Hidden Columns
+
+The **Hidden Columns** solution displays and hides columns based on their importance.
+
+The **No More Tables** solution displays the table as a long list on small viewports.
+
