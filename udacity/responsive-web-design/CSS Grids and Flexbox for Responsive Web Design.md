@@ -56,3 +56,37 @@ Space between columns:
 
 Implicit Grid: when some grid values are provided but not complete, CSS grid implicitly helps by filling in
 
+
+
+#### Chapter 11: CSS Grid Grid
+
+```css
+.wrapper {
+    grid-gap: 2%;
+    grid-template-rows: repeat(4, 1fr); /* 4 columns, 1 fraction */
+    grid-template-columns: ;
+}
+```
+
+`repeat(4, 1fr)`: after applying a `grid-gap: 2%`, whatever is left over, divide into 4 equal fractions.
+
+#### Grid Properties Review
+
+You can name your columns in `grid-template-columns/rows`:
+
+- ```css
+  grid-template-columns: [col1] 40px [col2] 3fr;
+  grid-template-rows: 350px [name] 350px [name] 10%;
+  ```
+
+- `grid-gap`:
+
+  - shorthand for `grid-column-gap` and `grid-row-gap`
+
+- `grid-column: 1/3;` is also written as:
+
+  - ```css
+    grid-column-start: 1;
+    grid-column-end: 3;
+    ```
+
