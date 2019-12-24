@@ -120,3 +120,44 @@ Walter Burkert (1931 - 2015)
 
 #### Week 1 Lecture 5: The Trojan War & The World of Homer
 
+- Rome (1<sup>st</sup> BCE)
+- Athens (5<sup>th</sup> BCE)
+- Homer (8<sup>th</sup> BCE)
+- Trojan War (13<sup>th</sup> BCE)
+
+Heinrich Schliemann (1822 - 1890)
+
+- found that there was indeed a great city at the location of Troy (somewhere in Troy)
+- found evidence of cataclysmic events
+- because of Schliemann, we believe the Trojan War actually happened
+- Homer's version of the Trojan War may or may not correspond to the Trojan War that took place
+
+Diving into Homer's world
+
+- a dark world
+- built on the coursing energy of war
+- things are sometimes dealt with abruptly
+- Homer looks at a real human experience, it is above an anti-war or war epic
+- Illiad:
+  - Achilles, Agamemnon, Ajax, Diomedes, Hector, Paris, Priam
+  - A story of rage, particularly Greek Achilles against also Greek Agamemnon
+    - inter-Greek rage
+  - Agamemnon, older general, and Achilles, young and his greatest warrior, get into argument where Agamemnon insults Achilles in front of his friends
+  - Achilles hates Agamemnon and wants those who fight for him to fail
+  - death on every page, a piece of beautiful epic poetry
+  - Homer's poem focuses on a very brief period of time
+  - the backstory (or prequels) before Homer:
+    - how did the Trojan War start? A legend that pre-dates Homer
+      - Paris is a little of an embarrassment
+        - better a master of love rather than warfare
+      - Paris seduces Menelaus' (General Agamemnon's brother) wife, Helen (the face that launched a thousand ships)
+      - about 100,000 soldiers in the Greek army that Agamemnon commands
+      - Peleus and Thetis' wedding where Paris grants Aphrodite as most fairest (from the apple with "to the fairest.." inscribed on it) over Hera, and Athena, and asks for Aphrodite to grant his prize of Helen of Troy. Thus, this starts the Trojan War.
+
+Priam and Achilles
+
+- Achilles never really reconciles himself Agamemnon
+- He does reconcile with the King of Troy, the greatest of the Trojans, Priam, when Priam ransoms for his son's body
+  - Priam kisses the hands of his son's killer and begs for mercy from Achilles
+  - Achilles grants this request and thus ends the Trojan War
+- 
