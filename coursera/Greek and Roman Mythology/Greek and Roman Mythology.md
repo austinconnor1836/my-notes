@@ -160,4 +160,14 @@ Priam and Achilles
 - He does reconcile with the King of Troy, the greatest of the Trojans, Priam, when Priam ransoms for his son's body
   - Priam kisses the hands of his son's killer and begs for mercy from Achilles
   - Achilles grants this request and thus ends the Trojan War
+
+
+
+#### Week 1 Lecture 6: Trojan War Aftermath and The Homer Question
+
+- The war was awful
+- The Greeks do not leave looking good
+  - bad leadership
+  - nasty motives
+- "Nostoi": journeys home
 - 
