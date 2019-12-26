@@ -169,5 +169,51 @@ Priam and Achilles
 - The Greeks do not leave looking good
   - bad leadership
   - nasty motives
-- "Nostoi": journeys home
-- 
+- "Nostos": journeys home
+- Homer (750 BCE)
+  - corporate set of ideas form the Odyssey from traveling bards (taken a backseat in academia)
+- It is likely that the Odyssey and Iliad were written by single poets
+- Cretan Linear Script
+- Homer survives because of the Greek Alphabet
+  - arose around the time of Homer
+  - it is so useful that it spreads like wild fire around the Mediterranean
+- Dactylic Hexameter
+  - like combining accents from Boston, Philadelphia with the accents of the American South
+  - Spondee: - - (two longs)
+  - basic element of Homeric epic poetry is Dactyl: - u u (a long and two shorts)
+    - string 6 of these together you get a Homeric line
+    - string 15,000 of them together you get the Iliad
+    - string 12,000 of them together you have the Odyssey
+
+### Week 1 Lecture 7: On Reading Homer
+
+- the first word is Man, which is the central theme of the poem
+  - what it is to be a male human being
+- "Muse": an inspirational helper (who Homer wants "to sing" to him about a man of "twists and turns")
+- "twists and turns" means:
+  - resourceful
+  - can get out of situations
+  - a little slippery, or a trickster
+- Odysseus is defined as a hero by his cleverness, he is also a wise guy
+  - he is crafty
+  - represents the wisdom of man
+- Odysseus has a past "dislocated"
+  - his past "once when he pillaged Troy"
+- When he is dislocated, he learns from people
+  - he is constantly curious of ways of looking at the world. This is what gives him power.
+  - he does not fear the many ways of looking at the world and learns from them all.
+- He is a man of suffering "many pains he suffered, heartsick on the open sea".
+  - a very intimate relationship with pain, suffering, and endurance.
+    - he does not feel sorry for himself, but fights back to save his life and his comrades home
+- "but he could not save them from disaster, hard as he strove"
+  - his men are not up to the same challenges that Odysseus is presented with
+- "The recklessness of their own ways destroyed them all."
+  - going into situations without thinking things through. They pay a terrible price and are all destroyed. Odysseus is the lone survivor.
+- The whole epic is placed in the first ten lines.
+- "The blind fools, they devoured the cattle of the sun. And the SunGod wiped their homecoming from sight."
+- "Launch out on his story, daughter of Zeus, start from where you will."
+  - Begin from where you wish to begin, Muse.
+- We jump into the action using flashbacks and recollections. The Muse launches us into the middle of the story.
+  - the Muse is not just a daughter, but a daughter of Zeus.
+- "Sing for our time and for us."
+- Give yourself time to enjoy the myth, the journey.
