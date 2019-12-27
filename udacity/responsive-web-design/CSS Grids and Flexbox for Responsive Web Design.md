@@ -161,3 +161,21 @@ In class example:
 
 #### Grid Fallbacks
 
+https://rachelandrew.co.uk/css/cheatsheets/grid-fallbacks
+
+If something is originally declared as a `float` item, and later it is declared as a `grid` item, it no longer is a `float`.
+
+`grid` overrides other `display` declared properties.
+
+```css
+@supports (display: grid) {
+    .grid > div {
+        width: auto;
+    }
+}
+```
+
+- checks if browser supports `grid`
+- put most modern/forward thinking code inside the `@supports` block and the old code outside of it.
+- <u>This site has a lot of useful snippets to make your site more cross-browser oriented</u>
+
