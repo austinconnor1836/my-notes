@@ -92,3 +92,72 @@ You can name your columns in `grid-template-columns/rows`:
 
 #### Introducing Grid Area
 
+For an empty column:
+
+```css
+.wrapper {
+    grid-template-areas:
+    "sidebar ... header header"
+    "sidebar ... article article";
+}
+```
+
+- can be just one dot (`.`, I used three dots for my own preference)
+
+#### Nesting CSS Grids
+
+There is no reason to use **flexbox-grid** if we are using **CSS-grid**. Just use **CSS-grid**.
+
+Remember there is a parent-child relationship in CSS-grid:
+
+- the `container` is the parent
+- direct descendants are `grid-items`
+
+In class example:
+
+```css
+.nested {
+    display: grid;
+    grid-gap: 1em;
+    grid-template-columns: auto;
+}
+
+@media (min-width: 650px) {
+    ...
+    
+    .nested {
+        grid-template-columns: repeat(3, 1fr);
+    }
+}
+```
+
+#### Exercise: Nested CSS Grids
+
+![nested css grids](C:\Users\au3643\repos\my-notes\frontendmasters\CSS Grids and Flexbox for Responsive Web Design\images\nested-grid-exercise.png)
+
+```css
+.nested {
+    display: grid;
+    grid-gap: 1em;
+    grid-template-columns: auto;
+}
+
+@media (min-width: 650px) {
+    ...
+    
+    .nested {
+		grid-template-columns: repeat(3, 1fr);
+		grid-template-areas: 
+		"aside1 ... aside3";
+	}
+	.nested aside:first-child {
+		grid-area: aside1;
+	}
+	.nested aside:last-child {
+		grid-area: aside3;
+	}
+}
+```
+
+#### Grid Fallbacks
+
