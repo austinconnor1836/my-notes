@@ -3,12 +3,19 @@
 ### Floats
 
 - originally intended to float an image in a certain direction (left or right)
+- Why floats?
+  - You have to understand the industry standard.
+  - You have to understand floats to understand Flexbox.
 - A hack from the start, right after table-based layout!
 - **Features rows and cells**
 - Rows clear the floats on the cells
   - **"If you float, you must clear"**
 - Floats appear according to the ordering in the HTML
 - **Major disadvantage: equal column heights**
+- **<u>Two components for a float-based layout:</u>**
+  - the row
+  - the individual cells
+    - contains a width, a float, and often a margin
 
 
 
@@ -51,4 +58,14 @@
   }
   ```
 
+### CSS Floats Exercise
+
+- Create a 4-column floated grid with given starting files
+- Include 2 breakpoints (your choice for where) and 3 layouts ("desktop", "tablet", "phone")
+- IF YOU HAVE EXTRA TIME:
+  - Consider how to equalize the columns so they wrap without breaking
+  - Consider reordering of Row 3 at tablet and phone sizes
+
+- to get the total width, you have to add up **the margin, the padding, the border, and the content in the middle**
+- `*` selector: selects everything
 - 
