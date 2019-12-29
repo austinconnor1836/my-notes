@@ -99,3 +99,5 @@ Helen:
 - erotic power
 - magic (narcotic mixture in beverage)
 
+## 2.4: Odysseus on Ogygia
+
