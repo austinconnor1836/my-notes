@@ -41,6 +41,12 @@
     margin-left: 4%;
     width: 20%;
 }
+[class*='col-'] {
+    width: 92%; /* This is used since there is 4% margin on left and right */
+    margin-left: 4%;
+    margin-right: 4%;
+    min-height: 1px;
+}
 ```
 
 - There can be layout problems with floats. This can be resolved with JavaScript, with a column equalizer script.
@@ -68,4 +74,42 @@
 
 - to get the total width, you have to add up **the margin, the padding, the border, and the content in the middle**
 - `*` selector: selects everything
-- 
+
+```css
+
+/* Mobile Landscape Screen Sizes */
+@media only screen and (min-width: 480px) {
+    [class*='col-'] {
+        margin-right: 0;
+        min-height: 1px;
+        float: left;
+    }
+    .col-1-2,
+    .col-2 {
+        width: 44%;
+    }
+    .col-1-4,
+    .col-3,
+    .col-4 {
+        width: 92%;
+    }
+}
+
+/* Desktop screen sizes */
+@media only screen and (min-width: 768px) {
+    .col-1-2,
+    .col-1-4 {
+        width: 20%;
+    }
+    .col-2 {
+        width: 44%;
+    }
+    .col-3 {
+        width: 68%;
+    }
+    .col-4 {
+        width: 92%;
+    }
+}
+```
+
