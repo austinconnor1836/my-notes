@@ -42,3 +42,27 @@
 
 ## Part Three: How to Win People to Your Way of Thinking
 
+### 1. You Can't Win an Argument
+
+- "Frank, you knew that quotation was from Shakespeare." "Yes, of course," he replied, "*Hamlet*, Act Five, Scene Two. But we were guests at a festive occasion, my dear Dale. Why prove to a man he is wrong? Is that going to make him like you? Why not let him save his face? He didn't ask for your opinion. He didn't want it. Why argue with him? Always avoid the acute angle."
+- There is only one way under high heaven to get the best of an argument - and that is to avoid it. **Avoid it as you would avoid rattlesnakes and earthquakes.**
+- **You can't win an argument. You can't because if you lose it, you lose it; and if you win it, you lose it.**
+- "A man convinced against his will Is of the same opinion still."
+- "He is speechless then. There is no room for an argument. If he says the Whose-It is best and I say sure it is, he has to stop. He can't keep on all afternoon saying, 'It's the best' when I'm agreeing with him. We then get off the subject of Whose-It and I begin to talk about the good points of the White Truck."
+- **As Ben Franklin use to say: "If you argue and rankle and contradict, you may achieve a victory sometimes; but it will be an empty victory because you will never get your opponent's good will."**
+- So figure it out for yourself. Which would you rather have, an academic, theatrical victory or a person's good will? You can seldom have both.
+- The tax inspector was demonstrating one of the most common of human frailties. He wanted a feeling of importance; and as long as Mr. Parsons argued with him, he got his feeling of importance by loudly asserting his authority. But as soon as his importance was admitted and the argument stopped and he was permitted to expand his ego, he became a sympathetic and kindly human being.
+- Buddha said, "Hatred is never ended by hatred but by love," and a misunderstanding is never ended by an argument but by tact, diplomacy, conciliation and a sympathetic desire to see the other person's viewpoint.
+- In an article in *Bits and Pieces,* some suggestions are made on how to keep a disagreement from becoming an argument:
+  - *Control your temper*. Remember, you can measure the size of a person by what makes him or her angry.
+  - *Look for areas of agreement*. When you have heard your opponents out, dwell first on the points and areas on which you agree.
+  - *Be honest*. Look for areas where you can admit error and say so. Apologize for your mistakes. It will help disarm your opponents and reduce defensiveness.
+  - *Promise to think over your opponents' ideas and study them carefully*. And mean it.
+  - *Thank your opponents sincerely for their interest.* Anyone who takes the time to disagree with you is interested in the same things you are.
+  - *Postpone action to give both sides time to think through the problem.*
+  - Opera tenor Jan Peerce, after he was married nearly fifty years, once said: "My wife and I made a pact a long time ago, and we've kept it no matter how angry we've grown with each other. When one yells, the other should listen - because when two people yell, there is no communication, just noise and bad vibrations."
+
+**<u>Principle 1</u>**: **The only way to get the best of an argument is to avoid it.**
+
+### 2. A Sure Way of making Enemies - and How to Avoid It
+
