@@ -66,3 +66,20 @@
 
 ### 2. A Sure Way of making Enemies - and How to Avoid It
 
+- Galileo said, "You cannot teach a man anything; you can only help him to find it within himself."
+- You will never get into trouble by admitting that you may be wrong. That will stop all argument and inspire your opponent to be just as fair and open and broad-minded as you are.
+- "I am convinced now that nothing good is accomplished and a lot of damage can be done if you tell a person straight out that he or she is wrong. You only succeed in stripping that person of self-dignity and making yourself an unwelcome part of any discussion."
+- Dr. Martin Luther King Jr., "I judge people by their own principles - not by my own."
+- Two thousand years ago, Jesus said: "Agree with thine adversary quickly."
+
+**<u>Principle 2</u>**: **Show respect for the other person's opinions. Never say, "You're wrong."
+
+### 3. If You're Wrong, Admit It
+
+- That policeman, being human, wanted a feeling of importance; so when I began to condemn myself, the only way he could nourish his self-esteem was to take the magnanimous attitude of showing mercy.
+- Remember the old proverb, "By fighting you never get enough, but by yielding you get more than you expected."
+
+**<u>Principle 3</u>: If you are wrong, admit it quickly and emphatically.**
+
+### 4. A Drop of Honey
+
