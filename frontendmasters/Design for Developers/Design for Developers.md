@@ -323,5 +323,83 @@ Anchoring: anchor a color palette to one color
 
 
 
+## Typography
 
+### Typography Basics
+
+- People are super into typography
+- Typography is very important to help us understand things.
+- **sans**: no curly edges
+- **serif**: with curly edges
+- Types of fonts:
+  - Serif
+  - Sans-Serif
+  - Script
+  - Handwritten
+  - Display
+    - works really well as a header (h1...)
+    - does not work well at smaller font sizes
+  - Novelty
+
+### Typography Resources
+
+- Google Fonts
+  - not spendy, easy setup
+- Font Squirrel
+  - Not spendy, fairly easy setup
+  - Has a webfont generator (Sarah really likes this)
+- Fonts.com
+  - Can be moderately spendy
+  - Slightly more difficult setup
+  - Has a tool called whatthefont that uses machine learning to detect an unknown font (Sarah really likes this)
+- Hoefler & Co.
+  - Sarah says it is so great
+  - Very spendy, don't go to this website unless you are ready to spend money.
+  - Totally worth it though
+
+### Pairing Fonts
+
+- One display, one sans-serif
+- One serif, one sans-serif
+- Finding things that are a little opposite from another
+- No more than 3!
+  - It makes your design look like a ransom note
+  - can be really costly performance-wise
+  - Try for 2 (unless you are using accents somewhere)
+- Google has a nice tool to help with font pairing
+- "Lato" is really good for body text (it is kind of boring)
+  - you don't want too much going on in a body text
+- "Oswald" is good for bigger things like titles
+- Beware of pairing fonts that are too similar, like "Lato" and "Open Sans"
+  - Your eyes know they are a little different so it ends up feeling not cohesive
+- Font Joy
+  - uses machine learning to pair fonts
+
+### Typography for Lawyers
+
+- An old book for typographic rules
+- Because of readers' short attention span, *line length* is an important concept discussed in the book
+  - our eyes get fatigued from following long lines of text, you have to spend some energy trying to find your place on the page
+  - constraining you line length to 45-90 characters, or 2-3 alphabets
+  - this is why we use columns to avoid this
+
+### Typographic Color
+
+- the rhythm and cadence of typography
+- it really matters for things like body text
+- you need something that is more even toned
+- to check, squint your eyes and see if the text has an even-tone
+- Fluid Typography, by Mike Riethmuller
+  - he created a formula for fluid typography
+  - allows you to take text that works on desktop well and fluidly applies it to smaller screens
+- **Text Lockup**:
+  - https://css-tricks.com/snippets/svg/text-lock-up
+  - you can use different pieces of an SVG and have it scale while remaining locked
+
+### Terminology
+
+- **Proportional** and **Monospaced**
+  - Proportional: size of text is proportional to its character
+  - Monospaced: same size for each character regardless of character size
+- 
 
