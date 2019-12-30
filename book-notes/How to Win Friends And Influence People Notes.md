@@ -102,3 +102,43 @@
 
 ### 5. The Secret of Socrates
 
+In talking with people, don't begin by discussing the things on which you differ.
+
+Begin by emphasizing - and keep on emphasizing - the things on which you agree.
+
+Keep emphasizing, if possible, that you are both striving for the same end and that your only difference is one of method and not of purpose.
+
+If a person starts with "No," it is very difficult to get them from sticking to it. **It is of the very greatest importance that a person be started in the affirmative direction.**
+
+The more "Yeses" we can, at the very outset, induce, the more likely we are to succeed in capturing the attention for our ultimate proposal.
+
+"It took me years and cost me countless thousands of dollars in lost business before I finally learned that it doesn't pay to argue, that it is much more profitable and much more interesting to look at things from the other person's viewpoint and try to get that person saying 'yes, yes.'"
+
+Socrates, twenty-four centuries after his death, he is honored as one of the wisest persuaders who ever influenced this wrangling world.
+
+Socrates did not tell people they were wrong. His whole technique, now called the "Socratic method," was based upon getting a "yes, yes" response. He asked questions with which his opponent would have to agree.
+
+The next time we are tempted to tell someone he or she is wrong, let's remember old Socrates and ask a gentle question - a question that will get the "yes, yes" response.
+
+Ancient Chinese proverb: "He who treads softly goes far."
+
+**<u>Principle 5</u>: Get the other person saying "yes, yes" immediately.**
+
+### 6. The Safety Valve in Handling Complaints
+
+Most people trying to win others to their way of thinking do too much talking themselves. Let the other people talk themselves out.
+
+Listen patiently and with an open mind. Be sincere about it. Encourage them to express their ideas fully.
+
+Even our friends would much rather talk to us about their achievements than listen to us boast about ours.
+
+La Rochefoucauld, the French philosopher, said: "If you want enemies, excel your friends; but if you want friends, let your friends excel you."
+
+- this is because when our friends excel past us, they feel important; but when we excel them, they - or at least some of them - will feel inferior and envious.
+
+**When I am with my friends, ask them to share their joys with me. Only mention my achievements when they ask.**
+
+**<u>Principle 6</u>: Let the other person do a great deal of the talking.**
+
+### 7. How to Get Cooperation
+
