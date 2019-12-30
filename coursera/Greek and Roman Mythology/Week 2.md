@@ -99,5 +99,13 @@ Helen:
 - erotic power
 - magic (narcotic mixture in beverage)
 
+Travelling was how Telemachus gained knowledge.
+
+King Menelaus is also angry at what is happening in Telemachus' household. He is helping school Telemachus on how to feel in these circumstances.
+
+Older elder figures, like Zeus, mention Orestes since he did not feel helpless and killed his father's murderer.
+
+To Homer, Orestes had the gumption to do what needed to be done, that is killing his father's murderer, which is in line with the ethics of Greece.
+
 ## 2.4: Odysseus on Ogygia
 
