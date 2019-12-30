@@ -83,3 +83,5 @@
 
 ### 4. A Drop of Honey
 
+- "If you come at me with your fists doubled," said Woodrow Wilson, "I think I can promise you that mine will double as fast as yours; but if you come to me and say, 'Let us sit down and take counsel together, and, if we differ from each other, understand why it is that we differ, just what the points at issue are,' we will presently find that we are not so far apart after all, that the points on which we differ are few and the points on which we agree are many, and that if we only have the patience and the candor and the desire to get together, we will get together."
+- 
