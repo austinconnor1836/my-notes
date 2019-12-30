@@ -124,3 +124,159 @@ https://webanimationworkshops.com
 
 ### Grid By Example Demo
 
+
+
+## Color Theory
+
+### Color Modes
+
+Red, Yellow, and Blue are actually NOT primary colors. It depends on **color mixing**.
+
+Two types of color mixing: <u>subtractive</u> and <u>additive</u>.
+
+**Additive**: Red, Green, Blue
+
+**Subtractive**: Magenta, Cyan, Yellow
+
+![color modes](C:\Users\au3643\repos\my-notes\frontendmasters\Design for Developers\images\color-modes.png)
+
+- **K**: black
+
+### Color Mixing
+
+**A color is only a color in relation to another color.**
+
+**Contrast** is an important piece of this.
+
+- check the contrast for accessibility
+- **Contrast-A** program helps with this
+
+#### Types of Combinations
+
+- **Monochromatic**: one color
+- **Analogous**: colors that are near each other on the color wheel
+- **Split**
+- **Triad**
+- **Complementary**
+- **Tetriadic**
+
+https://color.adobe.com
+
+It is important to have accents within your color palette so you can draw people's attention to things.
+
+https://smashingmagazine.com/2010/02/color-theory-for-designer-part-3-creating-your-own-color-palettes/
+
+### Color Modes and Properties
+
+**Monotone**: one single tone you are making for the entire image
+
+**Duotone**: (Spotify ads)
+
+In real life, if light is shined on a something, its shadow is the opposite color.
+
+Things far away from you are going to have low contrast and are more blurry. Things closer to you have high contrast and sharper in resolution.
+
+### Color in Code
+
+#### RGB and RGBA
+
+`x` is a number from 0-255
+
+`y` is a number from 0.0 to 1.0 (*alpha* or *opacity*)
+
+`rgb(x, x, x);` or `rgba(x, x, x, y);`
+
+Example: `rgba(150, 150, 150, 0.5);`
+
+- Sarah said `rgb` is not her favorite
+
+#### Hex
+
+The values use ranges from 0-9 and A-F.
+
+0 being the lowest value and F being the highest or `#00000` being black and `#FFFFFF` being white.
+
+- Most common, least human-readable
+
+![hex color](C:\Users\au3643\repos\my-notes\frontendmasters\Design for Developers\images\hex-color.png)
+
+#### HSL(A)
+
+- Sarah's favorite
+- It is human readable
+- **HSLA**:
+  - **H**ue
+  - **S**aturation
+  - **L**ightness
+- Great for if you need to reduce the saturation of a color, etc.
+- `x` is a number from 0 - 360
+- `y` is a percentage from 0% to 100%
+- `z` is a number from 0.0 to 1.0
+- `hsl(x, y, y);` or `hsla(x, y, y, z);`
+- Example: `hsla(150, 50%, 50%, 0.5);`
+
+![hsla](C:\Users\au3643\repos\my-notes\frontendmasters\Design for Developers\images\hsla.png)
+
+There is a new color format that will be coming out in a few years that is much more sophisticated (think CSS Grid for Color formatting):
+
+- Chris Lilly gave a talk on it in Singapore (he created SVG)
+
+#### Named colors
+
+- It is useful for giving demos, and that is pretty much it
+
+### Color Variables
+
+- Why use them? **They can keep things consistent across the project.**
+- Highly recommended as it saves a ton of time when you need to update the colors of a site.
+
+Native CSS Variables
+
+```css
+:root {
+    --brandColor: red;
+}
+body {
+    background: var(--brandColor);
+}
+```
+
+Sass/SCSS
+
+```scss
+$brandColor: red;
+
+body {
+    background: $brandColor;
+}
+```
+
+- you can do color mixing directly in Sass
+
+Sass/SCSS
+
+```scss
+mix($color1, $color2, [$weight])
+adjust-hue($color, $degrees)
+lighten($color, $amount)
+darken($color, $amount)
+saturate($color, $amount)
+```
+
+- for if you want to work with color programmatically
+
+### Limited Color
+
+- when you are first starting out, Sarah says you should limit your color palettes as much as possible as it will keep it consistent and cohesive and you can add more detail as you go
+
+![limited color](C:\Users\au3643\repos\my-notes\frontendmasters\Design for Developers\images\limited-color.png)
+
+- Justin Mezzell
+
+- Example of limited color: uixNinja
+
+### Color Tools
+
+- Dribbble
+  - Steal Palettes
+
