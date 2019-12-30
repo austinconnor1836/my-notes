@@ -279,4 +279,49 @@ saturate($color, $amount)
 
 - Dribbble
   - Steal Palettes
+  - Search by color
+    - for a lot of us, we do not get to choose our brand color.
+- Coolors, https://coolors.co
+  - Sarah uses this for side projects (usually since projects already have base colors)
+  - generates color palettes that we probably would not be able to come up with on our own
+- Paletton, https://paletton.com
+  - allows you to build a palette based on the proportion of colors you would like
+- Kuler/Color CC, https://color.adobe.com
+- Palettetab, 
+  - for new tabs, you can see a new color palette with new fonts
+- Adobe Capture
+  - analyze a photo with machine learning to determine a color palette
+- CSS Gradient
+  - Ultimate CSS Gradient Generator
+    - old but reliable
+    - it's not great for finding a gradient, but if you already have two colors, it is really good at outputting a CSS gradient incorporating them
+- Gradient
+  - ui Gradient
+
+### Animated Gradient
+
+- if you need to animate gradients, don't just animate them!
+- https://codepen.io/sdras/pen/akAWPR/
+  - how to properly animate
+  - it does cause any layout triggers, it is really performant
+
+### How to Create a Palette
+
+Anchoring: anchor a color palette to one color
+
+- you can find more fresh, energetic to corporate, serious colors to create your palette
+- Gather Accents
+  - find a nice accent to anchor
+
+### Data Visualization with HSL(A) Example
+
+### Creating a Palette Demo
+
+- let us say we are starting with an image
+- you can build out your color palette from your image on your home page
+- https://unsplash.com
+
+
+
+
 
