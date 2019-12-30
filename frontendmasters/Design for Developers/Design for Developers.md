@@ -401,5 +401,6 @@ Anchoring: anchor a color palette to one color
 - **Proportional** and **Monospaced**
   - Proportional: size of text is proportional to its character
   - Monospaced: same size for each character regardless of character size
-- 
+- **Kerning** and **Leading**
+  - 
 
