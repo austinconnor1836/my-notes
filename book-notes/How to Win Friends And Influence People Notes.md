@@ -84,4 +84,21 @@
 ### 4. A Drop of Honey
 
 - "If you come at me with your fists doubled," said Woodrow Wilson, "I think I can promise you that mine will double as fast as yours; but if you come to me and say, 'Let us sit down and take counsel together, and, if we differ from each other, understand why it is that we differ, just what the points at issue are,' we will presently find that we are not so far apart after all, that the points on which we differ are few and the points on which we agree are many, and that if we only have the patience and the candor and the desire to get together, we will get together."
-- 
+- "If a man's heart is rankling with discord and ill feeling toward you, you can't win him to your way of thinking with all the logic in Christendom. Scolding parents and domineering bosses and husbands and nagging wives ought to realize that people don't want to change their minds. They can't be forced or driven to agree with you or me. But they may possibly be led to, if we are gentle and friendly, ever so gentle and ever so friendly." - Abraham Lincoln
+- It is an old and true maxim that "a drop of honey catches more flies than a gallon of gall."
+- If you would like to win a man to your cause, first convince him that you are his sincere friend. Therein is a drop of honey that catches his heart; which is the great high road to reason.
+- Friendliness always begets friendliness.
+- Daniel Webster, who looked like a god and talked like Jehovah:
+  - "It will be for the jury to consider"
+  - "This may, perhaps, be worth thinking of"
+  - "Here are some facts that I trust you will not lose sight of"
+  - "You, with your knowledge of human nature, will easily see the significance of these facts."
+  - No bulldozing or high pressure methods.
+  - Webster used the soft-spoken, quiet, friendly approach, and it helped to make him famous.
+- Remember, "Be hearty in your approbation and lavish in your praise."
+- The sun then told the wind that gentleness and friendliness were always stronger than fury and force.
+
+**<u>Principle 4</u>: Begin in a friendly way.**
+
+### 5. The Secret of Socrates
+
