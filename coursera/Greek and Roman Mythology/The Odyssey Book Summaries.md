@@ -53,3 +53,4 @@ The book finishes with some of the Achaean suitors/ruffians waiting in hiding wi
 
 ### Book 5: Odysseus - Nymph and Shipwreck
 
+Zeus sends Hermes to command the release of Odysseus from Calypso. Zeus decrees he shall not return to his native land on ship, but on a small raft.
