@@ -1,6 +1,21 @@
 # CSS Grids and Flexbox for Responsive Design
 
+### Flexbox
 
+- It is a hack for layouts!
+- The first layout elements - but not designed to lay out whole web pages
+- the very first layout we were given to work with layouts in CSS
+- before that it was table and floats
+- Features flex-containers (row) and flex-items (cells). Both are required to work.
+- Flexbox has been around since 2009 and it has some issues.
+- **Excels at <u>vertical centering</u> and <u>equal heights.</u>**
+- Very easy to reorder boxes.
+- Major disadvantages:
+  - Wasn't designed to be locked down for layouts! Works in 1 dimension only.
+  - Browser support and syntax is challenging.
+- Think of flexbox as one continuous row.
+  - great for apps like Pinterest where images are delivered continuously
+- 
 
 ## CSS Grid
 

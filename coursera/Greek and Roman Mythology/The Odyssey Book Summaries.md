@@ -42,3 +42,14 @@ Helen brings in a bowl some wine mixed in with some narcotics she received in Eg
 - she can bring you out of this world
 - a magical and powerful aura
 - Homer sees tremendous power of these qualities
+
+Proteus of Egypt, the immortal Old Man of the Sea who never lies, who is Poseidon's servant.
+
+Proteus explains to Menelaus that the nymph Calypso is holding Odysseus captive by force in her house. He has no way of returning home. No ship or crew.
+
+Proteus says on line 640 that the gods count *him* the son-in-law of Zeus because he is Helen's husband.
+
+The book finishes with some of the Achaean suitors/ruffians waiting in hiding with their ships inside a cove between Ithaca and Asteris to ambush and kill Telemachus. His mother, Icarius' daughter, Penelope, learns of this plot and is overwhelmed with sorrow and fear for her boy. Pallas Athena sends a spirit to comfort her where she tells her it is decreed that he will live.
+
+### Book 5: Odysseus - Nymph and Shipwreck
+

@@ -402,5 +402,33 @@ Anchoring: anchor a color palette to one color
   - Proportional: size of text is proportional to its character
   - Monospaced: same size for each character regardless of character size
 - **Kerning** and **Leading**
-  - 
+  - Kerning: the space between the letters
+    - whether they kind of tuck into each other or not
+  - Leading: line height (same principle)
+- Kerning in code:
+  - `letter-spacing: 0.03em;`
+- Leading in code:
+  - `line-height: 1.4;`
+  - `vertical-align: baseline;`
+- **Widows** and **Orphans**
+  - Widow: when you have one word on its own line at the end of a paragraph.
+  - Orphan: you would think the paragraph would end but a few words are pushed onto a new line (people don't like these more than they dislike widows).
 
+- **Ligatures**:
+  - for example, if you have an "f" and an "i" close to each other, they are joined together.
+- "Falling down":
+  - there is more space on the bottom of a page after the text is horizontally centered
+  - hence, the text is "falling down"
+- Zach Leatherman on "The Five Whys of Web Font Loading Performance"
+- Peter Mueller automated a lot of the tasks that Zach Leatherman talked about, named "subfonts" on Github
+- Robin Rendle:
+  - Sarah says he should be doing a class on typography
+  - he has a newsletter
+- Lorem Ipsum:
+  - Bacon Ipsum
+  - Cat Ipsum
+  - Hipster Ipsum (has profanity)
+  - Hodor Ipsum
+  - Pirate Ipsum
+  - Slipsum (Samuel L. Jackson Ipsum)
+- 
