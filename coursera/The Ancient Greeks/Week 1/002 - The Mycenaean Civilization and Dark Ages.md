@@ -81,3 +81,62 @@ Mycenaean history and artifacts show they were much more violent than the Minoan
 
 #### Video 2 - The Dark Ages (ca. 1150 - 800 BCE)
 
+Mycenaean civilization collapsed rapidly and systemically.
+
+Who did it? What caused this collapse?
+
+- There are a number of possibilities scholars consider that caused this:
+  - drought
+  - internal revolt, seems less likely as there wasn't a uniform proletariat
+  - economic disruption
+    - around 1200 BCE, is a time of tremendous stress
+    - the arrival of the "sea people" that clearly were making trouble
+    - would have taken the form of a break in those systems of trade among the elite.
+      - some scholars say the economy was so fragile, that when they were disrupted, it collapsed
+  - invasion
+    - invaders tend to only leave traces of their destruction
+    - there used to be a theory called the "Dorian Invasion"
+      - that people swept in from the North, wrecked the Mycenaean sites
+      - based largely on one passage in the historian Lucidedes
+      - only has one big problem: there is no evidence
+      - **it has been abandoned**
+- We can be certain of one thing: **the collapse happened**
+
+Why did it last so long?
+
+- it stays dark for around 300 years
+- one explanation:
+  - terracing on the sides of steep mountains for agriculture of olives
+    - required enormous amount of labor
+    - would have been near impossible to do the agriculture necessary for the culture
+- another explanation: societal and control of fertility
+  - What was life like back then?
+    - small groups moving from place to place
+    - relatively small populations are actually beneficial
+      - help with survival: fewer mouths to feed
+    - control of female fertility by waiting for girls to become older before becoming married and having children
+
+The effects were devastating:
+
+- tremendous decline in population:
+  - fewer grave sites, fewer a much farther between
+- there is no evidence of gold in burials: it stops
+  - no support for this anymore
+  - the craftsmen that had been working for the elite, did not have anyone to work for anyone anymore
+- international trade stopped
+  - used to be that Mycenaean artifacts could be found around the Eastern Mediterranean, but it stopped
+  - not even much pottery is found
+  - those trade networks disintegrated
+- Surprisingly, literacy also goes missing
+  - The Mycenaean "Linear B", a fairly clumsy form with 87 characters and awhile to memorize, had been used exclusively to record the contents of the store houses and warehouses of the citadels
+    - when they were emptied, the technology to record their contents vanished
+      - it had been restricted to a very small number of scribes and they simply had no one to work for anymore
+
+What was life like after this?
+
+- it continued, certainly
+- small groups living somewhat a semi-nomadic existence
+  - staying in a place just long enough to grow a few crops, for one or two planting seasons and moving on
+- subsistence agriculture and life in the ruins
+- it is not to say that activity stopped completely
+- around 1000 BCE, Greeks start to shift population from the mainland to across the islands, to the coast of Asia Minor, Ionia, (modern day Turkey)

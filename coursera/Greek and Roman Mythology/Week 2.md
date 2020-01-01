@@ -109,3 +109,25 @@ To Homer, Orestes had the gumption to do what needed to be done, that is killing
 
 ## 2.4: Odysseus on Ogygia
 
+Odysseus is feeling sorry for himself, like Telemachus was, as he was being held by force by a beautiful nymph, Calypso, who desires him.
+
+Books 5 through 8 will be about Odysseus in the same manner that we followed Telemachus in books 1-4.
+
+Zeus' power comes from his violence. People/Gods/Goddesses are frightened by him.
+
+"Calypso": to hide
+
+She gives him tools. With tools, Odysseus can do anything.
+
+Heroes are just good at things. They have skills. They get things done.
+
+Odysseus is now gaining back some of the things that he lost over the last 7 years.
+
+Why is Poseidon so angry with Odysseus? We will learn.
+
+Odysseus lands at the beach naked, with having only his ticking heart.
+
+Odysseus uses his craftsmanship to build a shelter by gathering leaves and placing them beneath olive bush springs.
+
+Odysseus gets his rest after a long book of stress. Athena places sleep on his eyes. 
+
