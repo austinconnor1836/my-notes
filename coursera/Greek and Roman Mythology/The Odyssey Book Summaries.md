@@ -54,3 +54,12 @@ The book finishes with some of the Achaean suitors/ruffians waiting in hiding wi
 ### Book 5: Odysseus - Nymph and Shipwreck
 
 Zeus sends Hermes to command the release of Odysseus from Calypso. Zeus decrees he shall not return to his native land on ship, but on a small raft.
+
+Calypso helps him prepare for his voyage by providing him the choicest meats, wine, and water to accompany him. After 4 days, she sends him on his way. But Poseidon spots him and becomes angry at the site he sees. He conjures the most ravaging waves and storms to hinder Odysseus. These storms eventually crush his small raft upon which, another goddess of the sea who was once a mortal woman, Ino, takes pity on Odysseus and offers her aid. She tells him to leave the raft and swim to shore, Phoenicia, which is just on the horizon. She gives him her scarf that renders him impervious to any harm that may fall on him. Athena also counters Poseidon's curses.
+
+Odysseus swims to shore but there are terrible reefs that impede his path. After much struggle, he spots the mouth of a river that is calm and would make a safe entry onto land.
+
+After reaching the beach, he decides to go find shelter so that he may sleep. He lays beneath two olive bushes and closes his eyes at last.
+
+### Book 6: The Princess and the Stranger
+
