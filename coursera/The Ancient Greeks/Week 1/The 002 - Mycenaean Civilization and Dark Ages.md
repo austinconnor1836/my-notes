@@ -17,11 +17,11 @@
 
 Mycenae:
 
-- discovered by **Heinrich Schlieman (1822 - 1890)**
+- discovered by **Heinrich Schliemann (1822 - 1890)**
   - charismatic archaeologist forever linked with the site of Mycenes
   - made his fortune being an international businessman
   - knew a swath of languages
-  - in middle age, he desired to become an archaelogist
+  - in middle age, he desired to become an archaeologist
   - he wanted to discover what Homeric reality would have been like
     - he wanted to discover the sites that would have been in the Illiad and the Odyssey
   - he first went to Troy
@@ -34,7 +34,7 @@ Mycenae:
     - allegedly, Schliemann said he was guided by the voice of Homer
     - the Lion's Gate was clearly built for defense
       - the stones are so large they are known as cyclopian since they were so large only a cyclops could lift and construct them
-    - as he began his excavation of Mycanae, he discovered a grave circle
+    - as he began his excavation of Mycenae, he discovered a grave circle
       - a number of distinct features
         - a number of upright tablets with writings and images
         - they were meant to mark graves
@@ -48,7 +48,7 @@ Mycenae:
     - vast amounts of treasure and gold were buried with people
       - very important role in trade
       - personal adornments
-    - Greece, at this time, was a very much part of a network of east Aegaen economies
+    - Greece, at this time, was a very much part of a network of east Aegean economies
       - it didn't look that different from places in the Middle East:
         - agricultural foundation
         - ruling elite
@@ -71,7 +71,7 @@ Mycenae:
           - it is one of the little ironies that the flames that engulfed the Mycenaean citadels baked the tablets that were not meant to be preserved for a long time, they were temporary notations of store house contents
       - we also get pictures of social unrest or at least of high military preparedness
         - one of the most well-preserved artifacts is one of the bore-tusked helmets that Homer talked about soldiers having to protect their heads
-- Mycenae civilization underwent a sudden, massive, systemic collapse. Between 1100 and 1150 BCE, in one citadel site after another, we find evidence of burning, pillaging, and destruction.
+- **Mycenae civilization underwent a sudden, massive, systemic collapse.** Between 1100 and 1150 BCE, in one citadel site after another, we find evidence of burning, pillaging, and destruction.
   - the inhabitants were killed or dispersed
   - their homes left for scavenging
 
