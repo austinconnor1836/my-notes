@@ -131,3 +131,77 @@ Odysseus uses his craftsmanship to build a shelter by gathering leaves and placi
 
 Odysseus gets his rest after a long book of stress. Athena places sleep on his eyes. 
 
+### 2.5: Odysseus on Scheria
+
+- beautiful young women around a pond or river is the archetype in Western literature
+- In book 5, Odysseus has been suffering. Through book 6 and beyond, we seem him endure.
+- after surviving the voyage to the shore, he now must figure out what to do next.
+- he is without clothes, which means he will have to figure out how to get clothes.
+- he also needs to regain his speech.
+- the young women are doing laundry
+- Odysseus looks terrible and has nothing. He has to figure out how to rejoin human society.
+- He will have to use his words.
+- He is a master of persuasion and the arts of language.
+- he needs an ally to help him find his way back into society while he is in this abject state.
+  - to do this, he must use his words
+- Odysseus needs to persuade Nausicaa
+- **Universal Law 2: If you want to persuade people, you must know your audience.**
+- He could have explained what has happened to his life, but he chooses not to do that.
+- He needs to get inside the head of his audience, Nausicaa.
+- He looks for ways to make her feel good. 
+  - Flattery is a great way to start a persuasive speech.
+  - Charm: express yourself in a way that is honest to your own situation.
+- He starts with a speech to soften her with respect to her ability to make a connection with him.
+  - Line 160, Odysseus first speaking to Nausicaa: "Here I am at your mercy, princess - are you a goddess or a mortal? If one of the gods who rule the skies up there, you're Artemis to the life, the daughter of mighty Zeus - I see her now - just look at your build, your bearing, your lithe flowing grace...But if you're one of the mortals living here on earth, three times blest are your father, your queenly mother, three times over your brothers too. How often their hearts must warm with joy to see you striding into the dances - such a bloom of beauty. True, but he is the one more blest than all other men alive, that man who sways you with gifts and leads you home, his bride! I have never laid eyes on anyone like you, neither man nor woman...I look at you and a sense of wonder takes me.
+    Wait, once I saw the like - in Delos, beside Apollo's altar - the young slip of a palm-tree springing into the light. There I'd sailed, you see, with a great army in my wake, out on the long campaign that doomed my life to hardship. That vision! Just as I stood there gazing, rapt, for hours...no shaft like that had ever risen up from the earth - so now I marvel at *you*, my lady: rapt, enthralled, too struck with awe to grasp you by the knees though pain has ground me down.
+    Only yesterday, the twentieth day, did I escape the wine-dark sea. Till then the waves and the rushing gales had swept me on from the island of Ogygia. Now some power has tossed me here, doubtless to suffer still more torments on your shores. I can't believe they''' stop. Long before that the gods will give me more, still more.
+    Compassion - princess, please! You, after all that I have suffered, you are the first I've come to. I know no one else, none in your city, no one in your land. Show me the way to town, give me a rag for cover, just some cloth, some wrapper you carried with you here. And may the good gods give you all your heart desires: husband, and house, and lasting harmony too.
+    No finer, greater gift in the world than that...when man and woman posses their home, two minds, two hearts that work as one. Despair to their enemies, a joy to all their friends. Their own best claim to glory."
+- Ends with a hint of marriage
+- he does it in a meek way
+- Athena is planting the idea in the princess' head that some eligible man might wash up on shore so Nausicaa should have clean clothes.
+- He needs to make an alliance to get back into human society.
+  - It is a microcosm of what human society is all about: we meet people, they need things. As a great leader, a great hero, the hero provides those things to the people that the hero meets. In doing so, carrying other people's water, that hero gets a chance to do other kinds of things to work themselves into the kind of position of exaltation in society. Only because he earns it in social situations.
+- Odysseus then moves from the periphery to the center when he moves from the wilderness to the halls of society.
+
+### 2.6: Alcinous
+
+Scheria is an island
+
+Gods talk to the Phaecians face-to-face, a unique thing.
+
+Homer uses something called **Ring Composition** where someone begins talking about A, then digresses to talking about B, then finishes by returning to A.
+
+- he uses this when Odysseus enters the threshold of Alcinous, pauses to show the grandeur of the wealth he sees, and then returns to the threshold
+
+### 2.7: Knee-Grabbing and Xenia
+
+Odysseus lunges and grabs hold of the queens knees
+
+- in ancient Greek customs, doing this gives him instance status as a guest-friend. It makes you their suppliant and they owe you guest-friendship and hospitality that is required of a Greek for their guest-friends. This entitles you to all kinds of good stuff if they are good hosts. If they aren't, you don't know what you will receive.
+- xenia: extraordinary hospitality for a guest washing up on your shore
+  - it is sacred of aristocratic Greek behavior
+  - the more lavish, the more you are practicing xenia
+  - you demonstrate your own status by what you give
+  - games, feasts, marry my daughter, inherit my kingdom, other overwhelming gifts
+  - they don't get anything back from the Stranger, Odysseus. All he has to do is go along with it. They don't even ask his name until after they have lavished him with gifts.
+- Why practice xenia? **Trade**
+
+### 2.8: Functionalism
+
+- While Odysseus is receiving lavish gifts on Scheria from the Phaecians
+- What makes a myth a myth?
+  - 4 specific schools of thought: **functionalism**, structuralism, psychoanalysis, and myth and ritual
+    - use each to tinker with myths to help understand them
+- functionalism: **Bronislaw Malinowski (1884-1942)**
+  - found that myths legitimize some kind of underlying social and cultural norms that they hold dear: they serve a function.
+  - they serve a purpose
+  - they are there to reassure us that our cultural norms are right for us
+  - **myths serve the role of legitimizing**
+  - myths are not interested in unveiling of deep, human truth. They are interested in the specifics of individual cultures.
+- we are not interested in the origin of the myth. We are concerned with how cultures use it now.
+
+### 2.9: Reassembling the Hero
+
+
+
