@@ -203,5 +203,54 @@ Odysseus lunges and grabs hold of the queens knees
 
 ### 2.9: Reassembling the Hero
 
+- in these books, we are rebuilding the hero, Odysseus
+- King Alcinous has hinted that he is disgruntled with Nausicaa since he walked in by himself, not accompanied by her
+  - Odysseus quickly tells King Alcinous a white lie that he wanted to go in alone
+- Odysseus knows when to draw a line, and how to enforce
+  - a good quality to being a good hero: know when to give and when to draw a line
+- When Broadsea comes back to apologize, Odysseus graciously accepts his apology and his gift of a sword
+- Hero:
+  - endures
+  - intelligent
+  - great craftsmen
+  - crafty, sneaky, he has already lied a lot, but for important reasons
+  - strong
+  - not a merchant, you have to better equipped for on the battlefield
+- the heroic qualities only can be discovered through experience
+- by the end of book 8, he is still anonymous to the Phaecians
+- name, lineage, the land you are from, and finally your past
+- Odysseus is about to take control of the narrative in books 9-12 in explaining his heritage and where he has been
+
+### 2.10: Poetry and Democodus
+
+- Demodocus, a poet introduced in book 8
+
+- Homer shows us how poets fit into society through Demodocus
+- has a role of an entertainer
+- can do extraordinary things, for instance, great memory
 
 
+
+One commentator's views: Heraclitus (1<sup>st</sup> century C.E.)
+
+Union of love (Aphrodite) and strife (Ares)
+
+- Divine laughter since it is a cause for joy
+
+Commentary on blacksmithing
+
+- Fire (Hephaestus) softens iron (Ares)
+- Need to apply passion (Aphrodite) to the work
+- Water (Poseidon) pulls the iron out and cools it off
+
+Another commentator Cornutus (1<sup>st</sup> century C.E.)
+
+- Ares + Aphrodite = Adultery
+- The brutal and violent do not correspond well with the cheery and gentle, nor is one naturally intertwined with another. But there is a noble offspring from this: harmony.
+
+Final commentator, *Life of Homer* Author (1<sup>st</sup> century C.E.) (thought to be Plutarch)
+
+- Ares and Aphrodite are love and strife, and they are sometimes together (then there is harmony) and sometimes apart.
+- Helios denounces them, Hephaestus chains them, and Poseidon, water, frees them. It is clear from this that the hot, dry essence and its opposite, cold wet one, sometimes draw the universe together and sometimes pull it apart.
+
+Books 9-12 includes some of the strangest parts of the Odyssey.
