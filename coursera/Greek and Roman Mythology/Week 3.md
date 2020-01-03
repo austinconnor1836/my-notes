@@ -62,3 +62,16 @@ Books 9-12: Some of the best parts of the Odyssey
 
 ### 3.2 Cycle Two: Circe
 
+- King Aeolus, has a bag of wind
+  - his six sons and daughters are married to each other
+- Circe turns Odysseus' men into pigs
+  - it is awful to have our humanity taken away from them
+  - they are also in the standard repertoire of the food chain
+- Men who made this myth fear that a woman can turn a man into a pig, unman a man, strip away his courage.
+- Another example of the recurring theme of dangerous women with magical power/aura.
+- Circe is overjoyed that Odysseus overpowers her. A year-long tryst occurs and he doesn't want to leave. His men had to convince him to leave.
+- Before leaving, Circe gives him secret knowledge that is in the underworld.
+- She instructs him how to bait the dead with a combination of libations so he can interview them to find his way to find his way to Tigerious
+- they don't even know that one of their crew mates has drank too much, fell, and died
+  - this will be important for the future
+
