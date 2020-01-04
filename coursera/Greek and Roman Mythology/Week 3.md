@@ -75,3 +75,21 @@ Books 9-12: Some of the best parts of the Odyssey
 - they don't even know that one of their crew mates has drank too much, fell, and died
   - this will be important for the future
 
+### 3.3: The Underworld
+
+- the underworld is not under anything, it is far away
+- it is so far away, it is not like Dante's so far down
+- sulfurous
+- these shades need blood as life would return to them, re-embodied, allowing them to speak
+- the Greeks would much rather be alive than dead
+- ethical scores are not settled in the underworld, they are not being judged, they are floating around, a place you don't want to be (like being on a layover in an airport)
+- Tantalus and Sisyphus are the exceptions as they are being eternally punished
+- Elpenor tells Odysseus he must bury him, Homer is legitimizing the importance of burial for the dead
+- Tiresias is Apollo's priest, has deep wisdom for both the future, present, and past
+- Tiresias tells him he must apologize to Poseidon
+- Odysseus must take an oar so far inland so people do not recognize it and then build a temple to Poseidon
+- Remember, Odysseus is telling this story to Alcinous so when Alcinous suddenly chimes in, it is logically sound
+- Agamemnon's son Orestes corrects things by murdering his father's murderer
+- The killing of Achilles does not happen in the Illiad, Homer explains it here
+- Achilles tells Odysseus he would rather be a slave and still alive than be the grand person that I am and be locked down in here with the dead
+
