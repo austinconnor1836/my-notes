@@ -111,3 +111,39 @@ Books 9-12: Some of the best parts of the Odyssey
 - Cattle have overwhelming levels of protein, the most expensive, only the most wealthy aristocrats could afford cattle
 - Large area of land was required to raise cattle to graze and slaughter
 - Helios has declared these cattle are sacred to them. So they are no longer an authorized food source. So when they slaughter and eat them, they are violating something that was told to them not to eat by a religious authority, an indelible law.
+
+### 3.5: Food/Not Food
+
+#### Food Crimes and Xenia
+
+- Homer says, "Oh my gosh! I can't believe they ate Helios' Cattle of the Sun!"
+- The line between food and not food is **culturally defined**
+- It is the basic way we associate with people. Do they eat the same kind of food as I/we do?
+- The disgust response is non-negotiable.
+  - You can't just talk them out of it.
+- You and I do NOT count as food. It is almost universally true. It is absolutely the case of the Greeks.
+- When humans become part of the food chain, it is considered a Food Crime.
+- Eating something the Gods' have instructed never to eat and metabolize the thing they ate, they are punished severely.
+
+### 3.6 Structuralism
+
+- Remember, we would use Functionalism as a tool
+- Another tool: Structuralism
+- Came from Claude Levi-Strauss (1908-2009)
+  - very important in anthropology, sociology, and the study of myth
+- human culture is a product of the human mind
+- our brain's work as a mode of binaries: yes/no, black/white
+  - abstraction layers are functions of binaries: grey is a combination of black and white
+- the core binary moment: sometimes there is Mommy, sometimes there is no Mommy
+
+#### Structuralism and Myth
+
+- no matter the nuance, the stories will have some binary opposition that is driving them forward
+- books 9-12, food/not food, a structuralist reading
+- a structuralist will not be interested in the temporal, diachronic nature of the story
+- they are interested in the pieces, the atomic pieces:
+  - which of these is a representation of one side of a binary, which are the other
+  - which parts of the narrative represent one theme, which parts represent the opposite theme
+- structuralists are not looking at the change of cultures he encounters: they will look at how they are similar or different
+  - the relationship among the items is the most important aspect of the story
+- 

@@ -1,0 +1,148 @@
+## Table of Contents
+- [Part 1](#part-1)
+  * [Basic selectors, relational selectors](#basic-selectors-relational-selectors)
+  * [Attribute selectors](#attribute-selectors)
+  * [UI Pseudo-classes](#ui-pseudo-classes)
+  * [Structural UI Pseudo-classes](#structural-ui-pseudo-classes)
+  * [Demonstration of Structural UI Pseudo-classes](#demonstration-of-structural-ui-pseudo-classes)
+  * [Negation and empty pseudo-classes](#negation-and-empty-pseudo-classes)
+  * [Other Pseudo-classes](#other-pseudo-classes)
+  * [Pseudo-elements](#pseudo-elements)
+
+#### CSS Writing Tool
+
+- Font Squirrel
+
+## ## Selectors
+
+### Basic Selectors & CSS Levels
+
+3 basic selectors:
+
+- `#myID`: ID
+  - can target with CSS and Javascript
+  - Estelle likes targeting ID with Javascript
+- `.myClass`: class
+- `li`: tag name
+
+You always want to target at the lowest specificity.
+
+#### Selectors in CSS Level 1
+
+- E (element)
+- `.class`
+- `#id`
+- `E F`
+- `:link`
+- `:active`
+
+#### CSS Level 2 Selectors
+
+- `*`: all
+- `E > F`: direct descendant
+- `E + F`: adjacent sibling (the element that comes immediately after it)
+- `E[attribute]`
+- `E[attribute=value]`
+- `E[attribute~=value]`
+- `E[attribute|=value]`
+- `:first-child`
+- `:lang(en)`
+- `:focus`
+- `:hover`
+- `:visited`
+- `:before`
+- `:after`
+- `:first-letter`
+- `:first-line`
+
+#### CSS Level 3 Selectors
+
+
+
+#### In UI Specification (Not CSS Selectors Level 3)
+
+
+
+Order of CSS:
+
+1. CSS Level 1
+2. CSS Level 2
+3. CSS Level 2.1
+
+CSS 3 were actually broken up into modules
+
+There was never going to be a CSS Level 4 since it was modularized
+
+### Specificity Information
+
+#### Specifity: How it works
+
+- lowest weight is on the right and the largest weight is on the left
+- `0-0-24` is less specific than `0-1-0`
+- `1-0-0`: ID Selector
+- `0-1-0`: Class selector (Also attribute selector & pseudoclass)
+- `0-0-1`: Element Selector
+- There is specificity and cascading
+
+### Relational Selectors & Combinators
+
+```css
+ul li,
+ol li
+```
+
+<ol>
+    <li style="background-color: grey;">item 1</li>
+    <li style="background-color: grey;">item 2</li>
+    <li style="background-color: grey;">item 3
+        <ul>
+            <li style="background-color: #708090;">item a</li>
+            <li style="background-color: #708090;">item b</li>
+            <li style="background-color: #708090;">item c</li>
+        </ul>
+    </li>
+    <li style="background-color: grey;">hasaclass</li>
+    <li style="background-color: grey;">item 5</li>
+    <li style="background-color: grey;">item 6</li>
+    <li style="background-color: grey;">item 7</li>
+</ol>
+
+```css
+ol > li
+```
+
+<ol>
+    <li style="background-color: grey;">item 1</li>
+    <li style="background-color: grey;">item 2</li>
+    <li style="background-color: grey;">item 3
+        <ul>
+            <li style="background-color: dark-grey;">item a</li>
+            <li style="background-color: grey;">item b</li>
+            <li style="background-color: grey;">item c</li>
+        </ul>
+    </li>
+    <li style="background-color: grey;">hasaclass</li>
+    <li style="background-color: grey;">item 5</li>
+    <li style="background-color: grey;">item 6</li>
+    <li style="background-color: grey;">item 7</li>
+</ol>
+
+```css
+li.hasaclass + li
+```
+
+<ol>
+    <li>item 1</li>
+    <li>item 2</li>
+    <li>item 3
+        <ul>
+            <li>item a</li>
+            <li>item b</li>
+            <li>item c</li>
+        </ul>
+    </li>
+    <li>hasaclass</li>
+    <li style="background-color: grey;">item 5</li>
+    <li>item 6</li>
+    <li>item 7</li>
+</ol>
