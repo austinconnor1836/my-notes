@@ -93,3 +93,21 @@ Books 9-12: Some of the best parts of the Odyssey
 - The killing of Achilles does not happen in the Illiad, Homer explains it here
 - Achilles tells Odysseus he would rather be a slave and still alive than be the grand person that I am and be locked down in here with the dead
 
+### 3.4 Cycle 3: The Cattle of the Sun
+
+- Odysseus passes the Sirens after leaving from the house of Circe
+- The Sirens claim to know everything
+- They are singing to him everything and he is a man who is always seeking knowledge
+- He figured out how to hear it all while remaining alive
+- Odysseus passes through the realm of the Scylla and Carybdis
+- He knows he will lose some men near the Scylla, but he will lose all men if he chooses risking Carybdis
+- **Universal Law #4: Usually making leadership decisions means choosing between two bad things**
+- He loses some men by choosing to go near Scylla
+- Cattle are the most luscious and the most appropriate kind of gift that is grand enough to give a gift to the Gods. They also sacrifice goats, pig, chicken, but not fish weirdly.
+- Most of the time, the Gods want the smoke from the sacrifice
+- The Gods love cow meat
+- The Greeks were almost obsessed with cattle and were always trying to find more of them
+- Bulls are central in pieces of art about ancient Greek
+- Cattle have overwhelming levels of protein, the most expensive, only the most wealthy aristocrats could afford cattle
+- Large area of land was required to raise cattle to graze and slaughter
+- Helios has declared these cattle are sacred to them. So they are no longer an authorized food source. So when they slaughter and eat them, they are violating something that was told to them not to eat by a religious authority, an indelible law.
