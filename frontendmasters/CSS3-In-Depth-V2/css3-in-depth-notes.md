@@ -146,3 +146,51 @@ li.hasaclass + li
     <li>item 6</li>
     <li>item 7</li>
 </ol>
+
+```css
+li.hasaclass ~ li
+```
+
+<ol>
+    <li>item 1</li>
+    <li>item 2</li>
+    <li>item 3
+        <ul>
+            <li>item a</li>
+            <li>item b</li>
+            <li>item c</li>
+        </ul>
+    </li>
+    <li>hasaclass</li>
+    <li style="background-color: grey;">item 5</li>
+    <li style="background-color: grey;">item 6</li>
+    <li style="background-color: grey;">item 7</li>
+</ol>
+
+#### Selectors API
+
+In JavaScript:
+
+```javascript
+var chil = $('#bar .foo');
+```
+
+
+
+##### Natively
+
+```javascript
+var el = document.querySelector('#bar');
+var chil = el.querySelectorAll('.foo');
+```
+
+or
+
+```javascript
+chil = document.querySelectorAll('#bar .foo');
+```
+
+- find me the elements with an ID of `bar` and descendant with a class of `foo`
+
+### Attribute Selectors
+
