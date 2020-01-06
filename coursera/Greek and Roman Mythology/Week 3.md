@@ -146,4 +146,50 @@ Books 9-12: Some of the best parts of the Odyssey
   - which parts of the narrative represent one theme, which parts represent the opposite theme
 - structuralists are not looking at the change of cultures he encounters: they will look at how they are similar or different
   - the relationship among the items is the most important aspect of the story
-- 
+- they notice that humans throughout cultures pair things together
+- What counts as a structuralist binary pair?
+  - anchored in some biological dimension of being human
+  - for example:
+    - food and not food
+    - environment
+    - reproduction
+    - kinship relationships
+      - we have mothers, fathers, aunts, uncles, etc.
+- oppositional pairs
+  - they do not have to reconcile
+- when we are getting nervous when the grey area between the oppositional pairs is tested
+- Go binary hunting
+  - get rid of narrative arc
+  - break apart the features of the story into oppositional pairs
+  - explain the most important parts of the myth through the binary perspective
+- **for a structuralist, there is a hidden key of at the base of all of the oppositional pairs at the foundation of a myth**
+- all of myth will reflect this basic mode
+
+### 3.7: Inner and Outer Worlds
+
+- Odysseus is back on Ithaca's shores, but he is not sure where he is
+- he wakes up from slumber, after the Phaecians placed him on the shore with his gifts of treasure from the aristocrats like King Alcinous
+- Odysseus does not want to walk right up to his wife due to what Agamemnon told him in the underworld (since Agamemnon was murdered by his wife and her lover upon his return from Troy)
+- Penelope is a very skilled "weaver" of schemes, like Odysseus
+- Odysseus will have to put all of his skills we learned of him throughout his story to use here on Ithaca
+- it will take the second half of the book to get from the shore to the center, the bedroom
+- the town center belongs to the people of Ithaca
+  - they will recognize him as a stranger which is perfectly fine
+- the larger box is the outer courtyard of Odysseus' house (<strong>aul&ecirc;</strong>)
+  - if someone walks into this space, they will be asked what they want
+- the inner rooms of the house, where Penelope is in charge (<strong>oikos</strong>)
+  - requires an invitation, much harder to get in there
+  - friends of the family
+- the inner room of the inner rooms
+  - very difficult to get there
+  - will require all the skills of Odysseus to get there
+- the bed is inside the inner room of the inner rooms
+  - will require everything of Odysseus
+- Athena is Odysseus first guide upon washing upon Ithaca's shores
+- first thing Odysseus says to Athena, like Nausicaa, is a lie
+  - his cleverness
+- Athena loves it
+- Odysseus will be making social connections and lying a lot to be very effective at succeeding
+
+### 3.8 Lecture 8: Extracting Knowledge
+
