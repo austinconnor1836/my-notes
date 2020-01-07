@@ -207,4 +207,10 @@ Books 9-12: Some of the best parts of the Odyssey
 - Odysseus lies his pants off, many pages
   - **he is doing this to make a humane connection with Eumaes**
 - Eumaes tells Odysseus that Penelope brings in strangers to hear any information on Odysseus
-- 
+- Eumaes asks who are you, where are you from, who are your parents, what is your past?
+- Odysseus tells a story that he believes Eumaes will want to hear
+- **Universal Law #5: When you tell a lie, you should tell a lie that is close to the truth**
+- tells similar story to what Odysseus has actually experienced
+- He tells Eumaes that Odysseus is coming and intently looks at his reaction to make that human connection with Eumaes
+- Eumaes says he hears a ton of lies, but he will be a good host to Odysseus
+- The connection between them is just getting started and will build in the upcoming books
