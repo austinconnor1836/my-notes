@@ -22,8 +22,12 @@ Don't worry too much about how you respond to each of the following questions. T
 
 - What are your social strengths?
   Social strengths are the positive elements you bring to relationships and social interactions. They can be social skills, but they don't have to be. Being loyal to your friends or having a genuine desire to get to know others both count as social strengths, even if they might not be social skills.
+  **My social strengths include: genuineness**
 - What were/are some of the best relationships of your past and present like? What made those relationships so good? How did those relationships affect your life?
+  **Some of my best relationships from the past include:
+  The relationship I had with Justin. It was so good because he deeply cared about how I was doing. This relationship affected my life by showing me the level of depth I can have in a friendship.**
 - How have you tried to improve your social skills in the past? Have those methods been successful? If so, what made them successful? If not, what would help you be more successful this time around?
+  **I have tried to improve my social skills in the past. This included reading books like *92 Ways to Talk To Someone*. There were some techniques I learned and incorporated from this book that have helped me, but for the most part, a lot of the information seemed too circumstantial rather than foundational. I think this course will be different because it focuses on foundational truths to the social nature of human beings.**
 - What are the current gaps in your social skills knowledge? What are the elements of social interaction that you don't understand, or that you struggle to do successfully?
 - Why did you decide to start reading *Improve Your Social Skills*?
 

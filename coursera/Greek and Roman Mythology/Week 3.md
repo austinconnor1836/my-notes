@@ -111,3 +111,106 @@ Books 9-12: Some of the best parts of the Odyssey
 - Cattle have overwhelming levels of protein, the most expensive, only the most wealthy aristocrats could afford cattle
 - Large area of land was required to raise cattle to graze and slaughter
 - Helios has declared these cattle are sacred to them. So they are no longer an authorized food source. So when they slaughter and eat them, they are violating something that was told to them not to eat by a religious authority, an indelible law.
+
+### 3.5: Food/Not Food
+
+#### Food Crimes and Xenia
+
+- Homer says, "Oh my gosh! I can't believe they ate Helios' Cattle of the Sun!"
+- The line between food and not food is **culturally defined**
+- It is the basic way we associate with people. Do they eat the same kind of food as I/we do?
+- The disgust response is non-negotiable.
+  - You can't just talk them out of it.
+- You and I do NOT count as food. It is almost universally true. It is absolutely the case of the Greeks.
+- When humans become part of the food chain, it is considered a Food Crime.
+- Eating something the Gods' have instructed never to eat and metabolize the thing they ate, they are punished severely.
+
+### 3.6 Structuralism
+
+- Remember, we would use Functionalism as a tool
+- Another tool: Structuralism
+- Came from Claude Levi-Strauss (1908-2009)
+  - very important in anthropology, sociology, and the study of myth
+- human culture is a product of the human mind
+- our brain's work as a mode of binaries: yes/no, black/white
+  - abstraction layers are functions of binaries: grey is a combination of black and white
+- the core binary moment: sometimes there is Mommy, sometimes there is no Mommy
+
+#### Structuralism and Myth
+
+- no matter the nuance, the stories will have some binary opposition that is driving them forward
+- books 9-12, food/not food, a structuralist reading
+- a structuralist will not be interested in the temporal, diachronic nature of the story
+- they are interested in the pieces, the atomic pieces:
+  - which of these is a representation of one side of a binary, which are the other
+  - which parts of the narrative represent one theme, which parts represent the opposite theme
+- structuralists are not looking at the change of cultures he encounters: they will look at how they are similar or different
+  - the relationship among the items is the most important aspect of the story
+- they notice that humans throughout cultures pair things together
+- What counts as a structuralist binary pair?
+  - anchored in some biological dimension of being human
+  - for example:
+    - food and not food
+    - environment
+    - reproduction
+    - kinship relationships
+      - we have mothers, fathers, aunts, uncles, etc.
+- oppositional pairs
+  - they do not have to reconcile
+- when we are getting nervous when the grey area between the oppositional pairs is tested
+- Go binary hunting
+  - get rid of narrative arc
+  - break apart the features of the story into oppositional pairs
+  - explain the most important parts of the myth through the binary perspective
+- **for a structuralist, there is a hidden key of at the base of all of the oppositional pairs at the foundation of a myth**
+- all of myth will reflect this basic mode
+
+### 3.7: Inner and Outer Worlds
+
+- Odysseus is back on Ithaca's shores, but he is not sure where he is
+- he wakes up from slumber, after the Phaecians placed him on the shore with his gifts of treasure from the aristocrats like King Alcinous
+- Odysseus does not want to walk right up to his wife due to what Agamemnon told him in the underworld (since Agamemnon was murdered by his wife and her lover upon his return from Troy)
+- Penelope is a very skilled "weaver" of schemes, like Odysseus
+- Odysseus will have to put all of his skills we learned of him throughout his story to use here on Ithaca
+- it will take the second half of the book to get from the shore to the center, the bedroom
+- the town center belongs to the people of Ithaca
+  - they will recognize him as a stranger which is perfectly fine
+- the larger box is the outer courtyard of Odysseus' house (<strong>aul&ecirc;</strong>)
+  - if someone walks into this space, they will be asked what they want
+- the inner rooms of the house, where Penelope is in charge (<strong>oikos</strong>)
+  - requires an invitation, much harder to get in there
+  - friends of the family
+- the inner room of the inner rooms
+  - very difficult to get there
+  - will require all the skills of Odysseus to get there
+- the bed is inside the inner room of the inner rooms
+  - will require everything of Odysseus
+- Athena is Odysseus first guide upon washing upon Ithaca's shores
+- first thing Odysseus says to Athena, like Nausicaa, is a lie
+  - his cleverness
+- Athena loves it
+- Odysseus will be making social connections and lying a lot to be very effective at succeeding
+
+### 3.8 Lecture 8: Extracting Knowledge
+
+- Odysseus kicks up his social game and makes connections to find his way into his home
+- Eumaes, the swineherd, lowest position of social class
+- Odysseus is entering society by starting at the lowest point of society
+- Eumaes offers pig meat, the less expensive alternative to the expensive cattle
+- He does not give Odysseus lavish gifts: sheep skin, etc.
+- Eumaes is referred to in the second person throughout this book
+  - doesn't happen anywhere else in the story
+  - Homer wants us to have a special connection with Eumaes because he is so close to Odysseus' family
+- Odysseus wants information from Eumaes
+  - he has to tell about himself so as to receive information from Eumaes
+- they are weaving, handing the shuttle back and forth
+- Odysseus lies his pants off, many pages
+  - **he is doing this to make a humane connection with Eumaes**
+- Eumaes tells Odysseus that Penelope brings in strangers to hear any information on Odysseus
+- Eumaes asks who are you, where are you from, who are your parents, what is your past?
+- Odysseus tells a story that he believes Eumaes will want to hear
+- **Universal Law #5: When you tell a lie, you should tell a lie that is close to the truth**
+- tells similar story to what Odysseus has actually experienced
+- He tells Eumaes that Odysseus is coming and intently looks at his reaction to make that human connection with Eumaes
+- Eumaes says he hears a ton of lies, but he will be a good host to Odysseus
+- The connection between them is just getting started and will build in the upcoming books

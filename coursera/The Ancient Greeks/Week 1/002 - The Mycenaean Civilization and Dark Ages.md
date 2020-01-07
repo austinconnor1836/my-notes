@@ -140,3 +140,17 @@ What was life like after this?
 - subsistence agriculture and life in the ruins
 - it is not to say that activity stopped completely
 - around 1000 BCE, Greeks start to shift population from the mainland to across the islands, to the coast of Asia Minor, Ionia, (modern day Turkey)
+
+- Dorian invasion, no evidence, came from the north (Albania and farther north) and pushed Greeks to the western coast of Turkey
+- moving from the Bronze Age to the Iron Age
+- another possible reason is technology: iron
+- massive burial ground discovered on peninsula west of Athens
+  - within, two burial pits
+    - male, with iron spear
+    - female with lavish gold ornamentation
+    - the other pit had 4 horses with bronze in their mouths
+  - it was a tomb
+  - suggested it was a hero shrine
+  - nothing like this anywhere throughout the area of Greece
+- also, a little artifact of a centaur
+- 

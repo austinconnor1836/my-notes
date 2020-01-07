@@ -29,3 +29,11 @@ When people are enjoying themselves, often the corners of their mouth will be tu
 This is a significant indicator of comfort.
 
 If they aren't, it is not a big deal. They may not be a touchy person.
+
+#### Exercise to practice interpreting comfort/discomfort signals
+
+- Choose one or two signals from the list
+- Turn on your favorite show, ideally a live-action show that has a lot of social interaction. Reality TV is actually a very good choice, since it's mostly talking.
+- Enjoy the show, but look for the signals you chose as the characters interact. Rewind if you need to do so. Keep practicing until you feel confident that you could notice the signals in a real interaction.
+- Once you feel comfortable, pick a few more signals from the list and practice noticing them.
+
