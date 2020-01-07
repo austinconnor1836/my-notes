@@ -194,3 +194,69 @@ chil = document.querySelectorAll('#bar .foo');
 
 ### Attribute Selectors
 
+- You always want an `alt` attribute on an `img`
+
+#### Attribute Selectors in CSS 2
+
+`E[attr]`
+
+- Element E that has the attribute attr with any value.
+
+`E[attr="val"]`
+
+- Element E that has the attribute attr with the exact, case-sensitive if attribute is case-sensitive, value *val*.
+
+`E[attr|=val]`
+
+- Element E whose attribute *attr* has a value *val* or begins with val- ("val" plus "-")
+
+#### Attribute Selectors in CSS Selectors Level 3
+
+`E[attr^=val]`
+
+- Element E whose attribute *attr* starts with the val *val*
+
+- **2 good examples:**
+  `a[href^=mailto] {background-image: url(emailicon.gif);}`
+
+  - progressive enhancement
+
+  `a[href=^http]:after {content: " (" attr(href) ")";}`
+
+  - this would add the URL to any external links
+
+`E[attr$=val]`
+
+- Element E whose attribute *attr* ends in *val*.
+
+  `a[href$=pdf] {background-image: url(pdficon.gif);}`
+
+  - find every link that ends with PDF and put the icon on it
+  - another progressive enhancement
+
+`E[attr*=val]`
+
+- Element E whose attribute *attr* has *val* anywhere in the string
+
+
+
+#### Attribute Selectors 4: Case Insensitivity
+
+`E[foo="bar" i]`
+
+`input[type=checkbox i]`
+
+Only relevant if attribute value is case sensitive (HTML elements are not case sensitive)
+
+### Attribute Selectors Recap
+
+`abbr[title|=en] {}`: targets anything with value *en* followed by a dash `-`
+
+`a[href^=mailto] {}`: starts with
+
+`a[href$=pdf] {}`: ends with
+
+`abbr[title*=unicorn] {}`: anywhere inside
+
+`abbr[title*=UNICORN i] {}`: case insensitive
+
