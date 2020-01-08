@@ -215,3 +215,20 @@ Books 9-12: Some of the best parts of the Odyssey
 - Eumaeus says he hears a ton of lies, but he will be a good host to Odysseus
 - The connection between them is just getting started and will build in the upcoming books
 
+### 3.9 Meanwhile Telemachus...
+
+- Athena appears to Telemachus in a dream	
+  - Homer shows this is very common
+- In Homeric times, if you had a blood-guilt, you murdered someone, it is not wrong to have sympathy due to the dueling nature of aristocrats
+  - the guy Telemachus takes with him is a great sign-seer
+- Odysseus is constantly being mistaken as a god
+- Odysseus is learning and getting prepared
+
+### 3.10 Reunion: Father and Sons
+
+- Odysseus is telling half-truths and lies, but to not anyone in his inner family
+- Homer uses a simile by using Eumaeus, not Odysseus, and his loving embrace of his master's son Telemachus as if he was his own son
+- When Athena leaves, she raises her brow, so Odysseus and her are in secret communication and she is hinting to Odysseus that he should reveal himself to his son, Telemachus
+- Heroes declaim they are not a god when someone believes they are, it is very important to them to distance themselves from the gods
+- Penelope comes down and scolds the suitors and then goes to sleep
+  - this signifies something important has happened
