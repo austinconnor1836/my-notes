@@ -194,23 +194,24 @@ Books 9-12: Some of the best parts of the Odyssey
 ### 3.8 Lecture 8: Extracting Knowledge
 
 - Odysseus kicks up his social game and makes connections to find his way into his home
-- Eumaes, the swineherd, lowest position of social class
+- Eumaeus, the swineherd, lowest position of social class
 - Odysseus is entering society by starting at the lowest point of society
-- Eumaes offers pig meat, the less expensive alternative to the expensive cattle
+- Eumaeus offers pig meat, the less expensive alternative to the expensive cattle
 - He does not give Odysseus lavish gifts: sheep skin, etc.
-- Eumaes is referred to in the second person throughout this book
+- Eumaeus is referred to in the second person throughout this book
   - doesn't happen anywhere else in the story
-  - Homer wants us to have a special connection with Eumaes because he is so close to Odysseus' family
-- Odysseus wants information from Eumaes
-  - he has to tell about himself so as to receive information from Eumaes
+  - Homer wants us to have a special connection with Eumaeus because he is so close to Odysseus' family
+- Odysseus wants information from Eumaeus
+  - he has to tell about himself so as to receive information from Eumaeus
 - they are weaving, handing the shuttle back and forth
 - Odysseus lies his pants off, many pages
-  - **he is doing this to make a humane connection with Eumaes**
-- Eumaes tells Odysseus that Penelope brings in strangers to hear any information on Odysseus
-- Eumaes asks who are you, where are you from, who are your parents, what is your past?
-- Odysseus tells a story that he believes Eumaes will want to hear
+  - **he is doing this to make a humane connection with Eumaeus**
+- Eumaeus tells Odysseus that Penelope brings in strangers to hear any information on Odysseus
+- Eumaeus asks who are you, where are you from, who are your parents, what is your past?
+- Odysseus tells a story that he believes Eumaeus will want to hear
 - **Universal Law #5: When you tell a lie, you should tell a lie that is close to the truth**
 - tells similar story to what Odysseus has actually experienced
-- He tells Eumaes that Odysseus is coming and intently looks at his reaction to make that human connection with Eumaes
-- Eumaes says he hears a ton of lies, but he will be a good host to Odysseus
+- He tells Eumaeus that Odysseus is coming and intently looks at his reaction to make that human connection with Eumaeus
+- Eumaeus says he hears a ton of lies, but he will be a good host to Odysseus
 - The connection between them is just getting started and will build in the upcoming books
+

@@ -118,3 +118,8 @@ The book ends with King Alcinous asking Odysseus to tell them about his life, wh
 
 ### Book 12: The Cattle of the Sun
 
+
+
+### Book 16: Father and Son
+
+Line 20 - Eumaeus wept and sobbed, his words flew from the hear: "You're home Telemachus, sweet light of my eyes!.. "
