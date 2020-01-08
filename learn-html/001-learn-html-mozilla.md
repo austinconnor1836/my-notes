@@ -87,3 +87,13 @@ The `<a>` element has three attributes:
 
 ## Entity references: Including special characters in HTML
 
+- In HTML, the characters `<`, `>`, `"`, and `&` are special characters.
+
+| Literal character | Character reference equivalent |
+| ----------------- | ------------------------------ |
+| <                 | `&lt;`                         |
+| >                 | `&gt;`                         |
+| "                 | `&quot;`                       |
+| '                 | `&apos;`                       |
+| &                 | `&amp;`                        |
+
