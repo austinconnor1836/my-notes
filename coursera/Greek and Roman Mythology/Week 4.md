@@ -42,3 +42,56 @@
 - birds are being talked about
 - Telyclyminous talks about prophecies due to signs
 - Odysseus' inner circle are reading these signs, the suitors are not
+### 4.3 What Does Penelope Know?
+
+- Penelope is busy with her weaving and her cleverness
+- She might know more than appears at first
+- Athena tells her it is time for this thing with the suitors to come to a head
+- Penelope asks for gifts for her hand in marriage
+- She tells a lie that Odysseus told her that once Telemachus had a beard, she should take another man in marriage
+- Penelope is lying with something else in mind
+- This also could be that the one stranger, Odysseus, if you are Odysseus, you will know that this is a lie.
+  - she is cluing Odysseus
+  - he will have to compete for her by winning the ax trick
+- book 19, Penelope and Odysseus come together, him still looking like a stranger
+- she does not want to tip off the serving maids as they would tip off the suitors
+- she asks of his name, lineage, and past
+- she tells of her own weaving and unweaving
+- he tells her that he has seen Odysseus at Dodona, but said he is wondering if he should come back in disguise or straight away
+- Penelope is getting the message that he will be cautious upon his return
+- She then tests him whether he knows Odysseus by questioning what Odysseus wore
+- Both of them are very cautious due to the danger surrounding them
+- Homer hints that Penelope sort of knows that these suitors are about to go down
+
+### 4.4 The Scar
+
+- Penelope has heard the story from the stranger and is unsure whether to trust it
+- She offers for him to sleep in the inner room and wash his feet
+- the maid, Eurycleia, raised Odysseus, and she knows about the scar
+- a scar is a story, a trace of a remnant past
+- Odysseus fears she will know it is him
+- Eurycleia already says how much his build resembles Odysseus' build
+- a boar is a very dangerous creature and good food
+- the boar gets a gore out of Odysseus
+- **Odysseus gets his name from this: "Son of Pain" from his paternal grandfather**
+- Odysseus earned his own name from this scar
+- the boar is waiting in a thicket, very similar to the thicket Odysseus had hidden in book 5
+- Homer uses the same 4 lines to describe the thickets in both cases
+- Odysseus here is **tied to the boar**
+- Eurycleia knows now that the person whose feet she is washing is indeed Odysseus
+- he threatens Eurycleia that he will kill her if she shares the secret, even though she is so intimate to him
+
+### 4.5 Penelope's Dream
+
+- **Universal Law #6: Secrecy creates intimacy**
+  - corollary, must be careful though, if you want to flirt with someone, tell them you had a dream about them
+- she asks the stranger, Odysseus, to interpret a dream for her
+- the dream is an eagle swooping down to kill the geese eating in her courtyard and the eagle comes to her and says, "I am Odysseus come to free you"
+- She is also asking the stranger, Odysseus, to be the eagle
+- Odysseus is kind of at a loss of words, who is a great talker
+- Odysseus was looking at her with the gate of horn, Penelope is sitting on ivory
+- Gate of ivory, dreams turn out to be false, gate of horn, dreams are true
+- Penelope is testing Odysseus
+- very subtle
+- the dream is a world that is packed with hidden meanings
+
