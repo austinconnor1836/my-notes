@@ -123,3 +123,30 @@ The book ends with King Alcinous asking Odysseus to tell them about his life, wh
 ### Book 16: Father and Son
 
 Line 20 - Eumaeus wept and sobbed, his words flew from the hear: "You're home Telemachus, sweet light of my eyes!.. "
+
+### Book 20: Portents Gather
+
+Rather than accepting the bed Penelope offers to Odysseus, the stranger to her, he prefers to lay down on an ox hide in the entry way.
+
+Eurycleia, the best of women, the maids
+
+Philoetius, the good cowherd, pledges he would fight alongside Odysseus if he were indeed to return to his great halls.
+
+As the suitors plot to kill Telemachus, an eagle flies past clutching a trembling dove.
+
+Telemachus addresses the suitors with daring, much different than how he addressed them earlier in the book.
+
+Ctesippus, a lawless boor, home made in Same, a fellow so impressed with his own astounding wealth, another suitor to Penelope, flung an oxhoof out of a basket at Odysseus, the stranger, although Odysseus managed to duck.
+
+### Book 21: Odysseus Strings His Bow
+
+Penelope sets the bow and the iron axes before her suitors.
+
+Heracles, son of Zeus, the past master of monstrous works who killed the man a guest in his own house. Brutal.
+
+King Odysseus only took out the bow he received as a gift from Iphitus on hunts at home, since he guarded the memory of a cherished friend.
+
+### Book 22: Slaughter in the Hall
+
+### Book 23: The Great Rooted Bed
+

@@ -95,3 +95,21 @@
 - very subtle
 - the dream is a world that is packed with hidden meanings
 
+### 4.6 The Bow
+
+- no one is strong enough to string the bow, except the stranger, Odysseus
+- the intimacy Odysseus has with the bow is that of a creator
+- he plucks it like a lyre
+- Odysseus turns and nods at Telemachus, bringing him into the inner circle, hinting for him to prepare for action
+
+- nasty, gruesome, and graphic
+- Odysseus lets the poet live (hint hint, from Homer the poet)
+- Homer shows us Odysseus' mercilessness
+- he punishes the unfaithful maids in a gruesome manner
+- still, Odysseus, separates himself from the gods, he is doing the will of the gods
+- **the divine required this, and he says he is not divine**
+- the gods will use his hands to execute their demands, this is what Heroes think
+- Odysseus still has to earn his way into the bed of Penelope
+
+### 4.7 The Great Rooted Bed
+
