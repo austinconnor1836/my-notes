@@ -431,4 +431,44 @@ Anchoring: anchor a color palette to one color
   - Hodor Ipsum
   - Pirate Ipsum
   - Slipsum (Samuel L. Jackson Ipsum)
-- 
+
+## Inspiration
+
+### Remixing
+
+#### Look around, find your heroes
+
+Get inspired by multiple sources
+
+- Dribbble
+- Behance
+- CodePen
+- Glitch
+- CodeSandbox
+
+Wait...
+
+- find what is appealing to you and sleep on it
+
+Work from memory, not directly
+
+Revisit: if it's too close, change it or toss it
+
+#### Look at other disciplines for inspiration
+
+Don't confine to just the web
+
+#### Master copies
+
+Just like reverse engineering, copying existing work can help you learn. But you can't claim it as your own.
+
+They are trying to understand how it was constructed.
+
+### Sources of Inspiration
+
+Give n' Go: https://give-n-go.co
+
+
+
+
+

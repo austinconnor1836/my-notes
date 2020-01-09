@@ -2,7 +2,6 @@
 
 ## Week 4
 
-<<<<<<< HEAD
 ### 4.1 Odysseus Meets the Suitors
 
 - Odysseus begins making his way to the center of his town
@@ -112,4 +111,14 @@
 - Odysseus still has to earn his way into the bed of Penelope
 
 ### 4.7 The Great Rooted Bed
+
+### 4.7 Reunion (Almost)
+
+- Penelope's dream literally becomes a reality
+- Odysseus will have to pass the final test Penelope gives him
+- Penelope has a different sign of who she is and who Odysseus is, other than Odysseus' scar
+- the final sign is her bed
+- the bed is rooted, the olive tree in the room is alive and is part of the bed
+- Penelope said we can move the bed for him but Odysseus knows and says, "You can't move the bed."
+- She also shows that she has kept the bed sacred and secret to only her and Odysseus.
 

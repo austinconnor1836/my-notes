@@ -150,3 +150,5 @@ King Odysseus only took out the bow he received as a gift from Iphitus on hunts 
 
 ### Book 23: The Great Rooted Bed
 
+### Book 24: Peace
+
