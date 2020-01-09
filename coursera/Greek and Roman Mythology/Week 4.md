@@ -2,6 +2,7 @@
 
 ## Week 4
 
+<<<<<<< HEAD
 ### 4.1 Odysseus Meets the Suitors
 
 - Odysseus begins making his way to the center of his town
