@@ -47,3 +47,56 @@ Much like Homer's epics, Hesiod's *Theogony* must stand not at the beginning but
 
 First Olympian generation: Hestia, Demeter, Hera, Hades, Poseidon, and Zeus.
 
+Hesiod, unlike Homer, displays little interest in the Olympians and the capricious side of their behavior. **He is more interested in the gradual evolution of the order that was finally established by Zeus and in the conflict of a world that is not static but dynamic.**
+
+Hesiod's idea of the birth of the world has no truly metaphysical dimension. It is a physical world born not **_ex nihilo_** but **_ex ignoto_**, "from the unknown."
+
+There is no myth that accounts for the creation of man.
+
+
+
+## Theogony
+
+Zeus subdued Kronos to establish his supremacy.
+
+Kings are from the line of Zeus.
+
+Muses relieve men from their sorrows, to help them forget for awhile.
+
+Chaos was born first and after it came Gaia
+
+Then Eros.
+
+Chaos gave birth to **Erebos** and **black Night**.
+
+Then **Erebos** mated with **Night** and gave birth to **Ether** and **Day**.
+
+**Gaia** first gave birth to starry **Ouranos**. Then to the tall mountains, then she bore **Pontos**, the barren sea with its raging swell.
+
+**Gaia** did not mate in sweet love to give birth to them.
+
+She then did couple with **Ouranos** to bear deep-eddying **Okeanos**, **Koios** and **Kreios**, **Hyperion** and **Iapetos**, **Theia** and **Rheia**, **Themis** and **Mnemosyne**, as well as gold-wreathed **Phoibe** and lovely **Tethys**.
+
+She gave birth to her last child, **Kronos**, the sinuous-minded, a most fearful child who hated his mighty father.
+
+Then she bore the **Kyklopes**, haughty in their might, **Brontes**, **Steropes**, and **Arges** of the spirit who made and gave to **Zeus** the crushing thunder. In all other respects they were like gods, but they had one eye in the middle of their foreheads, hence the name **Kyklopes**.
+
+They had inventive skill and strength and power in their deeds.
+
+The offspring of **Gaia** all conspired against **Ouranos**, as they hated him, and hacked off his genitals when he came to **Gaia** looking for love.
+
+**Kronos** tossed the genitals into the ocean. They were carried by the sea a long time and all around them a white foam rose from the god's flesh, and in this foam, the majestic and fair goddess **Aphrodite** came out.
+
+**Aphrodite** because she grew out of *aphros*, foam, that is.
+
+She is called Philommedes, fond of a man's genitals, because to them she owed her birth.
+
+The power she has had from the start and her share in the lives of men and deathless gods:
+
+from her come young girls' whispers and smiles and deception and honey-sweet love and its joyful pleasures.
+
+**Ouranos** called his offspring Titans because he said they had, with reckless power, overreached him to do a monstrous thing that would be avenged someday.
+
+**Night** gave birth to hideous **Moros** and **black Ker** and then to **Death** and **Sleep** and to the **brood of Dreams**.
+
+Then loathsome **Strife** bore **Ponos**, the bringer of pains, **Oblivion** and **Famine** and the tearful **Sorrows**, the **Clashes** and the **Battles** and the **Manslaughters**, the **Quarrels** and the **Lies** and **Argument** and **Counter-Argument**, **Lawlessness** and **Ruin** whose ways are all alike, and **Oath**, who, more than any other, brings pains on mortals who of their own accord swear false oaths.
