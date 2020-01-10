@@ -33,3 +33,13 @@ These following tips are useful to build trust and authenticity between search e
 
 ### Long Tail Keywords
 
+![search demand curve](/home/austin/repos/my-notes/frontendmasters/Modern Search Engine Optimization (SEO)/images/search-demand-curve.png)
+
+- very specific keywords to what you are selling are the most profitable
+- "learn javascript" vs "SEO metadata video course"
+- you want very specific keywords related to your business rather than broad keywords (a lot of competition over them)
+
+### SEO Traditional Tools
+
+- Discover relevant keywords: <u>Google Keyword Planner</u>
+- <u>Google Trends</u>

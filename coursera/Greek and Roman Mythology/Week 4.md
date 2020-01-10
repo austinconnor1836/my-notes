@@ -122,3 +122,7 @@
 - Penelope said we can move the bed for him but Odysseus knows and says, "You can't move the bed."
 - She also shows that she has kept the bed sacred and secret to only her and Odysseus.
 
+### 4.8 Reunion
+
+- tales about Odysseus' story are talked about everywhere, in Olympus, in the Underworld, in our world
+- 
