@@ -33,6 +33,7 @@ These following tips are useful to build trust and authenticity between search e
 
 ### Long Tail Keywords
 
+<<<<<<< Updated upstream
 ![search demand curve](/home/austin/repos/my-notes/frontendmasters/Modern Search Engine Optimization (SEO)/images/search-demand-curve.png)
 
 - very specific keywords to what you are selling are the most profitable
@@ -43,3 +44,16 @@ These following tips are useful to build trust and authenticity between search e
 
 - Discover relevant keywords: <u>Google Keyword Planner</u>
 - <u>Google Trends</u>
+=======
+- specific versus broad terms as broad terms are heavily competitive
+
+### Link Building Campaigns
+
+- Create 'key pages' for popular product and services on your website
+  - never change these URLs as you want to reference these a bunch
+- Focus inbound links to key pages to build higher ranking pages
+- 'Link velocity': rate at which a piece of content or a page earns links over time
+- Guest post on trustworthy industry/authority sites
+- Analyze competitors' link profile & identify link opportunities: <u>Spyfu</u>
+- 
+>>>>>>> Stashed changes

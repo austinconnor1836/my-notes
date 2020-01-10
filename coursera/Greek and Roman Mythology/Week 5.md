@@ -39,3 +39,22 @@
 - there isn't one, single true version of these myths
 - Hesiod is well-fed in antiquity and is authoritative
 - collection of disparate tales and occasionally, one comes along and marks a large stamp (as we will see with Ovid)
+
+### 5.4 Hesiod's Opening Hymn to the Muses
+
+- lived in central Greece
+- father came from modern-day Turkey
+  - we think he made a living at farming
+- Hesiod says he became a poet from the Muses that came down from Mt. Helicon
+- Hesiod has sort of an almanac theme in his "Works and Days"
+- Hesiod doesn't just jump into the middle of the story like Homer does, he starts by praising the Muses for 100 lines before saying goodbye to them (which is normal for Greek hymns)
+- Hesiod's opening fits the form of Homeric hymns
+- Homer has a single Muse, and he becomes a conduit for that Muse
+- Gives a fascinating meditation on the greatness of poetry
+- Can see backwards, present, and forward, like a prophet
+- Poets see things that normal people cannot and pass them on to immortalize them
+- Inspires what makes a great King, Hesiod elevates the importance of Poets on the same level of kings, a poet-king
+- a large purview makes a great ruler
+- we learn from the poets that Muses sing truths and sing lies
+- Hesiod has laid the setting for the Muses and for what is to come
+
