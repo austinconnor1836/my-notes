@@ -58,3 +58,45 @@
 - we learn from the poets that Muses sing truths and sing lies
 - Hesiod has laid the setting for the Muses and for what is to come
 
+### 5.5: Earth and Sky
+
+- how might they all fit together? This is the question Hesiod worked to answer
+- Hesiod's world reproduction comes through sex
+- In Hesiod's world, there is a pre-beginning consisting of 4 beings:
+  - **Chasm**
+    - Greek name: "Chaos"
+    - means "emptiness"
+    - best English translation is "Chasm"
+  - **Earth**
+  - **Tartara**
+    - an underworld, down below the regular upper world that we might know
+    - it is a scary place
+  - **Eros**
+    - abstract sexual desire
+    - not gentle love, but violent and sometimes dangerous
+    - cause destruction
+- They are just there, they existed since the beginning
+- **Chasm** alone produces, **Erebos** and **dark Night**
+- Night alone produces **Bright Air** and **Day** whom she bore in shared intimacy with **Erebos**
+- The "alpha" stage (taken from software)
+  - **Earth** produces **Sky** out of herself
+  - **Sky** then becomes her partner
+  - From them, **Titans** are born
+  - Famous monsters are created, like **Cyclops** and **One-hundred hands**
+- **Sky** and **Earth** are intimate with each other
+- **Earth** doesn't want **Sky** to be on top of her every night because he is stopping everything that she creates from coming out
+- **Sky** is also threatened by her offspring. He is trying to control it.
+- **Earth** gets her children to cut off **Sky's** genitals (**Kronos** does it)
+- **Kronos** hurls the genitals into the sea
+- This is deeply effective at disempowering the **Sky**
+- A bunch of principles/children come out of her every night
+- The genitals drop blood into the ocean
+  - they create the Eunauaes
+  - they are blood avengers
+- **Aphrodite** grows out of the foam, "aphros", from the genitals in the ocean
+  - not a gentle birth
+- **Parthenogenesis**: creation by oneself only
+- nasty creatures come from this stage of creation
+- also a long list of nymphs are created
+  - not associated with any negativity or violence
+- 

@@ -100,3 +100,13 @@ from her come young girls' whispers and smiles and deception and honey-sweet lov
 **Night** gave birth to hideous **Moros** and **black Ker** and then to **Death** and **Sleep** and to the **brood of Dreams**.
 
 Then loathsome **Strife** bore **Ponos**, the bringer of pains, **Oblivion** and **Famine** and the tearful **Sorrows**, the **Clashes** and the **Battles** and the **Manslaughters**, the **Quarrels** and the **Lies** and **Argument** and **Counter-Argument**, **Lawlessness** and **Ruin** whose ways are all alike, and **Oath**, who, more than any other, brings pains on mortals who of their own accord swear false oaths.
+
+**Kerberos**, the fifty-headed dog of **Hades**
+
+**Echidna**, half nymph and half snake, born from **Keto**.
+
+**Echidna** and **Typhaon**, the lawless and dreadful ravisher, produced **Kerberos**, the fifty-headed dog of **Hades**.
+
+**Rheia** produced with **Kronos** **Hestia**, **Demeter**, **Hera**, imperious **Hades**, **Earthshaker**, and **Zeus**.
+
+As **Kronos** was about to devour **Zeus**, **Rheia** flew to Crete and placed in a cave lodged deep within a sheer cliff of densely wooded Mount Aigaion.
