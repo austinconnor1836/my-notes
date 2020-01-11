@@ -119,4 +119,20 @@ And you should use inspiration more frequently:
 
 Start conversations with mostly invitations and then move to mostly inspirations, because this starts with the focus on your partner, not you.
 
-Starting with inspirations puts the focus on you first.
+Starting with inspirations puts the focus on you first. You don't want to seem self-centered.
+
+Now, once you know someone well, you don't need to worry about this as much.
+
+But as a general rule, it's always safe to start with more invitations and omve to more inspirations.
+
+### The Deli, Day 2
+
+Be specific in your response to how your weekend was because it gives plenty of things for your partner to choose from to ask you about.
+
+You don't need to inspire curiosity and thoughts and story-sharing all at the same time. The important thing is that you shared something about yourself, and you created a space where your partner could share something about themselves.
+
+Combine inspiration with invitation, and you now have the tools to make sure that every one of your conversations flows smoothly and feels natural.
+
+Instructions for how to use those tools is very simple:
+**Each time that you speak, either give your partner an explicit invitation to speak, or share something that inspires your partner to share in return.**
+
