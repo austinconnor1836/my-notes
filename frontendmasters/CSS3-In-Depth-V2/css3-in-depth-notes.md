@@ -305,3 +305,24 @@ Based on current state of UI:
 `input:valid { border: 1px solid green; }`
 
 - if the input is valid, it has a border that is green
+
+### Structural Selectors
+
+```css
+:root
+:empty
+:blank
+:nth-child()
+:nth-last-child()
+:first-child*
+:last-child
+:only-child
+:nth-of-type()
+:nth-last-of-type()
+:first-of-type
+:last-of-type
+:only-of-type
+```
+
+- target elements on the page based on their relationships to other elements in the DOM
+- 
