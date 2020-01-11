@@ -70,3 +70,53 @@ However, as handy as invitations are, you can't build an entire conversation out
 When you want to inspire your partner, be deliberate to share something that might inspire them to share their **curiosity**, their **thoughts**, or their **story**.
 
 - these are not the only ways to inspire your partner--anything that encourages your partner to share is an inspiration.
+
+#### Inspire Them To Share Their Curiosity
+
+Share something they want to know about. Use your knowledge of the other person to guide you as you craft great inspirations.
+
+Just make an honest effort to think about what the other person would be interested in, and you will usually end up ok.
+
+#### Inspire Them To Share Their Thoughts
+
+When you share your thoughts, it encourages your partner to share their own.
+
+Be careful. if you sound like you're lecturing when you share your thoughts, or you belittle people who disagree with you, your partner will not feel comfortable to share their own thoughts.
+
+Ask your friends and family for honest feedback on how well you welcome the thoughts and opinions of others. You might be doing something unconscious that causes others to feel uncomfortable.
+
+#### Inspire Them To Share Their Story
+
+The best way to inspire your partner to share their story is to share your own story, things like marriage, graduation, your years in high school, etc.
+
+Talking about why Captain Kirk could totally beat up Han Solo does not count as your story (because you're not talking about you!).
+
+Remember the rules of intimacy from before: if you just met this person, it is probably best not to share a really private part of your story. Over time, you can share more intimate details.
+
+### Invitation and Inspiration In Harmony
+
+Great conversations need both invitation and inspiration.
+
+A conversation based entirely around invitations can sound like an interview--nothing but questions and answers. And conversations based entirely around inspirations are hard to do--what happens when you attempt to inspire your partner and they don't respond?
+
+Invitations add **guidance and structure** to a conversation, and inspirations add **intimacy and flexibility**.
+
+In general, this means you should start conversations with mostly invitations, and use more inspirations as the conversation progresses.
+
+You should use invitations more frequently:
+
+- When the conversation begins
+- When you don't know the other person very well
+- When your partner doesn't seem to know what to say next
+
+And you should use inspiration more frequently:
+
+- After your partner has shared something personal with you
+- After your partner has asked you a personal question
+- After you've gotten to know your partner better.
+
+#### Moving Between Invitation and Inspiration
+
+Start conversations with mostly invitations and then move to mostly inspirations, because this starts with the focus on your partner, not you.
+
+Starting with inspirations puts the focus on you first.

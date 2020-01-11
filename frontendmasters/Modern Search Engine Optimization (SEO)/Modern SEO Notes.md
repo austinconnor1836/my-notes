@@ -55,3 +55,28 @@ These following tips are useful to build trust and authenticity between search e
 - 'Link velocity': rate at which a piece of content or a page earns links over time
 - Guest post on trustworthy industry/authority sites
 - Analyze competitors' link profile & identify link opportunities: <u>Spyfu</u>
+### Metadata Tools
+
+- Google Structured Data Testing tool - https://search.google.com/structured-data/testing-tool
+- SEO META chrome extension - http://www.seo-extension.com
+- Facebook Opengraph debugger - https://developers.facebook.com/tools/debug
+- Twitter Card Validator - https://cards-dev.twitter.com/validator
+- Pinterest Rich Card debugger - https://developers.pinterest.com/tools/url-debugger
+  - need permission from Pinterest to use this
+
+
+
+### Structured Data
+
+#### What's Structured Data?
+
+- Information that crawlers are already looking for, and can easily read
+- Consistent structure, across many web properties
+- Preferred format: JSON-LD in a special script tag
+
+#### What does this get us?
+
+- Enhanced features in apps
+- Indexers don't have to guess so much about connections between things
+- More control over the way search results look
+
