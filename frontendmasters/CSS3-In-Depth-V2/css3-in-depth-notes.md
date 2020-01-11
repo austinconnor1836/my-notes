@@ -260,3 +260,48 @@ Only relevant if attribute value is case sensitive (HTML elements are not case s
 
 `abbr[title*=UNICORN i] {}`: case insensitive
 
+### UI Pseudo-classes
+
+#### User Interface Selectors
+
+`+`: immediately after
+
+```css
+input[type=checkbox]:checked + label {
+    color: red;
+}
+```
+
+- any label that comes immediately after a checked input of type `checkbox`
+
+Based on current state of UI:
+
+- `:enabled`
+- `:disabled`
+- `:checked`
+- `:indeterminate (Level 4)`
+
+#### Form related UI pseudo-classes
+
+```css
+:default
+:valid
+:invalid
+
+:required
+:optional
+
+:in-range
+:out-of-range
+
+:read-only
+:read-write
+
+:placeholder-shown
+
+:user-error or :user-invalid
+```
+
+`input:valid { border: 1px solid green; }`
+
+- if the input is valid, it has a border that is green
