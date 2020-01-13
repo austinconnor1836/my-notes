@@ -143,3 +143,19 @@ For both "liberals" and "conservatives," the state becomes the main driver of in
 
 #### Philosophical Sources and Practical Implications--Classical Liberalism
 
+Liberalism establishes a deep and profound connection: its ideal of liberty can be realized only through a powerful state.
+
+#### Philosophical Sources and Practical Implications--Progressive Liberalism
+
+Democracy could no longer mean individual self-reliance based upon the freedom of individuals to act in accordance with their own wishes. Instead, it must be infused with a social and even religious set of commitments that would lead people to recognize their participation in the "brotherhood of mankind."
+
+Walter Rauschenbusch was to echo this sentiment in his call to establish the "Kingdom of God" on earth, a new and more deeply social form of democracy that "would not accept human nature as it is, but move it in the direction of its improvement."
+
+Only through overcoming classic liberalism can progressive liberalism emerge, according to these thinkers.
+
+#### Creating the Individual
+
+At the heart of liberal theory and practice is the preeminent role of the state as agent of individualism.
+
+**This very liberation in turn generates liberalism's self-reinforcing circle, wherein the increasingly disembedded individual ends up strengthening the state that is its own author.**
+
