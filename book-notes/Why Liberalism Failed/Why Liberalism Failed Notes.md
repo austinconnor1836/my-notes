@@ -97,3 +97,49 @@ Liberalism encourages loose connections.
 
 #### The War Against Nature
 
+Liberal philosophy reject this requirement of human self-limitation of Aristotle's *Ethics* and St. Thomas Aquinas' *Theologiae*.
+
+It displaced first the idea of a natural order to which humanity is subject and later the notion of human nature itself.
+
+The first wave of this revolution--inaugurated by early-modern thinkers dating back to the Renaissance--**insisted that man should employ natural science and a transformed economic system to seek mastery of nature.**
+
+The second wave--developed largely by various historicist schools of thought, especially in the nineteenth century--**replaced belief in the idea of a fixed human nature with belief in human "plasticity" and capacity for moral progress.**
+
+These two iterations of liberalism are often labeled "conservative" and "progressive".
+
+Francis Bacon (Hobbes was Bacon's secretary) was the first who attacked these principles, arguing that the human capacity to "master" or "control" nature could go so far to reversing the effects of the Fall, including even the possibility of overcoming human mortality.
+
+The second wave consisted of thinkers ranging from Rousseau to Marx, from Mill to Dewey, and from Richard Rorty to contemporary "transhumanists" reject the idea that human nature is fixed. They adopt the first-wave theorists' idea that nature is subject to human conquest and apply it to human nature itself.
+
+Conservatives, first wave theorists, argue the need of scientific and economic mastery of nature but stop short of most forms of biotechnological "enhancement".
+
+Second wave liberals are for liberating humans from the biological nature of our own bodies.
+
+**Liberalism rejects the ancient conception of liberty as the learned capacity of human beings to conquer the slavish pursuit of base and hedonistic desires. This kind of liberty is a condition of self-governance of both city and soul, drawing closely together the individual cultivation and practice of virtue and the shared activities of self-legislation.**
+
+Liberalism instead understands liberty as the condition in which one can act freely within the sphere unconstrained by positive law.
+
+As the authority of social norms dissipates, they are increasingly felt to be residual, arbitrary, and oppressive, motivating calls for the state to actively work toward their eradication.
+
+Liberalism thus culminates in two ontological points: the liberated individual and the controlling state.
+
+Liberalism can function only by the constant increase of available and consumable material goods, and thus with the constant expansion of nature's conquest and mastery.
+
+<u>**No person can aspire to a position of political leadership by calling for limits and self-command.**</u>
+
+Liberalism's end game is unsustainable in every respect: **it cannot perpetually enforce order upon a collection of autonomous individuals increasingly shorn of constitutive social norms, nor can it provide endless material growth in a world of limits. We can either elect a future of self-limitation born of the practice and experience of self-governance in local communities, or we can back inexorably into a future in which extreme license coexists with extreme oppression.**
+
+## Chapter 2: Uniting Individualism and Statism
+
+**The project of advancing the liberal order takes the superficial form of a battle between seemingly intractable foes, and the energy and acrimony of that contest shrouds a deeper cooperation that ends up advancing liberalism as a whole.**
+
+These apparently contrary positions are familiar to even the casual observer of contemporary American politics, with conservatives--heirs to classical liberalism--typically decrying statism and liberals--heirs to progressivism--criticizing individualism.
+
+This deeper continuity between right and left derives from two main sources: first, philosophical, with both the classical and progressive liberal traditions arguing ultimately for the central role of the state in the creation and expansion of individualism; and second, practical and political, with this joint philosophical project strengthening an expansion of both state power and individualism. **The two "sides" of liberalism, while apparently locked in intense contestation, together advance the main objects of the liberal project.**
+
+**Thus classical liberals claim that the individual is fundamental and, through an act of contract and consent, brings into existence a limited government. Progressive liberals claim that the individual is never wholly self-sufficient, and that we must instead understand ourselves to be more deeply defined by membership in a larger unit of humanity.**
+
+For both "liberals" and "conservatives," the state becomes the main driver of individualism, while individualism becomes the main source of expanding power and authority of the state.
+
+#### Philosophical Sources and Practical Implications--Classical Liberalism
+

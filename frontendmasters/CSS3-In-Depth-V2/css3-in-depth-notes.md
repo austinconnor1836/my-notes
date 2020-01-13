@@ -325,4 +325,165 @@ Based on current state of UI:
 ```
 
 - target elements on the page based on their relationships to other elements in the DOM
-- 
+
+
+
+```css
+body :last-child
+```
+
+- matches the last child
+
+```css
+body :last-of-type
+```
+
+- matches the last of any type within each div
+
+```css
+body .foo:last-child
+```
+
+- matches the last child of its parent and also has a class of `foo`
+
+```css
+body p.foo:last-child
+```
+
+- matches the last paragraph of its parent that also has a class of `foo`
+
+```css
+body :only-of-type
+```
+
+- matches elements that only have one instantiation inside its parent
+
+```css
+body :only-child
+```
+
+- matches elements that are the only child of its parent
+
+### nth-of-type Structural Selectors
+
+```css
+:nth-child(3n)
+:nth-last-child(odd)
+:nth-of-type(5)
+:nth-last-of-type(3n+1)
+```
+
+General solutions:
+
+```css
+:nth-of-type(even)
+:nth-of-type(odd)
+:nth-of-type(an+b)
+```
+
+### Flag with Structural Selectors
+
+```css
+td {color: #fff; background-color: #fff;}
+tr:nth-of-type(odd) td:nth-of-type(8) ~ td,
+tr:nth-of-type(2n+9) td {
+	background-color: #900; color: #900;
+}
+tr:nth-last-of-type(n+7) td:nth-last-of-type(n+9) {
+	background-color: #009;
+	font-size: 0;
+	color: #009;
+}
+tr:nth-last-of-type(n+7) td:nth-last-of-type(n+9):after {
+	content: '\2605';
+	font-size: 15px;
+	color: white;
+}
+tr:nth-last-of-type(2n+7) td:after {
+	position: relative; left: 14px;
+}
+	}
+```
+
+```htm
+<table cellpadding="0" border="0">
+    <tbody><tr><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td></tr>
+      <tr><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td></tr>
+      <tr><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td></tr>
+      <tr><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td></tr>
+      <tr><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td></tr>
+      <tr><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td></tr>
+      <tr><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td></tr>
+      <tr><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td></tr>
+      <tr><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td></tr>
+      <tr><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td></tr>
+      <tr><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td></tr>
+      <tr><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td></tr>
+      <tr><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td></tr>
+      <tr><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td></tr>
+      <tr><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td></tr>
+      <tr><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td></tr>
+      <tr><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td></tr>
+      <tr><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td></tr>
+      <tr><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td></tr>
+      <tr><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td></tr>
+      <tr><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td></tr>
+    </tbody>
+  </table>
+```
+
+### Root, Empty & Blank
+
+```css
+:root
+```
+
+- matches the `root` element, which is `<html>`
+
+#### :empty & :blank pseudo-classes
+
+```css
+E:empty
+```
+
+- elements that are self-closing, are empty elements, like an image or an input
+
+- element with no content inside is also empty
+
+- only a comment is also empty
+
+- if only has whitespace, it is blank, not empty and it is not supported
+
+- ```htm
+  <E/>
+  <E></E>
+  <E><!-- this is a comment --></E>
+  <E title="this is an empty element"/>
+  ```
+
+```css
+E:blank
+```
+
+```html
+<E>  <!-- only has whitespace -->  </E>
+```
+
+### Negation, Matching & Parent
+
+#### :not - Negation pseudo-class
+
+```css
+E:not(s1)
+```
+
+- matches any element that is not also matched by `s1`
+
+  - `s1` is a simple selector (no combinators)
+
+- ```css
+  div:not(.excludeMe)
+  ```
+
+- supported for a long time, since IE 9
+

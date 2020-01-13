@@ -36,3 +36,5 @@ Hera's son, Hephaestus, pleads to Hera to resolve her issues with Zeus.
 
 ## Book 2: The Great Gathering of Armies
 
+Zeus ponders how to exalt Achilles to fulfill the promise he made to Thetis. He decides to send a false hope to Agamemnon through a Dream to immediately proceed to sack Troy.
+
