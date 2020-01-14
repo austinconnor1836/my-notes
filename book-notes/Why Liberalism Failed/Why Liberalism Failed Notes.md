@@ -159,3 +159,4 @@ At the heart of liberal theory and practice is the preeminent role of the state 
 
 **This very liberation in turn generates liberalism's self-reinforcing circle, wherein the increasingly disembedded individual ends up strengthening the state that is its own author.**
 
+Just as the potential of a plant or animal isn't possible without cultivation, so it was readily understood that the human creature's best potential simply could not be realized without good culture.

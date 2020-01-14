@@ -32,3 +32,53 @@ In his book *Getting Through to People*, Dr. Gerald S. Nirenberg commented: "Coo
 
 **<u>Principle 8:</u> Try honestly to see things from the other person's point of view.**
 
+## 9: What Everybody Wants
+
+Magic phrase to stop arguments, eliminate ill feeling, create good will, and make the other person listen attentively: **"I don't blame you one iota for feeling as you do. If I were you I would undoubtedly feel just as you do."**
+
+Three-fourths of the people you will ever meet are hungering and thirsting for sympathy. Give it to them, and they will love you.
+
+Because he had apologized and sympathized with her point of view, she began apologizing and sympathizing with my point of view.
+
+Dr. Arthur I. Gates said in his splendid book *Educational Psychology*: "Sympathy the human species universally craves. The child eagerly displays his injury; or even inflicts a cut or bruise in order to reap abundant sympathy. For the same purpose adults...show their bruises, relate their accidents, illness, especially details of surgical operations. 'Self-pity' for misfortunes real or imaginary is, in some measure, practically a universal practice."
+
+So if you want to win people to your way of thinking, put in practice...
+
+**<u>Principle 9</u>: Be sympathetic with the other person's ideas and desires.**
+
+## 10: An Appeal That Everybody Likes
+
+The fact is that all people you meet have a high regard for themselves and like to be fine and unselfish in their own estimation, even people like Jesse James.
+
+J.P. Morgan observed that a person usually has two reasons for doing a thing: one that sounds good and a real one.
+
+The person himself will think of the real reason. You don't need to emphasize that. But all of us, being idealists at heart, like to think of motives that sound good.
+
+So, in order to change people, **appeal to the nobler motives.**
+
+**<u>Principle 10</u>: Appeal to the nobler motives.**
+
+## 11: The Movies Do It. TV Does It. Why Don't You Do It?
+
+Merely stating a truth isn't enough. The truth has to be made vivid, interesting, dramatic. You have to use showmanship. The movies do. Television does it. And you will have to do it if you want attention.
+
+You can dramatize your ideas in business or in any other aspect of your life.
+
+**<u>Principle 11</u>: Dramatize your ideas.**
+
+## 12: When Nothing Else Works, Try This
+
+Let Charles Schwab say the principle in his own words: "The way to get things done," says Schwab, "is to stimulate competition. I do not mean in a sordid, money-getting way, **but in the desire to excel.**"
+
+"All men have fears, but the brave put down their fears and go forward, sometimes to death, but always to victory" - motto of the King's Guard in ancient Greece
+
+What greater challenge can be offered than the opportunity to overcome those fears?
+
+This is what every successful person loves: the game. The chance for self-expression. The chance to prove his or her worth, to excel, to win.
+
+**<u>Principle 12</u>: Throw down a challenge.**
+
+
+
+## Part 4 - Be a Leader: How to Change People Without Giving Offense or Arousing Resentment
+
