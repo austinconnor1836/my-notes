@@ -82,3 +82,38 @@ This is what every successful person loves: the game. The chance for self-expres
 
 ## Part 4 - Be a Leader: How to Change People Without Giving Offense or Arousing Resentment
 
+## 1: If You Must Find Fault, This Is the Way to Begin
+
+**It is always easier to listen to unpleasant things after we have heard some praise of our good points.**
+
+A barber lathers a man before he shaves him.
+
+Beginning with praise is like the dentist who begins his work with Novocain. The patient still gets a drilling, but the Novocain is pain-killing. A leader will use...
+
+**<u>Principle 1</u>: Begin with praise and honest appreciation.**
+
+## 2: How to Criticize--and Not Be Hated for It
+
+Change the word "but" to "and" when giving criticism, mixing in praise to the critique.
+
+Call attention to one's indirectly.
+
+An effective way to correct others' mistakes is...
+
+**<u>Principle 2</u>: Call attention to people's mistakes indirectly.**
+
+## 3: Talk About Your Own Mistakes First
+
+Begin your criticism by talking about your own shortcomings and the other person's superiority--not by intimating that the person was a half-wit in need of a guardian.
+
+A good leader follows this principle:
+
+**<u>Principle 3</u>: Talk about your own mistakes before criticizing the other person.**
+
+## 4: No One Likes to Take Orders
+
+Give suggestions, not orders.
+
+Say "You might consider this," or "Do you think that would work?" instead of "Do this or do that" or "Don't do this or don't do that."
+
+A technique like that saves a person's pride and gives him or her a feeling of importance. It encourages cooperation instead of rebellion.
