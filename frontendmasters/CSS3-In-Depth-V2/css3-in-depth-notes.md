@@ -487,3 +487,163 @@ E:not(s1)
 
 - supported for a long time, since IE 9
 
+#### :matches(s1, s2)
+
+- we don't have this yet (is active in Safari)
+- works well for long class names and many of them
+
+```css
+li:matches([title], [role]) a {}
+```
+
+- equivalent to:
+
+  ```css
+  li[title] a,
+  li[role] a {}
+  ```
+
+```css
+:matches(#home, #contact) aside :matches(a:active, a:focus) {}
+```
+
+- equivalent to:
+
+  ```css
+  #home aside a:active,
+  #contact aside a:active,
+  #home aside a:focus,
+  #contact aside a:focus {}
+  ```
+
+#### Experimental :any
+
+- similar to `:matches`
+
+- Chrome and Android:
+
+  ```css
+  :-webkit-any(article, aside) :-webkit-any(article, aside) h1,
+  :-moz-any(article, aside) :-moz-any(article, aside) h1 {
+  }
+  ```
+
+  - equivalent to:
+
+    ```css
+    nav a:not(:matches(.foo, .bar, .bam)),
+    nav a:not(:-webkit-any(.foo, .bar, .bam)),
+    nav a:not(:-moz-any(.foo, .bar, .bam)),
+    nav a:not(.foo, .bar, .bam) {
+    }
+    nav a:not(.foo):not(.bar).not(.bam){
+    }
+    ```
+
+#### Parent Selector
+
+- **not supported in any browser currently**
+
+Contains a header:
+
+```css
+header:has(h1, h2, h3, h4, h5, h6)
+```
+
+Contains no headers:
+
+```css
+header:not(:has(h1, h2, h3, h4, h5, h6))
+```
+
+Contains something that is not a header:
+
+```css
+header:has(:not(h1, h2, h3, h4, h5, h6))
+```
+
+### Linguistic Pseudo classes
+
+CSS 2.1:
+
+```css
+html[lang|="en"]
+```
+
+- matches `en en-us en-uk`
+
+```css
+p:lang(en)
+```
+
+- specifies this particular paragraph is in English
+- language of this document is English at this time and place
+
+CSS Selectors Level 4
+
+```css
+:lang(*-ch)
+```
+
+- matches any chinese language (like UK English)
+
+```css
+:dir(ltr|rtl)
+```
+
+- left to right, right to left
+
+### Link, Location, and User Actions
+
+`:any-link` is the same as `:matches(:link, :visited)`
+
+`a` with an `href` attribute:
+
+```css
+:link
+:visited
+```
+
+#### User Action Pseudo Classes
+
+```css
+:hover
+:active
+:focus
+```
+
+- **always do `active` and `focus` together**
+
+#### :hover, :active, :focus
+
+```css
+a:visited:hover
+button:active:focus
+```
+
+**Never, ever, ever do...**
+
+```css
+*:focus { outline: none; }
+```
+
+- someone could see what color the link is to see if they have a Wells Fargo account
+
+#### Drag and Drop Pseudo Classes
+
+- `:drop`
+  - drop targets while the user is "dragging". Unfortunately, `dropzone` attribute is not yet supported
+- `:drop(active)`
+  - current drop target for the drag operation.
+- `:drop(valid)`
+  - drop target is valid for the object currently being dragged, like correct filetype.
+- `:drop(invalid)`
+  - drop target is invalid for the object currently being dragged, i.e...
+
+### Other Pseudo Classes
+
+#### :target
+
+```css
+:target
+```
