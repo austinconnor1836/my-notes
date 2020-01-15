@@ -325,4 +325,415 @@ Based on current state of UI:
 ```
 
 - target elements on the page based on their relationships to other elements in the DOM
-- 
+
+
+
+```css
+body :last-child
+```
+
+- matches the last child
+
+```css
+body :last-of-type
+```
+
+- matches the last of any type within each div
+
+```css
+body .foo:last-child
+```
+
+- matches the last child of its parent and also has a class of `foo`
+
+```css
+body p.foo:last-child
+```
+
+- matches the last paragraph of its parent that also has a class of `foo`
+
+```css
+body :only-of-type
+```
+
+- matches elements that only have one instantiation inside its parent
+
+```css
+body :only-child
+```
+
+- matches elements that are the only child of its parent
+
+### nth-of-type Structural Selectors
+
+```css
+:nth-child(3n)
+:nth-last-child(odd)
+:nth-of-type(5)
+:nth-last-of-type(3n+1)
+```
+
+General solutions:
+
+```css
+:nth-of-type(even)
+:nth-of-type(odd)
+:nth-of-type(an+b)
+```
+
+### Flag with Structural Selectors
+
+```css
+td {color: #fff; background-color: #fff;}
+tr:nth-of-type(odd) td:nth-of-type(8) ~ td,
+tr:nth-of-type(2n+9) td {
+	background-color: #900; color: #900;
+}
+tr:nth-last-of-type(n+7) td:nth-last-of-type(n+9) {
+	background-color: #009;
+	font-size: 0;
+	color: #009;
+}
+tr:nth-last-of-type(n+7) td:nth-last-of-type(n+9):after {
+	content: '\2605';
+	font-size: 15px;
+	color: white;
+}
+tr:nth-last-of-type(2n+7) td:after {
+	position: relative; left: 14px;
+}
+	}
+```
+
+```htm
+<table cellpadding="0" border="0">
+    <tbody><tr><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td></tr>
+      <tr><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td></tr>
+      <tr><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td></tr>
+      <tr><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td></tr>
+      <tr><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td></tr>
+      <tr><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td></tr>
+      <tr><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td></tr>
+      <tr><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td></tr>
+      <tr><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td></tr>
+      <tr><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td></tr>
+      <tr><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td></tr>
+      <tr><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td></tr>
+      <tr><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td></tr>
+      <tr><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td></tr>
+      <tr><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td></tr>
+      <tr><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td></tr>
+      <tr><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td></tr>
+      <tr><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td></tr>
+      <tr><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td></tr>
+      <tr><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td></tr>
+      <tr><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td><td>cell</td></tr>
+    </tbody>
+  </table>
+```
+
+### Root, Empty & Blank
+
+```css
+:root
+```
+
+- matches the `root` element, which is `<html>`
+
+#### :empty & :blank pseudo-classes
+
+```css
+E:empty
+```
+
+- elements that are self-closing, are empty elements, like an image or an input
+
+- element with no content inside is also empty
+
+- only a comment is also empty
+
+- if only has whitespace, it is blank, not empty and it is not supported
+
+- ```htm
+  <E/>
+  <E></E>
+  <E><!-- this is a comment --></E>
+  <E title="this is an empty element"/>
+  ```
+
+```css
+E:blank
+```
+
+```html
+<E>  <!-- only has whitespace -->  </E>
+```
+
+### Negation, Matching & Parent
+
+#### :not - Negation pseudo-class
+
+```css
+E:not(s1)
+```
+
+- matches any element that is not also matched by `s1`
+
+  - `s1` is a simple selector (no combinators)
+
+- ```css
+  div:not(.excludeMe)
+  ```
+
+- supported for a long time, since IE 9
+
+#### :matches(s1, s2)
+
+- we don't have this yet (is active in Safari)
+- works well for long class names and many of them
+
+```css
+li:matches([title], [role]) a {}
+```
+
+- equivalent to:
+
+  ```css
+  li[title] a,
+  li[role] a {}
+  ```
+
+```css
+:matches(#home, #contact) aside :matches(a:active, a:focus) {}
+```
+
+- equivalent to:
+
+  ```css
+  #home aside a:active,
+  #contact aside a:active,
+  #home aside a:focus,
+  #contact aside a:focus {}
+  ```
+
+#### Experimental :any
+
+- similar to `:matches`
+
+- Chrome and Android:
+
+  ```css
+  :-webkit-any(article, aside) :-webkit-any(article, aside) h1,
+  :-moz-any(article, aside) :-moz-any(article, aside) h1 {
+  }
+  ```
+
+  - equivalent to:
+
+    ```css
+    nav a:not(:matches(.foo, .bar, .bam)),
+    nav a:not(:-webkit-any(.foo, .bar, .bam)),
+    nav a:not(:-moz-any(.foo, .bar, .bam)),
+    nav a:not(.foo, .bar, .bam) {
+    }
+    nav a:not(.foo):not(.bar).not(.bam){
+    }
+    ```
+
+#### Parent Selector
+
+- **not supported in any browser currently**
+
+Contains a header:
+
+```css
+header:has(h1, h2, h3, h4, h5, h6)
+```
+
+Contains no headers:
+
+```css
+header:not(:has(h1, h2, h3, h4, h5, h6))
+```
+
+Contains something that is not a header:
+
+```css
+header:has(:not(h1, h2, h3, h4, h5, h6))
+```
+
+### Linguistic Pseudo classes
+
+CSS 2.1:
+
+```css
+html[lang|="en"]
+```
+
+- matches `en en-us en-uk`
+
+```css
+p:lang(en)
+```
+
+- specifies this particular paragraph is in English
+- language of this document is English at this time and place
+
+CSS Selectors Level 4
+
+```css
+:lang(*-ch)
+```
+
+- matches any chinese language (like UK English)
+
+```css
+:dir(ltr|rtl)
+```
+
+- left to right, right to left
+
+### Link, Location, and User Actions
+
+`:any-link` is the same as `:matches(:link, :visited)`
+
+`a` with an `href` attribute:
+
+```css
+:link
+:visited
+```
+
+#### User Action Pseudo Classes
+
+```css
+:hover
+:active
+:focus
+```
+
+- **always do `active` and `focus` together**
+
+#### :hover, :active, :focus
+
+```css
+a:visited:hover
+button:active:focus
+```
+
+**Never, ever, ever do...**
+
+```css
+*:focus { outline: none; }
+```
+
+- someone could see what color the link is to see if they have a Wells Fargo account
+
+#### Drag and Drop Pseudo Classes
+
+- `:drop`
+  - drop targets while the user is "dragging". Unfortunately, `dropzone` attribute is not yet supported
+- `:drop(active)`
+  - current drop target for the drag operation.
+- `:drop(valid)`
+  - drop target is valid for the object currently being dragged, like correct filetype.
+- `:drop(invalid)`
+  - drop target is invalid for the object currently being dragged, i.e...
+
+### Other Pseudo Classes
+
+#### :target
+
+```css
+:target
+```
+
+- https://estelle.github.io/cssmastery/selectors/#slide64
+
+#### :scope
+
+- just know it is in existence
+
+### Specificity
+
+- `*`: matches all elements, universal selector, `0-0-0`
+- column on left overwrites the column(s) to the right
+- we don't want to use sharks:
+  - `#myDiv`: `1-0-0`
+  - **it is hard to overwrite**
+- avoid `#divitis`
+- worse: `style=""`: inline style, `1-0-0-0`
+- never do `!important`: `1-0-0-0-0`
+  - she uses to debug
+- `*`, `+`, `>`, `~`: **Universal selector and combinators <u>do not increase specificity</u>**
+
+#### Specificity: How it works
+
+- `0-0-0`: **Global selector**
+- `1-0-0`: **ID selector**
+- `0-1-0`: **Class selector**
+- `0-0-1`: **Element selector**
+
+#### Avoid `!important`
+
+
+
+#### How to override `!important`
+
+```css
+li {
+    color: white !important;
+}
+```
+
+```css
+li {
+    animation: color forwards;
+}
+@keyframes color {
+    100% { color: #f50; }
+}
+```
+
+## Section: Pseudo-Elements
+
+- correct syntax for pseudo-elements includes two colons: `::`
+- *Pseudo-classes* select elements that already exist.
+- *Pseudo-elements* create "faux" elements you can style.
+
+- Pseudo-elements:
+
+  ```css
+  ::first-line
+  ::first-letter
+  ::selection (not in specification)
+  ::before
+  ::after
+  ```
+
+#### `::first-letter`
+
+![first letter](/home/austin/repos/my-notes/frontendmasters/CSS3-In-Depth-V2/images/first-letter.png)
+
+#### Before, After & Generated Content
+
+- content that doesn't exist, but you can add content to it
+- unlike `::first-line` and `::first-letter` since they both exist on the page
+
+#### Generated Content
+
+```css
+p:before {
+    content: 'this is before '
+}
+p:after {
+    content: ' this is after'
+}
+```
+
+Result:
+
+`this is before are this is after`
+
+#### Selection & More Pseudo-elements
+
