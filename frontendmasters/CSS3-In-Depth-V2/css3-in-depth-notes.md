@@ -647,3 +647,93 @@ button:active:focus
 ```css
 :target
 ```
+
+- https://estelle.github.io/cssmastery/selectors/#slide64
+
+#### :scope
+
+- just know it is in existence
+
+### Specificity
+
+- `*`: matches all elements, universal selector, `0-0-0`
+- column on left overwrites the column(s) to the right
+- we don't want to use sharks:
+  - `#myDiv`: `1-0-0`
+  - **it is hard to overwrite**
+- avoid `#divitis`
+- worse: `style=""`: inline style, `1-0-0-0`
+- never do `!important`: `1-0-0-0-0`
+  - she uses to debug
+- `*`, `+`, `>`, `~`: **Universal selector and combinators <u>do not increase specificity</u>**
+
+#### Specificity: How it works
+
+- `0-0-0`: **Global selector**
+- `1-0-0`: **ID selector**
+- `0-1-0`: **Class selector**
+- `0-0-1`: **Element selector**
+
+#### Avoid `!important`
+
+
+
+#### How to override `!important`
+
+```css
+li {
+    color: white !important;
+}
+```
+
+```css
+li {
+    animation: color forwards;
+}
+@keyframes color {
+    100% { color: #f50; }
+}
+```
+
+## Section: Pseudo-Elements
+
+- correct syntax for pseudo-elements includes two colons: `::`
+- *Pseudo-classes* select elements that already exist.
+- *Pseudo-elements* create "faux" elements you can style.
+
+- Pseudo-elements:
+
+  ```css
+  ::first-line
+  ::first-letter
+  ::selection (not in specification)
+  ::before
+  ::after
+  ```
+
+#### `::first-letter`
+
+![first letter](/home/austin/repos/my-notes/frontendmasters/CSS3-In-Depth-V2/images/first-letter.png)
+
+#### Before, After & Generated Content
+
+- content that doesn't exist, but you can add content to it
+- unlike `::first-line` and `::first-letter` since they both exist on the page
+
+#### Generated Content
+
+```css
+p:before {
+    content: 'this is before '
+}
+p:after {
+    content: ' this is after'
+}
+```
+
+Result:
+
+`this is before are this is after`
+
+#### Selection & More Pseudo-elements
+
