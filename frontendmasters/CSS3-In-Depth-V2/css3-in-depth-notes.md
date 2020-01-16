@@ -715,6 +715,25 @@ li {
 
 ![first letter](/home/austin/repos/my-notes/frontendmasters/CSS3-In-Depth-V2/images/first-letter.png)
 
+
+
+#### Selection & More Pseudo-elements
+
+#### Shadow DOM
+
+- Many, many more pseudo-elements with prefixes currently treated as a shadow DOM
+
+- ```css
+  ::-webkit-scrollbar
+  ::-webkit-scrollbar-track
+  ...
+  ```
+
+- the browser dev tools has many useful features
+  - look at the `computed` tag to view shadow DOM pseudo elements
+
+### Section: Generated Content
+
 #### Before, After & Generated Content
 
 - content that doesn't exist, but you can add content to it
@@ -731,9 +750,201 @@ p:after {
 }
 ```
 
+HTML:
+
+```html
+<p>the content</p>
+```
+
 Result:
 
-`this is before are this is after`
+`this is before the content this is after`
 
-#### Selection & More Pseudo-elements
+#### Values for content:
+
+- ```css
+  none
+  normal
+  string
+  image
+  counter
+  open-quote / close-quote
+  no-open-quote / no-close-quote
+  attr(X)
+  ```
+
+#### Counters
+
+```css
+body { counter-reset: sections; }
+header h1.sectiontitle:before {
+    content: "Part " counter(sections) ": ";
+    counter-increment: sections;
+}
+```
+
+- every time we hit a `section`, we reset the counter
+- useful naming Acts, and Sections of a play
+
+- `string` and `ident` are different
+  - `ident` does not have quotes, `string` does
+
+#### attr() support, or lack thereof
+
+Supported:
+
+```css
+attr( attrName )
+```
+
+Not yet supported:
+
+- ```css
+  attr( attrName unit? [ , fallback ]? )
+  ```
+
+- any use outside of `content:`
+
+Not yet here, will be in the future:
+
+```htm
+<p data-count="5">Hi</p>
+```
+
+```css
+width: attr(data-count em, auto);
+```
+
+- means the `width` will be `5 em`, otherwise the `width` will be `auto`
+
+#### Quotes & Attributes
+
+#### Quotes
+
+```css
+/* Specify pairs of quotes for two levels in two languages */
+:lang(en) > q { quotes: '"' '"' "'" "'" }
+:lang(fr) > q { quotes: "«" "»" "’" "’" }
+
+/* Insert quotes before and after Q element content */
+q::before { content: open-quote }
+q::after  { content: close-quote }
+```
+
+#### no-close-quote
+
+```html
+<article  lang="fr">
+  <p><q>As she lay her head on the pillow, she whispered in my ear, <q>Did you feed the cats?</q></q>
+
+<p><q>This wasn't the first time time she woke me up this way. Nor was it the most annoying.</q></p>
+  
+<p><q>Usually, she doesn't whisper, and rather jolts me awake with, <q>Did you check all the doors?</q></p>
+</article>
+```
+
+```css
+:lang(en) q { quotes: '"' '"' "'" "'" }
+:lang(fr) q { quotes: "«" "»" "‘" "’" }
+
+/* Insert quotes before and after Q element content */
+q::before { content: open-quote }
+q::after { content: close-quote }
+Xq:first-of-type::before  { content: no-open-quote }
+
+p {
+  font-size: 2em;
+  cont-family: georgia;
+}
+```
+
+#### Generated Content: Attribute Values
+
+`position: static` is default
+
+#### Generated Content: Counters
+
+```css
+body {counter-reset: invalidCount;}
+:invalid {
+  background-color: pink;
+  counter-increment: invalidCount;
+}
+p:before {
+  content: "You have " 
+      counter(invalidCount) " invalid entries";
+}
+```
+
+- whenever it hits the `body`, and there is only one `body`, it resets the counter
+- whenever there is an `invalid` input, it increments the counter with the name `invalidCount`
+
+```css
+body { counter-reset: pagecount; }
+p { 
+	counter-increment: pagecount;
+}
+p:after { color: magenta;
+  content: " " counter(pagecount);
+}
+```
+
+Result:
+
+```
+Paragraph 1
+Paragraph 2
+Paragraph 3
+Paragraph 4
+Paragraph 5
+```
+
+#### Generated Content: Images
+
+#### Play
+
+```css
+.showMe {
+	position:relative;
+}
+.showMe:hover::after {
+	position:absolute;
+	content: url(attr(data-url)); /* doesn't work */
+	content: url(estelle.svg); /* does work */
+	width: 200px;
+	height:200px; color: blue;
+	bottom: -39px;
+	left: 20px;	
+}
+```
+
+#### Generated Content: Strings
+
+```css
+ element:before {
+  content: "REQUIRED";
+ }
+```
+
+```css
+ element:before {
+    content: '';                  /* empty */
+    content: " (.pdf) ";          /* any text */
+    content: "\2603";             /* unicode */
+    content: " (" attr(href) ")"; /* attributes */
+    content: counter(name);
+        counter-increment: name;  /* counters */
+ }
+```
+
+#### Generated Content: Special Characters
+
+Snowman: &#9731;
+
+- Dec: `9731`
+- Hex: `2603`
+
+Adding to HTML: `&#<DECIMAL NUMBER>;`
+
+#### Quotes
 
