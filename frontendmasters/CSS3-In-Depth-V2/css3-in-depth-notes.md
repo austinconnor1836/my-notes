@@ -730,6 +730,7 @@ li {
   ```
 
 - the browser dev tools has many useful features
+  
   - look at the `computed` tag to view shadow DOM pseudo elements
 
 ### Section: Generated Content
@@ -943,8 +944,51 @@ Snowman: &#9731;
 
 - Dec: `9731`
 - Hex: `2603`
+- CSS Value (Hex): `\0A2B`
+- JS Value: (Hex): `\u0A2B`
 
 Adding to HTML: `&#<DECIMAL NUMBER>;`
 
 #### Quotes
+
+#### Icons
+
+- The snowman icon does not say snowman for accessibility
+
+#### Accessibility
+
+#### Accessibility of Generated Content
+
+- Generated content is read by most screen readers (not IE), but it is an **enhancement** to the content, it should not be **relied upon**.
+- Because generated content is part of the presentation layer and content, is HTML, and you don't want to mix those concerns up
+- You want the important content actually on the page
+- Separation of concerns: **content** v. **presentation**
+
+Purely Decorative and not read by the screen reader:
+
+```css
+content: "\25BA" / "";
+```
+
+- the slash will tell the screen reader not to read it
+
+#### Design Elements
+
+##### Thought bubbles
+
+![thought bubbles](/home/austin/repos/my-notes/frontendmasters/CSS3-In-Depth-V2/images/thought-bubbles.png)
+
+- created two circles and positioned them absolutely
+
+##### The Shapes of CSS by Chris Coyier
+
+- https://estelle.github.io/cssmastery/generated/#slide37
+
+- https://css-tricks.com/the-shapes-of-css/
+
+##### A Whole Bunch of Amazing Stuff Pseudo Elements Can Do by Chris Coyier
+
+- https://estelle.github.io/cssmastery/generated/#slide38
+
+- https://css-tricks.com/pseudo-element-roundup/
 
