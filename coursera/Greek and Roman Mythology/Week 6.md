@@ -22,3 +22,41 @@
 - ritual background is very important
 
 ### 6.2: Ritual and Religion
+
+- use "cult" to label ritual activity in honor of a god
+- use the city as a way to have camaraderie
+- time of the calendar
+- festivals locations are notable
+- common ritual activities:
+  - purification
+    - in a river, or any body of water
+  - put on special clothing
+  - processions
+    - long march to some temple as a dedication
+  - fasting
+  - certain foods for these rituals
+    - only eat/drink at certain times connected with ritual
+  - sacrifice
+    - bulls
+    - larger the mammal, the better
+    - prepare the animal, purification
+    - decorate the animal
+    - it is killed in honor of the divinity
+    - carve up the meat and share to your people
+    - thigh bones wrapped in fat go to the gods, the rich meat goes to the people
+    - pigs, goats, poultry
+    - not fish and neither other kinds of birds
+    - non-animal sacrifice too, plants
+    - common all around the Mediterranean world
+- sacrifices are a demand from the gods
+- sacrifices are a way of surrendering humans' own guilt
+- killing the animal reinforces humans' own mortality with respect to the deathless gods they sacrifice to
+- wine is an important part of the ritual, libations, and consumption
+  - drunk in excess sometimes
+  - typical in all ancient ritual that wine is a part of it, drunkenness is typical, but excessive drunkenness is idiosyncratic to Dionysus
+- Games, theater, contests, etc.
+  - long weekend festival to Athena
+  - closing off ceremony would involve singing, a perfect place for a hymn
+
+## 6.3: The Hymn to Demeter
+

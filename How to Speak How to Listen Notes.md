@@ -84,3 +84,14 @@ It concerns the language or literary style of the lecture--the choice of words, 
 **The speaker's vocabulary should be designed so that it is generally consonant with the vocabulary of the audience.**
 
 If I must include words that my audience likely are not familiar with, I need to take special attention to those words and meanings to explain them.
+
+**Jargon and esoteric language should be avoided at all costs.**
+
+The two rules can be summarized as such:
+
+One the one hand, the language employed and the sentences constructed should be clear without being plain. On the other hand, they should have a certain elevation above the ordinary without being obscure.
+
+These rules are easy to state but very hard to follow.
+
+### Chapter 6: Preparing and Delivering a Speech
+
