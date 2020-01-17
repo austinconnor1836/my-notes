@@ -60,3 +60,117 @@
 
 ## 6.3: The Hymn to Demeter
 
+- Homeric Hymn to Demeter
+- Demeter was connected with her daughter, Persephone, who went astray and got sucked down to the underworld
+- Her mother is upset and connects with the Earth and the fertility of it
+- themes of pre and post child-bearing years, including during child-bearing years
+
+#### From Athens to Eleusis
+
+#### Eleusinian Mysteries
+
+- In Eleusis is where the ceremony is held
+
+- 9 day ritual
+
+- When Demeter arrives at Eleusis, she is trying to work out her grief for the lost of her daughter
+
+- There are connections between the Homeric hymn to Demeter and the Eleusinian mysteries
+
+- one is a **location** connection at Eleusis
+
+- fertility is a theme
+
+- secrecy and initiation into these mysteries
+
+- 9 day period for the Eleusinian mysteries
+
+- Demeter asks for a special drink other than wine, consisting of barley-wine and ...
+
+- a character, Yombai, comes along to cheer Demeter up
+
+- this refers to Yombas, which is nasty and satirical epithets
+
+- it is part of the festival
+
+- a promise in the Eleusinian mysteries of a better afterlife
+
+- usually, an occultic ritual consists of gifts, not a promise of a better afterlife
+
+  - this is unusual since in Greek culture, it is much better to be alive than dead
+
+- this better afterlife is like getting a special code to the admirals club when you are stuck in an airport terminal
+
+- Persephone, a kind of mortal god
+
+- a connection between mortality and immortality
+
+- exclusive rights at Eleusis included secrecy
+
+- From Clement of Alexandria, a Christian, in *Exhortation to the Greeks 2.21*, he reveals the secrets to the Eleusinian mysteries.
+
+  ```
+  I have fasted.
+  I have drunk the mixture.
+  I have taken from the box.
+  Having done the deed,
+  I put it back into the basket,
+  and out of the basket into the box.
+  ```
+
+## 6.4: Themes in The Hymn to Demeter
+
+- strong focus on women's experience
+- the main point of the Odyssey was the gender of male
+- for the Hymn to Demeter, the main point is the gender of female
+- couple of important pair of figures:
+- Metaneira // Demeter
+- Demophoon // Persephone
+- Metaneira is nearing her child-bearing years
+- She was waiting and praying for Demophoon to come
+- She is nearing the end of her child-bearing years
+- Then she must take care of her child
+- Demeter, in her disguise, is beyond her child-bearing years
+  - she is cast aside
+  - call her granny
+  - has an appearance "long caught off from child-bearing"
+  - limited responsibilities in these later stages of life: a house maid or a nurse, not something as grand as a mother or a head of a household
+- Metaneira, by contrast, can have those roles
+  - she has a head of a household
+  - her reproductive powers in fullness has been shown through this child, which gives her influence and authority
+  - Demeter is deprived of those aspects since she no longer can bear children
+- Persephone is making a certain transition of living as a girl with her mother to living with a man
+  - it is the single most dramatic moment in the story (always bad drama)
+  - it is portrayed as violent
+  - introduction into the man's household is filled with fear, isolation, and a loss of innocence
+  - she has to re-imagine her relationships that were most dear to her with her mother and others
+    - this is an explicit parallel of being moved from her mother's home to the man's home as a kind of death (going into the underworld)
+  - she lives as an immortal experiencing the life of a mortal after death
+  - transitioning from a girl in childhood to adulthood is characterized as a death
+  - also characterized as entering a life stage of fertility
+    - her relationships with men will change
+    - the pomegranate scene likely symbolizes the seed of the man and the fact that she took it in changes her status completely
+      - when she comes back and has a moment of audience with her mother, her mother asks her "have you eaten anything?"
+        - this has a certain kind of pain and loss
+- together, Persephone makes an interesting pair with Demophoon
+- Demophoon is the missing aspect that Demeter has due to her loss of Persephone
+  - Demeter then has a sort of investment with bringing in Demophoon
+- Demeter tries to bring Demophoon from a mortal to an immortal by feeding him ambrosia, the food of the gods
+  - when humans eat more of the food of the gods, the more they become a divinity itself
+- Strange custom of bearing him in the fire
+  - a linkage to blacksmithing by making metal stronger and more durable
+- Demeter thinks she will create an immortal character as a recompense to the loss of her daughter
+- Demophoon is making the transition to immortality, Persephone is an immortal becoming more mortal
+- The book ends around the question of death and immortality
+- A lot of meditation around this question of reproduction:
+  - human fertility and its complexity, these are the themes that are built into this story
+  - each are connected with this question of mortality and immortality
+  - each time we see these new lives, we are awestruck at the miracle of birth, and also a reminder of our own mortality
+- a promise of immortality is tinged always with the spectre and presence of mortality
+- the author is telling us we cannot really have one without the other: we can't have this reproductive desire to produce offspring without mortality and death that comes with it
+- Another character in the household is Triptolemus
+- this story shows what it means to be human and this drama is put on over to the gods
+  - these characters are immortal but boy do they sure seem to be human
+
+## 6.5: The Hymn to Apollo: Delos
+
