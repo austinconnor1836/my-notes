@@ -117,3 +117,91 @@ Give suggestions, not orders.
 Say "You might consider this," or "Do you think that would work?" instead of "Do this or do that" or "Don't do this or don't do that."
 
 A technique like that saves a person's pride and gives him or her a feeling of importance. It encourages cooperation instead of rebellion.
+
+Asking questions not only makes an order more palatable; it often stimulates the creativity of the persons whom you ask.
+
+People are more likely to accept an order if they have had a part in the decision that caused the order to be issued.
+
+An effective leader will use...
+
+**<u>Principle 4</u>: Ask questions instead of giving direct orders.**
+
+## 5: Let the Other Person Save Face
+
+"Firing employees is not much fun. Getting fired is even less fun."
+
+Even if we are right and the other person is definitely wrong, we only destroy ego by causing someone to lose face.
+
+"I have no right to say or do anything that diminishes a man in his own eyes. What matters is not what I think of him, but what he thinks of himself. Hurting a man in his dignity is a crime." - Legendary French aviation pioneer and author Antoine de Saint-Exupery
+
+A real leader will always follow...
+
+**<u>Principle 5</u>: Let the other person save face.**
+
+## 6: How to Spurt People On to Success
+
+Let us praise even the slightest improvement. That inspires the other person to keep on improving.
+
+"Praise is like sunlight to the warm human spirit; we cannot flower and grow without it. And yet, while most of us are only too ready to apply to others the cold wind of criticism, we are somehow reluctant to give our fellow the warm sunshine of praise." - Psychologist Jess Lair in his book *I Ain't Much, Baby--But I'm All I Got*
+
+Use of praise instead of criticism is the basic concept of B. F. Skinner's teachings.
+
+He showed by experiments with animals and with humans that when criticism is minimized and praise emphasized, the good things people do will be reinforced and the poorer things will atrophy for lack of attention.
+
+Do not just flatter someone by saying, "You're good." Specifically point out how their work is superior.
+
+Everybody likes to be praised, but when praise is specific, it comes across as sincere--not something the other person may be saying just to make one feel good.
+
+Nobody wants insincerity. Nobody wants flattery.
+
+I you and I will inspire the people with whom we come in contact to a realization of the hidden treasures they possess, we can do far more than change people. We can literally transform them.
+
+Abilities wither under criticism; they blossom under encouragement.
+
+To become a more effective leader of people, apply...
+
+**<u>Principle 6</u>: Praise the slightest improvement and praise every improvement. Be "hearty in your approbation and lavish in your praise."**
+
+## 7: Give a Dog a Good Name
+
+"The average person," said Samuel Vauclain, then president of the Baldwin Locomotive Works, "can be led readily if you have his or her respect and if you show that you respect that person for some kind of ability."
+
+If you want to improve a person in a certain respect, act as thought that particular trait were already one of his or her outstanding characteristics.
+
+Shakespeare said, "Assume a virtue, if you have it not."
+
+There is an old saying: "Give a dog a bad name and you may as well hang him." But give him a good name--and see what happens!
+
+If you want to excel in that difficult leadership role of changing the attitude or behavior of others, use...
+
+**<u>Principle 7</u>: Give the other person a fine reputation to live up to.**
+
+## 8: Make the Fault Seem Easy to Correct
+
+Tell your child, your spouse, or your employee that he or she is stupid or dumb at a certain thing, has no gift for it, and is doing it all wrong, and you have destroyed almost every incentive to try to improve.
+
+But use the opposite technique--be liberal with your encouragement, make the thing seem easy to do, let the other person know that you have faith in his ability to do it, that he has an undeveloped flair for it--and he will practice until the dawn comes in the window in order to excel.
+
+If you want to help others to improve, remember...
+
+**<u>Principle 8</u>: Use encouragement. Make the fault seem easy to correct.**
+
+## 9: Making People Glad to Do What You Want
+
+One of the important rules of human relations: *Always make the other person happy about doing the thing you suggest.*
+
+The technique of giving titles and authority worked for Napoleon and it will work for you.
+
+The effective leader should keep the following guidelines in mind when it is necessary to change attitudes or behavior:
+
+1. Be sincere. Do not promise anything that you cannot deliver. Forget about the benefits to yourself and concentrate on the benefits to the other person.
+2. Know exactly what it is you want the other person to do.
+3. Be empathetic. Ask yourself what it is the other person really wants.
+4. Consider the benefits that person will receive from doing what you suggest.
+5. Match those benefits to the other person's wants.
+6. When you make your request, put it in a form that will convey to the other person the idea that he personally will benefit.
+
+People are more likely to do what you would like them to do when you use...
+
+**<u>Principle 9</u>: Make the other person happy about doing the thing you suggest.**
+

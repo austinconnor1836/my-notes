@@ -38,3 +38,10 @@ Hera's son, Hephaestus, pleads to Hera to resolve her issues with Zeus.
 
 Zeus ponders how to exalt Achilles to fulfill the promise he made to Thetis. He decides to send a false hope to Agamemnon through a Dream to immediately proceed to sack Troy.
 
+King Agamemnon led by far the largest army.
+
+Odysseus was considered a mastermind of battle of the same caliber as Zeus.
+
+King Agamemnon took Achilles' girl, Briseis, as a display of power and arrogance. Achilles lay near the ships, his heart in agony for his loss of Briseis, while his soldiers sported along the surf, marking time, hurling the discus, throwing spears and testing bows.
+
+Hector, King Priam of Troy's son, commanded by far the greatest, bravest army.
