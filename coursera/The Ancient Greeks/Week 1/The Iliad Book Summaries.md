@@ -45,3 +45,6 @@ Odysseus was considered a mastermind of battle of the same caliber as Zeus.
 King Agamemnon took Achilles' girl, Briseis, as a display of power and arrogance. Achilles lay near the ships, his heart in agony for his loss of Briseis, while his soldiers sported along the surf, marking time, hurling the discus, throwing spears and testing bows.
 
 Hector, King Priam of Troy's son, commanded by far the greatest, bravest army.
+
+## Book 3: Helen Reviews the Champions
+

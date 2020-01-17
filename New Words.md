@@ -13,4 +13,5 @@
 - **prodigious**: remarkably or impressively great in extent, size, or degree: *the stove consumed a prodigious amount of fuel*
 - **untenable**: (especially of a position or view) not able to be maintained or defended against attack or objection.
 - **consonant**: in agreement or harmony with.
+- **sordid**: involving immoral or dishonourable actions and motives; arousing moral distaste and contempt.
 - 
