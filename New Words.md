@@ -11,4 +11,6 @@
 - **putative**: generally considered or reputed to be: *the putative author of the book.*
 - **capitulation**: the action of surrendering or ceasing to resist an opponent or demand: *a capitulation to wage demands | the victor sees it as a sign of capitulation.*
 - **prodigious**: remarkably or impressively great in extent, size, or degree: *the stove consumed a prodigious amount of fuel*
+- **untenable**: (especially of a position or view) not able to be maintained or defended against attack or objection.
+- **consonant**: in agreement or harmony with.
 - 

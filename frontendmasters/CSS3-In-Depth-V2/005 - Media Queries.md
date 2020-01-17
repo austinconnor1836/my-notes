@@ -55,7 +55,10 @@ href='css/smartphone.css' />
 
 - generally you want to use `min/max` for `width`, `height`, and `aspect-ratio`
 - there is a difference between squishy and responsive web design, most of us do squishy web design
-- 
+
+### Resolution Units
+
+
 
 ## Screen Resolution
 
