@@ -1,0 +1,45 @@
+# 003 Homer 1: Iliad
+
+- Aphrodite, Hera, and Athena ask Paris which is most attractive. Each try to bribe him. Aphrodite offers him the most beautiful woman in the world and Paris chooses her. Unfortunately, Helen is the wife of King Menelaus.
+- Heinrech Schleimann excavated at Mycenae
+- There is a lot of debate about whether there was actually a Trojan war.
+- Homer is thought to be a blind bard from Kios, on the coast of Asia Minor
+  - because in the Odyssey, Demodocus was a blind bard
+  - in one of the hymns, there was a blind bard
+- memorization of Homer was essential to any Greek man
+- Milman Parry
+  - oral composition
+  - dactylic hexameter
+  - epithets and formulas
+    - epithet: an adjective attached to a name
+      - swift foot Achilles
+      - grey-eyed Athena
+    - this is the way these bards performed
+    - it is a way to convey cultural memory of the Greeks
+    - bards are heroes
+- to ancient Greeks, heroism is not being virtuous, it was a status
+  - geneology is the first criteria
+  - tall, good looking, military courage, a group of retainers that would follow you with unwavering loyalty
+  - you also had to continually prove yourself
+- some key terms
+  - agon - contest, competition
+  - arete - virtue, excellence
+  - aristeia - condition of being at one's best
+    - you glow, on fire
+  - kleos - glory, renown
+    - what heroes fight and strive for
+- zero sum game in heroism
+- combat is where heroes prove themselves
+- the Iliad is a dominantly male poem
+- some women in the poem
+  - Chryseus, daughter of Apollo's priest
+- when Agamemnon takes Briseus, it is the most humiliating thing a hero can go through
+- Thurycides is the "ugliest man under the Trojan walls"
+  - says what Achilles is thinking about Agamemnon but is beaten by a club by Odysseus because he has no place to say those things
+- Agamemnon realizes he needs Achilles and tries and fails to get him back
+- Achilles rages
+  - he says, "Why should I fight? All men die."
+- Achilles fights the greatest of the Trojan warrior, Hector, son of King Priam
+- Achilles has been told he will soon be killed after he kills Hector
+- Achilles mutilates Hector after killing him by dragging his body behind his chariot around the Trojan walls
+- King Priam pleads with Achilles in his tent for the return of his son's body, using their common grief over all they have lost. Achilles does return Hector's body to the King.

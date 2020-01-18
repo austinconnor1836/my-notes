@@ -48,3 +48,27 @@ Hector, King Priam of Troy's son, commanded by far the greatest, bravest army.
 
 ## Book 3: Helen Reviews the Champions
 
+Odysseus, son of Laertes, Son of Pain, the man of twists and turns.
+
+Since Aphrodite promised Paris Helen, she must defend Paris and ensure Helen goes with him.
+
+Aphrodite takes and hides Paris as it appears he would lose the match with Menelaus and die.
+
+Paris believes Athena is helping Menelaus.
+
+Paris disappears and the book ends with the Achaeans searching for him, demanding Helen and their promised prizes as Paris has forfeit the match.
+
+## Book 4: The Truce Erupts in War
+
+Hera and Athena defend Menelaus while Aphrodite defends Paris.
+
+They plot on how to bring the destruction of Troy to reality, while Zeus is angry with Hera as Troy has always worshiped Zeus.
+
+Zeus commands Athena to break the truce between the Achaeans and the Trojans after listening to Hera.
+
+Athena fires the fool's heart, Lycaon, the great archer, to fire an arrow into Menelaus.
+
+Athena deflects the arrow to just graze Menelaus' skin, inflicting a non-mortal wound.
+
+## Book 5: Diomedes Fights the Gods
+
