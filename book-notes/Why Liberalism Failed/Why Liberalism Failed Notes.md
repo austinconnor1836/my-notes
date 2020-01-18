@@ -160,3 +160,90 @@ At the heart of liberal theory and practice is the preeminent role of the state 
 **This very liberation in turn generates liberalism's self-reinforcing circle, wherein the increasingly disembedded individual ends up strengthening the state that is its own author.**
 
 Just as the potential of a plant or animal isn't possible without cultivation, so it was readily understood that the human creature's best potential simply could not be realized without good culture.
+
+The effect of liberalism is at once to liberate humans from acknowledgement of nature's limits while rendering culture into wholly relativist belief and practice, untethered from anything universal or enduring.
+
+#### Liberal Timelessness
+
+Liberalism makes humanity into mayflies, and unsurprisingly, its culmination has led each generation to accumulate scandalous levels of debt to be left for its children, while rapacious exploitation of resources continues in the progressive belief that future generations will devise a way to deal with the depletions.
+
+Liberalism looks to fulfill the short-term, ephemeral ambitions due to the presentism aspect of life, where the present is all that exists and the future and past do not exist.
+
+Culture educates us about our generational debts and obligations.
+
+Culture is the practice of full temporality, an institution that connects the present to the past and the future.
+
+Culture expands the human experience of time, making both the past and the future present to creatures who otherwise experience only the present moment.
+
+#### Liberalism as Nowhere and Everywhere
+
+Liberalism valorizes placelessness.
+
+We are not subject to our place of birth or genealogy.
+
+According to poet and essayist Wendell Berry, community is more than a collection of self-interested individuals brought together to seek personal advancement. Rather, it "lives and acts by the common virtues of trust, goodwill, forbearance, self-restrain, compassion, and forgiveness."
+
+Berry is not hesitant to acknowledge that community is a place of constraint and limits.
+
+Indeed, in this simple fact lies its great attraction.
+
+Absent the supports of communal life, family life is hard-pressed to flourish.
+
+Berry commends,
+
+"arrangements [that] include marriage, family structure, divisions of work and authority, and responsibility for the instruction of children and young people. These arrangements exist, in part, to reduce the volatility and dangers of sex--to preserve its energy, its beauty, and its pleasure; to preserve and clarify its power to join not just husband and wife to one another but parents to children, families to the community, the community to nature; to ensure, so far as possible, that the inheritors of sexuality, as they come of age, will be worthy of it."
+
+For Berry, the common good can be achieved only in small, local settings.
+
+Larger units than the locality or the region can flourish in the proper sense only when their constitutive parts flourish.
+
+Modern liberalism, by contrast, insists on the priority of the largest unit over the smallest, and seeks everywhere to impose a homogenous standard on a world of particularity and diversity.
+
+Echoing Giambattista Vico, an early critic of deracinated rationalism of Descartes and Hobbes, Berry defends what Vico named the *sensus communis*. Such "common knowledge" is the result of the practice and experience, the accumulated store of wisdom born of trials and corrections of people who have lived, suffered, and flourished in local settings.
+
+In Berry's thought, there is a considerable respect for the dignity of "common sense," a nonexpert way of understanding the world that comes through experience, memory, and tradition, and is the source of much democratic opinion that liberalism typically dismisses.
+
+#### The Death of Culture and the Rise of Leviathan
+
+While our main political actors argue over whether the liberal state or the market better protects the liberal citizen, they cooperate in the evisceration of actual cultures.
+
+As Solzhenitsyn noted,
+
+"If one is right from a legal point of view, nothing more is required, nobody may mention that one could still not be entirely right, and urge self-restraint or a renunciation of these rights, call for sacrifice and selfless risk: this would simply sound absurd. *Voluntary self-restraint is almost unheard of:* everyone strives toward further expansion to the extreme limit of legal frames."
+
+**Solzhenitsyn cut to the heart of liberalism's great failing and ultimate weakness: <u>its incapacity to foster self-governance.</u>**
+
+Some fifty years after students were liberated from the nanny college, we are seeing not a sexual nirvana but widespread confusion and anarchy, a new form of *in absentia parentis*--the paternalist state.
+
+**This immorality tale is the Hobbesian vision in microcosm:** 
+
+- **first, tradition and culture must be eliminated as arbitrary and unjust ("natural man").**
+- **Then we see that absent such norms, anarchy ensues ("the state of nature").**
+- **Finding this anarchy unbearable, we turn to a central sovereign as our sole protector, that "Mortall God" who will protect us from ourselves ("the social contract").**
+
+Considering the 2008 mortgage crisis, the response has been the same: calls for greater government regulation and oversight over the consequences of untrammeled appetite, with threats of penalties (rarely enforced) and a massive expansion of the administrative state to oversee a basic human interaction--**the effort to secure shelter.**
+
+Liberation from the confinements and limitations of local market cultures brings not perfect liberty but the expansion of Leviathan. The destruction of culture achieves not liberation but powerlessness and bondage.
+
+**The dissolution of culture is simultaneously the prerequisite for the liberation of the disembedded market, and for the empowerment of the state.**
+
+#### Parasitic Liberalism
+
+Evidence of our anticulture surrounds us yet is pervasively denied.
+
+**Rather than produce our own cultures, grounded in local places, embedded in time, and usually developed from an inheritance from relatives, neighbors, and community--music, art, storytelling, food--we are more likely to consume prepackaged, market-tested, mass-marketed consumables, often branded in commercialized symbolism that masks that culture's evisceration.**
+
+Invocations of "culture" tend to be singular, not plural, whereas actual cultures are multiple, local, and particular.
+
+- this is commonly known as "popular culture," a market-tested and standardized product devised by commercial enterprises and meant for mass consumption.
+
+Whereas culture is an accumulation of local and historical experience and memory, liberal "culture" is the vacuum that remains when local experience has been eviscerated, memory is lost, and every place becomes every other place.
+
+A panoply of actual cultures is replaced by celebration of "multiculturalism," the reduction of actual cultural variety to liberal homogeneity loosely dressed in easily discarded native garb.
+
+The homogenous celebration of every culture effectively means no culture at all.
+
+By contrast, while cultures are many and varied, their common features almost always include **a belief in the continuity between human and nature and the natural world.**
+
+## Chapter 4: Technology and the Loss of Liberty
+

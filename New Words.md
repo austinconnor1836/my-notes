@@ -14,4 +14,8 @@
 - **untenable**: (especially of a position or view) not able to be maintained or defended against attack or objection.
 - **consonant**: in agreement or harmony with.
 - **sordid**: involving immoral or dishonourable actions and motives; arousing moral distaste and contempt.
-- 
+- **deracinate**: uproot (someone) from their natural geographical, social, or cultural environment.
+- **fungible**: (of goods contracted for without an individual specimen being specified) replaceable by another identical item: mutually interchangeable.
+- **catechize**: instruct (someone) in the principles of Christian religion by means of question and answer, typically by using a catechism.
+- **simulacrum**: an image or representation of someone or something.
+- **panoply**: an extensive or impressive collection.
