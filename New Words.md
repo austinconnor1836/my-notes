@@ -21,3 +21,4 @@
 - **panoply**: an extensive or impressive collection.
 - **inexorably**: in a way that is impossible to stop or prevent.
 - **tenuous**: very weak or slight.
+- **eschew**: deliberately avoid using: abstaining from.

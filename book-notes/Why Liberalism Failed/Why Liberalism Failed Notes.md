@@ -300,3 +300,20 @@ Liberty was no longer, as the ancients held, the condition of just and appropria
 The old political orders, previously devoted to the inculcation of virtue and the commendation of common good, were attacked early on by Niccolo Machiavelli as **"imaginary republics and principalities," dealing in *oughts* rather than taking humans as they actually are.**
 
 The Constitution is the embodiment of a set of modern principles that sought to overturn ancient teachings and shape a distinctly different modern human.
+
+The new modern liberal philosophy aspires to the self-interest, unleashed ambition of individuals over the ancient commendation of virtue and aspiration to the common good.
+
+It is less a matter of our technology "making us" than of our deeper political commitments shaping our technology.
+
+Marche notes in his Atlantic article, *Is Facebook Making Us Lonely*, that **Facebook and technologies like it, have facilitated or even enabled a preexisting predilection--the long-standing American desire to be independent and free.**
+
+As Marche points out, **"Loneliness is one of the first things that Americans spend their money achieving...We are lonely because we want to be lonely. We have made ourselves lonely."**
+
+Technologies like Facebook, he writes, **"are the by-product of a long-standing national appetite for independence."**
+
+Certain Amish communities ban members from purchasing insurance. Rather, the community itself is their "insurance pool": members seek to foster a community where it is everyone's shared responsibility and obligation to make someone who suffers a loss "whole" again.
+
+**<u>In contradiction to our contemporary political discourse, which suggests that there is some conflict between the individual and centralized power, we need to understand that ever-expanding individual liberty is actually the creation of a sprawling and intricate set of technologies that, while liberating the individual from the limitations of both nature and obligation, leave us feeling increasingly powerless, voiceless, alone--and unfree.</u>**
+
+## Chapter 5: Liberalism against Liberal Arts
+
