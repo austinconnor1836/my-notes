@@ -23,3 +23,6 @@
 - **tenuous**: very weak or slight.
 - **eschew**: deliberately avoid using: abstaining from.
 - **inculcate**: to impress (something) upon the mind of another by frequent instruction or repetition; instill.
+- **capacious**: having a lot of space inside; roomy.
+- **hamlet**: a small settlement, generally one smaller than a village, and strictly (in Britain) one without a church.
+- **querulous**: complaining in a rather petulant or whining manner.
