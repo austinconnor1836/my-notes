@@ -72,3 +72,49 @@ Athena deflects the arrow to just graze Menelaus' skin, inflicting a non-mortal 
 
 ## Book 5: Diomedes Fights the Gods
 
+The book begins outlining all of the men killed by the Achaeans.
+
+Tydeus' son, Diomedes, is shot in the shoulder by an arrow from Lycaon's son, Pandarus, not a mortal wound.
+
+Diomedes prays to Athena to give him strength to defeat Pandarus. Athena answers and gives him strength like his father and also the ability to discern a deathless god from a mortal man on the battle field. She tells him not to engage with a deathless god as Aphrodite would surely cut him down.
+
+Pandarus believes Diomedes does not fight alone but has a god with him at his side.
+
+Diomedes spears Pandarus through the face and cripples Aeneas with a boulder, crushing and breaking tendons and bones in his leg.
+
+Diomedes pierces Aphrodite's wrist, and since she is a deathless god, she is also bloodless. Only ichor, the watery like substance from a wound, flowed from her wound.
+
+Apollo brings Aphrodite from battle to Ares, where she asks him to get her to Olympus due to her injuries. Iris, takes her to Olympus and to Aphrodite's mother, Dione, the light and loveliest of immortals.
+
+Dione tells Aphrodite of the pain other deathless gods had to endure before wiping away the ichor from Aphrodite's arm, healing her at once, ebbing her stark pain away.
+
+After Athena mocks Aphrodite to Zeus for being injured, Zeus commands Aphrodite to leave the fighting to Athena and blazing Ares, and to see to the works of marriage, the slow fires of longing.
+
+Diomedes then charges Apollo who was protecting Aeneas three times. On the fourth time, Apollo urges Diomedes to shrink back, for he cannot defeat a deathless god. Diomedes does shrink back and Apollo takes Aeneas to the sacred heights of Pergamus.
+
+Apollo then asks murderous Ares to do something about Diomedes for injuring his sister, Aphrodite.
+
+Ares rouses the spirit of the Trojans to fight for their wounded comrade, Aeneas.
+
+Apollo then releases Aeneas, fully healed with great spirit, back to the battle, inspiring his men to see him alive and unharmed.
+
+The Trojans bear down on two Aeantes, Tydides (Diomedes I think?) and Odysseus, who stood their ground like heavy thunderheads stacked up on the towering mountaintops by Cronus' son.
+
+Diomedes notices Ares alongside Hector and tells his men to give ground, as there is no use trying to fight the gods in force.
+
+As Hera, daughter of giant Cronus, notices Ares racking the Achaeans, she rouses Athena to fight back Ares.
+
+Hera asks Zeus if she may fight Ares and Zeus commands her to unleash Athena against him, saying she is his match, a marvel at bringing Ares down in pain.
+
+Athena fights alongside Diomedes and plunges a spear into Ares.
+
+Ares then flies to Olympus to see Zeus where he complains that he never refuses Athena and her wishes.
+
+Zeus then says no more to Ares, saying he has his mother Hera's uncontrollable rage. He says Hera is responsible for Ares suffering this. 
+
+Ares is the child of Zeus and Hera.
+
+The book finishes with Ares being healed by the Healer, and Athena and Hera returning to Olympus after stopping the murderous Ares from cutting men to pieces.
+
+## Book 6: Hector Returns to Troy
+
