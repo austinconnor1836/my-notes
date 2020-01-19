@@ -22,3 +22,4 @@
 - **inexorably**: in a way that is impossible to stop or prevent.
 - **tenuous**: very weak or slight.
 - **eschew**: deliberately avoid using: abstaining from.
+- **inculcate**: to impress (something) upon the mind of another by frequent instruction or repetition; instill.

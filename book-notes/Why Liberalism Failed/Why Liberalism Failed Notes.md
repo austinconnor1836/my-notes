@@ -317,3 +317,41 @@ Certain Amish communities ban members from purchasing insurance. Rather, the com
 
 ## Chapter 5: Liberalism against Liberal Arts
 
+As the word itself intimates, a culture cultivates; **it is the soil in which the human person grows and--if it is a good culture--flourishes.**
+
+But if liberalism ultimately replaces all forms of culture with a pervasive anticulture, then it must undermine education as well.
+
+Liberal education is replaced with servile eduction, serving to the end of untutored appetite, restlessness, and mastery of the natural world.
+
+Ultimately, liberalism destroys liberal education, **_<u>since it begins with the assumption that we are born free, rather than that we must learn to become free.</u>_**
+
+An education fitting for a *res publica* is replaced with an education suited for a *res idiotica*--in the Greek, a "private" and isolated person.
+
+#### Liberalism's Attack on Liberal Arts
+
+For all the many differences of the classical and Christian texts, they all agree that liberty is not a condition into which we are naturally born but one we achieve through habituation, training, and education--particularly the discipline of self-command.
+
+It is the result of a long process of learning.
+
+**Liberty is the learned capacity to govern oneself using the higher faculties of reason and spirit through the cultivation of virtue.**
+
+The condition of doing as one wants is defined in this premodern view as one of slavery, in which we are driven by our basest appetites to act against our better nature.
+
+**_<u>The liberal arts made us free.</u>_**
+
+The public university of the University of Texas at Austin, has emblazoned on its seal the motto *Disciplina Praesidium Civitate*, which is translated as **"A cultivated mind is the guardian genius of democracy."**
+
+It is taken from a statement by Texas's second president Mirabeau Lamar: "A cultivated mind is the guardian genius of democracy and, while guided and controlled by virtue, the noblest attribute of man. It is the only dictator that freemen acknowledge and the only security that freemen desire."
+
+To be free--*liberal*--was an *art*, something learned not by nature or instinct but by refinement and education.
+
+And the soul of the liberal arts was the humanities, **education in how to be a human being.**
+
+The traditional aspect of universities on what it meant to be the best possible human was replaced by the Baconian project of human mastery over the world through science and technology.
+
+The university structure was reoriented to stress innovation and the creation of "new knowledge."
+
+**The guiding imperative of education became progress, not an education in liberty derived from a deep engagement with the past.**
+
+#### La Trahison Des Humanistes
+
