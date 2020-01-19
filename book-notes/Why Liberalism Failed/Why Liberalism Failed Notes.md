@@ -355,3 +355,20 @@ The university structure was reoriented to stress innovation and the creation of
 
 #### La Trahison Des Humanistes
 
+Did it make sense any longer to teach young people the challenging lessons of how to use freedom well, when the scientific world was soon to make those lessons unnecessary?
+
+Nature was no longer a standard in any sense, since it was now manipulable.
+
+Why accept any of the facts of biology when those "facts" could be altered, when identity itself is a matter of choice?
+
+#### Liberal Arts Against Liberalism?
+
+Contemporary circumstances have only accelerated the demise of the liberal arts.
+
+The author thinks the humanities of old would be able to muster a powerful argument against the tendency to eliminate the humanities based on a perception of non-existent value.
+
+Its warning would be simple, recalling its oldest lessons: **at the end of the path of liberation lies enslavement.**
+
+Such liberation from all obstacles is finally illusory, for two simple reasons: **human appetite is insatiable and the world is limited.**
+
+The wanting of something was warrant for the taking of the thing. Our appetite justified consumption
