@@ -19,3 +19,5 @@
 - **catechize**: instruct (someone) in the principles of Christian religion by means of question and answer, typically by using a catechism.
 - **simulacrum**: an image or representation of someone or something.
 - **panoply**: an extensive or impressive collection.
+- **inexorably**: in a way that is impossible to stop or prevent.
+- **tenuous**: very weak or slight.

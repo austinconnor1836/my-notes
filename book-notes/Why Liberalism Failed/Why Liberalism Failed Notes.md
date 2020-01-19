@@ -247,3 +247,56 @@ By contrast, while cultures are many and varied, their common features almost al
 
 ## Chapter 4: Technology and the Loss of Liberty
 
+We believe technology could both lead us to our salvation and extermination.
+
+Far from controlling our technology for our own betterment, we find that the technology ends up ether ruling or destroying us.
+
+#### Android Humanity
+
+Studies show social media is changing us, mainly for the worse.
+
+Carr has found measurable increases in the areas of the brain responsible for decision making and problem solving due to increased exposure to technology. But those gains are accompanied by significant losses in language facility, memory, and concentration.
+
+He argues we are becoming shallow, not in a superficial way, but physiologically.
+
+The internet is making us dumber.
+
+MIT's Sherry Turkle, in her book *Alone Together*, has found that modern social media doesn't create new communities as it substitutes for the real world communities that it destroys.
+
+"Community": to give among each other
+
+Turkle seems resigned to dim prospects of fundamentally changing the current dynamic.
+
+Wendell Berry has argued that machine technology has its own logic, which tends to destroy the practices and traditions of a community.
+
+Neil Postman, in his book *Technopoly* writes, "Everything must give way, in some degree, to their development...Tools are not integrated into the culture; they attack the culture. They bid to *become* the culture. As a consequence, tradition, social mores, myth, politics, ritual, and religion have to fight for their lives."
+
+From technocracy we have entered the age of "technopoly," in which a culturally flattened world operates under an ideology of progress that leads to **"the submission of all forms of cultural life to the sovereignty of technique and technology."**
+
+**Our anxiety arises from the belief that we may no longer control the technology that is supposed to be a main tool of our liberty.**
+
+Our popular culture seems to be a kind of electronic Cassandra, seeing the future but unable to get anyone to believe it.
+
+#### The Technology of Liberalism
+
+As he has argued throughout, liberalism above all advances a new understanding of liberty.
+
+**In the ancient world--whether pre-Christian antiquity, particularly ancient Greece, or during the long reign of Christendom--the dominant definition of liberty involved recognition that it required an appropriate form of <u>self-governance</u>**.
+
+Ancient thought sought a "virtuous circle" of polities that would support the fostering of virtuous individuals, and of virtuous individuals who would form the civic life of a polity oriented toward the common good.
+
+To be free, above all, was to be **free from enslavement to one's own basest desires**, which could never be fulfilled, and the pursuit of which could only foster ceaseless craving and discontent.
+
+Liberty was thus the condition achieved by self-rule, over one's own appetites and over the longing for political dominion.
+
+This definition of liberty was rejected by modern thinkers.
+
+**Liberty, as defined by the originators of modern liberalism, was the condition in which humans were completely free to pursue whatever they desired.**
+
+Its opposite was thus conceived as **constraint.**
+
+Liberty was no longer, as the ancients held, the condition of just and appropriate self-rule.
+
+The old political orders, previously devoted to the inculcation of virtue and the commendation of common good, were attacked early on by Niccolo Machiavelli as **"imaginary republics and principalities," dealing in *oughts* rather than taking humans as they actually are.**
+
+The Constitution is the embodiment of a set of modern principles that sought to overturn ancient teachings and shape a distinctly different modern human.
