@@ -395,6 +395,13 @@ Having shaped the family in the image of the Hobbesian state of nature, its adop
 
 Even as liberalism's architects were forthright about their ambition to displace the old aristocracy, they were not silent about their hopes of creating a new aristocracy.
 
-With the previous passage, Locke admits that the new economic, social, and political arrangements will
+With the previous passage, Locke admits that the new economic, social, and political arrangements will bring about pervasive inequality, but suggests that it is to be preferred to an inequality in which the "querulous and contentious" govern, since everyone will be in a better material position.
 
- bring about pervasive inequality, but suggests that it is to be preferred to an inequality in which the "querulous and contentious" govern, since everyone will be in a better material position.
+This is liberalism's most fundamental wager: the replacement of one unequal and unjust system with another system enshrining inequality that would be achieved not by oppression and violence but with the population's full acquiescence, premised on the ongoing delivery of increasing material prosperity along with the theoretical possibility of class mobility.
+
+This recognition has led to a return of Locke's basic wager that a system that provided material comfort, no matter the vastness of inequality and absent likely prospects of growth and mobiity between classes, would nevertheless satisfy most members of society.
+
+Cowen predicts that this low-wage majority will settle in places that look a lot like Texas: cheap housing, some job creation, and subpar government services. Political leaders, he suggests, should consider erecting entire cityscapes of *favelas* with low rent and free internet, thus offering a virtual world of distraction from the grim poverty and spiritual desiccation that will become a permanent way of life for most citizens.
+
+#### Rule of the Strong
+
