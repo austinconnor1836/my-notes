@@ -372,3 +372,16 @@ Its warning would be simple, recalling its oldest lessons: **at the end of the p
 Such liberation from all obstacles is finally illusory, for two simple reasons: **human appetite is insatiable and the world is limited.**
 
 The wanting of something was warrant for the taking of the thing. Our appetite justified consumption
+
+Based upon a classical or Christian understanding of liberty, this form of education was undertaken with an aim to pointing to our dependence--not our autonomy--and the need for self-governance.
+
+As Wendell Berry has written, awareness of fundamental constraints of human action and behavior:
+
+```
+is not the condemnation that it may seem. On the contrary, it returns us to our real condition and to our human heritage, from which our self-definition as limitless animals has for too long cut us off. Every cultural and religious tradition that I know about, while fully acknowledging our animal nature, defines us specifically as humans--that is, as animals (if that word)...
+```
+
+We should instead seek a reinvigoration of an idea of liberal education in which we understand liberty to be the condition in which we come to terms with, and accept, the limits and constraints that nature and culture rightfully exert.
+
+## Chapter 6: The New Aristocracy
+
