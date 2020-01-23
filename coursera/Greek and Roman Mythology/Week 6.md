@@ -124,8 +124,8 @@
 - the main point of the Odyssey was the gender of male
 - for the Hymn to Demeter, the main point is the gender of female
 - couple of important pair of figures:
-- Metaneira // Demeter
-- Demophoon // Persephone
+  - Metaneira // Demeter
+  - Demophoon // Persephone
 - Metaneira is nearing her child-bearing years
 - She was waiting and praying for Demophoon to come
 - She is nearing the end of her child-bearing years
@@ -173,4 +173,25 @@
   - these characters are immortal but boy do they sure seem to be human
 
 ## 6.5: The Hymn to Apollo: Delos
+
+- has two separate hymns: Pythian and Delian, by our translator Sarah Ruden
+  - we don't know for sure if they were two separate hymns, but it is likely
+- we hear "Goodbye Apollo" twice, which is helpful to determine it is actually two hymns to Apollo
+- Apollo is a very powerful god, frightening
+- we hear Leto's journey of going place to place trying to give birth to Apollo, but each place is terrified of her child
+- Apollo and Artemis come out of Leto
+- when she finds the place to give birth, at the house of Delos, and Leto promises immense wealth will be given to Delos
+- Leto then enters 9 days of labor, unbelievable
+- Apollo emerges and declares his purview: prophecy
+  - he is careful to say that he will have the purview of prophecy of Zeus
+  - he is careful not to challenge Zeus
+- Apollo then lists how he wants to be worshipped
+  - Delian maidens singing in Apollo's honor
+- An occult is established at Delos
+- there is no distinct end with this manuscript: one feeds into the other
+- Some will say the most important location to Apollo is Delos
+- Others would say the most important site is Delphi
+- This hymn gives way to say that both are
+
+## 6.6: The Hymn to Apollo: Delphi
 
