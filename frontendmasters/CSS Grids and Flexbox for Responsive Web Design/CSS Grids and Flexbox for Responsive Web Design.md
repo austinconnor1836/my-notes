@@ -1,115 +1,196 @@
-# CSS Grids and Flexbox for Responsive Web Design
+# CSS Grids and Flexbox for Responsive Design
 
-### Floats
+### Flexbox
 
-- originally intended to float an image in a certain direction (left or right)
-- Why floats?
-  - You have to understand the industry standard.
-  - You have to understand floats to understand Flexbox.
-- A hack from the start, right after table-based layout!
-- **Features rows and cells**
-- Rows clear the floats on the cells
-  - **"If you float, you must clear"**
-- Floats appear according to the ordering in the HTML
-- **Major disadvantage: equal column heights**
-- **<u>Two components for a float-based layout:</u>**
-  - the row
-  - the individual cells
-    - contains a width, a float, and often a margin
+- It is a hack for layouts!
+- The first layout elements - but not designed to lay out whole web pages
+- the very first layout we were given to work with layouts in CSS
+- before that it was table and floats
+- Features flex-containers (row) and flex-items (cells). Both are required to work.
+- Flexbox has been around since 2009 and it has some issues.
+- **Excels at <u>vertical centering</u> and <u>equal heights.</u>**
+- Very easy to reorder boxes.
+- Major disadvantages:
+  - Wasn't designed to be locked down for layouts! Works in 1 dimension only.
+  - Browser support and syntax is challenging.
+- Think of flexbox as one continuous row.
+  - great for apps like Pinterest where images are delivered continuously
+- 
 
+## CSS Grid
 
+### Introducing CSS Grid
 
-![basic float example](/home/austin/repos/my-notes/frontendmasters/CSS Grids and Flexbox for Responsive Web Design/images/floats-basic.png)
+- there is no CSS Level 4...CSS the language no longer has levels.
+  - https://www.w3.org/TR/css-2015/#css-levels
 
-```html
-<div class="row">
-    <div class="col-1"></div>
-    <div class="col-1"></div>
-    <div class="col-1"></div>
-    <div class="col-1"></div>
-</div>
-```
+#### Why CSS Grid?
 
-```css
-.row::after {
-    content: "";
-    display: table;
-    clear: both;
-}
-.col-1 {
-    float: left;
-    margin-left: 4%;
-    width: 20%;
-}
-[class*='col-'] {
-    width: 92%; /* This is used since there is 4% margin on left and right */
-    margin-left: 4%;
-    margin-right: 4%;
-    min-height: 1px;
-}
-```
+- Built into CSS specification (now a recommendation)
+- all browsers support it
+- adoption rates have taken off spectacularly
+- No "row" markup required.
+- Grid is designed to work in 2 dimensions.
+- Use Flexbox for UI elements, but use Grid for major layout.
 
-- There can be layout problems with floats. This can be resolved with JavaScript, with a column equalizer script.
+#### CSS Grid: Browser Compatibility
 
-- ```css
-  /* rearranging the columns */
-  [class*="col-"] {       /* this is called an attribute selector */
-      position: relative; /* for any HTML element with an attribute of class */
-  }                       /* with a value containing 'col-' */
-  .col-push-1 {
-      left: 26%;
-  }
-  .col-pull-3 {
-      left: -74%;
+- full support in all the browsers you expect
+- partial support on all of the Microsoft browsers
+- No support for mostly mobile browsers
+  - she says it does not matter if a mobile browser has CSS Grid or not since on mobile screens, items are stacked vertically
+
+#### Polyfills & Fallbacks
+
+#### Exploring CSS Grid Examples
+
+Space between columns:
+
+- just before column 1:
+
+  ```css
+  .col-1 {
+      grid-column: 1 / 2;
   }
   ```
 
-### CSS Floats Exercise
 
-- Create a 4-column floated grid with given starting files
-- Include 2 breakpoints (your choice for where) and 3 layouts ("desktop", "tablet", "phone")
-- IF YOU HAVE EXTRA TIME:
-  - Consider how to equalize the columns so they wrap without breaking
-  - Consider reordering of Row 3 at tablet and phone sizes
 
-- to get the total width, you have to add up **the margin, the padding, the border, and the content in the middle**
-- `*` selector: selects everything
+![css-grid-2](C:\Users\au3643\repos\my-notes\frontendmasters\CSS Grids and Flexbox for Responsive Web Design\images\css-grid-2.png)
+
+
+
+#### Alternate Syntax
+
+- Named grid template areas (header, footer, etc):
+  https://gridbyexample.com/examples/#example11
+
+#### Reordering
+
+#### CSS Code Demo
+
+Implicit Grid: when some grid values are provided but not complete, CSS grid implicitly helps by filling in
+
+
+
+#### Chapter 11: CSS Grid Grid
 
 ```css
+.wrapper {
+    grid-gap: 2%;
+    grid-template-rows: repeat(4, 1fr); /* 4 columns, 1 fraction */
+    grid-template-columns: ;
+}
+```
 
-/* Mobile Landscape Screen Sizes */
-@media only screen and (min-width: 480px) {
-    [class*='col-'] {
-        margin-right: 0;
-        min-height: 1px;
-        float: left;
-    }
-    .col-1-2,
-    .col-2 {
-        width: 44%;
-    }
-    .col-1-4,
-    .col-3,
-    .col-4 {
-        width: 92%;
-    }
+`repeat(4, 1fr)`: after applying a `grid-gap: 2%`, whatever is left over, divide into 4 equal fractions.
+
+#### Grid Properties Review
+
+You can name your columns in `grid-template-columns/rows`:
+
+- ```css
+  grid-template-columns: [col1] 40px [col2] 3fr;
+  grid-template-rows: 350px [name] 350px [name] 10%;
+  ```
+
+- `grid-gap`:
+
+  - shorthand for `grid-column-gap` and `grid-row-gap`
+
+- `grid-column: 1/3;` is also written as:
+
+  - ```css
+    grid-column-start: 1;
+    grid-column-end: 3;
+    ```
+
+#### Introducing Grid Area
+
+For an empty column:
+
+```css
+.wrapper {
+    grid-template-areas:
+    "sidebar ... header header"
+    "sidebar ... article article";
+}
+```
+
+- can be just one dot (`.`, I used three dots for my own preference)
+
+#### Nesting CSS Grids
+
+There is no reason to use **flexbox-grid** if we are using **CSS-grid**. Just use **CSS-grid**.
+
+Remember there is a parent-child relationship in CSS-grid:
+
+- the `container` is the parent
+- direct descendants are `grid-items`
+
+In class example:
+
+```css
+.nested {
+    display: grid;
+    grid-gap: 1em;
+    grid-template-columns: auto;
 }
 
-/* Desktop screen sizes */
-@media only screen and (min-width: 768px) {
-    .col-1-2,
-    .col-1-4 {
-        width: 20%;
-    }
-    .col-2 {
-        width: 44%;
-    }
-    .col-3 {
-        width: 68%;
-    }
-    .col-4 {
-        width: 92%;
+@media (min-width: 650px) {
+    ...
+    
+    .nested {
+        grid-template-columns: repeat(3, 1fr);
     }
 }
 ```
+
+#### Exercise: Nested CSS Grids
+
+![nested css grids](C:\Users\au3643\repos\my-notes\frontendmasters\CSS Grids and Flexbox for Responsive Web Design\images\nested-grid-exercise.png)
+
+```css
+.nested {
+    display: grid;
+    grid-gap: 1em;
+    grid-template-columns: auto;
+}
+
+@media (min-width: 650px) {
+    ...
+    
+    .nested {
+		grid-template-columns: repeat(3, 1fr);
+		grid-template-areas: 
+		"aside1 ... aside3";
+	}
+	.nested aside:first-child {
+		grid-area: aside1;
+	}
+	.nested aside:last-child {
+		grid-area: aside3;
+	}
+}
+```
+
+#### Grid Fallbacks
+
+https://rachelandrew.co.uk/css/cheatsheets/grid-fallbacks
+
+If something is originally declared as a `float` item, and later it is declared as a `grid` item, it no longer is a `float`.
+
+`grid` overrides other `display` declared properties.
+
+```css
+@supports (display: grid) {
+    .grid > div {
+        width: auto;
+    }
+}
+```
+
+- checks if browser supports `grid`
+- put most modern/forward thinking code inside the `@supports` block and the old code outside of it.
+- <u>This site has a lot of useful snippets to make your site more cross-browser oriented</u>
 
