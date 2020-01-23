@@ -15,7 +15,9 @@
   - Browser support and syntax is challenging.
 - Think of flexbox as one continuous row.
   - great for apps like Pinterest where images are delivered continuously
-- 
+- Games:
+  - Flexbox Froggy: http://flexboxfroggy.com
+  - Flexbox Defense: http://www.flexboxdefense.com
 
 ## CSS Grid
 
