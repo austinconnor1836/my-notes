@@ -195,3 +195,80 @@
 
 ## 6.6: The Hymn to Apollo: Delphi
 
+- centered at the temple at Delphi: it has a long connection with Apollo
+
+- move from being birthed from Leto to Delphi
+
+- Apollo is very powerful, so much so that other gods are nervous
+
+  - his power causes anxiety
+
+- prophecy, the power that Zeus has, Apollo declares is his purview, but he ensures to state he cedes his power to Zeus
+
+- Apollo is in search of a place that he belongs
+
+  - where does he belong on Earth
+
+- the ritual dimension is extremely pronounced
+
+  - finding his own place in the world
+
+- we hear a story of Telaphusa, a personified spring
+
+- Apollo is about to build a temple around Telaphusa, and she says he should build it elsewhere because there are a lot of horses running around this open plain
+
+- Since a plain won't work for him, he goes up into the folds of Parnasus
+
+  - (insert image from slide)
+
+- in Delphi, it is more constrained for people to make grand gestures, there is a literal geographical focus on one spot, which is the temple at Delphi
+
+  - it is a breathtaking site
+
+- this will be the spot where Apollo sets his place on Earth
+
+- ```
+  Apollo spoke and laid out the foundations,
+  Wide, solid, and very long. And a stone
+    threshold was placed
+  By the sons of Erginos, Trophonios and
+    Agamedes,
+  Friends of the deathless god. The endless
+    human nations
+  Raised a temple of carved stone to be
+    sung about forever.
+  A lovely spring flowed near, where the
+    noble son of Zeus
+  Killed a huge snake by his stout bow,
+    there,
+  A savage, bloated monster, who brought
+    outrage
+  Continually on the country's people, and
+    slender-foot sheep, a gorey curse.
+  ```
+
+- this monster is being talked about here
+
+- after the snake, there is this other monster
+
+- in Hesiod's Theogony, the beast Typheus attacks Zeus, the last impediment to Zeus' reign, and Zeus casts the beast out
+
+- Typheus has a relationship with the snake, the snake raised the Typheus
+
+- This is to say Zeus defeated Typheus, but Apollo defeated the mother of the beast
+
+- There is no battle between Apollo and Zeus because Apollo knows he is beneath Zeus
+
+Epithets: each are attached to Apollo's name:
+
+- Pythian Apollo
+  - "pytho" = "to rot"
+  - after Apollo kills the snake, it lays there and rots
+- Telephousios
+  - Recall Telphousa, the water nymph
+- Delphinios
+  - "delphis" = "dolphin"
+  - Apollo is searching for people to tend to his temple on his behalf and some Cretan sailors come washing up on shore. Apollo shows up to them as a dolphin, very subtlely presented. He flops on their ship and guides them around and tells them how they will serve him.
+
+## 6.7: Myth and Ritual
+
