@@ -153,3 +153,15 @@ Fielding's four guiding principles that constitute the necessary constraints to 
 - Self-descriptive messages
 - Hypermedia as the engine of application state
 
+## Identification of resources
+
+- The semantics of the mapping of the URI to a resource **must not change.** 
+- **MIME (Multipurpose Internet Mail Extension)**: the list of possible well-defined formats or media types the client will understand (JSON, XML, HTML, PNG, SVG).
+- The application needs to support more than one representation of the same resource and the same URI.
+- For example: a document might be represented as JSON to an automated program, but as HTML to a web browser.
+- This allows the resource to be represented in different ways **without changing its identifiers.**
+- **The decoupling of the resource's representation from the URI is one to the crucial aspects of REST.**
+
+## Self-descriptive messages
+
+A client's request and server's response are messages that should be stateless and self-descriptive.
