@@ -272,3 +272,20 @@ Epithets: each are attached to Apollo's name:
 
 ## 6.7: Myth and Ritual
 
+- Emile Durkheim and Jane Harrison
+- Durkheim:
+  - interested in the social phenomena in groups
+  - "collective effervescence": experiences when people get together to do stuff
+  - this happens when humans perform rituals
+  - strange and stylized behaviors
+  - function of ritual is to anchor these moments in our lives
+  - rituals have the power to be efficacious
+- Harrison
+  - Bringing in these rituals to groups
+- Myth rushes into the vacuum when we ask why we do this (ritual).
+- The pure repetition of the action is what is most important
+- ritual behaviors, just on their own, are provocative
+- the provocativeness is what makes myths happens
+- all myths we know, there is some ritual behind them driving them
+- when we see the many connections between myths and rituals, we will know that this is what myths have
+
