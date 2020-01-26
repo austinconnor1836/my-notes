@@ -165,3 +165,63 @@ Fielding's four guiding principles that constitute the necessary constraints to 
 ## Self-descriptive messages
 
 A client's request and server's response are messages that should be stateless and self-descriptive.
+
+## Hypermedia as the Engine of Application State (HATEOAS)
+
+**HATEOAS is one of the most critical constraints**; without addressing it, services cannot be termed RESTful services.
+
+It is built on the **RMM (Richardson Maturity Model)**:
+
+![RMM](/home/austin/repos/my-notes/book-notes/APIs/Hands-On RESTful API Design Patterns and Best Practices/images/rmm.png)
+
+An API is fully qualified to be a RESTful API only when it scores **Level-3**.
+
+Some media types work well (in harmony) with the web, and they are called **hypermedia** formats. The formats that host URIs and links are hypermedia formats.
+
+*Plain old XML is not hypermedia-friendly as it doesn't carry the links and protocols.*
+
+The following diagram depicts a sample JSON response from a server without and then **With HATEOAS** (with links and HREFs):
+
+![HATEOAS](/home/austin/repos/my-notes/book-notes/APIs/Hands-On RESTful API Design Patterns and Best Practices/images/hateoas.png)
+
+To recap:
+
+- HATEOS means an application state representation (resource) that includes links to related resources. The absence or presence of a link on a page is an essential part of the resource's current state and so is essential for the RESTful APIs.
+- the URI should stay the same regardless of the many changes its representations go through.
+
+## Layered systems
+
+Layered systems consist of layers that communicate only with the layer above or below them. They also rely on the layers below it to perform its functions.
+
+## Code on demand
+
+In distributed computing, **code on demand (COD)** is any technology that enables the server to send the software code to the clients to be executed on the client computer upon request from the client's software.
+
+- an example would be JavaScript.
+
+*COD  is classified as optional; architectures that do not use this feature can still be considered RESTful.*
+
+## RESTful service mandates
+
+Mandatory constraints for any web service to be qualified as RESTful:
+
+- Client-server
+- Statelessness
+- Cache
+- Interface/uniform contract
+- Layered system
+- The optional REST constraint is COD (architectures that do not use this feature can still be considered RESTful)
+
+## Architectural goals of REST
+
+Properties of REST that help to establish the design goals that are embedded in the application of REST constraints:
+
+- Performance
+- Scalability
+- Simplicity
+- Modifiability
+- Visibility
+- Portability
+- Reliability
+- Testability
+
