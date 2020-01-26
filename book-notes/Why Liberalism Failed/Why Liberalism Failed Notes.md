@@ -405,3 +405,40 @@ Cowen predicts that this low-wage majority will settle in places that look a lot
 
 #### Rule of the Strong
 
+While Mill at times argued that a good society needed a balance of "Progress" and "Custom," in the main, he saw custom as the enemy of human liberty, and progress as a basic aim of modern society.
+
+We live today in the world Mill proposed.
+
+Society has been transformed along Millian lines in which especially those regarded as judgmental are to be special objects of scorn, in the name of nonjudgmentalism.
+
+It is a society organized for the benefit of the strong, as Mill recognized. By contrast, a Burkean society is organized for the benefit of the ordinary--the majority who benefit from societal norms that the strong and the ordinary alike are expected to follow.
+
+Our society was once shaped on the basis of the benefit for the many ordinary; today it is shaped largely for the benefit of the few strong.
+
+#### Liberalocracy Ascendant
+
+Our society is increasingly defined by economic winners and losers, with winners congregating in wealthy cities and surrounding counties, while losers largely remain in place--literally and figuratively--swamped by a global economy that rewards the highly educated cognitive elite while offering bread crumbs to those left in "flyover country."
+
+Compounding their disadvantage is the "secession of the successful," the geographic withdrawal of a social and economic elite to a few concentrated areas, siphoning away those who might once have engaged in local philanthropy and the building of local civil society.
+
+In effect, liberalism advances most effectively through both classical and progressive liberalisms, the economic liberalism of Locke and the lifestyle liberalism of Mill, even while the two claim to be locked in battle.
+
+Both sides regard generational inequality as an aberration, rather than recognizing it as a key achievement of the liberal order.
+
+Liberalism is arguably the first regime to put into effect a version of the "Noblie Lie" proposed by Plato in the *Republic*, which claimed not only that the ruled would be told a tale about the nature of the regime, but more important, that the ruling class would believe it as well. The "noble lie" proposes a story by which the denizens of the "ideal regime" proposed by Socrates at once believe in their fundamental equality as members of a common family and in the natural basis of their inequality.
+
+It is often these very same (elite) people who, upon encountering the discussion of the "Noble Lie" in the *Republic*, will pronounce their disgust at such subterfuge, all the while wholly unaware that the Cave they occupy has been rendered invisible by the artificial lighting designed to hide its walls.
+
+### Chapter 7: The Degradation of Citizenship
+
+The genius of liberalism was to claim legitimacy on the basis of consent and arrange periodic managed elections, while instituting structures that would dissipate democratic energies, encourage the creation of a fractured and fragmented public, and ensure government by select elite actors.
+
+As long as liberal democracy expands "the empire of liberty," mainly in the form of expansive rights, power, and wealth, the actual absence of active democratic self-rule is not only an acceptable but a desired end.
+
+#### Antidemocratic Liberalism
+
+Brennan has instead called for rule by an "epistocracy," a governing elite with tested and proven knowledge to efficiently and effectively govern a modern liberal and capitalist state and social order.
+
+#### Founding Constraints
+
+Consistent findings of civic ignorance and incompetence, indifference and misinformation are held by yesterday's and today's social scientists to be like the molecular makeup of water or laws of physics: measures of an objective and largely unalterable reality.
