@@ -143,3 +143,75 @@ Rules for URI paths:
 
 ## URI query
 
+URI query rules:
+
+- Use the query to filter collections or stores:
+  - An example of the limit in the query:
+    - `https://api.lufthansa.com/v1/operations/flightstatus/arrivals/ZRH/2018-05-21T06:30?limit=40`
+  - Use the query to paginate collection or store results:
+    - An example with the offset in the query:
+      - `https://api.lufthansa.com/v1/operations/flightstatus/arrivals/ZRH/2018-05-21T06:30?limit=40&offset=10`
+
+## HTTP Interactions
+
+## Request Methods
+
+API Design rules:
+
+- Don't tunnel to other requests with the `GET` and `POST` methods
+- Use the `GET` method to retrieve a representation of a resource
+- Use the `HEAD` method to retrieve response headers
+- Use the `PUT` method to update and insert a stored resource
+- Use the `PUT` method to update mutable resources
+- Use the `POST` method to create a new resource in a collection
+- Use the `POST` method for controller's execution
+- Use the `DELETE` method to remove a resource from its parent
+- Use the `OPTIONS` method to retrieve metadata
+
+## Response status codes
+
+Status code categories and some REST API rules:
+
+- **1xx: Informational**: This provides protocol-level information
+- **2xx: Success**: Client requests are accepted (successfully), as in the following examples:
+  - `200`: OK
+    - Use for indicating client request success
+    - Do not use to communicate the errors in the response body
+  - `201`: Created
+    - Apply for successful resource creation
+  - `202`: Accepted
+    - Use for reporting the successful asynchronous action
+  - `204`: No content
+    - When an API wants to send empty or no content in the response body
+- **3xx: Redirection**: Client requests are redirected by the server to the different endpoints to fulfil the client request:
+  - `301`: Moved Permanently
+    - Use for relocated resources
+  - `302`: Found
+    - Please note not to use `302`, as it would create confusion among the developers related to the initiation of automatic redirections from the client
+  - `303`: See other
+    - Apply to refer the client to a different URI (in place of `302`, it's recommended the API should use `303`)
+  - `304`: Not modified
+    - Use so that the client can preserve bandwidth
+  - `307`: Temporarily redirect
+    - Use to indicate to the clients to resubmit the request to another URI
+- **4xx: Client error**: Errors at client side:
+  - `400`: Bad request
+    - Can be used to indicate generic or nonspecific failures
+  - `401`: Unauthorized
+    - Apply for unauthorized access from the client side or problem with the client credentials
+  - `403`: Forbidden
+    - Use to forbid access regardless of the authorization state
+    - Use to enforce application-level permission (allowed to access only a few resources and not all the resources)
+  - `404`: Not found
+    - Must use when client request doesn't map to any of the API resources
+  - `405`: Method not allowed
+    - Use when the client accesses unintended HTTP methods
+    - Example read-only resource might only support `GET` and `HEAD`, and the client tried to use `PUT` or `DELETE`
+    - Please note that `405` response should be part of the Allow header (*Allow-`GET`. `POST`*)
+  - `406`: Not acceptable
+    - Must use when the server can't serve the requested media type
+  - `409`: Conflict
+    - Use for client violation of a resource state
+    - An example could be an API returns this error when the client tries to delete a non-empty store resource
+  - `412`: Precondition failed
+    - Use to support conditional operations. The client sends on or more preconditions in the request headers to indicate to the API to execute only those conditions that are satisfied; if not, the API should send a `412` error code.
