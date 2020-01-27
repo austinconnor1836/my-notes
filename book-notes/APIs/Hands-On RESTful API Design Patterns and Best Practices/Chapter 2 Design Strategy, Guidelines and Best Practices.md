@@ -112,7 +112,7 @@ Resource modelling is a crucial design aspect, and API designers need to think a
 
 Resource modelling should start with a few fundamental resource archetypes, and usually, the REST API is composed of four unique archetypes, as follows:
 
-- **Document**: the base for a resource representation witha field and link-based structure. Examples:
+- **Document**: the base for a resource representation with a field and link-based structure. Examples:
   - `https://api-test.lufthansa.com`
   - `https://api-test.lufthansa.com/v1/profiles`
   - `https://api-test.lufthansa.com/v1/profiles/customers`
@@ -127,4 +127,19 @@ Resource modelling should start with a few fundamental resource archetypes, and 
   - `POST /alerts/245245/resend` is an example of a controller resource that allows a client to resend an alert to a user.
 
 ## URI path
+
+Rules for URI paths:
+
+- Use singular nouns for document names
+  - Example: `https://api-test.lufthansa.com/v1/profiles/customers/memberstatus`
+- Use plural nouns for collections and stores:
+  - Collections: `https://api-test.lufthansa.com/v1/profiles/customers`
+  - Stores: `https://api-test.lufthansa.com/v1/profiles/customers/memberstatus/preferences`
+- As controller names represent an action, use a verb or verb phrase for controller resources
+  - Ex: `https://api-test.lufthansa.com/v1/profiles/customers/memberstatus/reset`
+- Do not use CRUD function names in URIs:
+  - Do: `DELETE /users/1234`
+  - Don't: `DELETE /user-delete/1234`
+
+## URI query
 
