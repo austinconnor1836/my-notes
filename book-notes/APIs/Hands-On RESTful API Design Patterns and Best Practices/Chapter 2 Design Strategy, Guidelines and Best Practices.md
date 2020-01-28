@@ -330,5 +330,38 @@ Rules to help secure resources containing sensitive information:
 
 ## Response representation composition
 
+It is crucial that REST APIs maintain a consistent resource model design, so clients can benefit from the composite responses.
+
+Rules enabling the client to tune the responses:
+
+- It should support partial response by using the query component of a URI
+- It should embed linked resources by using the query component of a URI
+
+## Processing hypermedia
+
+Two hypermedia structures: link and link relation.
+
+They help clients to process the response structure using a consistent algorithm.
+
+The client should interact with a specific REST API response representation link.
+
+The simple flow:
+
+- The client processing program starts by looking up the link using its relation's name, and interacts with the link lookup using the appropriate HTTP request method
+- The client code inspects the method field of the link's relation document resource and decides whether the content should be submitted in the request message body or not
+
+## JavaScript clients
+
+Restrictions imposed (sandboxed) by the web browsers same-origin are known as the **same domain policy.**
+
+- if resources aren't from the same domain/own source, it restricts the JavaScript client from accessing them
+- this is to prevent leaking of confidential user data
+- In most cases, the REST API needs to provide multi-origin read/write access from JavaScript for its JavaScript clients
+
+Rules to enable multi-origin read/write access from JavaScript for its JavaScript clients:
+
+- Support multi-origin read access with **JSON with padding (JSONP)** from JavaScript
+- Support **cross-origin resource sharing (CORS)** to provide multi-origin read/write access from JavaScript
+
 
 
