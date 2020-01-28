@@ -128,3 +128,22 @@ Three variants of resource representation ways pagination:
 
 ### Discoverability
 
+Discoverability of the API is all about the descriptive capability of the server to instruct the client on the usage of the API.
+
+1. **By valid HTTP methods**: When clients call REST services with invalid HTTP methods, the response of that request should end up in the `405` HTTP error code; that is, `405 Method Not Allowed`. Example code:
+
+   ```java
+   @DeleteMapping("/investors/{investorId}/stocks/{symbol}")
+   	public ResponseEntity<Void> deleteAStockFromTheInvestorPortfolio(@PathVariable String investorId,
+   			@PathVariable String symbol) {
+   		if (investorService.deleteStockFromTheInvestorPortfolio(investorId, symbol)) {
+   			return ResponseEntity.noContent().build();
+   		}
+   		return ResponseEntity.ok(null);
+   	}
+   ```
+
+2. **By providing the URI of the newly created resource**
+
+
+
