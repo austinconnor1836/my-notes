@@ -215,3 +215,120 @@ Status code categories and some REST API rules:
     - An example could be an API returns this error when the client tries to delete a non-empty store resource
   - `412`: Precondition failed
     - Use to support conditional operations. The client sends on or more preconditions in the request headers to indicate to the API to execute only those conditions that are satisfied; if not, the API should send a `412` error code.
+  - `415`: Unsupported media type
+    - Must be used when the API is not able to process the request's payload media type (indicated in the content-type request header)
+- **5xx: Server error**: These relate to errors at server side:
+  - `500`: Internal server error
+    - Use to report the API/server-side issues, and when it's certainly not the client's side fault
+
+## Metadata design
+
+## HTTP headers
+
+Rules conforming to the HTTP standard headers:
+
+- **Should use content-type**
+  - clients and servers use this to indicate how to process the message's body
+- **Should use content-length**
+- **Should use last-modified in responses**
+- **Should use ETag in responses: Entity tag (ETag)** is an HTTP header that helps the client to identify a specific version of the resources they asked for.
+- **Stores must support conditional `PUT` requests**
+  - `PUT` is the same as `POST` except `PUT` is *idempotent.
+  - the calls the client makes produce the same results for all calls; that is multiple requests from the clients produce the same effect as a single request.
+- **Should use the location specify the URI of newly created resources (through `PUT`)**
+- **Should leverage HTTP cache headers**
+- **Should use expiration headers with `200` ("OK") responses**
+- **May use expiration caching headers with 3xx and 4xx responses**
+  - APIs including caching headers for 3xx and 4xx responses are also known as negative caching. It helps the REST API server with a reduction in loads due to some redirection and error triggers.
+- **Mustn't use custom HTTP headers**
+  - only purpose is to provide additional information and troubleshooting tips for app developers
+
+## Media types and media type design rules
+
+Media types help to identify the form of the data in a request or response message body, and the content-type header value represents a media type also known as the **Multipurpose Internet Mail Extensions (MIME)** type.
+
+Rules of media type design:
+
+- **Uses application-specific media types**
+- **Supports media type negotiations in case of multiple representations**
+
+## Representations
+
+Rules for the most common resource formats, such as JSON and hypermedia, and error types in brief:
+
+## Message body format
+
+- Use JSON for resource representation and it should be well-formed
+- You may use XML and other formats as well
+- Don't create additional envelopes or any custom transport wrappers and leverage only HTTP envelopes
+
+## Hypermedia representation
+
+REST API clients can programmatically navigate using a uniform link structure as a HATEOAS response.
+
+Rules related to hypermedia representations:
+
+- Use a consistent form to represent links, link relations, and link announcements
+- Provide a self-linking representation in a response message body
+- Minimize the number of the advertised *entry point* or API URIs
+- Use links to advertise any resource actions in a state-sensitive manner
+
+## Media type representation
+
+For every client request, except for `GET` requests, the API should define the media type in the request body and response body.
+
+API media type relates to features such as:
+
+- sorting
+- filtering
+- paginating
+- linking
+
+## Errors representation
+
+Error status codes of HTTP methods (4xx and 5xx) can carry client-readable information in the response body.
+
+Rules:
+
+- Errors and error responses should be consistent
+- Error types for generic and for common error conditions should also be consistent
+
+## Client concerns
+
+As we mentioned before, REST API clients in the REST API world are APP developers and REST APIs are designed to suit the needs of their client programs (APP developer code).
+
+A set of REST API design principles will be discussed to address common client concerns.
+
+## Versioning
+
+The representational resources of REST APIs communicate their state through the versions.
+
+**Versioning is one of the essential design principles.**
+
+APIs should be versioned (increase the major version) when it undergoes a breaking change, including:
+
+- Response data changes
+- Response type changes
+- Removing any part of the API
+
+Minor versions help to track the APIs' small changes and assist in customer support, who may be receiving cached versions of data or may be experiencing other API issues.
+
+A few rules about REST API versioning:
+
+- Use new URIs to introduce new models or conceptions
+- Use schemas for managing representational form versions
+- Make us of ETags to manage representational state versions
+
+*The general versioning practices follow schematic versioning (https://semver.org/); however, the versioning practices in RESTful API attract lots of discussions, and please be aware that as API designers, we may need to make decisions aligned with business needs and impacts.*
+
+## Security
+
+Rules to help secure resources containing sensitive information:
+
+- Use OAuth, an HTTP-based authorization protocol, to protect resources
+- Use API management solutions, such as reverse proxy, to protect resources
+
+## Response representation composition
+
+
+
