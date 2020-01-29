@@ -145,5 +145,23 @@ Discoverability of the API is all about the descriptive capability of the server
 
 2. **By providing the URI of the newly created resource**
 
+### Error and exception logging
 
+Services are the black boxes to the API developers, and therefore service providing errors and exceptions provide clients with a clear context and visibility to use our APIs.
+
+We can utilize existing HTTP standard error codes as well as provide more customized errors and messages to the caller.
+
+### Unicode
+
+A simple yet powerful way to make our API support multiple languages is to enable the API to support Unicode.
+
+**Unicode** is an encoding standard that support an international character set.
+
+- has a unique number for every character across multiple languages including Chinese, Korean, and Arabic and their scripts.
+
+We can include Unicode support in our REST API headers:
+
+```java
+@GetMapping(value="/investors/welcome", produces="text/plain;charset=UTF-8") public String responseProducesConditionCharset() { return " (\"Welcome Investor!\" in Japanese)"; }
+```
 
