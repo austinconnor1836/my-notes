@@ -261,3 +261,183 @@ Entity endpoints suggest exposing each entity as individual lightweight endpoint
 ### Endpoint redirection
 
 If the service endpoint needs to change, which isn't ideal, the service client knows about it using standard HTTP return codes, `3xx`, and with the **Location** header, then by receiving `301 Moved permanently` or `307 Temporary Redirect`.
+
+![endpoint redirection diagram](/home/aconnor/repos/my-notes/book-notes/APIs/Hands-On RESTful API Design Patterns and Best Practices/images/endpoint-redirection-diagram.png)
+
+- the service consumers may call the new endpoints that are found in the **Location** header.
+
+### Idempotent
+
+**Idempotent** is one of the fundamental resilience and scalable patterns, as it decouples the service implementation nodes across distributed systems.
+
+This is the solution to a service implementation producing the same results when handling messages/data, even after multiple calls.
+
+Refer to Chapter 3 for examples of idempotent implementations of `DELETE`, `PUT`, and `PATCH` (`DELETE` only deletes the resource once, even if it is called multiple times).
+
+To handle concurrency, the services can be enhanced with E-Tag and send back a `409` conflict response to inform the client that the resource called is in an inconsistent state.
+
+### Bulk operation
+
+Marking a list of emails as read in our email client could be an example of a bulk operation; the customer chooses more than one email to tag as `Read`, and one REST API call does the job instead of multiple calls to an underlying API.
+
+Two approaches to implementing bulk operations:
+
+- Content-based bulk operation
+- Custom-header action-identifier-based bulk operation
+
+```java
+// bulk (patch) operation example with custom request header
+
+	@PatchMapping("/investors/{investorId}/stocks")
+	public ResponseEntity<Void> updateStockOfTheInvestorPortfolio(@PathVariable String investorId,
+			@RequestHeader(value = "x-bulk-patch") Optional<Boolean> isBulkPatch,
+			@RequestBody List<Stock> stocksTobeUpdated) throws CustomHeaderNotFoundException {
+		// without custom header we are not going to process this bulk operation
+		if (!isBulkPatch.isPresent()) {
+			throw new CustomHeaderNotFoundException("x-bulk-patch not found in your headers");
+		}
+		investorService.bulkUpdateOfStocksByInvestorId(investorId, stocksTobeUpdated);
+		return ResponseEntity.noContent().build();
+	}
+```
+
+### Circuit breaker
+
+The circuit breaker is an automatic switch designed to protect entire electrical circuits from damage due to excess current load as a result of a short circuit or overload.
+
+The same concept applies when services interact with many other services.
+
+This pattern helps subsystems to fail gracefully and also prevents complete system failure as a result of a subsystem failures:
+
+![circuit breaker diagram](/home/aconnor/repos/my-notes/book-notes/APIs/Hands-On RESTful API Design Patterns and Best Practices/images/circuit-breaker-diagram.png)
+
+Three different states that constitute the circuit breaker:
+
+- **Closed**:
+  - all service interconnections are intact and all the calls go through intended services.
+  - needs to keep track of failures to determine threshold limits
+    - move to the open state if the number of failures exceeds threshold limits to avoid cascading impacts
+- **Open**:
+  - returns errors without really executing their intended functions
+- **Half-open**:
+  - services are periodically (timeout) checked for failures that made the services be in the open state.
+  - services reside in the open state if they do not stop failing
+  - this state is responsible for triggering a service that is no longer failing back to the closed state for the continuous function
+
+**Hysterix**: incredibly dominant open source library for Java
+
+In the `circuit-breaker-service`, in `InvestorService.java`:
+
+```java
+@HystrixCommand(fallbackMethod="welcomeUrlFailureFallback")
+	public String circuitBreakerImplWelcome() {
+		logger.info("reached circuit breaker consumer circuit breaker impl");
+		RestTemplate restTemplate = new RestTemplate();
+		URI circuitBreakerServiceURI = URI.create(CIRCUIT_BREAKER_SERVICE_URL);
+		return restTemplate.getForObject(circuitBreakerServiceURI, String.class);
+	}
+	
+	// fall back method for welcome page failures
+	public String welcomeUrlFailureFallback(){
+		logger.info("lucky we have a fallback method");
+		return WELCOME_URI_FALLBACK_MESG;
+	}
+```
+
+
+
+![circuit breaker](/home/aconnor/repos/my-notes/book-notes/APIs/Hands-On RESTful API Design Patterns and Best Practices/images/circuit-breaker.png)
+
+*The downside of the circuit-breaker pattern is that the applications/services involved may experience slight performance hits. However, it's a good trade-off for many real-world applications.*
+
+### Combining the circuit pattern and the retry pattern
+
+The **retry patterns** enable the application to retry failed operations, expecting those operations to become operational and eventually succeed.
+
+However, it may result in a **denial of service (DoS)** attack within our application.
+
+We want an intelligent retry mechanism that's sensitive to any failures returned by the circuit breaker that indicates no transient failures, and so the application abandons any further retry attempts.
+
+#### API facade
+
+From GoF, the **facade** pattern abstracts the complex subsystem from the callers and exposes only necessary details as **interfaces** to the end user.
+
+![api facade](/home/aconnor/repos/my-notes/book-notes/APIs/Hands-On RESTful API Design Patterns and Best Practices/images/api-facade.png)
+
+- for when the client needs to make multiple service calls
+- the facade can be implemented with a single API endpoint
+- high scalability and high performance
+
+In our example, the delete operations implement a simple API facade.
+
+They call the *design for intent* method that is abstract to the caller by introducing a simple interface to our investor services.
+
+In `Chapter04/investor-services-facade/src/**/service/DeleteServiceFacade.java`:
+
+```java
+package com.books.chapters.restfulapi.patterns.chap4.springboot.service;
+
+import java.util.List;
+
+public interface DeleteServiceFacade {
+	boolean deleteAStock(String investorId, String stockTobeDeletedSymbol);
+	boolean deleteStocksInBulk(String investorId, List<String> stocksSymbolsList);
+}
+```
+
+In `**/service/DeleteServiceFacadeImpl.java`:
+
+```java
+package com.books.chapters.restfulapi.patterns.chap4.springboot.service;
+
+import java.util.List;
+
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
+import org.springframework.stereotype.Component;
+
+import com.books.chapters.restfulapi.patterns.chap4.springboot.models.IndividualInvestorPortfolio;
+import com.books.chapters.restfulapi.patterns.chap4.springboot.models.Investor;
+import com.books.chapters.restfulapi.patterns.chap4.springboot.models.Stock;
+
+@Component
+public class DeleteServiceFacadeImpl implements DeleteServiceFacade {
+
+	private static final Logger logger = LoggerFactory.getLogger(InvestorService.class);
+	private InvestorServicesFetchOperations investorServicesFetchOperations = new InvestorServicesFetchOperations();
+
+	@Override
+	public boolean deleteAStock(String investorId, String stockTobeDeletedSymbol) {
+		boolean deletedStatus = false;
+
+		Stock stockTobeDeleted = investorServicesFetchOperations.fetchSingleStockByInvestorIdAndStockSymbol(investorId,
+				stockTobeDeletedSymbol);
+		if (stockTobeDeleted != null) {
+			Investor investor = investorServicesFetchOperations.fetchInvestorById(investorId);
+			deletedStatus = investor.getStocks().remove(stockTobeDeleted);
+		}
+		designForIntentCascadePortfolioDelete(investorId, deletedStatus);
+		return deletedStatus;
+	}
+
+	@Override
+	public boolean deleteStocksInBulk(String investorId, List<String> stocksSymbolsList) {
+		return false;
+	}
+
+	private void designForIntentCascadePortfolioDelete(String investorId, boolean deletedStatus) {
+		IndividualInvestorPortfolio individualInvestorPortfolio = InvestorService.portfoliosMap
+				.get(investorServicesFetchOperations.fetchInvestorById(investorId).getId());
+		if (deletedStatus) {
+			individualInvestorPortfolio.setStocksHoldCount(individualInvestorPortfolio.getStocksHoldCount() - 1);
+			logger.info("updated the portfolio for Delete stocks operation");
+		} else {
+			logger.warn("Update to the individual portofolio not pursued as deleted status of DEL operation returned ");
+		}
+	}
+
+}
+```
+
+### Backend for frontend
+
