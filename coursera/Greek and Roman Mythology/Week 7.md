@@ -42,5 +42,50 @@
 
 ## 7.2: Family Ties, Betrayals
 
+- families are so close together it is borders suffocation
+- Aeschylus' Agamemnon, a trilogy, the Oresteia
+- starts with the house of Atreus, in Mycenae
+  - we know Agamemnon is from Mycenae
+  - this citadel is not completely architecturally sound
+- Argos is the region including Mycenae
+- the Oresteia will explain in detail Agamemnon's problems
+- starts with Tantalus suffering for all of eternity
+  - he committed a food crime by serving the gods the carved up bits of his son
+  - the gods reconstructs Pelops, his son
+- he tries to get a princess, Hippodamia
+- Pelops beats the King's challenge of a chariot race
+- Pelops wins Hippodamia, takes the kingdom, and renames it Peloponesia
+- then he has children: Thyestes and Atreus (the oldest son)
+- Atreus bears Menelaus and Agamemnon, Thyestes bears Aegisthus
+- Thyestes challenges for the eldest inheritances and cheats
+- Zeus intervenes and Pelops wins
+- Atreus carves up Thyestes own son, and serves him his own son and Thyestes eats him
+- Thyestes goes to Delphi to figure out how to get back at his own brother
+- He gets drunk and has sex with his own daughter
+- he leaves behind his own familial sword
+- his daughter is pregnant with Aegisthus
+- Atreus spots her, takes her in, and believes the child she produces is his own
+- Atreus sends Agamemnon and Menelaus to Delphi to figure out what to do to find Thyestes
+- they find and drag Thyestes back home
+- Atreus takes his other son, Aegisthus, and orders him to kill Thyestes with his own sword
+- Thyestes notes that it is his son
+- Aegisthus reunites with his true father, Thyestes
+- the reunited go back and kill Atreus
+- Menelaus and Agamemnon are banished, where they meet Helen and Chlymanaestra
+- they go back and take back the kingdom
+- Aegisthus is wading around in the background for his opportunity to strike
+- horrible things happen to and because of this family: the Trojan war as one example
 
+## 7.3: Introducing Agamemnon
+
+- a tragic story
+- signal beacons from Troy to Argos signals to Chlymanaestra that her husband has conquered Troy
+- she uses this to set up things to kills him
+- upon reunion, they test their own wills, subterraneanly
+- Agamemnon is an incredibly strong man, but not too clever
+  - his prize from war time, Cassandra
+  - he brings her right out in the open, not too clever
+- Greeks thought it was just fine to have concubines, but not rub it in their face
+- Chlymanaestra and him have a long back and forth
+- 
 
