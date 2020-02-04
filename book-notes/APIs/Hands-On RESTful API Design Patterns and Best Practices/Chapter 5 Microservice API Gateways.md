@@ -112,3 +112,54 @@ API gateway clustering is important for continuously receiving and responding to
 
 ### High availability and failover
 
+API gateways are the only entry point for microservices to find and talk with one another to fulfill business tasks.
+
+To achieve high availability and stability, the recommended action and approach is to deploy the API gateway in **high availability (HA)** mode.
+
+As stated before, API gateway instances are clustered behind a load balancer. The load balancer continuously probes the API gateway instances to understand whether they are alive or not.
+
+If the load balancer determines a gateway is failing, it redirects and routes inbound traffic to the next instance that is functioning properly.
+
+Generally, API gateways are stateless. But they can maintain cached data, which can be replicated across a cluster of API gateways. This arrangement helps maintain the peer-to-peer relationship among API gateway instances.
+
+#### High availability and failover guidelines
+
+Guidelines developed by experts:
+
+- In order to guarantee maximum availability, an API gateway has to be used in proven active/active mode.
+- There is a need for deeper and decisive analysis on traffic data. The insights from this analysis help operators and others manning production environments to plan and protect against message flooding.
+- Tool-supported automated network infrastructure monitoring and management are essential for ensuring the highest availability. Not only collecting operational and log data, but also subjecting them to a variety of investigations unravels a lot of useful and usable information. All the knowledge thus discovered and disseminated goes a long way in empowering the network infrastructure to work in prime and pristine condition. The analytics feature intrinsically embedded in an API gateway solution comes in handy in analyzing and articulating what to do to prevent any kind of failure and faltering. There are specific as well as agnostic monitoring tools, which can be integrated with knowledge visualization/report generation tools.
+
+### Governance
+
+Established policies are vital for monitoring and managing an increasing set of APIs.
+
+They can be broadly categorized as **design-time** and **runtime** governance.
+
+## About API gateway solutions
+
+In a nutshell, an API gateway is a multifaceted proxy that accomplishes a variety of integration, intermediation, and enrichment tasks.
+
+Its responsibilities are performed after the initial request verification, content filtering, authentication, and authorization.
+
+Common features of any API gateway solution:
+
+- authentication and authorization
+- message enrichment
+- mediation
+- process-based composition
+- traffic routing and management
+- service monitoring
+
+It is bound to provide a single and unified API entry point across one or more internal APIs.
+
+There can be a variety of clients requesting it and expect appropriate responses.
+
+The gateway is supposed to do a variety of tasks including:
+
+- initiation
+- intermediation
+- implementation
+
+In short, an API gateway can help provide a **unified entry point for external consumers.**
+
