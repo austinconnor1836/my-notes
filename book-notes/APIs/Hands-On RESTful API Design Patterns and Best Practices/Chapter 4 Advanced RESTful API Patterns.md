@@ -441,3 +441,32 @@ public class DeleteServiceFacadeImpl implements DeleteServiceFacade {
 
 ### Backend for frontend
 
+**Backend for frontend (BFF)** is a pattern that helps to bridge any API design gaps.
+
+- it suggests introducing a layer between the user experience and the resources it calls.
+
+Requirements to help understand why we need multiple interfaces for the same backend services:
+
+- Response payload formatting and size may differ for each client
+- Performance bottlenecks and optimization requirements due to the number of calls to be made to services
+- When in need of shared or general purpose backend services, but with less development and maintenance overhead
+
+BFF is not always the best solution and has many costs as well as benefits.
+
+### Summary
+
+- versioning APIs
+- securing APIs with authorization
+- enabling service clients with:
+  - uniform contract
+  - entity endpoint
+  - endpoint redirections
+- Idempotency, powering bulk API operations
+- **Most importantly**, we learned of the circuit-breaker implementation with *Hysterix*, where we envisioned and implemented the resiliency patters of API designs.
+- Concluded with the BFF (Backend for frontend) pattern
+  - reduces churns within the cross-implementation team by helping them to develop an exclusive interface for target environments
+
+### Further reading
+
+- RESTful Java Patterns and Best Practices: `https://www.packtpub.com/application-development/restful-java-patterns-and-best-practices`
+
