@@ -55,3 +55,60 @@ Two main service discovery patterns: **client-side** and **server-side discovery
 
 ### Composition/orchestration
 
+Microservices must be linked together.
+
+For ensuring composition there are two methods: **orchestration** and **choreography**.
+
+There are also static and dynamic compositions.
+
+![orchestration](images/orchestration.png)
+
+### Transformation
+
+Since their are so many different client-side devices, like IoT devices, browsers for resource constrained devices, web and mobile applications, etc., the client side of any application and service has to be worked out separately.
+
+There are synchronous and asynchronous communication protocols.
+
+The API gateway facilitates translation and other transformation needs quite comfortably.
+
+### Monitoring
+
+Every service request/response gets routed through API gateways.
+
+Monitoring is indispensable for ensuring service reliability and stability.
+
+The essential metrics to be faithfully considered include:
+
+- the total number of requests being sent out for an API for a period of time
+- the performance/throughput value
+- the number of successful and exception messages received
+- the number of blocked messages by API gateway
+
+Request categorization is also important to anticipate any kind of spike or surge with greater accuracy and prediction.
+
+### Load balancing and scaling
+
+The goal of achieving application scalability (horizontal) through infrastructure elasticity is accomplished by leveraging a **load balancer (LB)** (software or hardware).
+
+Traffic information is important to have for a load balancer.
+
+We do not want an API gateway to be a single point of failure.
+
+To have a clustered API gateway setup, we can have a load balancer in front of the API gateway.
+
+This means that multiple instances of an API gateway solution can be leveraged to ensure continuity.
+
+They have the same configuration, which helps in virtualizing the same APIs and to excute the same policies.
+
+API gateways are stateless to not be weighed down by state information.
+
+Using multiple instances of an API gateway ensures zero downtime. While one is being updated, it cannot accept requests, but the remaining instances can.
+
+The **key role of the load balancer** here is to ensure all the incoming requests are pushed to the correct API gateway instances that are receiving and processing fresh requests.
+
+API gateway clustering is important for continuously receiving and responding to service messages and the **Load Balancer** plays a vital role in fulfilling this:
+
+![load balancer](images/load-balancer.png)
+
+### High availability and failover
+
