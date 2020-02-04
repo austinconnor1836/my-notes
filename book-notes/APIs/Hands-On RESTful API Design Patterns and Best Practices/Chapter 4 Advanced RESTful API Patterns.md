@@ -15,12 +15,12 @@ Patterns that will be discussed in this chapter:
 
 ## Versioning
 
-Ideally, we'd never change or API URIs, much like we would never change our website URLs.
+Ideally, we'd never change our API URIs, much like we would never change our website URLs.
 
 General rules for versioning:
 
-- new major version when the new implementation breaks the existing customer implementations
-- minor versions when the new implementation does not break existing customer implementations, but it does fix bugs and provides enhancements
+- **new major version when the new implementation breaks the existing customer implementations**
+- **minor versions when the new implementation does not break existing customer implementations, but it does fix bugs and provides enhancements**
 
 ### 4 Ways of handling Versioning
 

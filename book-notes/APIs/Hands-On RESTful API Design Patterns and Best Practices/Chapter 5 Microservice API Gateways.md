@@ -163,3 +163,5 @@ The gateway is supposed to do a variety of tasks including:
 
 In short, an API gateway can help provide a **unified entry point for external consumers.**
 
+## API gateways for microservice-centric applications
+
