@@ -165,3 +165,18 @@ In short, an API gateway can help provide a **unified entry point for external c
 
 ## API gateways for microservice-centric applications
 
+Main features of an API gateway:
+
+1. **Adds flexibility**
+   1. decouples internal concerns from external clients
+2. **Adds an additional layer**
+   1. As microservices are not contacted directly, the security of services is greatly strengthened.
+   2. Through rate limiting/throttling offered by API gateways, distributed DoS attacks can be thwarted easily.
+3. **Enables support for data and protocol translation**
+   1. There are synchronous and asynchronous communications and their corresponding protocols.
+   2. All the common capabilities of microservices are safely abstracted and incorporated into API gateways.
+
+Further on, API gateway solutions simplify and standardize API design, implementation, and management.
+
+## The issues with microservice API gateways
+
