@@ -87,5 +87,49 @@
   - he brings her right out in the open, not too clever
 - Greeks thought it was just fine to have concubines, but not rub it in their face
 - Chlymanaestra and him have a long back and forth
-- 
+
+## 7.4: Agamemnon Themes
+
+- Odysseus and Penelope were very close
+- This shows that closeness can create nastiness
+- Agamemnon is outside the secrecy of his wife Clytemnestra with her secrecy with Aegisthus
+- Meditations on medicine and drugs
+  - the term "pharmacon" shows up in this double-valenced way of both poison and medicine
+- drugs were normally mixed and shred in a bowl before they are delivered
+- Cassandra treats the death of Clytemnestra like being consumed like a pill
+- Agamemnon makes a lot of connection with themes of **purification**
+  - Clytemnestra wants to bathe him upon his return only to kill him
+  - something meant to cure or fix things has the undue effect of the opposite
+- this is like a mirror of the relationship between Odysseus and Penelope
+
+## 7.5: Ideas of Justice
+
+- theme to really concentrate on: **justice**
+- past generations have committed horrible crimes that require revenge, but this revenge provides its own consequences
+- Greek concept of justice
+- important the difference of Homer's take and Aesylchus' take
+- he recommends the libation bearers even though they are not required
+- important question: rectifying the house of Atreus without violating justice.
+- important ancient concept: "miasma"
+  - hugely important concept in this story
+  - means "cloud of pollution"
+  - accompanies the corpse after a violent death
+  - who committed the crime would have this nastiness stuck to them and would be subject to retribution and murder
+  - gives background to how they might think justice might take place
+  - when bad things start happening to bad people
+    - it means they have pollution
+    - through their own fault or just happenstance
+    - just and unjust retribution
+  - connection to blood and the stench of it
+
+## 7.6: Libation Bearers
+
+- Tragedies came in groups of 3 in classical antiquity
+  - only one of them has all three parts in place: the Oresteia
+  - we are reading two: the first and last
+  - the libation bearers is the middle
+- Orestes takes action
+- new generation of Orestes and Elektra, stuck with a curse and nastiness
+
+
 
