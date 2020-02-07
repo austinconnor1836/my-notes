@@ -228,5 +228,49 @@ Further on, API gateway solutions simplify and standardize API design, implement
   - can run in front of any RESTful API
   - can be deployed in on-demand, online, and off-premises clouds.
   - core engines of it are OpenResty and Nginx
-  - 
+  - uses either Cassandra or PostgreSQL
+- Typical request workflow of an API that uses Kong:
+  ![kong simple](./images/kong-simple.png)
+
+![Kong complex](./images/kong-complex.png)
+
+- Another open source software solution: **Red Hat 3scale APIcast gateway**
+  - configured through the Admin Portal
+  - is emerging as the perfect solution for low or medium volume APIs.
+- Another OSS API gateway: **Tyk**
+  - intrinsically takes care of management activities
+  - consists of an API gateway and an API management dashboard.
+  - under load, it can do the full key validation, security verification, quota management, and data analytics, without any hitch or hurdle.
+  - also has a cool feature: the developer portal
+- **Moesif**:
+  - an API analytics solution
+  - helps developers understand how developers use APIs and understanding certain error occurring and repeating sometimes.
+  - **The first and foremost requirement to build a great API (whether it is REST, GraphQL, or JSON-RPC API) is to precisely and concisely measure how developers use the APIs.**
+- **Ambassador** is a popular open source and Kubernetes-native API gateway for the microservice world:
+  - container-centric solution
+  - can authenticate all kinds of incoming requests before intelligently routing them to backend services.
+- **Envoy** was originally built by Lyft.
+  - a high performance C++ distributed proxy designed for single services and applications.
+  - for microservice-centric applications, this contributes as the universal data plane.
+  - core engine for service mesh solutions.
+- **Tree gateway** is a free and open source solution:
+  - creates a complete and customizable pipeline to handle service requests.
+  - makes it easy to create and sustain big clusters.
+  - it supports the ready formation of Redis clusters to share:
+    - configurations
+    - circuit-breaker states
+    - cached content
+  - comes with an advanced circuit breaker module that can *fast fail* responses when any API fails, falls, and falters.
+  - innately supports real-time monitoring and analytics.
+- **Gravitee.io** is a flexible, lightweight, blazingly fast, and open source API management solution:
+  - finely grained management of who, when, and how users connect.
+- **API Umbrella** is a proxy solution that sits in front of any API:
+  - can seamlessly add API gateway and analytics functionalities, such as:
+    - API keys
+    - rate limiting
+- **Express gateway** is a microservice API gateway, which is built on **Express.js**.
+  - fast, flexible, and community driven.
+- The well-intended approach is to have a dynamic pool of modular (loosely and lightly coupled and highly cohesive) API gateway services instead of a monolithic API gateway solution, which is difficult to manage, inflexible, and closed.
+
+## Service mesh versus API gateway
 
