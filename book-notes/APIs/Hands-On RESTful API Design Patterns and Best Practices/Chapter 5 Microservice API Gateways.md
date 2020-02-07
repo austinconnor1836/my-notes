@@ -224,5 +224,9 @@ Further on, API gateway solutions simplify and standardize API design, implement
 
 ## Prominent API gateway solutions
 
-
+- **Kong** is an open source API gateway solution.
+  - can run in front of any RESTful API
+  - can be deployed in on-demand, online, and off-premises clouds.
+  - core engines of it are OpenResty and Nginx
+  - 
 
