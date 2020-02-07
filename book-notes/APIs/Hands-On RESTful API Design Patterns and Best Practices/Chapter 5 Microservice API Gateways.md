@@ -180,3 +180,49 @@ Further on, API gateway solutions simplify and standardize API design, implement
 
 ## The issues with microservice API gateways
 
+- This adds an additional abstraction layer
+  - possibility of performance degradation
+- It is also a single point of failure
+- Service mesh systems provide the must-needed service resiliency that results in reliable applications
+- API gateways provide the capability of doing **content attack protection (CAP)**.
+- Content attacks are primarily done by inserting malicious data into service request messages.
+  - usually with special characters
+- other prominent attack methods:
+  - text patterns
+  - SQL and XPATH injections
+- The client sends a message request to the microservice via an API gateway. An inbound CAP policy scans the service request message for any possible content-based attacks. If successful, it passes verified and validated messages to the service mediation layer for identity verification and authentication, authorization. The outbound CAP policy scans the reply message for any content-based attacks. Then if successful, the response is delivered to the client.
+
+## Security features of API gateways
+
+- For microservice-centric applications running on cloud infrastructures, the security aspect starts with **identification**, **authentication**, and **authorization**.
+- Security policies are also widely used in public cloud environments.
+- A lot of API gateways are being embedded with a bevy of unique security characteristics.
+- **Federated identity** is the widely preferred way for service authentication and authorization.
+- Microservices exclusively focus on business functionality.
+- The proven technique of divide and conquer is still working wonders in the IT world.
+- Each microservice does not need to obtain and store user credentials in order to authenticate them during subsequent requests.
+- Authorization servers' role in the authentication and authorization processes:
+  ![auth servers](./images/auth-servers.png)
+
+- attached database stores all the user credentials in clustered mode.
+- third-party authentication and authorization management systems are closely coupled with API gateways
+- Three key protocols enabling the federated identity:
+  - OpenID
+  - SAML
+  - OAuth
+- Primary data protection is done by the API gateway.
+- Other option is that the database server is totally insulated from other servers.
+- Data servers are not allowed to be accessed by clients directly. Every data access request is routed through a frontend service.
+- API gateways ensure the integrity of message data.
+- API gateways are the first defense against hackers' attempts to bring down services.
+  - Load balancers ensure continuity.
+  - Clustered and cloud servers help guarantee the high availability of services.
+  - **Distributed denial of service (DDoS)** attacks on services can be thwarted through the application of the throttling/rate limiting pattern.
+- Communication has to be secured through the SSL/TLS mechanism.
+  - Microservices are **mandated to be SSL/TLS-compliant**.
+  - It easily safeguards against man-in-the-middle attacks.
+
+## Prominent API gateway solutions
+
+
+
