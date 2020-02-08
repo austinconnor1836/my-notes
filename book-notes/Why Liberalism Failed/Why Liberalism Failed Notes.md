@@ -442,3 +442,79 @@ Brennan has instead called for rule by an "epistocracy," a governing elite with 
 #### Founding Constraints
 
 Consistent findings of civic ignorance and incompetence, indifference and misinformation are held by yesterday's and today's social scientists to be like the molecular makeup of water or laws of physics: measures of an objective and largely unalterable reality.
+
+#### Illiberal Democracy Rightly Understood
+
+Observing the practice of self-rule--of a people imposing laws upon themselves directly--Tocqueville concluded that "the strength of free peoples resides in the local community. Local institutions are to liberty what primary schools are to science: they put it within the people's reach; they teach people to appreciate its peaceful enjoyment and accustom them to make use of it."
+
+From Tocqueville's *Democracy in America*
+
+He also argued that self-rule was the result of practice and habituation, and the absence of such self-rule would bring not the flourishing of freedom but reduction to servitude to distant rulers.
+
+Democracy is not simply the expression of self-interest but the transformation of that what might have been narrow interest into a capacious concern for the common good.
+
+This can be effected only through the practice of citizens simultaneously ruling and being ruled by themselves: democracy "is not the laws' creation, but people learn to achieve it by making the laws."
+
+## Conclusion: Liberty after Liberalism
+
+Liberalism has failed because liberalism has succeeded.
+
+The problem is not in just one program or application but in the operating system itself.
+
+These methods will continue to be deployed despite liberalism's claim to rest on consent and popular support.
+
+Such a conclusion is paradoxical, not unlike Tocqueville's conclusion in *Democracy in America*, in which he envisions **democracy culminating in a new form of despotism.**
+
+First steps required to avoid the succession of liberalism with a cruel successor in the form of fascism and such:
+
+1. The achievements of liberalism must be acknowledged, and the desire to "return" to a preliberal age must be **eschewed** (deliberately avoid using, abstain from). We must build upon those achievements while abandoning the foundational reasons for its failures. There can be no going back, only forward.
+2. We must outgrow the age of ideology. Of the three great modern ideologies, only the oldest and most resilient remains, but liberals mistook the fall of its competitors for the end of history rather than the **pyrrhic** ((of a victory) won at too great a cost to have been worthwhile for the victor) victory it really was. The gap between liberalism's claims about itself and the lived reality of the citizenry widens to the point that the lie can no longer be accepted. Instead of trying to conceive a replacement ideology (or returning to some updated version of an alternative, such as a **renascent** (becoming active or popular again)) Marxism, we should focus on developing practices that foster new forms of culture, household economics, and polis life.
+3. From the cauldron of such experience and practice, a better theory of politics and society might ultimately emerge. Such a theory must eschew liberalism's ideological dimensions yet be cognizant of its achievements and the rightful demands it makes--particularly for just and dignity. The outlines of such a theory are already discernible, guided by liberalism's own retention of essential concepts from a preliberal age--especially that of liberty--and reinforced by experience and practice essential for a humane life. This first step toward a new theory is the most tentative, but it faces in a confident direction, given the perpetual appeal of certain basic political ideals that have been present in the Western tradition since antiquity.
+
+#### No Return
+
+Any steps toward a postliberal age must begin with a sympathetic appreciation of liberalism's appeal and an effort to realize the admirable ideals that liberalism often only promised.
+
+It drew upon ideals from previous ages.
+
+Liberalism's most basic appeal was not its rejection of the past but its reliance upon basic concepts that were foundational to the Western political identity.
+
+The architects of liberalism embraced the language and terms of the classical and Christian traditions even as they transformed both meaning and practice. They especially rejected the classical and Christian understanding of human beings as fundamentally relational creatures—“social animals”—and proposed that liberty, rights, and justice could best be achieved by radically redefining human nature. The result was an advance in rendering the political longings of the intellectual West vastly more accessible and popular, but at the cost of establishing a political world that undermined those ideals.
+
+**Liberalism's break with the past was founded on a false anthropology.**
+
+Are we free? Many citizens believe they have little actual control over or voice in their government.
+
+We effectively possess little self-government, either as citizens over our leaders or as individuals over our appetites.
+
+We have endless choices of the kind of car to drive but few options over whether we will spend large parts of our lives in **soul-deadening boredom** within them.
+
+All but forgotten are arguments, such as those made in the early Republic, that liberty consists of independence from the arbitrariness not only of a king **but of an employer.**
+
+**Liberalism posits that freeing women from the household is tantamount to liberation, but it effectively puts women and men alike into a far more encompassing bondage.**
+
+Building on liberalism's successes means recognizing both the legitimacy of its initial appeal and the deeper reasons for its failure.
+
+#### The End of Ideology
+
+Politics and human community must percolate from the bottom up, from experience and practice.
+
+The development of new cultures is what requires conscious effort, deliberation, reflectiveness, and consent.
+
+#### The Advent of Postliberal Practice and Toward a New Birth of Theory
+
+"Benedict Option" by Rod Dreher proposes and explores a new option based on the building up of practices of care, patience, humility, reverence, respect, and modesty is also evident among people of no particular religious belief.
+
+A culture is built from the bottom up, and like an organism, **it maintains its DNA by passing itself on to subsequent generations.**
+
+A counter-anticulture also requires developing economic practices centered on "household economics," namely, economic habits that are developed to support the flourishing of households but which in turn seek to transform the household into a small economy.
+
+The ability to do and make things for oneself--to provision one's own household through the work of one's own and one's children's hands--should be prized above consumption and waste.
+
+The skills of building, fixing, cooking, planting, preserving, and compositing not only undergird the independence and integrity of the home but develop practices and skills that are the basic sources of culture and a shared civic life.
+
+Our economy encourages a pervasive ignorance about the sources and destinies of the goods we buy and use, and this ignorance in turn promotes indifference amid an orgy of consumption.
+
+The greatest benefit of civic participation, he argued, was not its effects in the world, but those on the relations among people engaged in civic life: "Citizens who are bound to take part in public affairs must turn from the private interests and occasionally take a look at something other than themselves. As soon as common affairs are treated in common, each man notices that he is not as independent of his fellows as he used to suppose and that to get their help he must often offer his aid to them."
+
+Not a better theory, but better practices.
