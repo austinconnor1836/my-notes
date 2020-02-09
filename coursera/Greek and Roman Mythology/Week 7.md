@@ -128,8 +128,33 @@
   - only one of them has all three parts in place: the Oresteia
   - we are reading two: the first and last
   - the libation bearers is the middle
-- Orestes takes action
+- Orestes takes action after being left in the sad state he is in at the end of the first play: Agamemnon
 - new generation of Orestes and Elektra, stuck with a curse and nastiness
+- there is a nasty curse that is stuck to this family
+- Tragedies come in groups of three
+  - a typical evening at the theater would have these three parts
+- Clytamnaestra believes justice has been served and all is right
+- She is wrong as Orestes comes back to murder her and Aegisthus
+- Orestes returns to Argos and meets with Elektra to plot to kill them
+- They hold a seance, or hang out at the grave of their dead father
+- they pour over libations for him
+- they pray to earthly powers, the large forces/powers that are percoluting under the earth and the earth itself
+- from Hesiod, these powers were defeated by Zeus and buried underground
+- humans, when they need extra help, they appeal to these powers where they otherwise couldn't receive help from the gods
+- they pray to Agamemnon's shade
+- they want permission to carry out these murders, and they get it
+- they disguise themselves as foreigners and kill them, not before a long test, argument, explaining why it is right for them to be killed by him
+- Orestes then drags her behind the door, springs the door open and we realize she is dead
+- Orestes reappears and is very relieved it is all over
+- But, he is wrong. A new set of gods appear, the Furies. Gods of justice out for blood.
+  - In Hesiod Theogony, they have a connection with the severed genitals of the Sky that Cronus cut off
+  - nasty things came out of this, like the Furies here, from the blood of the severed genitals
+- they are like blood-scenting hounds
+- they will pursue their criminal relentlessly
+- punishment is fixed, and cannot be talked out of
+- Orestes will turn to a new version of justice that we will see in the final chapter of the Oresteia
+
+## 7.7: Intro to the Eumenides
 
 
 

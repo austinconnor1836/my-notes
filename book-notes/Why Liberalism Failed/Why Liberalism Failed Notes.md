@@ -515,6 +515,6 @@ The skills of building, fixing, cooking, planting, preserving, and compositing n
 
 Our economy encourages a pervasive ignorance about the sources and destinies of the goods we buy and use, and this ignorance in turn promotes indifference amid an orgy of consumption.
 
-The greatest benefit of civic participation, he argued, was not its effects in the world, but those on the relations among people engaged in civic life: "Citizens who are bound to take part in public affairs must turn from the private interests and occasionally take a look at something other than themselves. As soon as common affairs are treated in common, each man notices that he is not as independent of his fellows as he used to suppose and that to get their help he must often offer his aid to them."
+The greatest benefit of civic participation, he (Tocqueville) argued, was not its effects in the world, but those on the relations among people engaged in civic life: "Citizens who are bound to take part in public affairs must turn from the private interests and occasionally take a look at something other than themselves. As soon as common affairs are treated in common, each man notices that he is not as independent of his fellows as he used to suppose and that to get their help he must often offer his aid to them."
 
 Not a better theory, but better practices.
