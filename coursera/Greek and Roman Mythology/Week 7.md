@@ -156,4 +156,77 @@
 
 ## 7.7: Intro to the Eumenides
 
+- play starts with Orestes fixed to the omphalos at Delphi
+
+- he has protection because of this, the Furies cannot get him
+
+- from Hesiod's Theogony, the omphalos is the stone that Cronus had swallowed instead of Zeus
+
+- ghost of Clytamnaestra is haunting him while the top people in the universe, Athena and Apollo, are keeping watch over the situation
+
+- the ideas of justice are discussed
+
+- then, we are transported to Athens in a court case with the Furies
+
+- the jury is deadlocked, so Athena steps in and sides with Orestes
+
+- the Furies are angry, so the Olympians figure out a way to please them by giving them a new home underneath the court and giving them an honorable procession into it
+
+- if someone has blood on their hands, the idea in this time is that you will be punished
+
+- a system that is based on contagion, contact, and blood
+
+- thoroughly associated by Orestes to these chronic dieties
+
+- **Chtonic** dieties are attached to the earth
+
+  - in Hesiod, all the older order gods are chtonic, including Earth herself
+  - pre-Zeus, pre-Olympian layers of divine powers are stuck in here
+  - throughout the play, Aeschylus aligns these older order divinities to these chtonic dieties
+
+- Olympian order of justice is not the older order of justice, with the older order of justice consists of contagion, contact, and blood. This was opposed to the idea of justice of the Olympians.
+
+- ```
+  Since you, a young god, would ride down my elder age,
+  I must stay here and listen to how the trial goes,
+  being yet uncertain to loose my anger on the state.
+  --The Furies speaking, lines 731-33
+  ```
+
+  - the Furies represent the elder gods, speaking to the young and new divinities of the Olympians
+  - they are reticent to adopt the Olympians' order of justice
+
+- So like how Zeus pushed the older gods under the earth, Aeschylus push the Furies (older gods) under the earth, giving them a new temple where we will give them honor and worship.
+
+  - not like Hesiod where they are stuffed and locked in a jail, Aeschylus finds a place in the new order for the old order gods to have a role
+
+- old system of justice being enforced by the Furies had no way with dealing with the problems that showed up in Agamemnon's family
+
+  - the house of Atreus was just stuck according to this older system of justice
+
+- by the laws of justice, he had to avenge his father. But in order to do that, he knew that it was a terrible thing to do.
+
+- the older order of justice closes in around itself
+
+- the trial in Athens over sought by the Olympians introduce a new idea of justice 
+
+  - parallels to justice today
+
+## 7.8: Measuring Evil
+
+- get inside the mind of the trial
+- there are some strange twists and turns
+- the Olympians are on the side of the new system, that is held in a courtroom
+- the chtonic dieties, the Furies, are on the other side, appealing for the older system of justice
+- a decision a leader has to make is not between to great good and bad things, they are between two good things or two bad things
+- it is argued to determine if one murder was worse than the other: the wife murdering husband, or the son murdering the mother
+- Apollo and the Furies are on opposite sides:
+  - Apollo downplays the mother relationship
+    - she is not that important, a mere vessel for the son
+  - the connection between the mother and son is not so important
+  - the Furies are arguing that blood relations are more important
+    - a wife killing a husband is not that bad, there is no blood connection
+    - whereas a son murdering a mother is worse since there is a blood connection
+
+## 7.9: Historical Background
 
