@@ -71,7 +71,7 @@
 - Thyestes notes that it is his son
 - Aegisthus reunites with his true father, Thyestes
 - the reunited go back and kill Atreus
-- Menelaus and Agamemnon are banished, where they meet Helen and Chlymanaestra
+- Menelaus and Agamemnon are banished, where they meet Helen and Clytemnestra
 - they go back and take back the kingdom
 - Aegisthus is wading around in the background for his opportunity to strike
 - horrible things happen to and because of this family: the Trojan war as one example
@@ -79,14 +79,14 @@
 ## 7.3: Introducing Agamemnon
 
 - a tragic story
-- signal beacons from Troy to Argos signals to Chlymanaestra that her husband has conquered Troy
+- signal beacons from Troy to Argos signals to Clytemnestra that her husband has conquered Troy
 - she uses this to set up things to kills him
 - upon reunion, they test their own wills, subterraneanly
 - Agamemnon is an incredibly strong man, but not too clever
   - his prize from war time, Cassandra
   - he brings her right out in the open, not too clever
 - Greeks thought it was just fine to have concubines, but not rub it in their face
-- Chlymanaestra and him have a long back and forth
+- Clytemnestra and him have a long back and forth
 
 ## 7.4: Agamemnon Themes
 
@@ -155,6 +155,5 @@
 - Orestes will turn to a new version of justice that we will see in the final chapter of the Oresteia
 
 ## 7.7: Intro to the Eumenides
-
 
 
