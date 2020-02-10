@@ -274,3 +274,28 @@ Further on, API gateway solutions simplify and standardize API design, implement
 
 ## Service mesh versus API gateway
 
+Key differences between **API gateways** and **service meshes**.
+
+- API gateways are intended to fuse multiple downstream services into something that is useful for the requesting services.
+- They also come with observability capability for capturing various metrics.
+- Service meshes are important for making a microservice-based application resilient.
+- The IT industry is leaning towards embracing the new concept of a service mesh, **which is a kind of network to ensure service resiliency.**
+- Service mesh implementations have embedded resiliency patterns such as:
+  - resiliency-enablement patterns such as:
+    - circuit breaker
+    - retry
+    - timeout
+    - throttling/rate limiting
+  - Some solutions include:
+    - Istio
+    - Linkered
+    - Conduit
+- **The functionalities of API gateways and service mesh solutions are clearly distinguished.**
+- It is possible to use both. Service meshes are usually added on the side.
+- **API gateways facilitate API communication between a client application and a server application.**
+  - Operates mainly at layer 7 (HTTP)
+- **Service mesh solutions are for enabling service communication resiliency.**
+  - They mainly focus on **routing internal communications**
+  - Operates primarily at layer 4 (TCP)
+  - Come with resiliency and reliability design patterns like those mentioned before
+
