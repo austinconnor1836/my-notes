@@ -230,3 +230,35 @@
 
 ## 7.9: Historical Background
 
+- the Acropolis is visible up above us while we are in the theater (behind us)
+- the Furies are marched underneath the Acropolis
+- inferring to important themes in Athens, democracy, a new institution of justice
+- democracy was not very old at the time of Aeschylus
+- tyrants: one man, one rule system
+  - ruled Athens for centuries before being kicked out for the new instituted system
+- a new form of doing things with democracy
+- Aeschylus references this: Athena endorses for "no one man" to rule, based on citizen rule
+- ties of family and clan were considered the most important. Now, the state, the rule of law, is now the most important thing
+- consider this situation: a son does something wrong and the father comes in to punish him
+  - we would never say, "This father has no right to punish his son!"
+- now consider a stranger wants to punish you for alleged wrongdoing.
+- now consider a serious situation: murder
+  - do I trust total strangers to judge my outcome?
+  - Would I rather have these decisions made by people in my own family?
+  - Wouldn't I want them to make those decisions?
+- there is some help if you are being judged by your family rather than strangers.
+- the new system has to prove itself.
+- Aeschylus discusses the way of finding proper justice
+- He tells the audience it is us who would best solve these issues
+- It takes the old system of justice and gives them a new role: puts them underneath the court, the harsh side, the violence behind what the courts have the power to do
+- this is ultimately authorized by Apollo, Athena, and Athenians
+
+## 7.10: Readings of the Oresteia
+
+- remember our toolbox: structuralism, functionalism, myth and ritual, and psychoanalysis
+- Consider functionalism and structuralism with the Oresteia
+- Functionalism: myths are told in order to legitimize certain social and cultural norms.
+- Aeschylus is legitimizing the new institution of justice
+- structuralist perspective: blood ties versus voluntary association
+  - blood ties are represented by the Furies
+  - hidden binary: blood associations versus voluntary associations
