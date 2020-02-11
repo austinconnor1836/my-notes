@@ -141,3 +141,31 @@ Relevant places to Oedipus' story:
 - we are stuck with connections with each other
   - only way Oedipus deals with this is through this form of escapism
 
+## 8.6: Readings of Oedipus
+
+- Oedipus gives us a wonderful opportunity to dip into our toolbox
+- functionalist lense: myths are told to legitimize and authorize social norms in the culture that is telling the myths to themselves.
+  - First, incest is bad
+  - the role of Delphi
+    - divine wisdom that comes from oracles should be heeded
+    - Oedipus tries to answer the questions himself without consulting for guidance from the oracle
+- Freudian lense: all of us are repellant to ourselves, our own primal desires that we repress
+  - we have conflicting feelings of our parents
+    - sometimes too strong, so we supress them
+    - Oedipus (son) has competitiveness with the father and intimacy with mother
+  - we live out these desires through Oedipus and eschew him
+- Autochthony:
+  - connection with Chithaeron
+  - he is expressing a very old and stubborn idea about where humans come from
+  - the idea that humans might just spring up from the Earth itself
+  - it's hard to dismiss because:
+    - it gets rid of the problem of wanderingness
+    - allows a certain kind of escapism from the complexities that we have with genealogical descent
+- structuralist might look at this story as a family that's oscillating between on the one hand, embracing the idea of genetic lineage and background in their family.
+- On the other hand, talking about autochthonous birth from the land itself.
+- Both are anchored in Oedipus' story.
+- Neither are resolved or worked out in the story.
+- the tension between the two creates a voltage, how a structuralist would describe the story.
+
+## 8.7: Greek and Dionysian Ritual
+
