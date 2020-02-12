@@ -170,7 +170,92 @@ Relevant places to Oedipus' story:
 ## 8.7: Greek and Dionysian Ritual
 
 - turning now to the Bacchae of Euripides, we're going to see another identity dissolve before our eyes.
-- Dionysus has another name: Bacchus. Both are equally Greek.
-- most Greek rituals happen out in the open, in crowds, in public
-- 
 
+- Dionysus has another name: Bacchus. Both are equally Greek.
+
+- most Greek rituals happen out in the open, in crowds, in public
+
+- Cithaeron will play another role
+
+- ripping up animals with their bare heads and eating the meat raw, this is what Dionesians do
+
+- turning on its head Greek sacrificial rights
+
+- Dionysus is the god of wine
+
+- if you start liking wine, you enter a completely different world
+
+- wine is part of many religious ceremonies
+
+- wine in extraordinary excess is characteristic of Dionysus and his worship
+
+- not just drunk, but completely gone drunk
+
+- overturning all of the other normal components of Greek ritual
+
+- It is a consistent piece of the Greek pantheon
+
+- commonly viewed with some kind of strange eyes
+
+- he might be a foreign god, a newcomer, they wonder where he came from
+
+- Dionysus is as old as all the other Greek gods
+
+- he seems from the very beginning always suspect
+
+- the person in the family who is always wondered if he is actually part of the family
+
+- some themes in the Baccae by Euripides
+
+  - some parallel to the Homeric hymns
+  - reference Dionysus's birth
+  - he'll be trying to secure his place in the Pantheon
+  - establishing his rights and ensuring that humans perform those rights
+
+- myths, again, are there to give a background story to what you and I typically do
+
+- Thebes again shows up in the Bacchae as it did with Oedipus and the family of Cadmus
+
+- Thebes shows up in Greek tragedies
+
+  - especially a kind of image of the Athens that Athenians like to imagine:
+    - the Athens of stability
+    - of rationality
+    - of clear-headedness
+  - all these things show up in the drama set in Athens
+
+- When the Athenians talk about a strange place, where things are a little bit odd. A little off kilter.
+
+  - they often talk of Thebes
+
+- Thebes represents to them a deep background and an important mythic rootedness in the past. One that is odd, strange, and weird.
+
+- There is a strong background in Cadmus family of violence.
+
+- Remember, Cadmus, was originally a Phoenician (from Oedipus)
+
+  - because he is chasing his own sister, Europa
+  - Europa's chasing after Zeus in the form of a bull
+  - she falls in love with the bull and tries to make contact with the bull
+  - Cadmus is on his way to try and find her when he runs into the serpent, kills it, and throws its teeth into the ground
+  - the beings that sprout up from the teeth, the founding families of Thebes, all turn on each other and start to kill each other, a fratricidal violence shows up in Cadmus' family.
+  - Then, Cadmus' Daughter, Ino, Semele, Actaeon, and Agave, each have a troubling story.
+  - Semele, is a very famous story.
+    - she is the mortal mother of Dionysus
+    - so Dionysus is deeply connected with Thebes in his own family lineage
+    - on one hand, he has a mortal mother
+    - Semele is impregnated by Zeus and Hera tricks Zeus to show himself to Semele in his full glory.
+    - Semele gives birth and is quickly **immolated** (to kill [an animal, for instance] as a religious sacrifice)
+    - Zeus then snatches up the infant and Dionysus is then born from Zeus' own thigh, a kind of male womb taking over where a female womb started.
+    - So Zeus gives birth to Dionysus a second time, and he joins the Pantheon but poor Semele is immolated.
+    - In addition, the daughters of Autonoe (O-tow-know-way) and Ino
+    - Autonoe, her son Actaeon, dies by being ripped apart by his own hunting dogs
+    - Ino also dies by plunging into the sea with her son in her own arms when her husband turns in a frenzy and chases her down and tries to kill her.
+  - There are awful things percolating in Cadmus' family.
+  - Agave, who's story we're going to see in Euripedes Bacchae has a terrible version of things happen to her too.
+  - Each of these installments shows us that Cadmus' family is infected with this kind of violence in a way that it's not quite like the house of Atreus where that violence is constantly turning in on itself and unable to heal itself. Instead it just seems that awful things, seemingly at random, continuously visit this poor family.
+  - Each of them has a connection with this figure of Baccus or Dionysus, who's story we'll talk about next.
+
+  ## 8.8: Bacchae Themes
+
+  
