@@ -169,3 +169,8 @@ Relevant places to Oedipus' story:
 
 ## 8.7: Greek and Dionysian Ritual
 
+- turning now to the Bacchae of Euripides, we're going to see another identity dissolve before our eyes.
+- Dionysus has another name: Bacchus. Both are equally Greek.
+- most Greek rituals happen out in the open, in crowds, in public
+- 
+
