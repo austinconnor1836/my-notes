@@ -170,70 +170,41 @@ Relevant places to Oedipus' story:
 ## 8.7: Greek and Dionysian Ritual
 
 - turning now to the Bacchae of Euripides, we're going to see another identity dissolve before our eyes.
-
 - Dionysus has another name: Bacchus. Both are equally Greek.
-
 - most Greek rituals happen out in the open, in crowds, in public
-
 - Cithaeron will play another role
-
 - ripping up animals with their bare heads and eating the meat raw, this is what Dionesians do
-
 - turning on its head Greek sacrificial rights
-
 - Dionysus is the god of wine
-
 - if you start liking wine, you enter a completely different world
-
 - wine is part of many religious ceremonies
-
 - wine in extraordinary excess is characteristic of Dionysus and his worship
-
 - not just drunk, but completely gone drunk
-
 - overturning all of the other normal components of Greek ritual
-
 - It is a consistent piece of the Greek pantheon
-
 - commonly viewed with some kind of strange eyes
-
 - he might be a foreign god, a newcomer, they wonder where he came from
-
 - Dionysus is as old as all the other Greek gods
-
 - he seems from the very beginning always suspect
-
 - the person in the family who is always wondered if he is actually part of the family
-
 - some themes in the Baccae by Euripides
-
   - some parallel to the Homeric hymns
   - reference Dionysus's birth
   - he'll be trying to secure his place in the Pantheon
   - establishing his rights and ensuring that humans perform those rights
-
 - myths, again, are there to give a background story to what you and I typically do
-
 - Thebes again shows up in the Bacchae as it did with Oedipus and the family of Cadmus
-
 - Thebes shows up in Greek tragedies
-
   - especially a kind of image of the Athens that Athenians like to imagine:
     - the Athens of stability
     - of rationality
     - of clear-headedness
   - all these things show up in the drama set in Athens
-
 - When the Athenians talk about a strange place, where things are a little bit odd. A little off kilter.
-
   - they often talk of Thebes
-
 - Thebes represents to them a deep background and an important mythic rootedness in the past. One that is odd, strange, and weird.
-
 - There is a strong background in Cadmus family of violence.
-
 - Remember, Cadmus, was originally a Phoenician (from Oedipus)
-
   - because he is chasing his own sister, Europa
   - Europa's chasing after Zeus in the form of a bull
   - she falls in love with the bull and tries to make contact with the bull
@@ -256,6 +227,105 @@ Relevant places to Oedipus' story:
   - Each of these installments shows us that Cadmus' family is infected with this kind of violence in a way that it's not quite like the house of Atreus where that violence is constantly turning in on itself and unable to heal itself. Instead it just seems that awful things, seemingly at random, continuously visit this poor family.
   - Each of them has a connection with this figure of Baccus or Dionysus, who's story we'll talk about next.
 
-  ## 8.8: Bacchae Themes
+## 8.8: Bacchae Themes
 
-  
+- Euripedes tells us that Dionysus is angry
+- his divinity is not being fully recognized
+- Euripedes pushes the limits of tragedy by having Dionysus actually appear as a character on stage.
+- Dionysus has a very earthy role, a physical character achieving physical manipulation through Pentheus
+- Pentheus wants to bind Dionysus because he doesn't want him to get involved
+- Instead, Dionysus binds a bull
+- then, disillusion starts
+- Pentheus is disturbed
+- women are erratic on the hillside
+- then, Dionysus starts his kind of mind control of Pentheus, gets inside his head
+- convinces him it would be a good idea to change his gender and go blend in with the women
+- he sets him on a tree and has him spy on the rights that he sees
+- he goes from the spier to the spiee
+- his mother spots him as a potential quarry for a Dionysian backoned revelry
+- the women tear his head off, tear him up as a living sacrifice in the way Dionysus likes.
+- Argovae, believes she has a lion
+- Cadmus' family is then banished from Thebes by Dionysus
+- multiple themes:
+  - first of all, inscribed on the temple at Delphi a Greek adage: "Nothing too much."
+    - don't do anything to too strong of a degree
+    - Pentheus' resistance to Dionysus' worship is characterized here as too much
+    - Dionysus, puts Pentheus, on a pedestal (in the tree), then his "revelers," and when they spot this quarry, they rip him apart
+  - hunter and hunted
+    - remember, Actaeon, Cadmus' son, was ripped apart by his own hunting dogs
+    - Cadmus family has this theme regularly
+    - his daughter Ino, was hunted down by her crazed husband like she is a quarry
+    - Semele, is immolated like an animal sacrifice.
+    - Pentheus is hunted down by his own mother, like he is a quarry, a beast
+    - represents a kind of an anxiety of bringing down a large animal, killing it. Is this the right thing to do?
+    - Cadmus family shows the hunt could conceivably be offensive.
+- the disillusion of Pentheus' dismembered self in the face of the utter strength of the god, Dionysus, is important in this play.
+
+## 8.9: Reading the Bacchae
+
+- two of our tools in our toolbox: myth and ritual
+- a god tells us how he likes to be worshiped
+- we see the consequence of not worshiping that God.
+- why do we eat the sacrifice raw? why do we drink so much?
+- the story gives us a narrative that helps fill in the reasoning behind all these pieces.
+- Myths are made up in order to give an explanation to rituals' behaviors whose normal, sensible qualities don't really seem apparent to us as we're doing them, so we make up a myth in order to try to explain what it is we view those kind of things.
+- now a functionalist reading:
+  - what kind of social or cultural norm is this myth upholding?
+  - Dionysus' set of rituals is built on an upheaval of social structures.
+  - gender bending with a woman being inserted into a ritual.
+  - this mirrors an aspect of Dionysus rites where women are in control of the ritual
+  - women have the most powerful role there
+  - very much an inversion in antiquity
+  - there is drinking in excess
+  - eating raw meat
+  - loss of control of reproduction. Orgies are for pleasure, not having to do with strict strictures of which women could have sex with which men.
+  - in Hesiod's Theogony, we saw this was a great anxiety for Greek men
+  - in Dionysus rites, the female powers of reproduction are let loose
+    - these powers linked with erotic desire are let free, to run rampant
+  - Pentheus' very palace collapses
+  - so talking about a social order, we see this dramaticized in the play
+  - the revolutionary power then of Dionysian ritual is strongly apparent.
+  - But, that's one the one hand
+  - lets look at the other side
+  - remind ourselves that Tyresius and Cadmus are old and powerful men, basically representing an establishment kind of thinking.
+  - when they endorse these rituals, then we think it is probably okay to do
+  - it's hardly some revolutionary thing if these gray beards are saying this is good for us, good for the city, so we should do it.
+  - Following god is a good thing. **This is a message they keep putting across.**
+  - Another message built into these rights is to **jump on the bandwagon, follow the crowd.**
+  - being out of step with everyone else is not a good idea
+  - this is a sign of respect, to submit to your elders, the gods
+  - look what happens when Pentheus doesn't, awful things occur to him
+  - these features make us wonder to ourselves, well wait a minute, why is this Dionysian worship considered revolutionary when the whole point of the play is you should worship the Gods?
+  - what kind of social norm is the Dionysian cult then upholding? Remember the functionalist approach:
+    - suggestion professor makes:
+      - his sense is that what is being endorsed here is the social norm of producing a space where it's okay to violate normal social practice
+      - you produce a space where something convoluted is allowed to happen.
+      - examples of this that are common in religious calendars across many different cultures:
+        - in the Christian calendar, 40 days before lent, Mardi Gras, where strict Catholics will be enforced in a period of abstention from some kind of pleasures during those 40 days of lent will go overboard.
+          - elders might not like it, but they don't intervene
+          - it is okay to blow off some steam, only in this quarantined spot
+    - with the Dionysian rites, it is hard to say that anything in Dionysus is anti-Olympian
+    - sure he has these aspects that are a little odd or strange, just arriving on the scene, but those don't make him any different than the Homeric hymn to Demeter or the Homeric hymn to Apollo.
+      - these Olympian Gods kind of just arrive and they have to find their place
+      - Dionysus' tradition is inline with the other Olympian Gods' tradition
+    - the larger point with Dionysian worship is that **you owe respect to the Gods. You resist the Olympians at your own peril.** Look at what happened to Pentheus.
+      - hardly a revolutionary idea
+    - another cautionary note is that with Dionysian worship you should be a little careful. Watch out, this authorized space in which norm can be violated, you should be a little bit on alert.
+    - Because there is always going to be a next day and you will have to pay a price.
+    - whether it's a hangover from too much wine or something much worse with the case of Agave (chased by her husband and plunging into the ocean with her child)
+    - the story definitely underwrites for us the idea that yes, go ahead and blow off steam, but be a little bit careful when you're doing it.
+  - pull back and look at the plays themselves:
+    - these plays, tragedies, are being performed during the festivals of Dionysus
+    - Dionysus is the patron God of these plays
+    - in order to show proper respect with these tragic performances
+    - so, it is hardly a manner of a few people thumbing their noses at authority, some crazed young ones going berserk or anything like that.
+    - This is a performance set in a space of Dionysus, in the city of Athens, in order for us all to understand more fully our civic engagement and our proper kinds of ritual behaviors.
+- So according to a functionalist reading:
+  - despite the spaces in which it gets complex on the one hand, on the other hand, the larger message is worship the Olympian divinities.
+  - They liked to get worshiped, show respect.
+  - For your elders, show respect and the respect for the customs of the day.
+  - So their functionalist message of showing proper respect for the divinities gets fully endorsed and underwrited through even this strange cousin of ours, Dionysus, who has always been a member of our family, we Olympians and has his own ways of doing this.
+  - Functionalist message: **But even though, so his ways are different than ours, all of us demand your respect, human beings.**
+
+
+

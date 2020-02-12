@@ -62,3 +62,79 @@ Some examples:
 
 #### Load testing
 
+**Load tests**: ensure that an increase in the number of end users does not affect the performance of the functions of an application.
+
+#### Runtime error detection tests
+
+**Runtime error detection tests**: help monitor the application and detect problems such as race conditions, exceptions, and resource leaks.
+
+#### Monitoring APIs
+
+Tests for implementation errors, handler failures, and other inherent concerns inside the API and ensures it does not have any holes that would lead to application insecurity.
+
+#### Execution errors
+
+**Execution errors**: assert invalid requests for expected failures.
+
+Example from Chapter 3:
+
+![execution error 1](./images/execution-error-1.png)
+
+- the end user gave an ID that is not present on the system.
+
+#### Resource Leaks
+
+**Resource leak tests**: validate the underlying API resource malfunctions by submitting invalid requests to the API. These resources include, in this case:
+
+- memory
+- data
+- insecurities
+- timeout operations
+- etc.
+
+#### Error detection
+
+Detect network communication failures, like authentication failures from the wrong credentials.
+
+Chapter 4 example of this:
+
+![error detection](./images/error-detection.png)
+
+- authentication error that returns a code of `401`, as it should
+
+### REST API security vulnerabilities
+
+Some potential API security vulnerability examples:
+
+- man-in-the-middle-attacks (MITM)
+- lack of XML encryptions
+- insecure endpoints
+- API URL parameters
+
+We will present the most common API attacks and vulnerabilities in the following sections.
+
+### Exposing sensitive data
+
+**The first and foremost essential secuirty aspect of testing a REST API (or any appilcation)**: evaluate and determine the categories of data and teh need for data protection when they are in transit or in a persisted state.
+
+Examples:
+
+- personal information
+- credit card information
+- health records
+- financial information
+- business information
+- many other categories...
+
+Data is fundamentally protected through encryption, as without it, hackers could easily obtain the sensitive information.
+
+Some protection measures:
+
+- Do not store sensitive information unless necessary. Use tokenization and truncation methods to prevent the exposure of sensitive data.
+- Encryption is necessary and essential
+- Do not implement a cache for sensitive information (or disable caches for sensitive data transactions)
+- Use salts and adaptive (with a configurable number of iterations) hashing methodologies for passwords.
+
+### Understanding authentication and authentication attacks
+
+Authentication: a process to determine the identity of an entity (a process, a machine, or a human user) to either disallow or allow that entity to access underlying application functionalities.
