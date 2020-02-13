@@ -138,3 +138,82 @@ Some protection measures:
 ### Understanding authentication and authentication attacks
 
 Authentication: a process to determine the identity of an entity (a process, a machine, or a human user) to either disallow or allow that entity to access underlying application functionalities.
+
+### Understanding authorization and OAuth2 schemes
+
+**OAuth IETF OAuth Working Group**: https://tools.ietf.org/wg/oauth/
+
+Why OAuth is better than traditional cookie-based authorization:
+
+- server has to maintain session state for cookie-based, other things also make it difficult to decouple state from the server
+- cookie-based involve domains, as application may interact with multiple domains, so additional security overhead
+- OAuth has capability of integration with Google and Facebook while cookie-based does not
+- cookie-based is considered a maintenance nightmare, especially when relying on mobile-based authentication
+
+OAuth allows arbitrary clients (for example, first-party iOS application or a third-party web application) to access user's (resource owner's) resources on resource servers via authorization servers with secure, reliable, and effective methods:
+
+![oauth resource](./images/oauth-resource.png)
+
+- OAuth authorization stakeholders and their roles picture here
+
+| Schemes/Flow                        | Client type                                                  | Brief description                                            |
+| ----------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| Implicit                            | **Single-page application (SPA)** such as Google Fonts.      | Application requests access tokens from the gateway and the user grants permission. |
+| Client-credentials                  | Machine-to-machine non-interactive programs such as services, daemons, and so on | The application passes the client credentials and gets the access token from the gateway server. |
+| Authorization code                  | Less trusted apps (third-party apps requesting access to your application) | The application sends a temporary authorization code it receives from the gateway and gets it validated (by the same gateway) |
+| Resource owner password credentials | Highly trusted apps (first-party apps)                       | The client will ask the user for their authorization credentials (usually a username and password), then the client sends a few parameters (`grant_type`, `client_id`, `client_secret`) to the authorization server. |
+
+Typical sequence of a resource owner password credential OAuth scheme:
+
+![resource owner](./images/resource-owner.png)
+
+Code on GitHub: `Chapter06/oauth2-sample`
+
+1. Run `mvn clean install`
+2. Run application: `java -jar target/oauth2-sample-0.0.1-SNAPSHOT.jar`
+3. Open Postman and test URLs (in `Chapter06` folder of Postman collections).
+
+## Cross-site scripting
+
+**Cross-site scripting attack (XSS)**: the process of injecting malicious code as part of the input to web services, usually through a browser.
+
+Once injected, the malicious script can access any:
+
+- cookies,
+- session tokens
+- sensitive information by the browser
+- can masquerade as the content of the rendered pages
+
+Two categories: **client-side XSS** and **server-side XSS**
+
+XSS is traditionally one of three types:
+
+- Reflected XSS
+- Stored XSS
+- DOM XSS
+
+### Reflected XSS
+
+**Reflected XSS**: happens when an application allows an attacker to inject browser-executable code (such as JavaScript, Applets, Action Scripts, Flash) within a single HTTP response.
+
+### Stored XSS
+
+**Stored XSS** (also known as **persistent XSS**): often considered harmful and high risk, occurs when a malicious script is injected into a vulnerable application as input and is viewed by another user or an administrator at a later time.
+
+### DOM XSS
+
+**DOM XSS**: developed by Amit Klein and available since 2005, occurs when client-side code uses insecure references to DOM objects that are not entirely controlled by server-provided pages.
+
+- Single-page applications are vulnerable to DOM XSS
+- Generally, but not limited to, APIs that dynamically inject attacker-controllable data to a page and JavaScript frameworks.
+
+*XSS protection needs to filter malicious content from user input and also needs encoding (escape).*
+
+## Cross-site request forgery
+
+**Cross-site request forgery (CSRF)**: Sea Surf, or XSRF, as it's known, is a one-click attack vulnerability that web applications exposes the possibility of the end user being forced (by forged links, emails, and HTML pages) to execute unwanted actions on a currently authenticated session.
+
+*The synchronize token pattern, cookie-to-header token, double submit cookie, and client-side safequards are common CSRF prevention methodologies.*
+
+## Denial-of-service attack
+
