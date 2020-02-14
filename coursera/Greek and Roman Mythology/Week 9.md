@@ -180,4 +180,25 @@
 - Hera is not a storm goddess
 - since when is the queen of the gods a storm god?
 - Virgil is working from a tradition that draws on Greek scholarly work, and in fact on a long and deep allegorical reading of the goddess Hera as being associated with weather.
+- Hera was an allegorical symbol for "air" due to the Greek names for both being anagrams
+- real place names will be in this story
+- Homer's Odyssey do not have any mappings, Virgil does
+- Virgil is mapping myth onto real, historical places
+
+## 9.5: Landing on an Unknown Shore
+
+- we will see obvious parallels between Virgil's story and Homer's Odyssey
+- Aeneas is on his way to found his home, whereas Odyssey is trying to get back to where he is from
+- Odysseus: Poseidon, Aeneas: Juno
+- parallels are never 100%
+- Where Odysseus admires the opulence on Scyria, Aeneas admires the orderliness, with building the walls, forming the Senate
+- Aeneas, has many aspects that are the same with Odysseus, Virgil makes certain there are important differences
+- Homer used the bard, Demodocus, as a way to look at what it meant to be a poet
+- In Virgil's telling of the importance of poetry, it is on the scale of the cosmos
+- Virgil has larger ambitions for poetry than Homer did
+- Virgil: read hard into my poetry and you will greatly benefit
+
+## 9.6: Trojan War Again
+
+
 
