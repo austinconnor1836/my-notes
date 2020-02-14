@@ -82,5 +82,102 @@
 
 ## 9.3: Aeneid Opening
 
+- close attention to the opening lines like we did with Homer in the Odyssey
+- the opening eleven lines give the full panoply of what's about to happen.
+- he goes going to tell an epic that is about `arma uirumque`: about arms and a man.
+  - Arma is a marshal world talking about arms of war
+  - `Uirum` is the idea of a human male
+- Virgil is giving us now an epic that are going to do not only the Odyssey, but also the Iliad
+- He is going to create both the Odyssey and the Iliad before our very eyes
+- first 6 books, the Odysseian part of the book
+- the rest is closer to the Iliad
+- `arma uirumque cano`: `cano`, he, in the first person
+- unlike Homer who sings to the muses, or Hesiod singing to the muses
+- Virgil says I will be the one doing the singing
+- `Italiam fato`: `fato`, an important word for us
+  - `fato`: in Latin, means "by destiny"
+- the idea of fate, so far, is backwards-looking: there is something that happened to you in the past that is anchored to you. Look at Oedipus
+- you cannot escape it
+- Instead, Virgil's `fato`, it is forward-looking: no matter what you do, you will fulfill your destiny
+- through Aeneas, a story is drawn along by large, arcteconic forces of the universe, that are pushing it forward, forward.
+- It will bring Virgil and Aeneas to their respective home bases
+- in early days, he will move from the sea coast of Troy to Italy, the Lavinian western shore. We Romans know he is coming to us.
+- Virgil has our character on his way to found a city.
+- `multum ille et terris iactatus et alto ui superum saeuae memorem lumonis ob iram`:
+  - "He is buffered cruelly on land as on the sea by blows from powers of the air, behind them baleful Juno, in her sleepless rage."
+- Juno, is a powerful force in this story that will be pulling us backwards.
+- Virgil's story is certainly-forwardlooking destiny, but it is far from rosy, bright future. It will be achieved with great pain and suffering.
+- The founding of Rome is a complex thing: a lot of people will be overrun.
+- Individuals will be torn up in the machineries of history.
+- All of it will lead towards something, but on the way they, we will look at all the vectors pushing it backward.
+- Juno, is the emblem of these backward-looking vectors.
+- Aeneas will have friends pushing him forward, with Juno pushing him back
+- `multa quoque et bello passus dum conderet urbem inferretque deos Latio genus unde Latinum Albanique patres atque altae moenia Romae`:
+  - "And cool losses were his lot in war till he could found a city and bring home his gods to Latium, land of the Latin race, the Alban lords and the high walls of Rome."
+- This future toward which Aeneas is being pulled, is one that will lead him to build something.
+- He's going to build a city, with walls.
+- **He will make order from chaos**
+- The end state will be a nicely order, well drawn city, that's put together with a careful plan
+- That orders that has laws that organize people
+- The enemy here is disorder and confusion
+- To our friend, the victory here will be clarity and conciseness.
+- We're going to see the clear straight lines what it is to be Roman
+- We will consistently see Aeneas trying to build those things, they are anchored in his own heroic expression.
+- Now, our muse shows up.
+- `Musa mihi causas memora`: "Tell me the causes now, o muse."
+- Virgil is building a reference to the epic past of Homer.
+- He is talking about being inspired by the muse (or Homer), that he is not just overtaking and saying that I am the one singing the song.
+- He is talking about being inspired by the muse, but it is not the first line.
+- `quo numine laeso quidue dolens regina deum tot uoluere casus insignem pietate uirum tot adire labores impulerit`:
+  - "How galled in her pride, and how sore at heart, and from her old wound the queen of the gods compelled him, a man apart, devoted to his mission, to undergo so many perilous days, and enter on so many trials."
+- We will get to know Aeneas quite well
+- He is being pushed around by this old wound that the queen of the gods has, as she's pushing him around.
+- But he himself is a man apart, devoted to his mission.
+- `insignem pietate uirum`: "a man marked by his pietas"
+- `pietas`: piety, utterly devoted to his mission
+- a hero motivated and anchored by duty
+- in pursuit of the great good of his Romanness, he's giong to suffer, terrible things, the same kind of way that Odysseus did
+- Then, Virgil is wondering to himself towards the end of these lines: how awfully outraged is Juno is so angry with Aeneas?
+- It will take some time for him to find his feet and work his way through the challenges that are coming his way.
 
+## 9.4: On Reading Virgil
+
+- we'll discuss how Virgil himself thought about myth
+- doesn't really to apply to Homer or the Trojans, we wouldn't get much of an answer
+- we have good evidence of how he understood myth to work
+- Virgil is a scholar poet, an extremely learned person.
+- he is familiar with the traditions of commentary on Homer
+- Virgil has a strong rationalizing impulse to him
+- he'll provide redundant kind of causation for strange, wondrous, mystical kinds of events
+- at the end of Book one, where Venus decides to weaken Dido by making her fall desperately in love with, with Aeneas the point where the arts of love are actually used for terrible things.
+  - the myths have taught us that love is not a gentle thing, it can be used to do terrible things
+  - it can undo a person
+  - it definitely happens to Dido
+  - Venus has Dido fall desperately in love with Aeneus
+  - She uses her son Amor, who will be known later as Cupid, and reshapes her young son as the young infant son of Aeneas Ascanius.
+  - Virgil's painted picture, on one hand, a godess in a powerful act of divine intervention making a woman fall in love with a man
+  - on the other hand, he does it through a surrogate that takes the shape of a young infant.
+  - **The puppy effect**: if someone would like someone else to be attracted to them, having a puppy on your lap is so cute the person of interest wants to come pet the puppy
+    - puppies are useful ways of getting people's attention and expressing to them that you yourself might have your act together enough to care for something else so you might be a worthy mate for that person.
+- Virgil tells the story having Ascanius be the object that makes Dido turn from just admiring the abstract, this figure of Aeneas, to falling passionately, deeply in love with him.
+- psychologizes the whole event, having Dido in an example of this puppy effect, seeing this young infant and thinking this person might be okay, paving the road for passionate love to fall over Dido
+- another example of Virgil giving us a redundant set of causations for this grandiose divine intervention, of Dido falling madly in love with Aeneas
+- book three, we will see some of the household gods of Aeneas
+  - they'll show up in the story, over and over
+  - in the form of a dream, they will tell him that it is important that he leave Crete, as a plague is coming, and he should found a city somewhere else
+  - he was considering Crete to be a place to stay before the gods told him to go
+- the appearance of a god to a person is pretty exciting, but again, Virgil rationalizes it by putting it into a dream of Aeneas
+  - gives us another psychological way of understanding what happens
+  - then also the pestilence that gets visited upon the group means they're going to have to leave Crete anyway
+  - also, it is a pure divine intervention
+- the connections of the gods and what they mean is slightly changed in Virgil's story
+- Jupiter (Zeus), is much more removed from the story
+  - he belongs to the highest levels of the cosmos, he mostly doesn't come down
+  - Romans would have known this by a Greek term, `iphare`
+- Another example is Juno (Hera)
+  - from the beginning, Aeneas is buffetted by blows of the air by Juno
+  - she typically gets involved as a storm goddess, by actual physical storms
+- Hera is not a storm goddess
+- since when is the queen of the gods a storm god?
+- Virgil is working from a tradition that draws on Greek scholarly work, and in fact on a long and deep allegorical reading of the goddess Hera as being associated with weather.
 
