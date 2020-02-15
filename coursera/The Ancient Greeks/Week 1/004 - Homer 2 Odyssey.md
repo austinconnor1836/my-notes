@@ -1,0 +1,21 @@
+# 004 - Homer 2: Odyssey
+
+- the Iliad ends with a pale of smoke from a funeral pyre
+- it is described as not the good war
+- the Odyssey is considered later than the Iliad
+- Odysseus is an atypical hero:
+  - he is short
+  - eloquent
+  - clever
+  - most interested in food than any other food
+- Achilles says, "I hate like the gates of Hades the man who says one thing and keeps another in his heart."
+- this is Odysseus
+  - a man of twists and turn
+- the Odyssey is described as a poem of appetite over intelligence, you are what you eat
+- his weapon of choice: the bow
+- three important terms:
+  - **metis**: cunning intelligence, not wisdom nor philosophical, it is tricky
+  - **polytropos**: capable, versatile, adaptable, much-travelled
+  - **xenia**: ritual hospitality, "guest-friendship," the most important quality of Greek tradition
+- Diomedes and Glaucus met on the battlefield in the Iliad, and after learning of their grandfathers' shared xenia, they avoid each other at all costs for the remainder of the war
+- the cannabilistic Cyclops, Polyphemus, is one of the three groups of three: monsters, temptations, or follies.

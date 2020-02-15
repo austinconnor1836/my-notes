@@ -10,6 +10,9 @@
 
 ## 9.2: Myth, History, and Virgil
 
+Aeneas' path to Rome from Troy:
+![Aeneas path](./images/aeneas-path.gif)
+
 - Virgil lived from 70 to 19 BCE (1<sup>st</sup> century BCE)
 - Saying he lived through a tumultuous time would not begin to describe the environment during this period
 - The Roman Empire has amassed to a substantially large portion of the world, with countless cultures mixed within it
@@ -191,7 +194,7 @@
 - Aeneas is on his way to found his home, whereas Odyssey is trying to get back to where he is from
 - Odysseus: Poseidon, Aeneas: Juno
 - parallels are never 100%
-- Where Odysseus admires the opulence on Scyria, Aeneas admires the orderliness, with building the walls, forming the Senate
+- Where Odysseus admires the opulence on Scheria, Aeneas admires the orderliness, with building the walls, forming the Senate
 - Aeneas, has many aspects that are the same with Odysseus, Virgil makes certain there are important differences
 - Homer used the bard, Demodocus, as a way to look at what it meant to be a poet
 - In Virgil's telling of the importance of poetry, it is on the scale of the cosmos
