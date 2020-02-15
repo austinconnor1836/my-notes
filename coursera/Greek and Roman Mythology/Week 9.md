@@ -200,5 +200,136 @@
 
 ## 9.6: Trojan War Again
 
+- Aeneas takes over his own story and narrates to his own Carthaginian hosts
+- the Trojan war has ended and Virgil has him detail the trouble and awful story of his beloved city
+- Sinon, a Greek vagabond, is found with a large wooden horse
+  - he claims Odysseus, Ulysses, abandoned him
+  - he wants to give away their secret
+  - they built the horse because they understood that Athena was very angry with them for stealing the palladium
+  - Sinon is a good liar and begins to convince the Trojans that they cannot accept it inside their city, otherwise it will never be conquered
+  - Liacoan, tells the Trojans that it is a lie and serpents come out of the ocean and bite and kill him
+  - Lies are associated with the Greeks, and we do not like them at all
+  - the Greeks come out at night after the Trojans have drank and ate and run riot throughout the city
+- first thing the hero of noble cause decides to do, Aeneas, is abandon his city. He does not go down with his ship, like a good general would do.
+- he has ghosts, divinities, and even his wife, entreat him to leave
+- lines 780-825, Venus, brings home a Virgilian twist
+  - their is a eerie proof that all is lost
+  - Venus actually lifts the veil of reality and allows Aeneas to peer into the underlying things
+  - he sees the hulking gods dismantling the walls of Troy, deeply disturbing
+  - Homer had rage, Virgil had existential dread, that humans might have ignorance of its depths
+  - we see Troy engulfed in flames
+  - Venus has him carry his father on his shoulders, guiding his son by taking his hand
+- Aeneas' world is shifting in darkness
+- there are multiple levels to the lines in this story
+- watch for these hidden forces
 
+## 9.7: Retelling Tales
+
+- Aeneas is out of Troy and starts his wandering tale
+- very different path than Odysseus
+- first they go to Thrace
+- spooky things happen at Thrace
+- Aeneas locates the body of Polydoras, King Priam's son who he entrusted to the king of Thrace
+- after learning Priam was dead, he took the hefty ransom and killed the kid
+- Polydoras is there buried in the ground, and starts springing up spooky oracles, necromancy
+- they tell him this is not a good place to start a city
+- then they go to Delos (Dee-laws)
+- Delos is a well-known place for Apollo's oracle
+- not as embedded in Greek past as Delphi
+- it by no means is peripheral, but Virgil could not have him go to Delphi, that would be too Greek
+- the oracle there tells them they should seek where the Trojans first came from
+- some early ancestral land out there where Troy needs to be re-established
+- the story that Delos tells, says this new home is an earlier home, a primal home, a re-finding of an ancient kingdom
+- Virgil is giving us the story that the ancestral home of Troy was Rome
+- then, they go to Crete
+- it was well-known mythologically to be a very ancient place, ancestral home could well be here
+- they start building their walls, lay out their plans, then something bad happens
+- a pestilence befalls them, the men become sick, there is a plague
+- the gods come to him in a dream and again tell him the place is in Italy
+- they proceed to Italy, but first stop by the Island of the Harpees in the Strophades, on the western side of Greece
+- they are things with wings that come a spoil their food
+- an oracle tells them they would not ever eat anything
+- they then go right past Ithaca without much mention
+- Virgil, it is kind of a kiss-off to Odysseus and Ithaca, that he won't talk much about it
+- then to Chaonia, in northern Greece on the Adriatic side
+- we hear of Andromacee, the wife of Hector who was abducted by a man Greek named Peris, son of Achilles, after the Trojan war and taken back to this city
+- Peris dies, and Hellenness, a son of Priam and another one of Peris' captains, inherits the kingdom
+- a new Troy appears to be starting with some aristocrats from Troy
+- seems like a good place, but the prophetic Hellenness tells them they need to find the Cibil, in the underworld, she will tell them where specifically in Italy to go
+- then they go to the land of Aetna where they hear the discussion of the Cyclops
+- notice they do not encounter Scylla and Caribdus
+- Virgil is saying Aeneas found another way, saying he has more wisdom than Odysseus, by going around the southern edge of Aetna
+- he avoids altogether the tough choice Odysseus had to make, a strong point Virgil tries to make
+- on the land of Aetna, we encounter the Cyclops, through Acmenedes, one of Odysseus shipmates that Odysseus abandoned
+- we are learning here and throughout the story that Odysseus is a conniving liar, brushing off of Ithaca without much mention, and how Odysseus didn't get all his men home safe
+- the different values that are emerging in this story are contrast to the values in Homer's story
+- Odysseus will not be embraced by Romans at all, since he is a conniving liar
+- after meeting the Cyclops, we go around the southern side of Sicily and get to Drepanum
+- from there, the father, Kysis, passes away
+- important point because now the responsibility of passing tradition down is on the shoulders of Aeneas
+- some would say Aeneas' story has both an Odyssean and Telemachus aspects to his story
+- Aeneas is a young man, described by the Trojans
+- he is being raised and nurtured, similar to Telemachus story
+- then we go to Carthage at the end of book 1
+- Dido will be important
+
+## 9.8: Two Themes
+
+- the Roman version of myth
+- `pietas` and `tieleology`
+- the idea of `pietas` shows up as a definitive marker of what Aeneas is all about
+  - it means much more than being dutiful
+  - piety, showing reverance to the gods
+  - also, it means all the things Romans wanted to see in a man
+  - follow through, getting things done through to completion
+  - doing the difficult, correct thing
+  - carrying through with her promises, honorable
+  - it is impossible to be a Roman without this
+- with Odysseus, it was `polytropos`, being able to get out of any trouble
+- Romans would be like how did he get into trouble
+- Aeneas shows this with his relationships with the gods, with his subordinates, being honorable to them, tries to bring them along
+- he shows it also by subordinating his personal interest to the larger societal interest
+- bees and ants are similes used, markers used to show how great things get done, Romans are very proud of that
+- making of boundaries, building walls, is also furthering his `pietas`
+- he is engaging in follow-through
+- Aeneas is the great maker of boundaries, Odysseus is the great crosser of them
+- Aeneas would find this behavior of Odysseus childish
+- bringing order out of chaos is much more significant
+- this reflects the different cultures and times:
+  - Greeks were in a stage of exploration all the way into the classical Athenian age
+  - Greeks were sending colonies all over the place, expansion, a culture built on expansion
+  - by contrast, Romans were more concerned of maintaining a vast empire, preservation
+  - put up boundaries that were enforceable, laws that could not be crossed
+- be sure not to forget the times when comparing the two
+- **Teleology**: mentioned in the past of a sort of destiny, moving towards a specific end
+  - this was entirely absent in Homer's epics
+  - definitely present in Virgil's stories
+- **Universal law 8: people at the top and bottom of the power structure, tend to embrace the idea of teleology**
+  - this is because they have already won
+  - "of course I won, history is bringing me to the top of the heap."
+  - history happens a purpose
+  - history is made to bring her to the top, he asked Madonna and she said this
+  - giant wheels working for you
+  - at the bottom, if you are getting ground up, you like to think it wasn't your fault
+  - it exonerates you from the idea that you are in your position because it is what you deserve
+  - those in the middle, don't like this idea, that history moves towards a pre-determined end, it is more liked by people at either ends
+- Teleology in Virgil's context
+  - look at all the ways that destiny pulls Aeneas forward
+  - the false starts in Thrace, Delos, Crete, Chaonia, Didos' Carthage, Sicily, all of these there is this aspiration of "Oh! We can get started." before some divine intervention saying "no, you must continue on."
+  - Aeneas comes to some sort of exasperation and wants to give up, but he continues his suffering on
+  - also get fate, destiny read out to us by important figures in the epic
+  - Jupiter, in book one, has a famous his speech where he says, this is what will happen to Aeneas for him to found Rome
+  - Crausa, in book 2, shows up to Aeneas, telling him "don't worry I'm dead. You must go ahead and found Rome. Don't abandon me." She tells him what he must do.
+  - the Delian oracle, in book 3, does something similar.
+  - Hellenness, also a prophetic teleological statement
+- sometimes, this teleology pushes through people, overrunning them that are in the way
+- Dido, is emblematic of smaller stories we've seen of people who, as the machineries of fate and destiny are pressing themselves forward, they are ground up in the gears
+- if Virgil were writing some propagandistic tale, he wouldn't include this stuff
+
+## 9.9: Dido and Marriage
+
+- in book 4, we learn about Dido in detail
+- rich psychological portrait of her with her interaction with Aeneas and her sister Anna
+- she is the most complex character in these first books
+- 
 
