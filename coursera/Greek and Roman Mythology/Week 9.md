@@ -329,7 +329,93 @@
 ## 9.9: Dido and Marriage
 
 - in book 4, we learn about Dido in detail
+
 - rich psychological portrait of her with her interaction with Aeneas and her sister Anna
-- she is the most complex character in these first books
-- 
+
+- she is the most complex character in these first books, more so than even Aeneas
+
+- she welcomes them in with great hospitality
+
+- she is building a city
+
+- Venus sneaks up and gets her to fall in love with Aeneas through the use of her son Amour
+
+- she is not fully in control, but we can understand how she is overcome by divine intervention
+
+- however, her tale will not end with happiness
+
+- Virgil, spends time watching her get ground up in the founding of Rome
+
+- One specific scene of Dido's suffering in book 4:
+
+  - the richest portrayal of what she goes through
+  - she is on a hunt with her party and a storm comes
+  - Juno and primal earth itself are invoked for a marriage
+  - marriage ceremonies are marked by torches, lightning takes the role of torches
+  - Virgil is telling us a marriage is happening in the cave
+  - nymphs are singing, another sign of marriage
+  - then, the first half, Virgil says that day was the first cause of death, and first of sorrow
+  - the second half Virgil is telling us that it wasn't a marriage
+  - it is quite murky what happened there
+  - Does Aeneas have some sort of allegiance to Dido?
+  - Aeneas doesn't think he does, but Dido does.
+  - Aeneas says fate compels him to leave
+  - Dido becomes very angry
+  - Dido, not Virgil nor Aeneas, knows what truly happens it seems
+  - Anna and Dido begin to have nasty feelings towards Aeneas
+  - they perform a magical ritual, calling forth chtonic, primordial gods of the underworld: Chaos, the Chasm, Hecate, Diana.
+  - it is really hard to have a final conclusion of this episode of Dido
+  - many versions:
+    - sympathetic to Dido:
+      - we feel sorry for her, we feel her pain in a way
+    - functionalist reading:
+      - what social values are being underwritten, legitimized here?
+      - `pietas` is being demonstrated
+      - Aeneas must follow through with founding a city
+      - also, Dido is practicing xenia
+      - but, Aeneas pretty much says, yeah xenia is well and good in a Homeric time
+    - Aeneas here shows a master Roman dominating a loved one, Carthage, who wishes to be with Rome but is eventually destroyed by Rome
+      - in historical context, Carthage was the main opponent standing between Roman total domination of the Mediterranean
+      - it was the duty of Romans to fulfill their duty of conquering Carthage, no matter the suffering
+    - another historical component, Aeneas shuns the clutches of a North African sex goddess, thereby besting Odysseus right?
+      - he escapes faults that would have been at the front of the Roman mind when Antony fell for a North African sex goddess of Cleopatra
+  - of course Aeneas must leave Dido behind, he cannot fall victim to it
+  - still, it is not clear what we should leave with
+  - Virgil's story is very complex
+  - we need to work very hard to understand what's really happening
+
+  ## 9.10: Funeral Games for Anchises
+
+  - book 5, Aeneas is moving from the Northern coast of Africa, with Dido, to the future: Rome, Sicily in particular
+  - Sicily provides a kind of perfect medial space in between those two locations: Northern Africa and Italy.
+  - it's also an island: separate from the world
+  - like Scheria where Odysseus performed athletic activities in the honor of the Anchises
+  - remember, Odysseus is rejuvenating and returning to himself
+    - he is piecing himself back together so that later in the poem, he can take back the narrative to find his way home
+  - for Aeneas, the medial position is very similar: he was unsure, wandering. Now he is much more sure of himself
+  - book 6, he goes to the underworld
+  - book 5 is a transition time
+  - book 7 and 4 is a militaristic conquest, with much more defined parameters that require courage
+  - structural ties with the rest of the story:
+    - ominous fires that bookend both sides of the games
+    - remember Dido's funeral pyre?
+    - after the games, the ships are being burnt from women at the instruction of the gods
+    - a storm drives the fleet to Sicily
+    - another storm puts out the flames at the end
+    - Palinurus, shows up at the beginning of the book, the steerman who gets them through the treachorous straits
+    - Palinurus appears at the end of the story as he falls off the ship
+    - another tie to the Odyssey
+  - these activities show us a lot about Odysseus character
+  - some of the competitors are cutting corners, cheating
+  - Aeneas shows up as the corrector-in-chief
+  - he is a strong hand at guiding people through difficult conquests
+  - With his father now gone, Aeneas steps into his own and becomes a powerful person in his own regards
+  - He finds ways to settle disputes: judgement, fairness
+  - **taking responsibility: solving other people's problems**
+  - goodwill shows up, a ton of prizes show up and Aeneas is very generous
+  - he makes people feel good
+  - in this book and forward, he begins to be referred to as Father Aeneas.
+  - He turns to Italy from Sicily, an important historical piece in history
+  - Sicily as a pathway between Carthage and Rome
+  - 
 
