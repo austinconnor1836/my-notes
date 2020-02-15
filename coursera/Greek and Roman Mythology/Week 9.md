@@ -154,7 +154,7 @@
   - it can undo a person
   - it definitely happens to Dido
   - Venus has Dido fall desperately in love with Aeneus
-  - She uses her son Amor, who will be known later as Cupid, and reshapes her young son as the young infant son of Aeneas Ascanius.
+  - She uses her son Amour, who will be known later as Cupid, and reshapes her young son as the young infant son of Aeneas Ascanius.
   - Virgil's painted picture, on one hand, a godess in a powerful act of divine intervention making a woman fall in love with a man
   - on the other hand, he does it through a surrogate that takes the shape of a young infant.
   - **The puppy effect**: if someone would like someone else to be attracted to them, having a puppy on your lap is so cute the person of interest wants to come pet the puppy
@@ -417,5 +417,6 @@
   - in this book and forward, he begins to be referred to as Father Aeneas.
   - He turns to Italy from Sicily, an important historical piece in history
   - Sicily as a pathway between Carthage and Rome
-  - 
+
+  
 
