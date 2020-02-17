@@ -341,3 +341,33 @@ Penetration and fuzz tests can fulfill security test goals along with various ma
 - **Maintaining Access**
 - **Reporting**
 
+#### 1. Preparation, planning, and reconnaissance
+
+Involves two parts:
+
+- Scope, scope definitions, defining the goals of the tests to be carried out, and defining the testing methods and systems to be addressed
+- Gathering intelligence such as the domain and endpoints, and understanding how the target API works, along with its exposure to vulnerabilities
+
+#### 2. Scanning
+
+**Scanning**: understanding the target application's response to various intrusion attempts with static and dynamic analysis
+
+#### 3. Gaining access
+
+Involves attempting to uncover API vulnerabilities with application attacks such as XSS, SQL injections, code injections, and backdoors.
+
+Once those vulnerabilities are uncovered, exploiting them with privilege escalations, data stealing methods, and traffic interceptions are part of the **Gaining Access** scope, as well as assessing the damage that API vulnerability could cause.
+
+#### 4. Maintaining Access
+
+**Maintaining Access** phase: assessing the long-term presence abilities, and the chances of them gaining in-depth access to systems/APIs
+
+#### 5. Analysis
+
+- compiling and presenting the results of penetration tests as a report
+- these reports generally contain:
+  - a specific vulnerability that was exploited as part of pen tests
+  - details of compromised/accessed sensitive data as part of the pen test exercise
+  - most importantly, the duration of the time that you were able to remain in the system undetected
+
+These results and reports will act as a feed/input security configurations across the organization to prevent any future attacks.
