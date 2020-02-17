@@ -217,3 +217,127 @@ XSS is traditionally one of three types:
 
 ## Denial-of-service attack
 
+**Denial-of-service (DoS)** attack: intended to make the targeted machine reach its maximum load (capacity to serve requests) quickly by sending numerous false requests so the target system denies further genuine requests.
+
+Two categories: **Flood attacks** and **buffer overflow attacks**
+
+Flood attacks: the attacker saturates the target server by generating enormous traffic to the server, causing the target server to end up in DoS.
+
+Buffer overflow attacks: intended to target a machine and make that machine consume all available memory or hard disk space, or cause high usage of the CPU.
+
+### Distributed denial of service
+
+**Distributed denial of service (DDoS)** attacks: DoS attacks on distribution systems.
+
+### Injection attacks
+
+One of the most harmful and dangerous attacks.
+
+### Insecure direct object references
+
+**Insecure direct object references (IDOR)**: equally as harmful as the other top API vulnerabilities
+
+- occur when an application exposes direct access to internal objects based on user inputs such as ID and filename
+- Example:
+  ![idor](./images/idor.png)
+
+- not having a validation mechanism allows Bob (the attacker) to manipulate these references to access unauthorized data, called an IDOR vulnerability
+
+### Missing function-level access control
+
+- anyone with network access is able to send a request if the application is missing implementing function-level access rights
+- admin-level URLs should not be accessible to anyone with network access
+
+### Man-in-the-middle attacks (MITM)
+
+- an attacker accesses the information between the client and the server
+
+#### Common types of MITM attacks and protection measures
+
+- **Sniffing**: attackers use widely/freely available packet capture tools (i.e. Wireshark)
+- **Packet Injection**: injecting packets of data so they blend in with normal communication.
+- **SSL stripping**: altering HTTPS network communication to HTTP on the fly, making it insecure (user may not even realize it)
+- **Email hijacking**: very common type of MITM attack
+  - attackers mimic a trusted site, ask for an email, and in the email instruct to put sensitive information
+- **Wi-Fi eavesdropping**: setting up exclusive Wi-Fi access points to lure users to get connected and make them use the network.
+- **Session hijacking**: caching a session token where an attack can sniff and pick it up
+- **Protection measures**:
+  - **Secure/Multipurpose Internet Mail Extensions (S/MIME)**
+  - **Public key infrastructure (PKI)** based authentication certificates
+  - SSL/TLS certificates
+  - System and server configurations
+  - **HTTP Strict Transport Security (HSTS)**
+
+### Replay attacks and spoofing
+
+- also known as playback attacks, are network attacks which valid data transmissions (supposed to be once only) are repeated many times (maliciously) by the attacker who spoofed the valid transaction.
+- The server sees valid transactions, however these are a masqueraded request and lead to catastrophic effects for clients
+- Diagram:
+  ![replay attack](./images/replay-attack.png)
+
+- As RESTful APIs are stateless, the chances of getting those APIs into replay attacks are high (they're and easy target).
+- **Protection measures**:
+  - one-time password with session identifiers
+  - **time-to-live (TTL)** measures
+  - MAC implementation on the client side
+  - including timestamps in requests
+  - secure protocol such as Kerberos protocol prevention
+  - secure routing
+  - **challenge-handshake authentication protocol (CHAP)**
+
+### Causes of vulnerabilities
+
+#### API design and development flaws
+
+- keep APIs as simple as possible as complexity may lead to less coverage and vulnerability
+- few other causes: input validation, SQL injection loopholes, and buffer overflows
+- Various aspects of design strategies and RESTful API design practices were discussed in *Chapter 2, Design Strategy, Guidelines, and Best Practices*. Understand and implement these design principles and practices to reduce design and development flaws.
+
+#### Poor system configuration
+
+#### Human error
+
+#### Internal and external connectivity
+
+#### Security tests
+
+Security tests ensure APIs are secure from external threats and protected from the vulnerabilities that we have discussed in earlier sections.
+
+Two categories of security tests: **security functional testing** and **security vulnerability testing**
+
+Functional test: executes manual tests and manually checks for the presence of security mechanisms within API's implementation
+
+Security vulnerability tests: execute automated test cases that may expose vulnerabilities.
+
+Ultimate goal is to understand the system behavior by studying error messages and exposing any security vulnerability such as gaining unauthorized access, IDOR, MITM, and replay attacks.
+
+Penetration and fuzz tests can fulfill security test goals along with various manual tests.
+
+#### Penetration tests or pen tests
+
+- Penetration tests are imperative in API testing
+- **Pen tests**: the process of simulating cyber attack against a system or API to expose/determine exploitable vulnerabilities such as intra-network loopholes, XSS attacks, SQL injections, and code-injection attacks
+- they assess the threat vector from an external standpoint, such as supported functions, available resources, and the API's internal components as well.
+
+#### Importance of penetration tests
+
+- No compromise to data privacy
+- Guaranteed and secured financial transactions and financial data over the network
+- Discover security vulnerabilities and loopholes in APIs and in underlying systems
+- Simulate, forecast, and understand and assess the impacts of attacks
+- Make APIs fully information security compliant
+
+#### Pen testing lifecycle
+
+5 stages to the pen test lifecycle:
+
+![pen test lifecycle](./images/pen-test-lifecycle.png)
+
+5 phases of activities:
+
+- **Preparation**
+- **Scanning**
+- **Gaining Access**
+- **Maintaining Access**
+- **Reporting**
+
