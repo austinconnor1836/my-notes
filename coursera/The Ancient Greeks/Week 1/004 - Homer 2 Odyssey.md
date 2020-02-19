@@ -19,3 +19,7 @@
   - **xenia**: ritual hospitality, "guest-friendship," the most important quality of Greek tradition
 - Diomedes and Glaucus met on the battlefield in the Iliad, and after learning of their grandfathers' shared xenia, they avoid each other at all costs for the remainder of the war
 - the cannabilistic Cyclops, Polyphemus, is one of the three groups of three: monsters, temptations, or follies.
+- the Cyclops is Poseidon's son and Odysseus makes the mistake of revealing his identity, Poseidon curses him
+- Circe, a witch who turns men into beasts
+- Achilles in the underworld, "I'd rather be a live serf, than a dead Hero."
+- 
