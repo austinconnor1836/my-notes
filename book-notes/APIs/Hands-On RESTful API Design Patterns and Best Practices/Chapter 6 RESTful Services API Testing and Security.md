@@ -428,3 +428,21 @@ Two primary classifications: **mutation based** and **generation based**.
 #### Mutation-based fuzz tests
 
 - aka dumb fuzz tests, a simple approach: create new test data by altering existing data samples.
+
+Two ways of going about mutation:
+
+1. Bit flipping, where inputs are flipped in a sequence or in a random manner:
+
+   ![bit flipping](./images/bit-flip.png)
+
+2. Append a random string, where the end of the input has random strings appended:
+
+   ![append](./images/append.png)
+
+#### Generation-based fuzz tests
+
+- aka, intelligent fuzzing, are tests based on an understanding of known formats, known protocols, and generation of inputs from scratch according to the system/API specifications (RFC) and formats (for instance, the format from the API documentation).
+- examples of test data consisting of intelligent cases:
+  - regular expressions in the request body
+  - having hostnames in the header
+  - changing intended response types to different types
