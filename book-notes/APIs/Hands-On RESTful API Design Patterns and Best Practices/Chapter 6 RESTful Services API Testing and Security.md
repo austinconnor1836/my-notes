@@ -371,3 +371,60 @@ Once those vulnerabilities are uncovered, exploiting them with privilege escalat
   - most importantly, the duration of the time that you were able to remain in the system undetected
 
 These results and reports will act as a feed/input security configurations across the organization to prevent any future attacks.
+
+### Pen testing types for API testing
+
+3 categories of pen tests:
+
+- **black-box**
+  - testers have limited understanding about the underlying API
+- **grey-box**
+- **white-box**
+  - preferred for API penetration tests
+
+#### White-box penetration testing
+
+- also known as **structure-testing**, open-box, clear-box, glass-box testing
+- comprehensive testing methodology with a range of information about the schema, source code, models and such
+- intended to **scrutinize the code and catch any design and development errors**
+- simulate internal security attacks
+- why use white-box testing:
+  - the tests run on all of the independent paths of a module
+  - tests confirm and verify all logical decisions (`true/false`) inside
+  - tests check syntax checking and so find typographical errors that are critical to finding code injections and SQL injection attacks
+  - tests find design errors by a mismatch of the logical flow of the program and the actual execution (design for intent)
+
+Open source tools that scan code, check for malicious code, find security loopholes using data encryption techniques, and find hardcoded username and passwords:
+
+| Tool       | Type          | Providers       |
+| ---------- | ------------- | --------------- |
+| Nmap       | OpenSSL       | Pure Hacking    |
+| Nessus     | Cain and Abel | Torrid Networks |
+| Metasploit | THC Hydra     | SecPoint        |
+| Wireshark  | w3af          | Veracode        |
+
+- in summation, pen tests for APIs should expose API vulnerabilities before attackers find them
+
+
+
+#### Fuzz tests
+
+- one of the most widely used testing practice in QA industry
+- massive amounts of data (fuzz or noise)
+- trying to exhibit buffer overflow
+- primary purpose is to **explore and test the undefined region**
+
+#### The life cycle of fuzz tests
+
+- first, identify the target APIs and define the inputs for the test
+- end with generation of logs showing vulnerabilities detected in the API
+
+![fuzz tests](./images/fuzz-tests.png)
+
+#### Fuzz testing strategy
+
+Two primary classifications: **mutation based** and **generation based**.
+
+#### Mutation-based fuzz tests
+
+- aka dumb fuzz tests, a simple approach: create new test data by altering existing data samples.
