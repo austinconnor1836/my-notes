@@ -124,3 +124,35 @@
 - we move away into a different kind of world, one that is brighter and kinder
 
 ## 10.2: Themes in the Underworld
+
+- Virgil is explaining through Anchises in the underworld the workings of the cosmos, incorporating many historical works like Plato's Republic and Cicero's Dream of Scipio
+- Apocalypse literature was arising out of the eastern world
+  - APO + KALYPSO = un-veiling, revealing, in Greek
+- Anchises' Revelation telling how the cosmos is structured and works
+  - starting with a scientific approach, the planets and such
+- Anchises' gets to Augustus, moving from scientific and cosmic understanding to a historical one
+- At the end, he says Augustus outperformed Alcides (Heracles)
+- Rome's Identity (p. 190)
+  - from Anchises: "To make the world work right."
+- We exit, after this statement on Roman Identity, out of the gate of false dreams.
+  - What does this mean?
+  - Typical of Virgil, start with a sense of assurity, and end with uncertainty
+
+## 10.3: Vergil and Theories of Myth
+
+- Vergil was writing as a person who was fully engaged in myth in his time
+- he built his myth with reference to theories of myth
+- Ancient Ideas on Myth:
+  - Rationalization
+    - gods coming through the form of dreams
+    - love being sent down to him through a divine sense
+  - Allegory:
+    - Juno/Hera: Greek 'ERA = AER' (air)
+    - Jupiter/Zeus = Aether
+    - lopas' song and poetry as science
+  - Vergil as Proto-Functionalist
+    - Remember, functionalists argue myths legitimize social customs
+    - functionalism was not invented at the time, but he was aware of the power of this
+- Vergil and Modern Ideas on Myth:
+  - `pietas` won over `xenia`
+    - hospitality is well and good, but duty is more important
