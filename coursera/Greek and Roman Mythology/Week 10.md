@@ -258,3 +258,62 @@
 
 ## 10.5: Re-visiting Thebes
 
+- remember the dissolving self in Thebes
+- highly learned and elusive poet
+- he writes for a highly literate audience, he assumes you know the important background
+- remember the tale, Cadmus encounters the dragon, serpent, and slays him
+- he takes the teeth and tosses them into the ground
+- then, people pop up from plants
+- we will see the excitement of the plants becoming human
+- We will see Actaeon, Semele, Teiresias, Narcissus, and Pentheus
+- Actaeon, catches a glimpse of Diana
+- there is a very strong sense of intimacy in this scene, she is in the bathroom, putting makeup on herself, grooming her.
+- we are not supposed to see this of strangers and certainly not godesses
+- Ovid's alluding in allowing in his presentation of the scene, allowing us to be like Pentheus
+- he is inviting us to commit the same crime that Actaeon does, looking with ogooling eyes
+- what is she doing over there? We get pulled in
+- When Diana reacts to what's happening, she is embarrassed. She blushes.
+- Imagine a divinity blushing, that is crazy!
+- then, all hell breaks loose.
+- Actaeon gets chewed up by his own dogs and turned into an animal
+- we hear a story of Semele:
+  - Juno is prodding her and trying to get her to doubt that it was Zeus who she was with.
+  - this is Semele's undoing, Juno plants a seed of doubt and asks Zeus to reveal himself and then she is immolated
+- with both Actaeon and Diana, and Semele and Juno, **the line between human and divine is psychologized**
+- with Actaeon, Diana is embarrassed. In the case of Juno, it is doubt and jealousy.
+- We here of Teiresias' long story, we get inside his head mainly to get inside the tale of Narcissus
+- Teiresias knows all kinds of things
+- how does he know this? Well, he uniquely, has been able to experience sex as both a man and a woman
+- And because of this experiential dimension, he now has all knowledge, having both is multiplied with each other
+- Juno is of course jealous, she is typically jealous, and she blinds Teiresias
+  - she usually punishes humans by making them defective
+- with Narcissus, things you might know:
+  - where flowers come from
+  - he gets transfixed with his reflection in a pond and turns into a flower
+- this is kind of a kids version
+- but Ovid, Teiresias tells Narcissus that he will be fine with what he sees as long as he never knows himself.
+- When he looks, he sees an object
+- then, he gets frozen
+- Ovid packages it as an erotic love, which is completely misplaced.
+- there is a further dimension to this story: what it means to be human.
+  - it is strange to be self-aware, self-conscious subjectivity
+  - it would be a little easier not to be one of those
+    - if I were a puppy, food and going for a walk and I am satisfied
+    - as a self-conscious human being, life is a little more complicated. Sometimes it is good, sometimes it is not so good.
+- now, Narcissus understands himself as an object to other people
+- that is a disturbing recognition. So his life ends there. He doesn't get out of the greased funnel of self-contemplation.
+- Then we hear the story of Pentheus
+- for Ovid, it is more a story of Pentheus versus Teiresias
+- Another story of Bacchus and men not knowing they have a god in their midst
+- stories talked about set in Theban fashion talks about close connection between human and divine, something goes terribly wrong, and that close connection is psychologized:
+  - Actaeon:
+    - Diana is embarassed
+  - Semele
+  - Teiresias
+  - Echo and Narcissus:
+    - Narcissus emotional attaction to himself is his undoing
+  - Pentheus:
+    - wanting to see what he ought not to
+- these passions show that the human transgression vis a vis the divine, leads to some kind of problem that shows in a psychological manifestation and ends in a corporeal undoing: the human dissolved, is ripped up, torn.
+  - see a glimpse of the divine world, stay away
+
