@@ -156,3 +156,105 @@
 - Vergil and Modern Ideas on Myth:
   - `pietas` won over `xenia`
     - hospitality is well and good, but duty is more important
+- duty is even better than xenia
+- from a functionalist perspective: the idea of `pietas` was explicitly intended to collide with the Greek idea of `xenia`
+- Freudian tool: **myths are dreams for an entire culture**
+- structuralist perspective: look at the binary aspects of the myth, the tension between the two create the voltage of the myth
+- voluntary associations versus blood relations, Oresteia show voluntary associations were better than blood relations
+- going to Rome, we are going back to blood relations being better, back to the future
+- Aeneas, connection to his father and son, Anchises and Anchias
+- Aeneas voluntarily associates with Dido and voluntarily leaves her
+- Anchises shows all the important lineages
+- these two binaries come in conflict with one another
+
+## 10.4: Ovid--Background and Themes
+
+- episodic in nature, can't keep his focus on any one particular thing
+- more playful kind of poetry
+- 43 BCE - 17 CE
+- a lot of internal conflicts
+- torn between two courses of action, usually passion on the one hand and duty on the other hand
+- With Virgil, duty usually wins
+- In Ovid, it is the other way around
+- regular people involved in great events
+- watching from the edges, zooming in and out
+- world is based on change, atoms come together to form one shape, then fall apart to reorganize
+- Ovid was from very wealthy family
+  - best education money could buy: a training in the verbal arts
+  - could be a lawyer, but tells his parents he wants to be a poet
+  - the thought of being a wealthy senator
+- indisputed greatest poet of his day, the time after Virgil
+- critics had mixed feelings:
+  - Quintillian, a literary critic: "he could have been better if he had control his genius rather than let it control him"
+  - kind of like Mozart, in the movie Amadeus, sometimes his genius can create issues
+- got in trouble with the law, he has to live his life in exile in a far off city, Tomis
+  - he was a very urbane individual, and couldn't live in arguably the greatest city of all time
+- we defined myth at the beginning of the course: **a traditional tale with secondary partial reference to something of collective importance, told by someone, for some reason**
+  - Walter Burkhardt, the great scholar of Greek myth came up with it (the professor added "told by someone, for some reason")
+- for Ovid, a different definition of myth: **a clump of stories, probably untrue, about ancient characters, that may have or may not have existed, but some deeper truths in them or not, but they are surely fun to hear**
+  - resembles how we understand myth today, looking at Hollywood, and out entertainment industry
+- Ovid looks at entire history
+- his particular definition, is usually the one that wins out
+- if you see someone re-interpreting a myth, it is probably Ovid's rendition
+- he becomes so authoratative, due to his encyclopedic nature and his incredibly playful spirit and virtuosity in his poetic technique
+- Ovid will present to us **a coherent group of old tales**
+  - coherent insofar as it holds together, but it jumps around
+  - he is bored by focusing on one thing, he jumps around
+- tale of Orestes, Aeneas and the founding of Rome, Odysseus, Ovid tries to do the whole thing, all together
+  - with him, we start to see something more than just myths, but mythology: the large collection of things, a study of itself
+- **themes**:
+  - **change and transformation**
+    - in Thebes, the snake fangs sprouting up families
+  - **line between human and animal**
+    - Agave, mistakes her own son for a sacrificial animal and slices off his own head
+    - when that line gets crossed, violence usually follows
+    - although he is playful, there are serious consequences
+  - theme 2: **illicit love and passion** 
+    - lots of rape: "The rape of the Sabine women"
+      - the idea of rape in Ovid's tale, he presents it in a way that shows a certain kind of tittilation, excitement, transgressions that happens. The violent outcome of these transgressions will be exhibited too
+      - someone turning into a flower seems like a charming story and a human women turned into an animal due to a rape
+        - in both cases, violence is close by the surface, and Ovid wants to pull it out for us
+  - theme 3: **strong links between the divine and human world**
+    - example, Diana is spotted. When you spot a god, run away!
+      - danger is waiting
+  - Ovid is like Prometheus, he is stealing fire from the gods and there is pain and suffering to follow for him
+  - theme 4: **bodies**
+    - Ovid is very interested in the corporeal, physical nature of you and I as human beings
+    - we see their fragility, their changeability
+    - humans are anchored to them, sadly
+    - and we see them in a way that humans tend to resist, a way that the wider world looks at them
+    - when a predator looks at us, we look like a piece of meat, not someone we would like to get to know
+    - flesh is fragile, maybe prey for some other animal
+
+- **"RAGE" - The Iliad, heroic epic**
+  - **the first words were a war rage**
+- **"MAN" - The Odyssey, heroic epic**
+  - **the first words are about "a man"**
+- **"Arms and a man" - The Aeneid**
+  - **the first words, Vergil tells us he will sing about both**
+- **"Forms changed into new and different bodies" - The Metamorphoses**
+  - **opening Latin: "In nova..." (in noah)**
+    - **a prepositional phrase, not a noun you can easily jump onto**
+  - **for Ovid, he jumps in in a way that slightly bends the traditional formulation**
+- The Metamorphoses will focus on moments of destruction, change is going to happen, but these moments will not be gentle, they will be violent, with pain and suffering
+- the metamorphosis, any individual change that is talked about, it could be punishment, a form of justice, more often, **it is just a random visitation**
+  - someone just happened to step into a situation and before you know it, they are changed into something else
+  - judgment that is visited on this person may or may not have deserved it, it is not a world that is ruled by some overarching theme of justice
+- bodies are victims in the Metamorphoses:
+  - they are porous, wounded, dismembered, dissolved
+  - they are turned into a thing instead of a human being
+- stories we have already seen: Acteon and Pentheus
+  - Ovid likes to focus on these, traditional tales of humans getting ripped up
+  - with the case of Narcissus, we will seen with this version of it, how it puts different spins on it that you may not have seen before
+    - body just kind of wastes away, disappears
+- humans will change into plants or animals, always that change, is accompanied by some kind of destructive possibility
+- understanding Ovid's focus of bodies:
+  - Ovid's time is in an imperial age
+  - of high spectacle, the coliseum is up and running
+    - human bodies are put on display, are being ripped up by other animals
+      - we are seeing the fragile, porous nature of human bodies in the form of entertainments
+      - **Ovid is putting us inside that world**
+        - it may well be that is own approach is influenced by a certain carelessness to the human form in the world around him
+
+## 10.5: Re-visiting Thebes
+
