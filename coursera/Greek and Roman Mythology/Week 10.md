@@ -317,3 +317,107 @@
 - these passions show that the human transgression vis a vis the divine, leads to some kind of problem that shows in a psychological manifestation and ends in a corporeal undoing: the human dissolved, is ripped up, torn.
   - see a glimpse of the divine world, stay away
 
+## 10.6: Trojan War Again
+
+- moving into a different kind of genre, from a Homeric epic, to a "mock epic"
+- he is having fun with us
+- if he goes off on a tangent, and you are unsure how this relates to the Trojan War, you are onto it
+- Ovid's treatment of the Trojan War is very strange
+- outline of the main action:
+  - departure for Troy
+  - we hear of Effigenia, in Ovid's version, she is saved in the last minute: Diana substitutes a deer for her
+  - then, we hear of Achilles, and incredibly effective and elegant killer
+  - Achilles fights a not too important figure of Signus
+  - Achilles is represented as a bull, a simile we have seen before
+  - Achilles just uses brute force to kill Signus with his shield
+  - then, we get to the battle of the Lapis and the Centaurs
+  - how did we get on to this topic?
+    - Ovid has only a very tangential relation to this whole thing
+    - it comes from old king Nestor, who, like many old people, likes to talk and here the sound of his own voice
+  - how does Ovid tell this battle? He talks about Chinaeas, a man who was a woman once, and wish she could be turned into a man again to avoid being raped again, da da da da, Nestor is just prattling on
+  - then all of a sudden, we hear of the hymn of the Lapists, and how they killed the Centaurs
+  - Nestor is just prattling on
+  - we don't really care about Lapists or the Centaurs who we care nothing about
+    - Ovid uses this as way to show gruesomeness triumphing heroism
+    - we normally care about the people who are getting ripped up, but with the Centaurs, we don't care at all
+    - Centaurs, creatures that are both man and beast together
+    - we don't have a great scene where people fight for what is right, it is just gory for gore's sake
+  - we jump back to our digressive moment of Chinaeas and we hear that he was there too
+    - not much too do with the Trojan War
+  - then, suddenly, we just hear about the death of Achilles
+  - killed by a cheap shot from the peanut gallery
+  - Paris, not respected as a great warrior, kills him with a bow and arrow
+
+## 10.7: Battle for the Arms of Achilles
+
+- after Achilles tragic death, their is now a hot debate, who gets the arms of Achilles? These great and magnificent arms
+- so, Odysseus and Ajax verbally battle each other
+- they don't talk about their own great qualities, they just point out the nasty qualities of the other
+- in Ovid's version, we hear of the night raid Ulysses participated in
+  - famously nasty bit of work Odysseus did in book 11 of the Iliad
+- we hear also of how Ulysses faked madness to dodge the draft, which was true, tried to avoid going to Troy by faking madness
+- we hear of Philoctetes, who has a nasty condition, so Ulysses convinces the crew to just maroon him on an island
+  - Ulysses was the one who spearheaded this nasty business
+- he is a crafty talker and a liar, Ajax says
+- he is parasitical on the great fighter of Diomedes who does a lot of the hard fighter
+- then Odysseus jumps in, diffuses the claim that he is a crafty talker, and don't hold Ajax' own stupidity against him
+- we have a flattering opening, particularly flattering Agamemnon, as a good rhetorician, he makes sure his audience likes him
+- then he recounts his many victories and successes and of how stupid Ajax is
+- **there is a victory of chattering over heroism**
+  - they are on the same side, aspect of civil war
+  - Ovid is taking the glorious moments of this story and showing the inglorious ones
+- this story is not always negative, Ovid did this
+- the education system at the time of Ovid:
+  - Ovid had great training to be a good spokesman
+  - wonderfully skilled in the verbal arts, a way for him to get ahead in his time, like lawyers do
+  - one of the ways, standard ways, that people practiced in their education system in ancient Rome, was to take set pieces from ancient mythology, then produce them up on stage for their peers
+  - the set pieces they would take would be where one character from mythology would argue with another, in a nasty back and forth at each other, hurling insults
+  - he knew this as an exercise as a schoolboy, he presents mythic poetry as a schoolboy exercise, mocking what his teachers taught him
+    - wonderfully, subtle, satirical
+
+## 10.8: The Fall of Troy and the Founding of Rome
+
+- in the closing parts of Ovid's account of the fall of Troy, we see the sufferings of Hecuba and her children, famous threads in the yarn around Troy
+- it is not as though the tradition ignores them, but Ovid seems to pay special attention to embrace them
+- he has taken the heroism of the story of Troy and recasts them as nasty arguments, the heroism gets drained out of them
+- in these moments, Ovid almost embraces these greedily
+- the figure of Hecuba and her suffering:
+  - matriarchal aspect
+  - under great loss she maintains her dignity with a decimated family
+- we jump into the story of the Aeneid pretty seemlessly
+- we get him out of Troy
+- we go through Delos, Crete, Scylla, and Charibdus pretty quickly
+- then, there is a long digression, almost 10 pages:
+  - we hear about Galataea and Accus, happy lovers, but the Cyclops loves Galatea
+  - Ovid is giving a long digression of the softer side of the Cyclops
+    - kind of comical
+    - it's quite funny, absurd, for the Cyclops have a gentle side
+- then we hear about the Scylla and how she got that way
+  - makes us kind of feel tender to the Scylla
+- **there is a soft side to these monsters, and a monstrous side to the people we admire**
+- we hear of Dido and the Sybil, then another long digression:
+  - Greek tales of Achamenides, Polyphemus, Aelos, Circe
+  - remember, we are supposed to be talking about the Aeneid, Aeneas, and the founding of Rome
+  - Ovid avoids direct confrontation with Vergil, but there are strong, obvious contrasts with Vergil:
+    - lack of teleogical thrust, things are much the opposite that they are moving towards a particular, purposeful end, instead they are pushed off to a digression
+  - we have a predictable emphasis on the sourceross Circe and the prophetess the Sybil
+  - Ovid likes these two, they are shapeshifters
+  - there is a lack of prophecy for Aeneas, but there is one at the end of the story, but it doesn't figure into these stories of battles
+  - what kind of Rome is Ovid imagining?
+    - we got order on the one hand, with beautiful Roman structures, and disorder on the other hand
+    - in Ovid's world, the world is struggling between this disorder and order
+    - disorder, in the end, kind of seems to win
+      - anything that seems stable is always about to change, disorder upends it
+    - internal conflict: passion versus duty where passion works out
+    - close look at everyday life, small people in the middle of grand circumstances
+    - we've got this fumbling march toward some kind of an endpoint, we have no idea what it is
+    - in the end, Ovid tells us, it is indeed Rome and it is indeed Augustus, not tongue in cheek
+    - Ovid, tells us that even the Great Roman Empire might have some cracks
+    - probably why he was exiled by Augustus
+
+## 10.9: Conclusion
+
+- these stories of humans aren't just out there in the aether
+- they are constructed and dispensed for a reason
+- these stories are great to hear, his goal was to give me a chance, excuse, an encouragement to hang out with people much smarter than he is: Homer, Hesiod, Vergil, Aeschylus, Sophocles, Ovid
+- 
