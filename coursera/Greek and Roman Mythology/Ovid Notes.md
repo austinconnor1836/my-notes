@@ -26,4 +26,9 @@
     waving a spear emblazoned with vine leaves; lying around him a mirage of savage tigers, lynxes and spotted panthers.
     ```
 
+
+## Book 12
+
+- Caeneus, who King Nestor explains, had a similar impregnability and had originally been a woman, kind of like Teiresias.
+  - the sex-change, followed another rape by Neptune.
 - 

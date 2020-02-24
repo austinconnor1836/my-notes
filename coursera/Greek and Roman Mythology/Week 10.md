@@ -325,24 +325,24 @@
 - Ovid's treatment of the Trojan War is very strange
 - outline of the main action:
   - departure for Troy
-  - we hear of Effigenia, in Ovid's version, she is saved in the last minute: Diana substitutes a deer for her
+  - we hear of Iphigenia, in Ovid's version, she is saved in the last minute: Diana substitutes a deer for her
   - then, we hear of Achilles, and incredibly effective and elegant killer
   - Achilles fights a not too important figure of Signus
   - Achilles is represented as a bull, a simile we have seen before
   - Achilles just uses brute force to kill Signus with his shield
-  - then, we get to the battle of the Lapis and the Centaurs
+  - then, we get to the battle of the Lapiths and the Centaurs
   - how did we get on to this topic?
     - Ovid has only a very tangential relation to this whole thing
     - it comes from old king Nestor, who, like many old people, likes to talk and here the sound of his own voice
-  - how does Ovid tell this battle? He talks about Chinaeas, a man who was a woman once, and wish she could be turned into a man again to avoid being raped again, da da da da, Nestor is just prattling on
-  - then all of a sudden, we hear of the hymn of the Lapists, and how they killed the Centaurs
+  - how does Ovid tell this battle? He talks about Caeneus (Ki-Nay-Us), a man who was a woman once, and wish she could be turned into a man again to avoid being raped again, da da da da, Nestor is just prattling on
+  - then all of a sudden, we hear of the hymn of the Lapiths, and how they killed the Centaurs
   - Nestor is just prattling on
-  - we don't really care about Lapists or the Centaurs who we care nothing about
+  - we don't really care about Lapiths or the Centaurs who we care nothing about
     - Ovid uses this as way to show gruesomeness triumphing heroism
     - we normally care about the people who are getting ripped up, but with the Centaurs, we don't care at all
     - Centaurs, creatures that are both man and beast together
     - we don't have a great scene where people fight for what is right, it is just gory for gore's sake
-  - we jump back to our digressive moment of Chinaeas and we hear that he was there too
+  - we jump back to our digressive moment of Caeneus and we hear that he was there too
     - not much too do with the Trojan War
   - then, suddenly, we just hear about the death of Achilles
   - killed by a cheap shot from the peanut gallery
