@@ -446,3 +446,120 @@ Two ways of going about mutation:
   - regular expressions in the request body
   - having hostnames in the header
   - changing intended response types to different types
+
+#### Advantages and disadvantages of fuzz tests
+
+- they are extremely simple, easy
+- Their one-time setup is easy to repeat for regression (automation)
+- find precise, descriptive, and easy-to-debug errors
+- find bugs that are impossible to spot with the human eye
+- produce the best results when used in conjunction with black-box testing, beta testing, and other debugging methods
+
+**Cons**:
+
+- mutation-based fuzz tests can run indefinitely
+- test results may report no defects
+- may report the same defects for various test cases
+- challenging to find which test case caused the fault
+- tough to find the vulnerability in the event of a system crash
+
+#### Tools for running fuzz tests (all open source):
+
+| Mutational fuzzing         | Fuzzing Frameworks | Domain Specific fuzzing            |
+| -------------------------- | ------------------ | ---------------------------------- |
+| American fuzzy lop         | Sulley             | Microsoft SDL MiniFuzz File Fuzzer |
+| Radamsa-a flock of fuzzers | Boofuzz            | Microsoft SDL Regez Fuzzer         |
+| OWASP WebScarab            | BFuzz              | ABNF                               |
+| OWASP WSFuzzer             | -                  | -                                  |
+
+#### Some commercial fuzzing tools
+
+- Codenomicon's product suite
+- The Peach Fuzer Platform
+- Spirent Avalanche NEXT
+- Beyond Security's beSTORM product
+
+#### Latest Tools
+
+| Tool                        | Reference/Link                                               |
+| --------------------------- | ------------------------------------------------------------ |
+| REST-ler                    | https://www.microsoft.com/en-us/research/uploads/prod/2018/04/restler.pdf |
+| Burp                        | https://portswigger.net/burp                                 |
+| Fuzzapi                     | https://github.com/Fuzzapi/fuzzapi                           |
+| Fuzz-rest-api               | https://github.com/dubzzz/fuzz-rest-api                      |
+| Big-list-of-naughty-strings | https://github.com/minimaxir/big-list-of-naughty-strings/    |
+
+### Back to API testing
+
+- we detoured to security tests
+- now back to API testing aspects
+
+#### API test cases
+
+What API tests will help us catch:
+
+- Mishandled errors or disgraceful error conditions by the API
+- Any unused flags
+- Missing or duplicate functionality
+- Multi-threading issues
+- Incorrect handling of valid argument values
+- Validation issues such as schema validations or structure issues
+- Reliability issues and performance issues (such as timeout and connecting and getting a response time) of the API
+- API vulnerabilities and any security
+
+### Essential aspects of API test cases and test case preparation
+
+- essential aspects of test case preparation:
+  - assert a return value based on different input conditions and a combination of inputs
+  - Assert the behavior of the API when there is no return value. Check for return codes
+  - Assert the events and triggers of an API if the underlying/target API creates subsequent events.
+  - Assert not only the API results in case of update data structure but validate the effect on the system that it has updated
+  - Assert by accessing impacted resources when the API is involved in modifying specific resources.
+
+#### API testing challenges
+
+#### Initial setup
+
+#### API schema updates for testing
+
+Request and response schema or formats are the **lifelines** of the API.
+
+But, changes to these schemas are inevitable, so test cases for schema configuration is necessary as well.
+
+Managing tests in alpha and beta environments may reduce the number of issues (due to schema updates) by up to 90%.
+
+#### Testing parameter combinations
+
+Adding additional parameters to the API **increases the number of combinations exponentially**, while it is necessary to do so.
+
+API releases are helpful in addressing this issue.
+
+#### API call sequence
+
+This is challenging in major APIs and becomes even more challenging when cases of multi threaded applications are involved.
+
+Use a visual representation of a sequence of API calls or a flow chart for the sequence of API calls.
+
+#### Validating parameters
+
+Consists of:
+
+- checking numbers and the number of digits in a phone number
+- length restrictions
+- data type vaildations
+- data-ranges modifications
+
+Implementing synthetic and **application performance monitoring (APM)** tools will help to ensure catching any problems that arise due to parameter validations.
+
+This is crucial to security testing as well.
+
+#### Tracking system integration
+
+A data tracking system helps to find the correct responses to the calls.
+
+This is challenging though.
+
+Address this challenge by implementing and including load tests with **continuous delivery (CD)**.
+
+#### API testing best practices
+
