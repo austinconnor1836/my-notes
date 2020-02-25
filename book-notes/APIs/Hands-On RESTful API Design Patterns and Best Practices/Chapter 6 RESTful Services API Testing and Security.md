@@ -566,4 +566,55 @@ Address this challenge by implementing and including load tests with **continuou
 test case best practices:
 
 - Group by test category (unit tests, functional tests, security tests, and so on)
-- 
+- make sure test cases indicate the declarations of called APIs on top of each test case
+- Ensure parameter selections are mentioned explicitly in the test case itself
+- test cases are independent from one another
+- prioritize API calls, which helps to simplify API testing
+- Keep test cases free from *test chaining* (reusing test data objects created by other tests)
+- Test cases deal with one-time call functions such as delete, close window, asynchronous calls, and so need special attention to avoid undesirable executions
+- Ensure API call sequences are well planned and also have clear execution plans
+- Create test cases for every possible known input combination of the API, as this leads to better test coverage of the underlying APIs
+
+#### API testing tools
+
+![api testing tools](./images/api-testing-tools.png)
+
+#### CQRS
+
+**Command Query Responsibility Segregation (CQRS)**: an architectural pattern, proposed by Greg Young that suggests the segregation of the reading operations (queries) and writing operations (commands) of a system to separate subsystems, as reads are eventually consistent and retrieved from denormalized views and commands are usually asynchronous and stored in transactional storage, and reads are eventually consistent and retrieved from deformalized views.
+
+Benefits to segregating read and write operations with separate interfaces or subsystems:
+
+- maximize the performance of APIs
+- helps in security and scalability aspects
+- helps with managing merge conflicts at the domain level due to update commands, leading to more flexibility
+
+Traditional patterns for **Data Access**:
+
+![data access](./images/data-access.png)
+
+- one data source for read and write operations of data (source), with updates or writes and Queries (read)
+
+Some disadvantages:
+
+- the data being read and the data being updated may differ so maintaining synchrony between them is an overhead to the underlying system
+- high load on the data store and data access layers
+- managing security and roles for data access might be challenging as well
+
+**The CQRS pattern addresses those disadvantages**, as it segregates queries (reads) from the update (**Commands**) operations with separate interfaces:
+
+![CQRS](./images/cqrs.png)
+
+- Note that it is not a single data model (like CRUD), but read and write as separate models.
+- A disadvantage of this version of CQRS is that unlike CRUD, the automatic code generation with scaffolding mechanisms is not possible for CQRS based systems.
+
+![CQRS separate](./images/cqrs-separate.png)
+
+- this version maximizes performance, scalability, and security.
+- however, it also brings increased complexity and maintenance overheads to manage consistency due to multiple data stores, and to know when to implement CQRS:
+  - great for when the number of writing (updates) and reading (queries) differ significantly
+  - great for systems in which reads and writes need individual scaling
+  - great for systems that prefer fire-and-forget events (asynchronous events)
+  - great for systems that have a data store access layer based on event sources
+  - ideal for systems that implement domain-driven designs and isolate the business or domain complexity, and having CRUD would make more complex
+
