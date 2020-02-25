@@ -149,5 +149,59 @@ What were some of the elements?
 - we are seeing the spread of `polis`, the Hellenization of the Mediterranean
 - Greek influence was making itself felt far and wide
 
+### Week 2 / Lecture 3: Literacy, Lawgivers and Law Codes
 
+- explosion of activity that characterized the Archaic Age:
+  - Homer
+  - the establishment of the polis as an institution
+  - polis spread through colonization
+  - recovered literacy
+- Minoan and Mycenaeans were literate with Linear-A and Linear-B, but it was restricted to a very small group of people: scribes who took noted the inventory
+- Greeks rediscovered literacy from the alphabet of the Phoenicians
+  - still far away from universal literacy, but still much more widespread
+  - it was used to create a new kind of poetry
+  - it was also used to record law
+- in the Dark Ages, a class of people grew called themselves "The Good People," the "**Agathoi**"
+  - hereditary landowners
+  - had the best flocks, the best land, the most wealth, etc.
+- Hesiod complains about the "bribe devouring lords" who deprived him of his inheritance.
+- These bribe-devouring Lords came to be challenged by law-givers, like the great Athenian law-giver Solon.
+- **some key terms**:
+  - **Nomos**:
+    - almost undefinable complexity
+    - means law, but more specifically, law sanctioned by long usage, custom
+    - the way that communities, cities, cultures define themselves
+  - **Eunomia**:
+    - having good laws and well-obeyed, lawfulness
+- What is it that gave rise to the codification of law to writing these things down?
+  - part of it is the polis ideology: ideologically equal citizens with equal claim to the law
+  - economic and social stress with new standards wealth
+  - almost certainly due to colonization due to these organized dispension of groups of people
+- some of these places had settlers from different mother cities, they had to find a way to harmonize
+- he worked on the "figure of the law-giver"
+  - very, very important
+  - historical and legendary figures of law-givers
+    - their stories fall into a common pattern
+- some kind of crisis in the home state
+- the old customs aren't working well enough to hold this in check
+- the community chooses one man who is virtuous, uniquely able to create a good code
+  - Solon "traveled widely", like Odysseus he saw the towns and learned the minds of many different men
+  - gave him great perspective to create a code that works
+- he establishes a code that everyone can appeal to
+- the story typically includes some kind of challenge to the code that has to be overcome
+- very often, it involves the law-giver himself transgressing one of his own laws
+  - one example, in Sicily, he broke the law by forgetting to leave his dagger outside of the assembly, he did not exempt himself and instead murdered himself
+- this leads us to the next part of this: these stories almost always include the death or the departure of the lawgiver
+  - because as long as he is around, he retains his ability, potentially, to change his own code
+  - in other words, the ideology that the law is superior to the individual
+    - like Aristotle saying the polis is greater than the individual
+- Solon and Lycurgus of Sparta, two lawgivers
+- also seeing the replacement of clan-based, individual-based justice, from the "bribe-devouring lords" for instance, with a justice that can apply to all members of a community: **good laws well obeyed**
+- earliest law codes found at Gortes, in Southern Crete, "code of Gorton"
+  - is read left to right, then the next line is from right to left
+  - is later than the period we are talking about, around 500
+  - is exemplary of these early codes, if it elevates a character of a community, you know it is a fake
+  - criminal laws and laws that include who can write a will
+  - don't think of these as good models of enlightened thinking, instead think of them as a good example of **order** that defines a community: from an individual, clan-based justice to one that applies to all in the community
+- another great change in the Archaic Age: **laws of War**
 
