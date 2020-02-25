@@ -205,3 +205,11 @@ What were some of the elements?
   - don't think of these as good models of enlightened thinking, instead think of them as a good example of **order** that defines a community: from an individual, clan-based justice to one that applies to all in the community
 - another great change in the Archaic Age: **laws of War**
 
+### Week 2 / Lecture 4: The Works of Ares: Hoplite Warfare
+
+- hoplites were foot soldiers in the wealthier city-states of seventh century B.C. Greece.
+  - were often praised in art of the time due to their military service as a primary distinction of citizenship
+  - a mark of status and often of wealth as well as a means of attaining glory
+  - the initiatives to standardize the Homeric epics in written form fostered a broader interest in heroic subject matter.
+- Solon filtered citizens into the military based on their class status, split into four classes
+- the hoplites were the second from the top and their phalanx remained the most important fighting unit for centuries

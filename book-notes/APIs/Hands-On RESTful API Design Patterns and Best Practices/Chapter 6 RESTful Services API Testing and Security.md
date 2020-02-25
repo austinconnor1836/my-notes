@@ -563,3 +563,7 @@ Address this challenge by implementing and including load tests with **continuou
 
 #### API testing best practices
 
+test case best practices:
+
+- Group by test category (unit tests, functional tests, security tests, and so on)
+- 
