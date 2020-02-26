@@ -618,3 +618,6 @@ Some disadvantages:
   - great for systems that have a data store access layer based on event sources
   - ideal for systems that implement domain-driven designs and isolate the business or domain complexity, and having CRUD would make more complex
 
+#### Further Reading
+
+*Mastering Modern Web Penetration*, Prakhar Prasad, Packt Publishing
