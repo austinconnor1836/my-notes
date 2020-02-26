@@ -32,3 +32,4 @@ Also, we see Aristotle's predecessors:
 Part 1 of the course, we will study Plato and his pre-Socratic predecessors.
 
 Part two, we will study Aristotle, the Epicureans, and the Stoics.
+
