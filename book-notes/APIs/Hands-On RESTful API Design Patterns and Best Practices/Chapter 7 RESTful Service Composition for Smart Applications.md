@@ -51,3 +51,14 @@ Microservices are:
 
 ### The emergence of cloud-native applications
 
+- MSA is most efficient tool for creating and sustaining software applications.
+- the msa-based software design is faster than the traditional, agile programming models, and methods are made available in plenty to speed up the process of software construction.
+
+### The growing ecosystem of IoT device services
+
+Leading market analysis and research reports forecast that there will be billions of connected devices in another one to two years.
+
+The various functionalities of connected devices are being exposed via service interfaces.
+
+### The changing application ecosystem
+

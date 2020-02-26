@@ -213,3 +213,34 @@ What were some of the elements?
   - the initiatives to standardize the Homeric epics in written form fostered a broader interest in heroic subject matter.
 - Solon filtered citizens into the military based on their class status, split into four classes
 - the hoplites were the second from the top and their phalanx remained the most important fighting unit for centuries
+- many changes including economic
+- wealth was defined by as Hesiod said, "the corn in one's barn," agriculture, land ownership passed to land
+- new form of wealth emerged, **movable wealth**
+- tokens from clans, metal, coinage
+- no longer land ownership, now it is a bag of gold
+- new middle class, not bourgeoise
+  - between the Agathoi of old, and the people just barely subsisting
+- also, a change in military tactics
+- in Iliad, a mass of anonymous fighters among the heroes
+- the hoplite reform
+- hoplite:
+  - heavily armed soldier in tight formation to provide protect the guy on your left whose right side is holding the spear and is unprotected
+  - new kind of class:
+    - the farmers, with their intensively worked private land
+    - setting aside new form of wealth to purchase this armor
+    - helmet, breast plate, 1 meter diameter shield, short stabbing spear, some kind of corset, shin guards
+    - shield would be wooden frame with bronze covering it, more for display than protection
+  - the ideal in combat was to maintain your place in line
+  - whichever line broke first would be defeated
+  - injuries were horrific, below the shield, groin, or above, with the neck
+  - battles could last very long time, after the winners would allow the losers to collect their dead
+- new kind of structure in many different sorts of ways:
+  - polis
+  - lawgivers and law codes, equanamity
+  - line in battles as well, communities defending themselves
+    - Homeric heroism does not have much space
+    - "stand firm," "maintain your place"
+- the ideology of the hoplite: **defending himself and his community**
+- in the Greek polis, there was no professional bureaucracy nor professional army, farmers would return to their farm
+- Marx - "All that is solid melts to the air"
+
