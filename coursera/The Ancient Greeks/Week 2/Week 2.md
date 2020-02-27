@@ -244,3 +244,15 @@ What were some of the elements?
 - in the Greek polis, there was no professional bureaucracy nor professional army, farmers would return to their farm
 - Marx - "All that is solid melts to the air"
 
+
+
+"Of all things it is poverty that most subdues a noble man,
+More even than hoary old age, Kyrnos, or fever;
+Indeed, to avoid it one should even throw oneself into the sea's
+Deep gulfs, Kyrnos, or off sheer cliffs.
+For the man subdued by poverty can neither say
+Nor do anything, because his tongue is tied." - **Theognis**
+
+"The noblest thing is justice; the most advantageous, health;
+But what gives greatest delight is to gain the object of one's desire." - **Theognis**
+
