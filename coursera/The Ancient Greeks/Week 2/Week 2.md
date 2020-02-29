@@ -256,3 +256,149 @@ Nor do anything, because his tongue is tied." - **Theognis**
 "The noblest thing is justice; the most advantageous, health;
 But what gives greatest delight is to gain the object of one's desire." - **Theognis**
 
+## Week 2 / Lecture 5: New Voices - The Lyric Poets
+
+- the sudden effusion of appearance of poetry where people are saying "I":
+
+  - I fear, I think...
+
+- this characterized the Archaic Age
+
+- subtle and supple Homeric meter
+
+- but for lyric poetry, you have much more rhythmic
+
+- people were singing songs and composing poetry that weren't epics long before the Archaic Age
+
+-  what changes now, is the appearance of writing
+
+- the poets have the ability now to record their poems in written text
+
+- Apollo, especially an association with poetry
+
+- it is also a public performance
+
+- now have female voices, Sappho especially
+
+- the "I", the individual, is there
+
+- these poems reflect cultural values and issues
+
+- one of the earliest, often identified as the earliest, and greatest: **Archilochus** (early 7<sup>th</sup> century)
+
+  - he tells us in his verse he is originally from Paros
+
+  - then moved to the north Aegean island of Thasos, a place he hated
+
+  - he was a warrior:
+
+    ```
+    I am servant of Enyalios the battle lord,
+    and of the Muses also, understanding their lovely gift.
+    ```
+
+    - Enyalios (Ares)
+
+  - he ditches his shield, "To hell with it. I can get another." Imagine Achilles doing that.
+
+  - new hoplite combat and also a reflection of social tensions
+
+  - many of his verses are erotic
+
+    - ```
+      30, 31. She rejoiced, holding a branch of myrtle
+      And the rose-tree's lovely flower...
+      And her hair shadowed her shoulders and her back.
+      ```
+
+    - ```
+      201. The fox knows many things, the hedgehog only one - a big one.
+      ```
+
+- another poet, very renowned, **Theognis** (Megara - 6<sup>th</sup> century)
+
+  - many verses attributed to him cannot be authentic because he did not live through what he claims he did
+
+  - much of his songs speak about the dramatically shifting of the social, economic, and legal circumstances of his day
+
+  - the persona he adopts here, a part of the Agathos, the elite, whose priviledges are being infringed
+
+  - some are addressed to a young man, Kyrnos:
+
+    ```
+    L. 53 FF. Kyrnos, this city is still a city, but its people now are different,
+    Being those who earlier knew neither judgments nor laws,
+    But instead wore goatskins to tatters about their sides
+    And grazed like deer outside of this city.
+    And now they are noble, son of Polypaos, while those who before had merit
+    Now are worthless. Who could endure to look upon these things?
+    ```
+
+  - also talks about eugenics:
+
+    ```
+    L. 183 FF. Among rams and asses and horses, Kyrnos, we look for those
+    Of noble breeding, and a man wants them to mate
+    From a worthy stock. Yet a noble man does not mind marrying
+    A base woman of base birth if she brings him money in abundance,
+    Nor does a woman shrink from becoming the wife of a base man
+    With wealth; she prefers a rich husband to a worthy one.
+    Money is what they honor.
+    ```
+
+    - this differs from Archilocus
+
+- two of the greatest of the ancient lyric poets lived about at the same time, in the same place: Alceus and Sappho
+
+  - both came from an island called Lesbos
+
+  - Sappho is the first true female voice whom we hear
+
+    - the subject of so many visions and revisions because of her account of emotion of love and desire
+
+    - her poems, even in fragmented form, is powerful:
+
+    - **Sapphos** - late 7<sup>th</sup> century
+
+      ```
+      16. Some say a host of horsemen is the most beautiful thing
+      On the black Earth, some say a host of foot-soldiers
+      Some, a fleet of ships; but I say it is
+      Whatever one loves.
+      Wholly easy it is to make this intelligible
+      To everyone, for she who by far surpassed
+      All humankind in beauty, Helen,
+      Forsook her husband,
+      Noblest of men, to sail away to Troy;
+      Neither of child nor of beloved parents
+      Did she take thought at all, being led astray by...
+      ....
+      ...Now has brought Anaktoria to my mind,
+      Though she is absent:
+      I would rather see her lovely step
+      And the glancing brightness of her face
+      Than Lydian chariots and foot soldiers
+      Arrayed in armor.
+      ```
+
+  - Sapphos' great contemporary, but lesser known poet, Alcaeus
+
+  - Alcaeus, Mytilene - late 7<sup>th</sup> century:
+
+    - he writes about any number of different topics:
+
+      - the pleasure of socializing over wine
+      - the fear of battle
+
+    - he was the first to use the metaphor of the ship of state:
+
+      - the ship is beset by a storm and the crewmen are scared:
+
+        ```
+        Now let every man prove himself reliable,
+        And let us not put to shame by cowardice
+        Our noble fathers lying under the Earth...
+        ```
+
+        - gives honor to those who have gone before us
+
