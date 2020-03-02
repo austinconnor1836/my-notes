@@ -250,5 +250,57 @@ Consider an order application using choreographed architecture:
 
 ### Applying choreography-based composition
 
+Choreography helps to accomplish business processes in a parallel manner.
 
+### The hybridization of orchestration and choreography
+
+There does not exist an architectural styles that is a perfect fit in all situations.
+
+This is where hybrid systems of orchestration and choreography come into play.
+
+The first hybrid pattern uses reactive (event-driven) between services (choreography for inter-service communication) and orchestration within a service (intra-service communication).
+
+![hybridization](./images/hybridization.png)
+
+- A, B, and C services are decoupled.
+- However, the D, E, and F services within **Service A** are coupled.
+  - if these services are doing synchronous processing, the blocking surfaces here.
+- the event bus facilitates asynchronous processing among the A, B, and C services.
+  - each has the intelligent logic to exhibit an independent behavior
+  - the logic is typically distributed across multiple services, whereas the control, flow, and other horizontal capabilities are being centralized in the case of the orchestrator
+
+The second hybrid pattern:
+
+- uses reactive (event-driven) between services and a coordinator (reactive orchestrator) to assist the flow
+- it leverages the concepts of commands and events
+- the coordinator produces commands to the event stream, and the microservices that are empowered to act for the particular commands receive the command, do the desired processing, and then create and pass on the events to the event stream.
+
+![hybrid pattern 2](./images/hybrid-pattern-2.png)
+
+- services A and C start at the same time, and the coordinator consumes the generated events from the event stream and reacts to the events
+
+- services are generally decoupled, yet still a kind of coupling between the services and the coordinator
+  - the coordinator has to know what commands a service needs to get in order to react correctly
+- events between services lead to asynchronous processing
+- overall flow logic is in the reactive coordinator (a SPOF)
+
+### Another example of hybridization of orchestration and choreography
+
+Here: https://dzone.com/articles/event-driven-orchestration-an-effective-microservi
+
+### Choreography
+
+![choreography](./images/choreography.png)
+
+- a process is getting initiated by an event from a user
+- it is then accomplished by the respective microservices collectively in a choreography mode
+- this method ensures light coupling and high cohesiveness
+
+### Service choreography using the message broker
+
+- some important drawbacks
+  - since choreography enables a decentralized approach, the services must have the relevant logic embedded in them
+  - any business- and communication-logic changes have to be shared across all the microservices, and the state information of the process has to be stored separately.
+  - no centralized service
+  - implementation of the ACID properties isn't possible because of multiple distributed services 
 
