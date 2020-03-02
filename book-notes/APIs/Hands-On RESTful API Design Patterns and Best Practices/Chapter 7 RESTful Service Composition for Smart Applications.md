@@ -304,3 +304,39 @@ Here: https://dzone.com/articles/event-driven-orchestration-an-effective-microse
   - no centralized service
   - implementation of the ACID properties isn't possible because of multiple distributed services 
 
+### Service orchestration
+
+This is to implement a centralized service orchestration through by integrating the **business process model and notation (BPMN)** workflow and REST.
+
+A Shopping Cart Microservice depiction and realization:
+
+![shopping cart](./images/shopping-cart.png)
+
+### Service orchestration using BPMN and REST
+
+### The hybridization - event-driven service orchestration
+
+Shopping cart service implemented as an orchestration service using the BPMN workflow:
+
+![shopping cart BPMN](./images/shopping-cart-bpmn.png)
+
+### Data management
+
+**The core philosophy of MSA is the decentralization of software design and development.**
+
+In previous era, with monolithic architecture, data are traditionally centralized. One of the SQL databases, such as SQL server, is used as a single database with multiple tables.
+
+Some portions of the application logic even get delegated to the SQL server database in the form of stored procedures, complex joins, and so on.
+
+### Thinking in REST
+
+To organize data in a decentralized fashion, the REST service paradigm comes in handy.
+
+REST gives each participating resource a URL.
+
+Sample API for a small social messaging application:
+
+![sample API social messaging](./images/sample-api-social-messaging.png)
+
+- three primitive resource types: user, message, and friend
+- 
