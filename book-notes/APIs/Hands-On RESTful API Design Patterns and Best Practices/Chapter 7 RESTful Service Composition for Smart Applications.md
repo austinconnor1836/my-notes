@@ -339,4 +339,54 @@ Sample API for a small social messaging application:
 ![sample API social messaging](./images/sample-api-social-messaging.png)
 
 - three primitive resource types: user, message, and friend
-- 
+
+![monolith resources](./images/monolith-resources.png)
+
+- the central server would would handle requests for all of the resource paths and there is a single database that stores all of the resource types as tables
+
+- for a microservices-centric application
+  - ensures tighter security for data
+    - every data request, access, and manipulation has to go through a microservice API
+  - there is a one-to-one mapping between microservices and resource types
+  - ![microservice one-to-one](./images/microservice-one-to-one.png)
+  - many advantages to having a database for each microservice
+
+### Discarding SQL join
+
+- avoid SQL join
+
+  - very time consuming in a MSA where databases are logically separated
+
+- however, there can be different application requirements
+
+  - suppose the messaging application mandates for timeline view
+
+    - the timeline view has to show the most recent message from each friend of the authenticated user as well as show the friend's name and other details along with the message sent
+
+  - a typical REST architecture would require 5 requests, a major drag to performance
+
+  - a workaround is to bring forth a new route to the API:
+
+    | HTTP Request            | Intent of request                                         |
+    | ----------------------- | --------------------------------------------------------- |
+    | `GET /users/1/timeline` | Fetch timeline of messages from friends of user with ID 1 |
+
+  - the **Client** can get all the necessary data in one request
+
+    - it creates an additional timeline microservice that lives on top of the three data microservices
+      - this top-level microservice joins the data from the underlying microservices and exposes the joined result to the client
+
+  - diagram depicting this:
+
+    ![timeline](./images/timeline.png)
+
+    - this drastically improves performance as the timeline service is predominantly hosted in containers along with the other three services, in the same physical machine or within nearby machines
+    - could also use *bulk fetch* endpoints to further reduce round-trip network penalties
+    - the newly-craved-out timeline service only has to make one request to the friends service, one request to the user service, and one request to the message service.
+
+### Eventual consistency
+
+- well-known characteristic of NoSQL databases
+- not an issue for transactional databases
+- consistency feature is difficult to attain when data gets separated into many logical or physical databases
+
