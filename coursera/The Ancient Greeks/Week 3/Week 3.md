@@ -37,4 +37,7 @@ Originally, Sparta was four straggling unwalled villages: "Our men are our walls
   - Thucydides, the historian said, that if people found the ruins of Athens, they would think that the Athenians were much more powerful than they actually had been and Spartans much less powerful than they actually were.
 - where things start to change is in the eighth century with the so called First Messenian War (740-720 BCE)
 - these dates are very approximate
+- First Messenian War CA. 740-720 BCE
+- foundation of Taras CA. 710
+- Defeat of Spartan invading force by argives at Hysiae CA. 670
 - 

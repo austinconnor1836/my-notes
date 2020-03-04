@@ -389,4 +389,23 @@ Sample API for a small social messaging application:
 - well-known characteristic of NoSQL databases
 - not an issue for transactional databases
 - consistency feature is difficult to attain when data gets separated into many logical or physical databases
+- decentralized data modeling requires extra conditional handling to detect and handle race conditions where underlying data has changed between requests
+
+### Polyglot persistence
+
+- decentralized data management takes advantage of this
+- different types of data have different storage requirements
+- streaming-analytics platforms for streaming data:
+  - **Read/write balance**: some data have a very high write volume and needs a different data store
+  - **Data structure**: highly-structured data, like JSON, may be better stored and served via a document-oriented NoSQL database
+  - **Data querying**: some types of data may require simple key-value database, other types mandate for advanced querying based on the values of multiple columns
+  - **Data life cycle**: some data is needed for short time and can be stored in-memory database, such as Redis or Memcached, while other data needs to be stored long-term using durable disk storage
+  - **Data size**: varies considerably these days, object-storage options accommodate staggering amounts of data.
+
+### Summary
+
+- an orchestration engine acts as a central brain to guide and guarantee the control flows and their execution, in a centralized manner
+- two composition methods for composing MSAs: orchestration and choreography
+
+
 
