@@ -236,3 +236,124 @@ Originally, Sparta was four straggling unwalled villages: "Our men are our walls
   - they would comb out their long hair when they were preparing to die
 
 - in Plato's final work, *The Laws*, as he talks to an anonymous Athenian, he says, "Spartans must without question accept that they are excellent. If they do not, they will not be acknowledged."
+
+## Week 3 / Lecture 3: Tyrants and Sages
+
+- poet Archilocus
+
+  - one of the poems that survives is in the character of a blacksmith named Charon, he says, **"I don't care about Giges and his enormous wealth in gold. I want no pride of tyranny, it lies far off from where I am looking."**
+  - first time the term tyranny is used
+
+- tyrants are greedy, seize power in an unconstitutional way and held it personally
+
+- one of the ironies is that in many communities is that tyranny was a necessary prelude to democracy
+
+- one case study: the famous and important city of **Corinth**
+
+  - its location is very strategic and important
+  - it controls both the North/South route in Greece from the upper part to the Pelopennese and the East/West route
+  - very popular for sailors to offload from the Saronic Gulf and cross the isthmus to reload on the Gulf of Corinth
+  - much better than taking the very long voyage all the way around the Pelopennese
+
+- from a very early time, Corinth was very prosperous
+
+  - participated in the colonizing movement from very early on with the island off the west coast of Greece, the city their Corsira (modern-day Corphu) and Sicily, in particular the great polis of Syracuse
+
+- canal was dug across the isthmus in late eighteenth century, until that time, travel was over land
+
+- Corinth had an aristocracy, with a very exclusive clan of the **Bacchiades**
+
+  - their exclusivity of marriage only in the clan was eventually their downfall
+
+  - prior to that, they might be responsible for a stone pathway, Dialcos
+
+  - under the Bacchiades, Corinth became very prosperous
+
+  - artistic and cultural advancement took place
+
+    ![sphinx]
+
+    - sphinx had a half smile, absolutely characteristic of portrait sculpture at this time
+
+  - in particular, Corinthian pottery
+
+    - produced enormous amounts of highly decorated pottery
+    - highly prized, and widely distributed
+    - had east Asian notes
+
+- one of their daughters, Labda, was lame and nobody wanted to marry
+
+- an outsider named Aetion came in and they married
+
+- a prophecy from Delphi said the offspring from this marriage would bring ruin to the Bacchiades
+
+- a son was born, this is the legend part, he was so cute the Bacchiades couldn't bring themselves to kill him
+
+- the second time, Labda, hid the infant in a chest, called a Kipselee, so he was called Kipseles, "box boy"
+
+- he became tyrant, he overthrew the Bacchiade clan
+
+  - he must have had enough popular support to do this
+
+- rule passed to his son, Pariendar
+
+  - one feature of tyranny, it passes from father to son rather than succession through elected office
+
+- with Kipselos, we have one story where the overlooked child who becomes a ruler, one of the most famous examples in myth and literature is Oedipus who is cast aside and becomes King through difficulty
+
+- we can see through this story some discontent among the ruling class with the exclusive rule of the Bacchiades
+
+- with Pariendar, we have another kind of legendary pattern working itself out because we are told that he was a very harsh ruler
+
+  - when assuming office, he wanted to figure out what to do so he sent a slave to consult with another tyrant of the time, Threslydulus
+  - the tyrant just lopped off the heads of grain
+  - Pariendar knew instantly what that meant, eliminate the leaders of the opposition
+  - pattern we are seeing here: a not too bad father and a much more ruthless son
+  - he was an extremely gifted ruler
+    - could have built the Delcus road
+    - largely ruled without incident
+  - he died by commissioning his own assassination
+
+- Pariendar was a member of a group we have come to call the **Seven Sages**
+
+  - some scholars, one in particular, has claimed there was no group called this, but was invented by Plato with his Protagoras
+  - our professor does not ascribe to this, and believes they were real
+
+- The Seven Sages:
+
+  - Thales of Miletus (Asia Minor)
+  - Solon of Athens
+  - Pittacus of Mytilene (Lesbos)
+  - Bias of Priene (Asia Minor)
+  - Chilon of Sparta
+  - Cleobulus of Lindos (Rhodes)
+  - Periander of Corinth
+
+- one of the things you can see from this list is the wide geographical distribution
+
+- they likely did not know each other, meet with each other
+
+- Plutarch, much later, composed something called *The Banquet of the Seven Sages*, where they share witty and wise comments to one another
+
+  - clearly a fiction
+
+- but their stories do share common traits because each of them, despite their different areas of expertise: law, politics, tyranny
+
+  - they are credited with writing poetry of one kind or another, engaging in some kind of political activity, and doing some kind of performance (example with lopping the heads off the grains)
+
+- these seven men can be identified as culture heroes
+
+  - they sort of embody this combination of practical experience, some sort of theoretical wisdom, some aspect of wit, and the ability to impress people
+
+- remember, they identified themselves specifically: Milesian, Athenian, Corinthian
+
+- pan-Hellenism: all of Greece
+
+- in a much later biography of the philospher/politician/geometrician/etc. Thales, when Diogenes Laertius says "Thales everyday says a prayer to the gods thanking them that he was born human, not an animal, man not a woman, and a Greek, not a foreigner."
+
+  - we can see how powerfully this expresses the ideology that bound together the seemingly disparate communities we have discussed while taking issue with the content
+
+## Week 3 / Lecture 4: Athens 1
+
+
+
