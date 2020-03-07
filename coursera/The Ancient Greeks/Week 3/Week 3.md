@@ -355,5 +355,19 @@ Originally, Sparta was four straggling unwalled villages: "Our men are our walls
 
 ## Week 3 / Lecture 4: Athens 1
 
-
+- Athens, "Athena's people"
+- it is said that Poseidon and Athena had a contest where Poseidon struck the Acropolis and a salt spring bubbled up
+- Athena gave the Athenians the olive tree
+- they prided themselves on being **autochthonous**, having been born of the earth, of always having been there.
+- Athena herself, is a fiercely virginal goddess, no romantic attachments whatsoever
+- Erichthonius, whose name seems to be something like wool and ground, was born from the crippled Hephaestus ejaculating on Athena's leg, her wiping off the semen with a piece a wool and tossing it on the ground, where Erichthonius arises
+  - this is how Athenians managed to be born of the earth and Athena and to have always have been there
+- Attica, pretty large, about 1000 square miles
+  - wealthy, hospitable
+- 4 original tribes that they variously identified themselves belonging to:
+  - **Eupatridae**: "those who had good fathers," hereditary elite
+    - like elites everywhere, controlled best lands, grazing lands, biggest flocks, olive groves, etc.
+    - also dominated the political system
+    - Theseus was king only in myth, no historical king that we know of
+    - 
 
