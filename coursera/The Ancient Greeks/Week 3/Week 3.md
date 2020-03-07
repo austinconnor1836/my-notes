@@ -369,5 +369,6 @@ Originally, Sparta was four straggling unwalled villages: "Our men are our walls
     - like elites everywhere, controlled best lands, grazing lands, biggest flocks, olive groves, etc.
     - also dominated the political system
     - Theseus was king only in myth, no historical king that we know of
-    - 
+- instead, we have a counsel that met on the hill called Areopagus
+- 
 
