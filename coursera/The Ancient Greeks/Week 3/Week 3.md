@@ -370,5 +370,19 @@ Originally, Sparta was four straggling unwalled villages: "Our men are our walls
     - also dominated the political system
     - Theseus was king only in myth, no historical king that we know of
 - instead, we have a counsel that met on the hill called Areopagus
-- 
+- no actual historical record of a king, Theseus only a king in myth
+- Eupatridae: a counsel who chose the "leading magistrates" called **Archons**:
+  - **Archon Basileus**: King Archon, chief justice, retained some king power from of old kingship
+  - **Polemarch**: War Archon, command in chief
+  - **"Eponymous" Archon**: The Archon, this magistrate gave his name to the civic year, something occurred in the archonship of X
+- **Assembly**: citizens, don't know too much about them at all
+- during this period, Athens was not part of the colonization and there are signs of significant stress
+- Chilon, staged a revolt
+  - most likely an elite who gathered other elites to revolt
+  - decided to seize the Acropolis
+  - instead, the ordinary people barricaded him there and forced him out
+  - he and some co-conspirators escaped while some of them were being starved into submission
+  - one of the Archons, Megachleus, committed an awful sacrilege
+    - he promised the co-conspirators safe passage but instead killed them
+    - he and his family was forced to leave Athens
 
