@@ -385,4 +385,19 @@ Originally, Sparta was four straggling unwalled villages: "Our men are our walls
   - one of the Archons, Megachleus, committed an awful sacrilege
     - he promised the co-conspirators safe passage but instead killed them
     - he and his family was forced to leave Athens
+- around 624, around 8 to 12 years after Chilon's attempt, **Draco** formed the first code of laws for the Athenians
+  - name means Dragon or Snake, don't know if it is historical
+  - very severe laws, any infraction brought death
+  - hence, "draconian"
+  - code on homicide that was passed down generation after generation:
+    - "Even if someone kills another by accident, they must go into exile"
+    - can come back after you are purified at Delphi
+  - **so not as barbaric as legend makes Draco to be**
+  - but you can tell tension is growing
+- another sign of tension growing, Athens finally participates in the colonization movement
+- around 620 or 610, just after Draco, the Athenians sent out two colonies to the Hellespont, modern-day Bosphorous
+- over and over again, colonies serve as safety valves to release social and political tension
+- Athenians needed to find someone to resolve this tension, this person is **Solon**, one of the seven sages
+
+## 
 
