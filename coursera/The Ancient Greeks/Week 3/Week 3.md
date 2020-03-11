@@ -447,5 +447,8 @@ Originally, Sparta was four straggling unwalled villages: "Our men are our walls
   - **Solon was deeply revered in Athenian ideology**
   - Solon laid the groundwork for the development of Athenian democracy
 
+## Week 3 / Lecture 6: Peisistratos - Tyranny and Civic Identity
 
+- ultimately, Solon's reforms did not solve the great inequality of Athens
+- Pesistratos made 3 attempts to rule Athens
 
