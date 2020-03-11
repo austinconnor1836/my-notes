@@ -399,5 +399,53 @@ Originally, Sparta was four straggling unwalled villages: "Our men are our walls
 - over and over again, colonies serve as safety valves to release social and political tension
 - Athenians needed to find someone to resolve this tension, this person is **Solon**, one of the seven sages
 
-## 
+## Week 3 / Lecture 5: Solon: Poetry, Politics, Economics
+
+- circumstances that made a state or community ripe for a tyranny: entrenched, old and elite controlling most of the good land, political, and legal processes, etc.
+- in Corinth, Cypselus and his son Periander are a sort of paradigm to how tyranny works
+- in Athens, the clans called the Eupatrids ("those of good fathers"), like the elites elsewhere, established a tight control over the resources of the state
+- economic crisis happened at the end of the 7th century
+  - a large class of farmers grew with the elites and owed them a lot of money, indebted
+  - things went too far so the farmers could not pay their debts
+- traditional date for Solon's reforms: 594 BCE
+- multiple sources for Solon's reforms:
+  - Herodotus
+  - Aristotle's Constitution of Athens
+  - Plutarch's life of Solon, written much later after Solon lived, some 600 years later
+  - Solon's poetry
+- **Solon was a poet**
+  - he was a middle citizen
+  - some say he was a merchant, extremely unlikely
+  - a member of the elite, otherwise the rich would not have chosen him
+- **Hectemor**: debtor, "sixth partner," i.e. he owed annually one-sixth of his crops, flocks, etc.
+- **Horos**: boundary stones that marked off the debtors' land
+- if debtor couldn't pay, they could become slaves
+- **Seisachtheia**: "shaking off burdens," a one-time cancellation of debt, books wiped clean
+- Why would the rich want it? **It staved off revolution.**
+- **Solon faced this head on with wiping away the debts**. Also, he decreed no other Athenian could hold another Athenian as a slave. Foreigners were still allowed to become slaves.
+- Political and legal reforms:
+  - 4 property classes:
+    - **Pentacosiomedimnoi** - those whose land produced "500 measure men"
+      - wealthy landowners
+    - **Hippeis** - "Horsemen" or "Knights"
+      - notably wealthy to outfit yourself as a knight
+    - **Zeugitae** - "Yokemen," 200 measures or more
+      - relatively wealthy who could afford hoplite armor
+    - **Thetes** - everyone else
+      - subsistence farmers
+    - clearly this doesn't really work
+  - Solon is replacing the criterion of birth with the criterion of wealth
+    - top offices: archon and treasurer, were limited to the top property class
+    - and so on, but all citizens had the ability to participate in the assembly
+  - mysterious council of 400 left to Solon
+  - this system simultaneously preserved some of the old privileges and to allow for social mobility
+  - 2 other very important reforms of Solon: **The right of legal intervention** (citizens are responsible for one another) and **the right to transfer a legal case, before delivery of a verdict, from a magistrate to jury court** (could say to a magistrate that you want your case heard before a jury of your peers)
+  - Symposium - a formalized gathering of the elite where they drink and read poetry
+    - Solon - "I gave people what they needed, neither too much nor too little."
+      - compared himself to a wolf surrounded by hunters
+      - said he could have become a tyrant and chose not to
+  - **Solon was deeply revered in Athenian ideology**
+  - Solon laid the groundwork for the development of Athenian democracy
+
+
 
