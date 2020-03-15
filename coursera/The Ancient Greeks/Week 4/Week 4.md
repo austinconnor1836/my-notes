@@ -31,3 +31,42 @@
 
 **Important theme: without a leader, a people overthrow to establish a democracy.**
 
+## Week 4 / Lecture 2: The Reforms of Kleisthenes
+
+- Kleisthenes was the man the people of Athens wanted to put into power
+  - he was part of the Alcmeinedes
+- after the departure of the Spartans, the people chose Kleisthenes
+- undertook a wholesale reconstruction of the Athenian constitution
+- Kleisthenes' Reforms 1:
+  - 3 regions: city, coast, inland
+  - each divided into ten artificial trittyes - "thirds" (so thirty in all)
+  - each trittys includes a variable number of demes, pre-existing "neighborhoods" (some 170 in all)
+  - ten new tribes (phylai), each consisting of 3 trittyes, one from each region
+  - new council, boule, of 500 men, serving for one year; 50 from each tribe, selected by lot
+  - prytany system: council year is divided into tenths, with each tribe's council members serving as executive committee (prytaneis) for that allotted period
+  - **he dealt a death blow to the previously existing clans who had power**
+  - he split up the wealth geographically
+  - being in a Deme was the most important for identification, once inducted into a Deme, you became a citizen
+    - principal function was determining who belonged to the politeia
+- the new civic heart is now the **Boule**
+  - a citizen could serve in the Boule twice in his lifetime
+  - the Boule created legislation to send to the assembly, also declared war
+  - scrutinized magistrates after their time in office
+  - a group of 500 is a little too large to get anything done
+  - Kleisthenes split up the civic year into 10 parts
+  - one citizen in the Boule, for 24 hours, was an overseer
+  - this must have required some type of accounting/census
+
+- Kleisthenes' Reforms 2:
+  - Ekklesia - Assembly, including all citizens, who were guaranteed freedom of speech, meaning if you wanted to accomplish a lot, you had to be a great persuader
+  - Magistrates:
+    - 9 Archons - served one year, examined by Boule, and passed into the...
+    - 10 Strategoi (Generals) -- elected annually, one from each tribe (Peracles) was a general over and over, no limit where Archon has limit, elected annually, one from each tribe
+    - Popular courts
+    - Ostracism: official process, early in the year, assembly was asked if they wanted an ostracism, later on in the year, they would hold a vote among 6,000, one individual's name would be inscribed and the citizen who got the most votes had to leave Athens for 10 years, could not be appealed
+      - **one of the most democratic mechanism according to Aristotle**
+      - could be used as a political weapon against their opponents
+      - no evidence to how it was conducted, around 508-507 BCE
+    - Isonomia: condition of "equal law" and equality under the law
+- Kleisthenes laid the foundation for the democracy in Athens, that would lead to much democracy in the West
+
