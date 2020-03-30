@@ -60,3 +60,279 @@ My depression is probably not based on accurate perceptions of reality but is of
 The most important result of their clinical research: **I can learn to deal with my moods more effectively if you master methods that will help you pinpoint and eliminate the mental distortions which cause you to feel upset.**
 
 As I begin to think more objectively, I will begin to feel better.
+
+### Chapter 2: How to Diagnose Your Moods: The First Step in the Cure
+
+#### Table 2-1: Burns Depression Checklist
+
+**Instructions**: Put a check to indicate how much you have experienced each symptom during the past week, including today. Please answer all 25 items.
+
+<table>
+    <thead>
+        <tr>
+        <td></td>
+        <td>0-Not at all</td>
+        <td>1-Somewhat</td>
+        <td>2-Moderately</td>
+        <td>3-A lot</td>
+        <td>4-Extremely</td>
+        </tr>
+    </thead>
+    <thead>
+    <tr>
+      <th colspan="6">Thoughts and Feelings</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1. Feeling sad or down in the dumps</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td>x</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>2. Feeling unhappy or blue</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td>x</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>3. Crying spells or tearfulness</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td>x</td>
+      <td></td>
+      </tr>
+    <tr>
+      <td>4. Feeling discouraged</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td>x</td>
+      <td></td>
+      </tr>
+    <tr>
+      <td>5. Feeling hopeless</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td>x</td>
+      <td></td>
+      </tr>
+    <tr>
+      <td>6. Low self-esteem</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td>x</td>
+      <td></td>
+      </tr>
+    <tr>
+      <td>7. Feeling worthless or inadequate</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td>x</td>
+      <td></td>
+      </tr>
+    <tr>
+      <td>8. Guilt or shame</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td>x</td>
+      <td></td>
+      </tr>
+    <tr>
+      <td>9. Criticizing yourself or blaming yourself</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td>x</td>
+      <td></td>
+      </tr>
+    <tr>
+      <td>10. Difficulty making decisions</td>
+      <td></td>
+      <td></td>
+      <td>x</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>    
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+  </tbody>
+  <thead>
+    <tr>
+      <th colspan="6">Activities and Personal Relationships</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>11. Loss of interest in family, friends, or collegues</td>    
+      <td></td>
+      <td></td>
+      <td>x</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>12. Loneliness</td>    
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td>x</td>
+    </tr>
+    <tr>
+      <td>13. Spending less time with family or friends</td>    
+      <td></td>
+      <td></td>
+      <td>x</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>14. Loss of motivation</td>    
+      <td></td>
+      <td></td>
+      <td></td>
+      <td>x</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>15. Loss of interest in work or other activities</td>    
+      <td></td>
+      <td></td>
+      <td></td>
+      <td>x</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>16. Avoiding work or other activities</td>    
+      <td></td>
+      <td></td>
+      <td>x</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>17. Loss of pleasure or satisfaction in life</td>    
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td>x</td>
+    </tr>
+  </tbody>
+    <thead>
+    <tr>
+      <th colspan="6">Physical Symptoms</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>18. Feeling tired</td>    
+      <td></td>
+      <td></td>
+      <td>x</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>19. Difficulty sleeping or sleeping too much</td>    
+      <td></td>
+      <td></td>
+      <td>x</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>20. Decreased or increased appetite</td>    
+      <td></td>
+      <td></td>
+      <td></td>
+      <td>x</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>21. Loss of interest in sex</td>    
+      <td></td>
+      <td>x</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>22. Worrying about your health</td>    
+      <td></td>
+      <td></td>
+      <td></td>
+      <td>x</td>
+      <td></td>
+    </tr>
+  </tbody>
+  <thead>
+    <tr>
+      <th colspan="6">Suicidal Urges</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>23. Do you have any suicidal thoughts?</td>    
+      <td></td>
+      <td></td>
+      <td></td>
+      <td>x</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>24. Would you like to end your life?</td>    
+      <td></td>
+      <td>x</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>25. Do you have a plan for harming yourself?</td>    
+      <td>x</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Total: </td>    
+      <td colspan="5">64</td>
+    </tr>
+  </tbody>
+</table>
+
+| Table 2-2: Interpreting the Burns Depression Checklist |                     |
+| ------------------------------------------------------ | ------------------- |
+| Total Score                                            | Level of Depression |
+| 0-5                                                    | No depression       |
+| 6-10                                                   | normal but unhappy  |
+| 11-25                                                  | mild depression     |
+| 26-50                                                  | moderate depression |
+| 51-75                                                  | severe depression   |
+| 76-100                                                 | extreme depression  |
+
+**_Take the BDC test at regular intervals to assess your progress objectively_** (compare it to weighing yourself when you are on a diet)
+
+Ideally, Dr. Burns would like to see my score under five the majority of the time. This is one aim of my treatment.
+
+### Chapter 3: Understanding Your Moods: You Feel the Way You Think
+
