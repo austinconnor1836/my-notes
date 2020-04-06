@@ -25,3 +25,27 @@ Avoid:
 
 - "I should do this..."
 - "I need to do this..."
+
+
+
+LOTR marathon:
+
+- In Erik's basement, with Erik, Ryan, Eric
+- Erik had a wrap around couch
+- he also had a cat, Oscar
+- handful of people there, changing over the years
+- Sounds:
+  - sound of the movies
+  - Erik's parents upstairs in the kitchen
+  - window would be open
+- Touches:
+  - holding a beer
+  - soft blanket, perusing my phone
+- Smells:
+  - smelled pork pies
+  - the smell of Erik's house
+- Taste:
+  - pork pies
+  - beer
+  - cookies
+  - banana bread

@@ -93,3 +93,5 @@ In dealing with other types of security commitments, we have striven throughout 
 The timing seemed not so propitious in the year of the first edition of *Security Analysis*, or, indeed, that of the second edition--expanded and revised--six years later. From the 1929 peak to its 1932 trough, the Dow Jones Industrial Average had lost 87% of its value.
 
 At cyclical low ebb, in 1933, **the national unemployment rate topped 25%**.
+
+“I blamed myself not so much for my failure to protect myself against the disaster I had been predicting,” Graham writes, “as for having slipped into an extravagant way of life which I hadn’t the temperament or capacity to enjoy. I quickly convinced myself that the true key to material happiness lay in a modest standard of living which could be achieved with little difficulty under almost all economic conditions”—the margin-of-safety idea applied to personal finance.
