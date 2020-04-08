@@ -26,5 +26,33 @@
 - **important difference to Aeschylus' play, there is no mention of the Furies**
   - also, Agesthes is murdered first in the other two plays before Clytamnaestra's death
 - Sophocles' version leaves us with a sense of a lack of fulfillment, a lot is left uncertain
+- you have to be careful what you ask Apollo
+  - Orestes asked *how* he should kill his mother, not if he *ought* to
+- upon returning from murdering his mother, Orestes says (which almost all editors use): "I cannot blame"
+  - editors think the sense of the play demand Orestes action
+- the other interpretation, he says: "I cannot speak"
+  - this reading is in all the manuscripts we have
+- possible that Sophocles wanted to show there was no good path for Orestes or Electra to take
+- in Euripides play, Electra is married to a peasant
+  - this so her son is not a noble
+  - the peasant, although not noble, is a very admirable person
+    - he respects her to remain a virgin, does not force himself upon her, because she is the daughter of nobility
+- Electra is working because she wants to, not because her husband is forcing her, he tells her
+  - she is carrying a water jug on her head, paralleled to the urn in Sophocles' play (if Euripides indeed came after Sophocles')
+- in Euripides' Electra, she is nowhere near Agamemnon's tomb like in Aeschylus' Libation Bearers
+- an old servant comes to her and reveals a lock of hair and footprint
+  - Euripides is gently paroding Aeschylus, to gently remind us that some things he did do not make sense
+- Agesthis actually practices proper xenia, giving Orestes the knife to sacrifice the animal, where Orestes stabs him
+- one detail Euripides changes from Libation Bearers is that Electra accompanies Orestes inside the palace to kill Clytamnaestra
+- **Dioscuri**: divine brothers of Helen and Clytamnaestra
+  - towards the end of Euripides play
+  - flown in using the **mechane**, or the crane
+- Euripides was famous for using the mechane to tie up loose ends
+- **deus ex machina**: "god from the crane" or "god from the machine"
+- most surprising, the Dioscuri say Apollo lied and Helen never went to Troy
+  - this undercuts everything in this story
+  - Euripides has just wiped out the entire rationale to the play
+- Euripides treats his stories in a surprising and disconcerting way
+- Sophocles' characters are isolated and implaccable to what they must do
 - 
 
