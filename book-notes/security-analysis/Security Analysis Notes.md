@@ -125,3 +125,20 @@ In the 1930s, markets were so depressed that it was not uncommon for stocks to s
 Valuing equities involves a calculation of what a company should be able to earn each year, going forward, as distinct from taking a snapshot of the assets it has at the moment.
 
 **To forecast earnings with any degree of confidence is extremely difficult.** The best guide can only be what a company has earned in the past.
+
+In estimating future earnings (for any sort of business), *Security Analysis* provides two vital rules:
+
+- One, is that companies with stable earnings are easier to forecast and hence preferable.
+  - also, the more volatile, the more cautious one should be
+- Second, earnings tend to fluctuate according to a cyclical pattern.
+  - **A firm's *average* earnings can provide a rough guide to the future; the earnings *trend* is far less reliable**
+    - just because a player hits .300 for a week, with an established average of .250, it cannot be assumed that he will necessarily hit that well for the rest of the season
+
+Companies can dress up their earnings statements, but they can't manufacture cash. **Thus, when the income statement and the cash flow statement start to diverge, it's a signal that somethings is amiss.**
+
+Graham and Dodd paid more attention to the balance sheet, which records a moment in financial time, than to earnings and cash flow statements, which depict the change over a previous quarter or year, because such information was either not available or not very detailed.
+
+**As a rule of thumb, investors should spend the bulk of their time on the disclosures of the security under study, and they should spend significant time on the reports of competitors.**
+
+- both the balance sheet and the statement of cash flow will throw significant light on the number that Wall Street pays the most attention to, the reported earnings.
+

@@ -11,4 +11,11 @@
   - may also have been a more elaborate revolving mechanism back into the skene
   - used to show scenes happening inside the skene building
 - Clytamnaestra is standing over the bodies
+- Apollo talks to Orestes and tells him to leave here and go to Athens
+- the Furies are asleep, Clytamnaestra tries to awaken them, but they do not until she leaves
+- hard to see that all 12 of the Furies fit inside the ekkyklema
+  - she attends that 2 or 3 Furies were in the ekkyklema
+- Aeschylus received pretty much a blank check to create this trilogy that resulted in a magnificent display and performance
+
+
 
