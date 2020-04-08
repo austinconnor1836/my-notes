@@ -38,5 +38,9 @@ Intrinsic value should be represented in a **range of values.**
 
 **Principal Obstacles to Success of the Analyst**
 
-*Inadequate or Incorrect Data*, *Uncertainties of the future*, and *irrational behavior of the market*
+*Inadequate or Incorrect Data*
+
+*Uncertainties of the future*
+
+**Irrational behavior of the market*
 
