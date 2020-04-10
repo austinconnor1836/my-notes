@@ -231,3 +231,64 @@ So `generatedFunc` is now equal to the definition of `multiplyBy2` function.
 **This is the <u>mission-critical</u> part of closure**.
 
 ### Nested Function Scope
+
+#### Calling a function outside of the function call in which it was defined
+
+```javascript
+function outer() {
+    let counter = 0;
+    function incrementCounter() { counter ++; }
+    return incrementCounter;
+}
+
+const myNewFunction = outer();
+myNewFunction();
+myNewFunction();
+```
+
+- `incrementCounter()` returns all of the local data surrounding it, so `counter` is accessible
+  - like it is wearing a backpack with local data inside
+
+### Function Closure
+
+Call stack starts with `global()` and `outer()` above it. Then, `outer()` is removed. Then, `myNewFunction()` is pushed onto the stack, then removed. Finally, once again `myNewFunction()` is pushed onto the call stack and removed.
+
+How does a function grab surrounding data for it to be accessed later?
+
+It gets a **hidden property** (connoted with double brackets `[[]]`) called `[[scope]]`.
+
+- **this is what the "backpack" is**
+
+We cannot access it this way:
+
+- `myNewFunction.scope`
+
+**This is the most elegant feature of JavaScript**
+
+- it gives us permanent and private data
+
+### Closure Technical Definition & Review
+
+Book he highly recommends: *If Hemingway Wrote JavaScript* by Angus Croll
+
+He calls the **Local Memory** the **Closed Over Variable Environment (C.O.V.E.)**
+
+JavaScript is a **lexically-scoped language**, as opposed to a *dynamically-scoped* language.
+
+- the data available to a declaration depends on **where the declaration was saved**
+
+- it is Persistent, Lexically or Static, Scoped, Referenced, Data (**P.L.S.R.D.**)
+  - the **Backpack**
+  - commonly known as **Closure**, but is not entirely accurate as it defines imprecisely
+
+#### What can we call this 'backpack'?
+
+- Closed over 'Variable Environment' (C.O.V.E.)
+- Persistent Lexical Scope Referenced Data (P.L.S.R.D.)
+- 'Backpack'
+- 'Closure'
+
+The 'backpack' (or 'closure') of live data is attached `incrementCounter` (then to `myNewFunction`) through a hidden property known as `[[scope]]` which persists when the inner function is returned out.
+
+### Multiple Closure Instances
+

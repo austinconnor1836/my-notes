@@ -1,6 +1,6 @@
 # Lecture 10: The Three Electras
 
-- Sophocles and Euripides each wrote a play called Electra, about Orestes vengeance on his mother Clytamnaestra
+- Sophocles and Euripides each wrote a play called Electra, about Orestes vengeance on his mother Clytemnestra
 - will use Aeschylus' story of Orestes in Libation Bearers as a touchstone for the plays by Sophocles and Euripides
 - in Libation Bearers, stress is on the son, Orestes, torn between two irreconcilable duties to his father and his mother
 - in both plays by the other tragedians is focused on Electra, not Orestes
@@ -8,23 +8,23 @@
 - Euripides' *Electra*: 415 - 413? B.C.
 - have no clues to date Sophocles' *Electra*
 - Freud chose to name the female equivalent of the Oedipus complex the Electra complex based on Sophocles' Electra
-- Orestes and his friend/servant Piletes arrive at Clytamnaestra's palace, the old servant, as opposed to Aeschylus' version with Orestes stating, falsely stating Orestes' death in a chariot race to gain entrance to the palace
+- Orestes and his friend/servant Pylades arrive at Clytemnestra's palace, the old servant, as opposed to Aeschylus' version with Orestes stating, falsely stating Orestes' death in a chariot race to gain entrance to the palace
 - we first see Electra when she laments the death of her own father and her own wasted life, too old to bear children, her life is empty apart from her vengeance for her mother
-- her sister, Chrisothomus, invented by Sophocles
+- her sister, Chrysothemis, invented by Sophocles
 - when they learn of Orestes' death, they are emboldened towards vengeance even more
 - Electra sings a long  song of lament while holding the urn containing Orestes' body, **her last hope for her family**
   - the audience knows the urn is empty, very powerful as a metaphor for the empty life Electra has led
 - Orestes pities his sister's sorrow and identifies himself
 - they have a briefly joyful reunion
-- Orestes' servant warns them the time is now to kill Clytamnaestra
+- Orestes' servant warns them the time is now to kill Clytemnestra
 - Orestes goes inside, leaving Electra outside with the chorus
-- here, we here Clytamnaestra crying out
-- the more horrifying note: Electra urges her brother to keep stabbing to kill Clytamnaestra
-- Piletes and Orestes return from the skene and Orestes says "all is well if Apollo was right"
-- Agesthis returns and wants to see the dead body of Orestes
-- a shrouded body is shown and Agesthis is taken inside to be killed on the same spot of Agamemnon's murder
+- here, we here Clytemnestra crying out
+- the more horrifying note: Electra urges her brother to keep stabbing to kill Clytemnestra
+- Pylades and Orestes return from the skene and Orestes says "all is well if Apollo was right"
+- Aegisthus returns and wants to see the dead body of Orestes
+- a shrouded body is shown and Aegisthus is taken inside to be killed on the same spot of Agamemnon's murder
 - **important difference to Aeschylus' play, there is no mention of the Furies**
-  - also, Agesthes is murdered first in the other two plays before Clytamnaestra's death
+  - also, Agesthes is murdered first in the other two plays before Clytemnestra's death
 - Sophocles' version leaves us with a sense of a lack of fulfillment, a lot is left uncertain
 - you have to be careful what you ask Apollo
   - Orestes asked *how* he should kill his mother, not if he *ought* to
@@ -42,9 +42,9 @@
 - in Euripides' Electra, she is nowhere near Agamemnon's tomb like in Aeschylus' Libation Bearers
 - an old servant comes to her and reveals a lock of hair and footprint
   - Euripides is gently paroding Aeschylus, to gently remind us that some things he did do not make sense
-- Agesthis actually practices proper xenia, giving Orestes the knife to sacrifice the animal, where Orestes stabs him
-- one detail Euripides changes from Libation Bearers is that Electra accompanies Orestes inside the palace to kill Clytamnaestra
-- **Dioscuri**: divine brothers of Helen and Clytamnaestra
+- Aegisthus actually practices proper xenia, giving Orestes the knife to sacrifice the animal, where Orestes stabs him
+- one detail Euripides changes from Libation Bearers is that Electra accompanies Orestes inside the palace to kill Clytemnestra
+- **Dioscuri**: divine brothers of Helen and Clytemnestra
   - towards the end of Euripides play
   - flown in using the **mechane**, or the crane
 - Euripides was famous for using the mechane to tie up loose ends
