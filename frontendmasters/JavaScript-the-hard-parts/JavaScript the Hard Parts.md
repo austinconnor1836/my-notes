@@ -292,3 +292,132 @@ The 'backpack' (or 'closure') of live data is attached `incrementCounter` (then 
 
 ### Multiple Closure Instances
 
+#### Individual backpacks
+
+If we run `outer` again and store the returned `incrementCounter` function definition in `anotherFunction`, this new `incrementCounter` function was created in a new execution context and therefore has a brand new independent backpack.
+
+### Practical Applications
+
+#### Closure gives our functions persistent memories and entirely new toolkit for writing professional code
+
+**Helper functions**: Everyday professional helper functions like `once` and `memoize`
+
+- **memoization**: say you have a task to find the n<sup>th</sup> prime number, if your application has already run it, we want the function to have a backpack with a key of the original input with a value of its answer
+  - next time we run the function, we check if it was run in the backpack, and if it was run, we just retrieve it from the backpack
+
+**Iterators and generators**: Which use lexical scoping and closure to achieve the most contemporary patterns for handling data in JavaScript
+
+- a very elegant way of accessing data, not like a `for` loop
+- **iterators**: each run gives you the next item, tracked inside the backpack on the underlying data
+- **generators**: you can come back to running a function, continuing it, using the data stored in the backpack
+
+**Module pattern**: Preserve state for the life of an application without polluting the global namespace
+
+- it protects state inside a backpack
+
+**Asynchronous JavaScript**: Callbacks and Promises rely on closure to persist state in an asynchronous environment
+
+## Asynchronous JavaScript
+
+### Single Threaded Execution Review
+
+#### Promises, Async & the Event Loop
+
+- Promises - the most significant ES6 feature
+- Asynchronicity - the feature that makes dynamic web applications possible
+- The event loop - JavaScript's triage
+  - JS' way of teeing up what is running and what will run next
+- Microtask queue, Callback queue and Web Browser features (APIs)
+
+#### A reminder of how JavaScript executes code
+
+```javascript
+const num = 3;
+function multiplyBy2 (inputNumber) {
+    const result = inputNumber*2;
+    return result;
+}
+
+const output = multiplyBy2(num);
+const newOutput = multiplyBy2(10);
+```
+
+### Asynchronicity in JavaScript
+
+#### Asynchronicity is the backbone of modern web development in JavaScript yet...
+
+JavaScript is:
+
+- Single threaded (one command runs at a time)
+- Synchronously executed (each line is run in order the code appears)
+
+So what if we have a task:
+
+- Accessing Twitter's server to get new tweets that takes a long time
+- Code we want to run using those tweets
+
+**Challenge**: We want to wait for the tweets to be stored in tweets so that they're there to run displayTweets on - but no code can run in the meantime
+
+#### Slow function blocks further code running
+
+```javascript
+const tweets = getTweets("http://twitter.com/will/1")
+
+displayTweets(tweets)
+
+console.log("I want to runnnn!")
+```
+
+#### JavaScript is not enough - We need new pieces (some of which aren't JavaScript at all)
+
+Our core JavaScript engine has 3 main parts:
+
+- **Thread of execution**
+- **Memory/variable environment**
+- **Call stack**
+
+We need to add some new components:
+
+- Web Browser APIs/Node background APIs
+- Promises
+- Event loop, Callback/Task queue and micro task queue
+
+### Asynchronous Browser Features
+
+We typically run JavaScript exclusively in a browser
+
+The JavaScript engine is part of the Web Browser
+
+Other features of Web Browser that JavaScript does not have:
+
+- dev tools
+- web sockets 
+- console (`console`)
+- make network requests (`fetch()`, previously known as `XHR`)
+- HTML DOM (`document`)
+- Timer (`SetTimeout()`)
+
+The Web Browser is a composite application that includes the JavaScript engine along with many important and useful features
+
+JavaScript is the programming language we can use to interact with the features of the Web Browser.
+
+Will's **facade functions**: they look like JavaScript functions, but they are not and are instead Web Browser functions being called in JavaScript.
+
+**A big part of what we are doing in JavaScript is not JavaScript at all. They are features of the Web Browser being called using JavaScript**.
+
+### Web API Example
+
+```javascript
+function printHello() { console.log("Hello"); }
+
+setTimeout(printHello, 1000);
+
+console.log("Me first!");
+```
+
+
+
+| JavaScript Features | Web Browser Features |
+| ------------------- | -------------------- |
+|                     |                      |
+
