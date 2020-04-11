@@ -34,3 +34,16 @@ A recent publication shows a spike in brain activity when a certain note is play
 
 ### 1.8: Why We Like What We Like? It's Nature
 
+There are universal principles of physics with music.
+
+We have the **fundamental** and **overtones**:
+
+![amplitude-frequency](./images/amplitude-frequency.png)
+
+![overtones](./images/overtones.png)
+
+"Also sprach Zarathustra" by Strauss, 1896 (opening of 2001: A Space Odyssey)
+
+- the hero at first, can't get it 
+- tries once again, and is able to achieve it and hold it
+
