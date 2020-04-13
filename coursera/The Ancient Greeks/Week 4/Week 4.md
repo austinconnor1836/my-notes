@@ -70,3 +70,76 @@
     - Isonomia: condition of "equal law" and equality under the law
 - Kleisthenes laid the foundation for the democracy in Athens, that would lead to much democracy in the West
 
+## Week 4 / Lecture 3: Herodotus and the Creation of Historical Writing
+
+Herodotus came from Halicarnassus.
+
+- born around 484 BCE
+- from southern part of Ionia, western portion of Turkey
+
+The Ionian city-states were a site of constant exchange.
+
+**The Ionian School of Philosophy**
+
+- centered in the town of Miletus
+
+Earliest member of this school was Thales (one of the seven sages)
+
+Thales
+
+- a natural philosopher, speculated about the nature of the cosmos
+- speculated that the prime substance of the cosmos was water
+
+One of Thales students, Anaxamander, said that the basic substance was not water, but something called the immeasurable or the infinite, a much more abstract entity.
+
+Third member of the Milesian school, Anaximenes, said the basis substance is not water or aperon, Greek for the infinite or the immeasurable, but rather, something called *aer*, a rarefied, purified form of the air, that we breathe.
+
+These proposals are not significant, their rational approach to explain the phenomena of our world is significant.
+
+The Gods are absent. **The underlying cause was not the divinities.**
+
+Xenophanes, who came from another of the Ionian cities, Colophon, somewhat north of Miletus, wrote **beautiful accounts of the pleasures of the symposium, of the drinking party**.
+
+**Xenophanes was also a ferocious religious skeptic.**
+
+**Herodotus had influence from these people as well as Hecataeus.**
+
+Hecataeus wrote something that he called, *A Trip Around the World* (around the Mediterranean).
+
+Herodotus first words of his great work:
+
+`Here displays his inquiry`: `inquiry` means the word `histories`, the first use of the term. History, here, is equated with looking into things.
+
+**Not only of the Greeks, but of the foreigners as well.**
+
+Important: Herodotus says, `"I know who first injured the Greeks, and that was King Croesus."`
+
+We know that Croesus ruled from roughly 560 to 547-546, so about 13 or 14 years.
+
+Croesus is the fifth generation after Gyges, who was persuaded by King Candaules to see his wife naked, whereupon she spots him and orders him either to kill the king and take his place, or kill himself. He kills the king.
+
+**Croesus**:
+
+- spectacularly wealthy
+- has interacted with Solon
+  - this is **paradigmatic**, as Solon is Greek, a law-giver, who emphasizes quality. Croesus, is Asian, a monarch, whose attention is focused on quantity.
+  - Croesus asks Solon, "Who is the happiest man in the world?"
+- he loses his son and Solon presumes this as punishment for having considered himself happiest of men.
+- gets an idea to attack Persia.
+- Croesus was very fond of Delphi, revered the God at Delphi.
+- he asks the oracle, "What will happen if I attack Persia?" The oracle replies, "You will destroy a great empire." He does not ask the follow-up question to which empire.
+- he crosses his own river, Hollis, to attack the Persians, and is eventually captured in his own palace, by the Persian king Cyrus
+- about to be burned alive by Cyrus, prays to Apollo, a rain-shower puts out the fire, establishes a rapport with Cyrus
+  - Cyrus admires Croesus' wisdom and his pattern as a ruler:
+    - begins with having enough
+    - suddenly, eventually, wants to have much more
+    - commits some rash act
+    - suffers disastrous consequences
+  - **Herodotus sees this four-part sequence play out over and over again throughout history**
+
+## Week 4 / Lecture 4: Persian Wars 1 - From the Ionian Revolt to the Battle of Marathon
+
+![persian-empire](./images/persian-empire.png)
+
+- This map of the Persian Empire shows the direction of Xenophon and the 10,000. Also known as the Achaemenid Empire, the Persian Empire was the largest empire ever to be established. The Xenophon of Athens was a Greek philosopher, historian, and soldier who authored many practical treatises on topics like horsemanship and taxation.
+

@@ -42,5 +42,10 @@ Intrinsic value should be represented in a **range of values.**
 
 *Uncertainties of the future*
 
-**Irrational behavior of the market*
+*Irrational behavior of the market*
 
+#### The Relationship of Intrinsic Value to Market Price
+
+The market is a *voting machine*, whereon countless individuals register choices which are the product partly of reason and partly of emotion.
+
+![intrinsic to market value](./images/intrinsic-to-market-value.png)
