@@ -421,3 +421,54 @@ console.log("Me first!");
 | ------------------- | -------------------- |
 |                     |                      |
 
+### Web API Rules
+
+#### We're interacting with a world outside of JavaScript now - so we need rules
+
+```javascript
+function printHello() { console.log("Hello"); }
+function blockFor1Sec() { // blocks in the JavaScript thread for 1 sec
+}
+
+setTimeout(printHello,0);
+
+blockFor1Sec();
+console.log("Me first!");
+```
+
+We could block JavaScript code from running by using a `for` loop among others.
+
+### Callback Queue & Event Loop
+
+You could console log a million times and the queue would never dequeue `printHello`, it would never even grab it and put it on the call stack.
+
+**Event loop**: check constantly if the call stack is empty (including `global()`), and if it is empty, if there is anything in the callback queue, run whatever is in the queue
+
+## Promises
+
+### Promises Introduction
+
+#### ES6+ Solution (Promises)
+
+Using two-pronged 'facade' functions that both:
+
+- Initiate background web browser work and
+- Return a placeholder object (promise) immediately in JavaScript
+
+Promises help with being able to keep track of memory in JavaScript, like retrieving data in the background, and keeping track of it.
+
+`fetch` is the new school style of handling network requests in JS, rather than the old school method of `xhr`.
+
+`fetch` calls the web browser features while simultaneously returning a promise that populates data we need, it is dual-pronged.
+
+```javascript
+function display(data) {
+    console.log(data)
+}
+
+const futureData = fetch('https://twitter.com/will/tweets/1')
+futureData.then(display);
+
+console.log("Me first!");
+```
+

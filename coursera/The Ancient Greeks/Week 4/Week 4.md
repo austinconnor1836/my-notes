@@ -143,3 +143,90 @@ Croesus is the fifth generation after Gyges, who was persuaded by King Candaules
 
 - This map of the Persian Empire shows the direction of Xenophon and the 10,000. Also known as the Achaemenid Empire, the Persian Empire was the largest empire ever to be established. The Xenophon of Athens was a Greek philosopher, historian, and soldier who authored many practical treatises on topics like horsemanship and taxation.
 
+Cyrus, who had conquered Croetus and taken over Lydia, was killed in battle.
+
+Magi tried to take over and were quickly expelled.
+
+Then, Darius (Doe-Ri-Us) the First became for a very long time, from 522 BCE to the mid 480s, around 486.
+
+King of a massive empire (Persian Empire).
+
+- massive size, massive wealth
+- extremely well developed bureaucracy
+- local governors, well established procedures for collecting revenues
+- Persians amassed an enormous amount of treasure
+
+Athenian hoplite armies pushed back the Boeotians and the Calcidians from their attempts to overthrow their young democracy.
+
+Athenian ambassadors asked a Persian governor, Satrap, for help. He complied, asking for the Athenians to give earth and water in exchange for financial payments.
+
+- we may be seeing here a intercultural misunderstanding
+
+The Persians saw the Athenians giving themselves over as subjects to the Persian King. For Athenians, this could have been a ritual of exchange, a token of good will.
+
+It began with a revolt. The Ionian cities had to begin paying taxes.
+
+The Athenians agree to help the Ionian revolt.
+
+Around 497, they move across the coast of Asia Minor. They move inland and burn Croesus' ancient capital of Sardis which had become a Persian outpost, Persian capital.
+
+- **this was a tremendously bitter affair**, the Persians thought an alliance had been betrayed, an alliance of earth and water
+- King Darius was so furious, he had a servant remind him throughout the day, "Master, remember the Athenians."
+
+In 494, the Ionian revolt was crushed and the city of Miletus was sacked an burned as revenge for the destruction of Sardis.
+
+Wasn't enough for Darius. Began an incursion across the island, demanding earth and water.
+
+Greek states gave in because they thought the Persian empire was so huge and so powerful. This is called **medizing**, to go over to the Meed, to surrender your own autonomy so to speak.
+
+Herodotus says a real sacrilege occurred. When the Persians went to the Athenians, they were killed. When they went to Sparta, they were thrown into a well and told them to get their own earth and water.
+
+- **this is a fantastic breach of protocol**
+
+Ambassadors have special protection, otherwise you couldn't conduct any sort of negotiation.
+
+In 491, the Persians invade. By 490, they make their way over to the mainland.
+
+First target is Eritrea, and they destroy it. They are just off the coast of Attica.
+
+The Greeks become panicked.
+
+Herodotus tells us Hippias was along with the Persian invading forces, **as a dream.**
+
+Dreams, portents, and oracles are very important for Herodotus.
+
+Hippias' dream is that he makes love with his mother, influencing him to think he will regain power in Athens, even as an old man.
+
+When the Persians arrive on the shore at Marathon, Northeast of Athens, he has a coughing fit and coughs up a tooth and can't find it. He dejectedly acknowledges that that is the only part of Athens that he is destined to retake, or to reclaim.
+
+The Athenians mount a hoplite defense, a small group, led by Miltiades, a member of a great old family.
+
+He brilliantly puts his best troops off to the side, to attack the Persian flanks.
+
+The battle works just as he had planned.
+
+Herodotus tells us that the final casualties were 192 Greeks, and over 6000 Persians dead. Nobody could quite believe it.
+
+The Greeks versus the Persians now becomes a real, bloody conflict. The Greeks win their first encounter.
+
+Why did they win?
+
+- hoplite tactics
+  - fighting in tight formation against the loosely formed Persians
+- their heavy armor was much more effective than the Persian armor that was a linen corslet and a shield made of wicker that is tightly bound together. Didn't stand much of a difference against the brown shields and long spears of the Greeks.
+
+Mitiades dedicated a helmet at the temple of Zeus down in Olympia (still exists, a little worn, with his name on the side).
+
+Special aura surrounds the hoplites, the marathonomachoi, as they were called, of **special courage, of establishing freedom against despotism.**
+
+John Stuart Mill, english philosopher, "As an event in English history, the Battle of Marathon is more important than the Battle of Hastings" (Norman conquest in England).
+
+**Nonetheless, Marathon has an unusual status in world battles.**
+
+**The Greeks had gotten together, a few of them, and fended off the many.**
+
+But the Persians were now angered, and determined to get their way.
+
+The Persian wars were by no means over.
+
+## Week 4 / Lecture 5: "Wooden Walls": Themistocles and the Athenian Fleet
