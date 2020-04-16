@@ -230,3 +230,45 @@ But the Persians were now angered, and determined to get their way.
 The Persian wars were by no means over.
 
 ## Week 4 / Lecture 5: "Wooden Walls": Themistocles and the Athenian Fleet
+
+Domestic politics at Athens:
+
+- not idle at this time
+- Miltiades, highly revered, very respected, commander at Marathon
+  - after his victory at Marathon, he led a failed campaign against the island of Paros
+- **ostracism**: people could vote to expel a citizen from the polis for 10 years with a simple majority
+  - this was Clysones measure to prevent tyranny, but ended up being used over and over again against some of the leading citizens in the community.
+  - **the old elite families used their client relations with the poorer citizens to get their political enemies out of the way for awhile**
+- how archons were chosen changed during this time
+  - instead of being elected, they were selected by lot, among the council of 500, by the Boule
+  - term as archon was one year, so the archonship begins to lose political factor
+  - this we see as evidence moving towards the general ship, that board of 10 generals elected and potentially re-elected over and over again out of the tribes
+- at this point, we start to think about the great figures of Athenian history: Themistocles
+- Themistocles:
+  - from old, but not elite family
+  - trickster of Athenian politics
+  - sort of Odyssian figure in an Athenian political life
+  - served as an archon in late 490s and started building a wall around the Athenian port city of Piraeus
+  - also elected strategus, that is general, in 490, 89, most certainly fought at Marathon
+  - associated with the Athenians discovering a large load of silver near the southeastern part of Attica, near Laurion
+    - French maps show dozens of mine sites
+  - mining was dirty and dangerous, gave Athens a huge amount of new wealth
+    - reserved for slaves or captives in war
+  - Themistocles persuaded the assembly not to use this new treasure to build a wall, but rather to build ships, specifically triremes.
+    - Greek war ship par excellence
+    - called triremes because there were three banks of rowers, sitting one on top of another, and this **instituted what has come to be called the naval policy**
+  - **Themistocles can be accredited with turning Athens into a maritime power.**
+  - hoplites were self-financed. Triremes depended on free labor to build the ships, maintain the docks, man the ores
+    - so the poor citizens now had another whole profession opening up to them, another possible source of income
+- another thing we will see is this paradox of an increasingly radical democracy at home coupled with an increasingly aggressive and militaristic policy abroad.
+- a few real ostracon:
+  - in late 480's, certainly at the instigation of Themistocles, one Aristides, the son of Lysimachus was ostracized
+    - he was a traditional politician, famously upright, was called Aristides the Just
+- ostracism was a powerful democratic weapon 
+
+## Notes from Herodotus Book 7: Chapters 200-239
+
+- Leonides, the King of Sparta, a Lacedaemonian, a descendant of Hercules, did not ever expect to become king as he had two older brothers, Cleomenes and Dorieus, but did since they both died without offspring
+- he commanded three hundred men at Thermopylae against the Persians
+- 
+

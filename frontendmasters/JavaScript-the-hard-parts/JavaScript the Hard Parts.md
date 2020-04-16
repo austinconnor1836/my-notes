@@ -461,6 +461,8 @@ Promises help with being able to keep track of memory in JavaScript, like retrie
 
 `fetch` calls the web browser features while simultaneously returning a promise that populates data we need, it is dual-pronged.
 
+### Promises Example: fetch
+
 ```javascript
 function display(data) {
     console.log(data)
@@ -472,3 +474,266 @@ futureData.then(display);
 console.log("Me first!");
 ```
 
+### Promises Example: then
+
+The empty array `onFulfilled` that is returned by `fetch` can have a function or code to run immediately after data is returned from the fetch call.
+
+- it is a hidden property, but JS gives us an option to add to it: `then`
+
+### Web APIs & Promises Example: fetch
+
+#### But we need to know how our promise-deferred functionality gets back into JavaScript to be run
+
+#### *then* method and functionality to call on completion
+
+- Any code we want to run on the returned data must also be saved on the promise object
+- Added using .then method to the hidden property 'onFulfilment'
+- Promise objects will automatically trigger the attached function to run (with its input) being the returned data
+
+### Web APIs & Promises Example: Microtask Queue
+
+There is also another array in the promise object to handles errors called `onRejection`. You pass in a function to handle the rejection as a second argument inside `.then`.
+
+#### We have rules for the execution of our asynchronously delayed code
+
+- Hold promise-deferred functions in a microtask queue and callback function in a task queue (Callback queue) when the Web Browser Feature (API) finishes
+- add the function to the Call stack (i.e. run the function) when:
+  - call stack is empty & all global code run (Have the Event Loop check this condition)
+- Prioritize functions in the microtask queue over the Callback queue
+
+## Classes & Prototypes
+
+### Class & OOP Introduction
+
+#### Classes, Prototypes - Object Oriented JavaScript
+
+- An enormously popular paradigm for structuring our complex code
+- Prototype chain - the feature behind-the-scenes that enables emulation of OOP but is a compelling tool in itself
+- Understanding the difference between `__proto__` and prototype
+- The `new` and `class` keywords as tools to automate our object & method creation
+
+#### Core of development (and running code)
+
+1. Save data (e.g. in a quiz game the scores of user1 and user2)
+2. Run code (functions) using that data (e.g. increase user 2's score)
+
+Easy! So why is development hard?
+
+In a quiz game I need to save lots of users, but also admins, quiz questions, quiz outcomes, league tables - all have data and associated functionality
+
+In 100,000 lines of code
+
+- Where is the functionality when I need it?
+- How do I make sure the functionality is only used on the right data!
+
+#### That is, I want my code to be:
+
+1. Easy to reason about
+
+But also
+
+2. Easy to add features to (new functionality)
+3. Nevertheless efficient and performant
+
+The Object-oriented paradigm aims is to let us achieve these three goals
+
+### Object Dot Notation
+
+### Factory Functions
+
+#### Creating user3 using `Object.create`
+
+`Object.create` is going to give us fine-grained control over our object later on
+
+```javascript
+const user3 = Object.create(null);
+
+user3.name = "Eva";
+user3.score = 9;
+user3.increment = function() {
+  user3.score++;
+};
+```
+
+Our code is getting repetitive, we're breaking our DRY principle. And suppose we have millions of users! What could we do? **Generalize into a function**.
+
+### Factory Functions Example
+
+#### Solution 1. Generate objects using a function
+
+```javascript
+function userCreator(name, score) {
+    const newUser = {};
+    newUser.name = name;
+    newUser.score = score;
+    newUser.increment = function() {
+        newUser.score++;
+    }
+    return newUser;
+}
+
+const user1 = userCreator("Will", 3);
+const user2 = userCreator("Tim", 5);
+user1.increment();
+```
+
+
+
+**Problems**: Each time we create a new user we make space in our computer's memory for all our data and functions. But our functions are just copies.
+
+Is there a better way?
+
+**Benefits**: It's simple and easy to reason about!
+
+### Prototype Chain
+
+#### Solution 2: Using the prototype chain
+
+Store the increment function in just one object and have the interpreter, if it doesn't find the function on `user1`, look up to that object to check if it's there.
+
+Link `user1` and `functionStore` so the interpreter, on not finding `.increment`, makes sure to check up in `functionStore` where it would find it.
+
+Make the link with `Object.create()` technique.
+
+```javascript
+function userCreator(name, score) {
+    const newUser = Object.create(userFunctionStore);
+    newUser.name = name;
+    newUser.score = score;
+    return newUser;
+};
+
+const userFunctionStore = {
+    increment: function() { this.score++; },
+    login: function() { console.log("Logged in"); }
+};
+
+const user1 = userCreator("Will", 3);
+const user2 = userCreator("Tim", 5);
+user1.increment();
+```
+
+**This is the absolute core**.
+
+### Prototype Chain Example: Prototypal Link
+
+`const newUser = Object.create(userFunctionStore)`:
+
+- inside the execution context of `userCreator`, this line creates a `const newUser` equal to an empty object, *without any properties*, although it does have an intimate link to them in `userFunctionStore`
+- there is a hidden property that enables the link: `__proto__` that has stored in it a link to `userFunctionStore`
+  - JS has a **prototypal feature**, which means it does not panic when it does not find a property on an object, it goes up the prototype chain until it finds it
+
+### Prototype Chain Example: Implicit Parameters
+
+- the argument passed into `Object.create()` is stored in the hidden `__proto__` property
+- you can see this in dev tools, while you cannot see `onFulfilled` from Promises
+
+### hasOwnProperty Method
+
+![object prototype](./images/object-prototype.png)
+
+### `this` Keyword
+
+### Arrow Function Scope & `this`
+
+### Prototype Chain Review
+
+#### Solution 2: Using the prototype chain
+
+**Problems**: No problems! It's beautiful. Maybe a little long-winded.
+
+Write this every single time - but it's 6 words!
+
+```javascript
+const newUser = Object.create(userFunctionStore);
+...
+return newUser;
+```
+
+**Benefits**: Super sophisticated but not standard.
+
+### `new` Keyword
+
+- the `new` keyword will create an object automatically and return it
+- it will also link the `__proto__` hidden property to
+
+#### Solution 3 - Introducing the keyword that automates the hard work: `new`
+
+When we call the function that returns an object with `new` in front we automate 2 things:
+
+1. Create a new user object
+2. Return the new user object
+
+```javascript
+const user1 = new userCreator("Eva", 9)
+const user2 = new userCreator("Tim", 5)
+```
+
+But now we need to adjust how we write the body of `userCreator` - how can we:
+
+- Refer to the auto-created object?
+- Know where to put our single copies of functions?
+
+The object created is called `this` (as opposed to how we did it before `newUser`).
+
+#### Interlude - functions are both objects and functions
+
+```javascript
+function multiplyBy2(num) {
+    return num*2;
+}
+
+multiplyBy2.stored = 5
+multiplyBy2(3) // 6
+
+multiplyBy2.stored // 5
+multiplyBy2.prototype // {}
+```
+
+We could use the fact that all functions have a default property `prototype` (not a hidden property, and its default value is `{}`) on their object version, (itself an object) - to replace our `functionStore` object.
+
+#### The `new` keyword automates a lot of our manual work
+
+```javascript
+function userCreator(name, score) {
+    this.name = name;
+    this.score = score;
+}
+
+userCreator.prototype.increment = function() { this.score++; };
+userCreator.prototype.login = function() { console.log("login"); };
+
+const user1 = new userCreator("Eva", 9)
+
+user1.increment()
+```
+
+`userCreator` is declared with a value of a function definition, and also an object with a property `prototype` inside with the value of an empty object `{}`.
+
+#### Solution 4: The class 'syntactic sugar'
+
+```javascript
+class UserCreator {
+    constructor (name, score) {
+        this.name = name;
+        this.score = score;
+    }
+    increment(){ this.score++; }
+    login() { console.log("login"); }
+}
+
+const user1 = new UserCreator("Eva", 9);
+user1.increment();
+```
+
+**Benefits**:
+
+Emerging as a new standard
+
+Feels more like style of other languages (e.g. Python)
+
+**Problems**:
+
+99% of developers have no idea how it works and therefore fail interviews
+
+But you will not be one of them!
