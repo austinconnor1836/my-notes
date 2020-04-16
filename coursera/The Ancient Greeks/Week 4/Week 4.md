@@ -270,5 +270,20 @@ Domestic politics at Athens:
 
 - Leonides, the King of Sparta, a Lacedaemonian, a descendant of Hercules, did not ever expect to become king as he had two older brothers, Cleomenes and Dorieus, but did since they both died without offspring
 - he commanded three hundred men at Thermopylae against the Persians
-- 
+
+## Week 4 / Lecture 6: Endgame: To the Battles of Thermopylae and Salamis (480) and Plataea (479)
+
+- Xerxes took over as King of Persia after his father, Darius, died
+- he is determined to get revenge on the Greeks for the loss they inflicted on his father
+- Mardonius, Xerxes' military commander, young man, is all for waging war
+- Artabanus, Xerxes uncle, his father's brother, says patience
+- Xerxes is enraged at Artabanus, but quickly apologizes
+- the Spartans send 300 men up to Thermopylae, a narrow pass
+- in August of 480, the battle of Thermopylae lasts several days
+
+![battle thermopylae](./images/battle-thermopylae.png)
+
+- Themistocles tricks the Persians into the bay/straits
+- the smaller, more maneuverable Greek ships punched a whole in the Persian fleet
+- The Persian military threat was practically ended after Thermopylae, the maritime battle at Salamis, and the ground fight at Plataea
 
