@@ -58,5 +58,5 @@ The market is a *voting machine*, whereon countless individuals register choices
 
 The principles of investment finance and the methods of corporation finance fall necessarily within the province of security analysis.
 
-## Chapter 2: Fundamental Elements in the Problem of Analysis. Quantitative and Qualitative Factors
+
 

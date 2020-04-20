@@ -243,3 +243,188 @@ func main() {
 
 We can leave it unassigned, but we **must specify the type**: `var name string`
 
+Can do multiple assignments: `var name, name2 = "Beyonce", "Lizzo"`
+
+Has to be within functions: `name := "Beyonce"`
+
+- the `:` assigns the value and the type
+
+### Control Structures
+
+#### If Statements
+
+`if someVar > 10 { }`
+
+- parantheses are not required
+
+#### Switch
+
+```go
+  var city string
+
+  switch city {
+  case "Des Moines":
+      fmt.Println("You live in Iowa")
+  case "Minneapolis,", "St Paul":
+      fmt.Println("You live in Minnesota")
+  case "Madison":
+      fmt.Println("You live in Wisconsin")
+  default:
+      fmt.Println("You're not from around here.")
+  }
+```
+
+#### For loops
+
+```go
+func main() {
+    
+    for i := 1; i <= 100; i++ {
+        fmt.Println(i)
+    }
+    
+    var mySentence = "This is a sentence."
+    
+    for index, letter := range mySentence {
+        fmt.Println("Index:", index, "Letter:", letter)
+    }
+}
+```
+
+- can use `_` if you do not need to use a value in `go`
+
+## Complex Structures
+
+### Functions & Variadic Functions
+
+```go
+func printAge(age int) int {
+    fmt.Println(age)
+    return age
+}
+```
+
+Multiple return values:
+
+```go
+func printAge(age int) (int, int) {
+    fmt.Println(age)
+    return 0, age
+}
+```
+
+Named returned values:
+
+```go
+func printAge(age int) (ageOfSally int, ageOfBob int) {
+    ageOfBob = 21
+    ageOfSally = 16
+    return
+}
+```
+
+- `go` instantiates placeholders so we do not need to instantiate variables like `ageOfBob` and `ageOfSally`
+
+Collection of integers as argument:
+
+```go
+func printAge(ages ...int) int {
+    ...
+}
+```
+
+Also:
+
+```go
+func printAge(age1, age2, age3 int) int {
+    ...
+}
+```
+
+### Functions exercise
+
+Exercise 4a: return average of 3 numbers
+
+```go
+package main
+
+import "fmt"
+
+func main() {
+	fmt.Println(average(3, 6, 9)
+}
+
+func average(nums ...float32) (averageVal float32) {
+
+	for _, num := range nums {
+		averageVal += num
+	}
+	return averageVal / 3
+}
+```
+
+Exercise 4b: use variadic function that takes in an unknown number of arguments
+
+Same as above
+
+### Arrays
+
+In `go`:
+
+```go
+// initialize an empty array
+var scores = [5]float64
+
+// Eventually this array can ONLY contain floats and a length of 5:
+[float64, float64, float64, float64, float64]
+```
+
+Whereas in `JavaScript`:
+
+```javascript
+// Initialize an empty array
+const grabBag = []
+
+// Eventually this array could have values that represent these types:
+const grabBag = [string, int, boolean, float64]
+
+// or
+const grabBag = [string, string, string, string, integer, boolean, float64]
+```
+
+#### Arrays: Defining Values
+
+```go
+var scores [5]float64 = [5]float64{9, 1.5, 4.5, 7, 8}
+scores := [5]float64{9, 1.5, 4.5, 7, 8}
+scores := [...][5]float64{9, 1.5, 4.5, 7, 8}
+```
+
+### Make
+
+- having to know the length of the array when you instantiate it seems problematic:
+  - **enter: the slice**
+  - **slice**: segments of an underlying array
+  - **(+ Make)**: must be associated with space in memory
+    - "initializes and allocates space in memory for a slice, map, or channel"
+
+```go
+var mySlice []int = make([]int, 5)
+```
+
+Set 5 elements, with the capacity (`cap` method in `go`):
+
+```go
+var mySlice []int = make([]int, 5, 10)
+fmt.Println(len(mySlice)) // outputs 5
+fmt.Println(cap(mySlice)) // outputs 10
+```
+
+Can also do with an array of strings:
+
+```go
+fruitArray := [5]string{"banana", "pear", "apple", "kumquat", "peach"}
+splicedFruit := fruitArray[1:3]
+fmt.Println(splicedFruit) // outputs [pear, apple]
+```
+
