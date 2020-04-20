@@ -428,3 +428,5 @@ splicedFruit := fruitArray[1:3]
 fmt.Println(splicedFruit) // outputs [pear, apple]
 ```
 
+### Slices
+

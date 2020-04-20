@@ -120,3 +120,11 @@ Security analysis does not assume that a past average will be repeated, but only
 
 #### Inherent Stability a Major Qualitative Factor
 
+*Inherent Stability* is the factor the analyst should properly be **most interested** in.
+
+**Stability means resistance to change and hence greater dependability for the results shown in the past.**
+
+Look at the stability of their products sold with the lens of changing demands.
+
+**A satisfactory statistical exhibit is a *necessary* though by no means a *sufficient condition* for a favorable decision by the analyst.**
+
