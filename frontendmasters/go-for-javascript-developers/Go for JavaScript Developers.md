@@ -430,3 +430,334 @@ fmt.Println(splicedFruit) // outputs [pear, apple]
 
 ### Slices
 
+- if you append to an array past its capacity, `go` doubles the original array's capacity before appending
+
+### Maps
+
+- key, value pairs
+
+```go
+var userEmails map[int]string = make(map[int]string)
+```
+
+- unlike slices, we do not have to tell `make` the length
+
+Also:
+
+```go
+userEmails := map[int]string{
+    1: "user1@gmail.com",
+    2: "user2@gmail.com"
+}
+```
+
+To mutate, like JS:
+
+```go
+userEmails[1] = "user3@gmail.com"
+```
+
+`go` also provides a second return value of a boolean indicating whether there was something with that key:
+
+```go
+firstEmail, ok := userEmails[4]
+fmt.Println(firstEmail, ok)
+```
+
+```go
+if email, ok := userEmails[4]; ok {
+    fmt.Println("email exists")
+} else {
+    fmt.Println("email doesn't exist")
+}
+```
+
+- if `ok` is true, execute what is inside curly braces, if false, don't
+
+**The method `delete()`**:
+
+```go
+delete(userEmails, 2)
+```
+
+### Complex Structures Exercise
+
+### Complex Structures Solution
+
+#### Part 1
+
+1. Instantiate an array of scores
+   - The array should have at least 5 elements of type `float64`
+2. Write a function that calculates and returns the average score (also a float)
+   - Use the `range` keyword
+
+```go
+package main
+
+import (
+	"fmt"
+)
+
+func average(numbers ...float64) float64 {
+	total := 0.0
+	for _, number := range numbers {
+		total += number
+	}
+	return total / float64(len(numbers))
+}
+
+func main() {
+	fmt.Println(average(10, 5, 7))
+}
+```
+
+#### Part 2
+
+1. Define a map that contains a set of pet names, and their corresponding animal type. i.e.: `"fido": "dog"`.
+2. Write a function that takes a string argument and returns a boolean  indicating whether or not that key exists in your map of pets.
+
+```go
+package main
+
+import "fmt"
+
+var initialPets map[string]string = map[string]string {
+    "fido": "dog",
+    "penelope": "horse",
+    "nancy": "cat",
+}
+
+func doesPetExist(petName string) bool {
+    _, ok := initialPets[petName]
+    return ok
+}
+
+func main() {
+    pet := "spot"
+	petExists := doesPetExist(pet)
+	fmt.Println(petExists)
+}
+```
+
+#### Part 3
+
+1. Instantiate a slice that has an initial value of a collection of groceries.
+2. Write a function that takes one or more groceries as strings and  appends them to the slice, printing out the resulting list of groceries.
+
+```go
+package main
+
+import "fmt"
+
+var initialGroceries = []string{"beans", "lemons", "chicken", "fruit"}
+
+func addGroceryToList(newGroceries ...string) []string {
+    foods := initialGroceries
+    for _, g := range newGroceries {
+        foods = append(foods, g)
+    }
+    
+    return foods
+}
+
+func main() {
+    groceryList := addGroceryToList("beets", "chocolate", "lime")
+    fmt.Println(groceryList)
+}
+```
+
+## Go Toolkit
+
+### Tools & Commands
+
+```
+go run main.go
+
+go install
+
+go build
+
+go fmt main.go
+
+go list
+
+go vet
+
+go doc fmt.Println
+
+go get golang.org/x/lint/golint
+
+golint
+```
+
+`go list`: list out any packages we have established in our codebase
+
+### Packages
+
+- importing local packages:
+
+  ```go
+  package main
+  
+  import (
+      "fmt"
+      "fem-intro-to-go/05_toolkit/code/utils"
+  )
+  ```
+
+- can also use an alias:
+
+  ```go
+  package main
+  
+  import (
+      "fmt"
+      math "fem-intro-to-go/05_toolkit/code/utils"
+  )
+  ```
+
+- the only way to export functions is for them to start with a capital letter
+
+### Testing
+
+```go
+package utils
+
+import "testing"
+
+func TestAverage(t *testing.T) {
+    expected := 4
+    actual := utils.average(1, 2, 3)
+    
+    if actual != expected {
+        t.Errorf("Average was incorrect! Expected: %d, Actual: %d", expected, actual)
+    }
+}
+```
+
+### Unit Testing Exercise
+
+## Structs
+
+### Structs
+
+```go
+type User struct {
+    ID int
+    FirstName string
+    LastName string
+    Email string
+}
+```
+
+Can also write:
+
+```go
+type User struct {
+    ID int
+    FirstName, LastName, Email string
+}
+```
+
+Dot notation to access properties:
+
+```go
+var u User
+u.ID
+```
+
+### Custom Types
+
+### Accessing Nested Structs
+
+### Modifying Struct Values Exercise
+
+## Pointers
+
+### Pointers
+
+A **_pointer_** in Go is a variable that holds the **_memory location_** of that variable instead of a copy of its value.
+
+```go
+var name string
+var namePointer *string
+
+name = "Beyonce"
+namePointer = &name
+var nameValue = *namePointer
+```
+
+### Pass by Reference
+
+```go
+func changeName(n *string) {
+	*n = strings.ToUpper(*n)
+}
+
+func main() {
+	name := "Elvis"
+	changeName(&name)
+	fmt.Println(name)
+}
+```
+
+- this produces output: `ELVIS`
+
+```go
+func changeName(n string) {
+	n = strings.ToUpper(n)
+}
+
+func main() {
+	name := "Elvis"
+	changeName(name)
+	fmt.Println(name)
+}
+```
+
+- this fails to produce the output capitalizing all letters so output: `Elvis`
+
+### Pointers Exercise
+
+1. Define an instance of the User struct
+2. Write a function called `updateEmail` that takes in a `*User` type
+3. Update the user's email to something new
+4. Call `updateEmail()` from `main()` and verify the updated email has persisted
+
+```go
+package main
+
+import "fmt"
+
+// User represents a user
+type User struct {
+	ID                         int
+	FirstName, LastName, Email string
+}
+
+// Your code here
+
+func updateEmail(u *User) {
+	u.Email = "newemail@gmail.com"
+}
+
+func main() {
+	fmt.Println("Pointers!")
+
+	var u = User{
+		1,
+		"Austin",
+		"Sandusky",
+		"myaim@aim.com",
+	}
+
+	updateEmail(&u)
+
+	fmt.Println(u)
+}
+```
+
+## Error Handling
+
+### Error Handling
+
