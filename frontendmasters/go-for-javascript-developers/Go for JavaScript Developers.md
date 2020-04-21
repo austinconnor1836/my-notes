@@ -761,3 +761,16 @@ func main() {
 
 ### Error Handling
 
+Go treats every error as a **value** rather than an **exception**.
+
+#### Error:
+
+- indicates that something bad happened, but it might be possible to continue running the program
+- ie: A function that intentionally returns an error if something goes wrong
+
+#### Panic:
+
+- happens at run time
+- something happened that was fatal to your program and program stops execution
+- ex: Trying to open a file that doesn't exist
+
