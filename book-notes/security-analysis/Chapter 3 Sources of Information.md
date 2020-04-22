@@ -50,3 +50,39 @@ There is no doubt that this material is proving of the greatest value to the ana
 
 ### Miscellaneous Official Reports
 
+### Statistical and Financial Publications
+
+Most of the information required by the securities analyst in his daily work may be found conveniently and adequately presented by the various statistical services.
+
+- **Comprehensive manuals published annually with periodic supplements (Poor's, Moody's)**
+- **descriptive stock and bond cards**
+- **manuals frequently revised (Standard & Poor's, Fitch)**
+- **daily digests of news relating to individual companies (Standard Corporation Records, Fitch)**
+
+They cannot be relied upon to give all the data available in the various original sources above described.
+
+**The analyst should consult the original reports and other documents wherever possible, and not rely upon summaries or transcriptions.**
+
+In the field of financial periodicals, special mention must be made of **_The Commercial and Financial Chronicle_**, a weekly publication with numerous statistical supplements.
+
+- unusually comprehensive regarding the financial and industrial field
+
+### Requests for Direct Information from the Company
+
+**It must never be forgotten that a stockholder is an *owner* of the business and an *employer* of its officers.**
+
+He is entitled not only to ask legitimate questions but also to have them answered, unless there is some persuasive reason to the contrary.
+
+**The courts have generally held that a bona fide stockholder has the same right to full information as a partner in a private business.**
+
+## Information Regarding the Industry
+
+The *Survey of Current Business*, published by the United States Department of Commerce, gives monthly figures on output, consumption, stocks, unfilled orders, etc., for many different lines.
+
+Annual data are contained in:
+
+- the Statistical Abstract
+- the World Almanac
+- and other compendiums
+
+More detailed figures are available in the Biennial Census of Manufactures.

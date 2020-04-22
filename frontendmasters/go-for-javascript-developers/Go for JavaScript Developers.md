@@ -774,3 +774,865 @@ Go treats every error as a **value** rather than an **exception**.
 - something happened that was fatal to your program and program stops execution
 - ex: Trying to open a file that doesn't exist
 
+An `error` is just a value in Go:
+
+```go
+package main
+
+import (
+  "errors"
+  "fmt"
+)
+
+func isGreaterThanTen(num int) error {
+    if num < 10 {
+        return errors.New("something bad happened")
+    }
+    return nil
+}
+
+func main() {
+    num := 9
+    err := isGreaterThan10(num)
+    if err != nil {
+        fmt.Println(fmt.Errorf("%d is NOT GREATER THAN TEN", num))
+    }
+}
+```
+
+Using a `panic` halts execution:
+
+```go
+func main() {
+    num := 9
+    err := isGreaterThanTen(num)
+    if err != nil {
+        panic(err)
+    }
+}
+```
+
+The `Log` library:
+
+```go
+func main() {
+    num := 9
+    err := isGreaterThanTen(num)
+    if err != nil {
+        log.Fatalln(err)
+    }
+    
+    fmt.Println(err)
+}
+```
+
+This `openFile` method returns an `error` if it returns anything at all:
+
+```go
+func openFile() error {
+    f, err := os.Open("missingFile.txt")
+    if err != nil {
+        return err
+    }
+    defer f.Close()
+    return nil
+}
+
+func main() {
+    num := 9
+    if err := isGreaterThanTen(num); err != nil {
+        fmt.Println(fmt.Errorf("%d is NOT GREATER THAN TEN", num))
+    }
+    
+    if err := openFile(); err != nil {
+        fmt.Println(fmt.Errorf("%v", err))
+    }
+}
+```
+
+### Panic, Defer & Recover
+
+```go
+f, err := os.Open(filename)
+...
+defer f.Close()
+
+panic(err.Error())
+```
+
+`defer`:
+
+- Last In, First Out structure
+- executes all non-`defer` code, before going back to each `defer` and executing
+
+#### Recover
+
+- **Panic** is called during a run time error and fatally kill the program
+- **Recover** tells Go what to do when that happens
+  - returns what was passed to *panic*
+- Recover must be paired with **defer**, which will fire even after a panic
+
+Recovering from a `panic` example:
+
+```go
+package main
+
+import (
+	"fmt"
+)
+
+func recoverFromPanic() {
+    // assigns value if there has been a panic
+    if r := recover(); r != nil {
+        fmt.Println("We panicked but everyone's fine.")
+		fmt.Println(r)
+    }
+}
+
+func doThings() {
+	defer recoverFromPanic()
+	for i := 0; i < 5; i++ {
+		fmt.Println(i)
+		if i == 2 {
+			panic("PANIC!")
+		}
+	}
+}
+
+func main() {
+	doThings()
+}
+```
+
+Output:
+
+```
+0
+1
+2
+We panicked but everyone's fine.
+PANIC!
+```
+
+## Methods
+
+### Methods
+
+Difference between a method and a function:
+
+- instead of accepting an argument as a `struct`, you are calling a method on an instance of that `struct`
+- think like Object prototype methods in JavaScript
+- To refactor into a method, instead of passing a `User` `struct` as an argument, we insert it as a `receiver` between the `func` keyword and the name of our slightly renamed `describe()` function.
+
+```go
+func (u *User) describe() string {
+    desc := fmt.Sprintf("Name: %s %s, Email: %s, ID: %d", u.FirstName, u.LastName, u.Email, u.ID)
+    return desc
+}
+
+func describeUser(u *User) string {
+    desc := fmt.Sprintf("Name: %s %s, Email: %s, ID: %d", u.FirstName, u.LastName, u.Email, u.ID)
+    return desc
+}
+
+func main() {
+    user := User{ID: 1, FirstName: "Marilyn", LastName: "Monroe", Email: "marilyn.monroe@gmail.com"}
+    
+    desc := describeUser(user)
+    
+    desc := user.describe()
+    
+    fmt.Println(desc)
+}
+```
+
+Transform `describeUser` function into a method:
+
+Before:
+
+```go
+func describeUser(u *User) string {
+    desc := fmt.Sprintf("Name: %s %s, Email: %s, ID: %d", u.FirstName, u.LastName, u.Email, u.ID)
+    return desc
+}
+
+func main() {
+    user := User{ID: 1, FirstName: "Marilyn", LastName: "Monroe", Email: "marilyn.monroe@gmail.com"}
+
+	desc := describeUser(user)
+	fmt.Println(desc)
+}
+```
+
+After:
+
+```go
+func (u *User) describe() string {
+    desc := fmt.Sprintf("Name: %s %s, Email: %s, ID: %d", u.FirstName, u.LastName, u.Email, u.ID)
+    return desc
+}
+
+func main() {
+    user := User{ID: 1, FirstName: "Marilyn", LastName: "Monroe", Email: "marilyn.monroe@gmail.com"}
+
+    desc := user.describe()
+	fmt.Println(desc)
+}
+```
+
+- we are calling this on an **instance** of a `struct`, so nothing needs to be passed to it
+
+Rule of Thumb: if you are concerned with state, use a method
+
+### Methods Exercise
+
+1. Refactor the `describeUser` code to be a method (this should be a repetition of what was just completed in the course).
+2. Modify the `describeGroup` function to be a method called `describe()` that receives a `Group` type.
+3. Modify the main function to reflect those changes
+
+Before:
+
+```go
+package main
+
+import "fmt"
+
+// User is a user type
+type User struct {
+	ID                         int
+	FirstName, LastName, Email string
+}
+
+// Group represents a set of users
+type Group struct {
+	role           string
+	users          []User
+	newestUser     User
+	spaceAvailable bool
+}
+
+func describeUser(u User) string {
+	desc := fmt.Sprintf("Name: %s %s, Email: %s", u.FirstName, u.LastName, u.Email)
+	return desc
+}
+
+// func describeGroup
+// => "This user group has 19 users. The newest user is Joe Smith. Accepting New Users: true"
+
+func describeGroup(g *Group) string {
+
+	if len(g.users) > 2 {
+		g.spaceAvailable = false
+	}
+
+	desc := fmt.Sprintf("This user group has %d. The newest user is %s %s. Accepting New Users: %t", len(g.users), g.newestUser.FirstName, g.newestUser.LastName, g.spaceAvailable)
+	return desc
+}
+
+func main() {
+	u := User{ID: 1, FirstName: "Marilyn", LastName: "Monroe", Email: "marilyn.monroe@gmail.com"}
+
+	u2 := User{ID: 2, FirstName: "Humphrey", LastName: "Bogart", Email: "humphrey.bogart@gmail.com"}
+
+	u3 := User{ID: 2, FirstName: "Humphrey", LastName: "Bogart", Email: "humphrey.bogart@gmail.com"}
+
+	g := Group{
+		role:           "admin",
+		users:          []User{u, u2, u3},
+		newestUser:     u2,
+		spaceAvailable: true,
+	}
+
+    fmt.Println(describeUser(u))
+	fmt.Println(describeGroup(g))
+	fmt.Println(g)
+}
+
+```
+
+After:
+
+```go
+package main
+
+import "fmt"
+
+// User is a user type
+type User struct {
+	ID                         int
+	FirstName, LastName, Email string
+}
+
+// Group represents a set of users
+type Group struct {
+	role           string
+	users          []User
+	newestUser     User
+	spaceAvailable bool
+}
+
+func describeUser(u User) string {
+	desc := fmt.Sprintf("Name: %s %s, Email: %s", u.FirstName, u.LastName, u.Email)
+	return desc
+}
+
+func (u *User) describe() string {
+	desc := fmt.Sprintf("Name: %s %s, Email: %s", u.FirstName, u.LastName, u.Email)
+	return desc
+}
+
+// func describeGroup
+// => "This user group has 19 users. The newest user is Joe Smith. Accepting New Users: true"
+
+func (g *Group) describeGroup() string {
+
+	if len(g.users) > 2 {
+		g.spaceAvailable = false
+	}
+
+	desc := fmt.Sprintf("This user group has %d. The newest user is %s %s. Accepting New Users: %t", len(g.users), g.newestUser.FirstName, g.newestUser.LastName, g.spaceAvailable)
+	return desc
+}
+
+func main() {
+	u := User{ID: 1, FirstName: "Marilyn", LastName: "Monroe", Email: "marilyn.monroe@gmail.com"}
+
+	u2 := User{ID: 2, FirstName: "Humphrey", LastName: "Bogart", Email: "humphrey.bogart@gmail.com"}
+
+	u3 := User{ID: 2, FirstName: "Humphrey", LastName: "Bogart", Email: "humphrey.bogart@gmail.com"}
+
+	g := Group{
+		role:           "admin",
+		users:          []User{u, u2, u3},
+		newestUser:     u2,
+		spaceAvailable: true,
+	}
+
+	fmt.Println(u.describe())
+	fmt.Println(g.describeGroup())
+	fmt.Println(g)
+}
+
+```
+
+## Interfaces
+
+### Interfaces
+
+**Interfaces**: a set of behaviors that define a type
+
+- if `struct`s define a set of attributes on a type, interfaces are going to define a set of behaviors that also define a type
+
+![interfaces](./images/interfaces.png)
+
+Convention is to name an interface with the "job" it is doing - often ending in `er`.
+
+```go
+// Describer prints out a entity description
+type Describer interface {
+    describe() string
+}
+```
+
+- any type that calls `describe` will also be of the `Describer` type interface
+
+```go
+func describeHumans(human Describer) string {
+    return human.describe()
+}
+```
+
+- can use this to create much more generic functions, avoiding repetition
+
+### Refactor for an Interface
+
+```go
+// Describer interface describes struct
+type Describer interface {
+	describe() string
+}
+
+// DoTheDescribing describes whatever struct is passed in
+func DoTheDescribing(d Describer) string {
+	return d.describe()
+}
+
+func main() {
+	u1 := User{ID: 1, FirstName: "Marilyn", LastName: "Monroe", Email: "marilyn.monroe@gmail.com"}
+	u2 := User{ID: 1, FirstName: "Humphrey", LastName: "Bogart", Email: "humphrey.bogart@gmail.com"}
+	g := Group{role: "admin", users: []User{u1, u2}, newestUser: u2, spaceAvailable: true}
+	//describeUser := u1.describe()
+	//describeGroup := g.describe()
+
+	userDescriptionWithInterface := DoTheDescribing(&u1)
+	groupDescriptionWithInterface := DoTheDescribing(&g)
+
+	fmt.Println(userDescriptionWithInterface)
+	fmt.Println(groupDescriptionWithInterface)
+	//fmt.Println(describeUser)
+	//fmt.Println(describeGroup)
+}
+```
+
+### Empty Interfaces
+
+- used when you don't know what is coming in (could be a `User` or a `Group`, etc.)
+- `interface{}`
+- specifies zero methods
+- an empty interface may hold values of any type
+  - these can be used by code that expects an unknown type
+- Allows you to call methods and functions on types when you aren't entirely sure what will be expected
+- Think the *any* type in Typescript
+
+Example:
+
+```go
+type User struct {}
+
+type Admin struct {}
+
+type Parent struct {}
+
+interface{}
+
+var people map[string]interface{}
+
+people = map[string]interface{
+    "user": User,
+    "admin": Admin,
+    "parent": Parent,
+}
+```
+
+## Web Servers
+
+### Web Servers & Routes
+
+#### Routes
+
+```go
+package main
+
+import "net/http"
+
+func main() {
+    http.HandleFunc("/", home)
+}
+```
+
+Example:
+
+```go
+package main
+
+import (
+	"fmt"
+	"log"
+	"net/http"
+)
+
+func home(w http.ResponseWriter, r *http.Request) {
+	fmt.Println("Home!")
+}
+
+func main() {
+	http.HandleFunc("/", home)
+	fmt.Println("Server is running on port :8080")
+	log.Fatal(http.ListenAndServe(":8080", nil))
+}
+```
+
+- takes very little code to get a server up and running
+
+### Go Templates
+
+```go
+package main
+
+import (
+	"fmt"
+	"html/template"
+	"log"
+	"net/http"
+)
+
+func home(w http.ResponseWriter, r *http.Request) {
+	fmt.Println("Home!")
+}
+
+func todos(w http.ResponseWriter, r *http.Request) {
+	t, err := template.ParseFiles("todos.html")
+
+	if err != nil {
+		http.Error(w, err.Error(), http.StatusBadRequest)
+		log.Print("Template parsing error: ", err)
+	}
+
+	// if no error, execute what is return by ParseFiles
+	err = t.Execute(w, nil)
+}
+
+func main() {
+	http.HandleFunc("/", home)
+	http.HandleFunc("/todos", todos)
+	fmt.Println("Server is running on port :8080")
+	log.Fatal(http.ListenAndServe(":8080", nil))
+}
+```
+
+### Template Errors & Data
+
+```go
+package main
+
+import (
+	"fmt"
+	"html/template"
+	"log"
+	"net/http"
+)
+
+func home(w http.ResponseWriter, r *http.Request) {
+	fmt.Println("Home!")
+}
+
+// Todo is a todo with a title and content
+type Todo struct {
+	Title   string
+	Content string
+}
+
+// PageVariables are variables sent to the html template
+type PageVariables struct {
+	PageTitle string
+	PageTodos []Todo
+}
+
+var todos []Todo
+
+func getTodos(w http.ResponseWriter, r *http.Request) {
+	pageVariables := PageVariables{
+		PageTitle: "Get Todos",
+		PageTodos: todos,
+	}
+
+	t, err := template.ParseFiles("todos.html")
+
+	if err != nil {
+		http.Error(w, err.Error(), http.StatusBadRequest)
+		log.Print("Template parsing error: ", err)
+	}
+
+	// if no error, execute what is return by ParseFiles
+	//err = t.Execute(w, nil)
+	err = t.Execute(w, pageVariables)
+}
+
+func main() {
+	http.HandleFunc("/", home)
+	http.HandleFunc("/todos", getTodos)
+	fmt.Println("Server is running on port :8080")
+	log.Fatal(http.ListenAndServe(":8080", nil))
+}
+```
+
+### Submitting a Form
+
+```go
+package main
+
+import (
+	"fmt"
+	"html/template"
+	"log"
+	"net/http"
+)
+
+func home(w http.ResponseWriter, r *http.Request) {
+	fmt.Println("Home!")
+}
+
+// Todo is a todo with a title and content
+type Todo struct {
+	Title   string
+	Content string
+}
+
+// PageVariables are variables sent to the html template
+type PageVariables struct {
+	PageTitle string
+	PageTodos []Todo
+}
+
+var todos []Todo
+
+func getTodos(w http.ResponseWriter, r *http.Request) {
+	pageVariables := PageVariables{
+		PageTitle: "Get Todos",
+		PageTodos: todos,
+	}
+
+	t, err := template.ParseFiles("todos.html")
+
+	if err != nil {
+		http.Error(w, err.Error(), http.StatusBadRequest)
+		log.Print("Template parsing error: ", err)
+	}
+
+	// if no error, execute what is return by ParseFiles
+	//err = t.Execute(w, nil)
+	err = t.Execute(w, pageVariables)
+}
+
+func addTodo(w http.ResponseWriter, r *http.Request) {
+	err := r.ParseForm()
+	if err != nil {
+		http.Error(w, err.Error(), http.StatusBadRequest)
+		log.Print("Request parsing error: ", err)
+	}
+
+	todo := Todo{
+		Title:   r.FormValue("title"),
+		Content: r.FormValue("content"),
+	}
+
+	todos = append(todos, todo)
+	log.Print(todos)
+	http.Redirect(w, r, "/todos/", http.StatusSeeOther)
+}
+
+func main() {
+	http.HandleFunc("/", home)
+	http.HandleFunc("/todos/", getTodos)
+	http.HandleFunc("/add-todo", addTodo)
+	fmt.Println("Server is running on port :8080")
+	log.Fatal(http.ListenAndServe(":8080", nil))
+}
+```
+
+## Hitting an External API
+
+### External APIs
+
+- will use some of the JSON parsing libraries that come with Go
+
+### Making an HTTP Request
+
+```go
+package main
+
+import (
+	"fmt"
+	"log"
+	"net/http"
+)
+
+// BaseURL is the base endpoint for the star wars API
+const BaseURL = "https://swapi.co/api/"
+
+func home(w http.ResponseWriter, r *http.Request) {
+	fmt.Println("Home!")
+}
+
+func getPeople(w http.ResponseWriter, r *http.Request) {
+
+	resp, err := http.Get(BaseURL + "people")
+
+	if err != nil {
+		http.Error(w, err.Error(), http.StatusBadRequest)
+		log.Print("Failed to request star wars people.")
+	}
+
+	fmt.Println(resp)
+
+	defer resp.Body.Close()
+
+}
+
+func main() {
+	http.HandleFunc("/", home)
+	http.HandleFunc("/people", getPeople)
+	fmt.Println("Serving on :8080")
+	log.Fatal(http.ListenAndServe(":8080", nil))
+}
+```
+
+### Parsing an HTTP Response
+
+### Getting Nested JSON Data
+
+```go
+package main
+
+import (
+	"encoding/json"
+	"fmt"
+	"io/ioutil"
+	"log"
+	"net/http"
+)
+
+// BaseURL is the base endpoint for the star wars API
+const BaseURL = "https://swapi.dev/api/"
+
+// Planet is a planet type
+type Planet struct {
+	Name       string `json:"name"`
+	Population string `json:"population"`
+	Terrain    string `json:"terrain"`
+}
+
+// Person is a person type
+type Person struct {
+	Name         string `json:"name"`
+	HomeworldURL string `json:"homeworld"`
+	Homeworld    Planet
+}
+
+// AllPeople is a collection of Person types
+type AllPeople struct {
+	People []Person `json:"results"`
+}
+
+func home(w http.ResponseWriter, r *http.Request) {
+	fmt.Println("Home!")
+}
+
+func (p *Person) getHomeworld() {
+	res, err := http.Get(p.HomeworldURL)
+	if err != nil {
+		log.Print("Error fetching homeworld", err)
+	}
+
+	var bytes []byte
+	if bytes, err = ioutil.ReadAll(res.Body); err != nil {
+		log.Print("Error reading response body", err)
+	}
+
+	json.Unmarshal(bytes, &p.Homeworld)
+}
+
+func getPeople(w http.ResponseWriter, r *http.Request) {
+
+	resp, err := http.Get(BaseURL + "people")
+
+	if err != nil {
+		http.Error(w, err.Error(), http.StatusBadRequest)
+		log.Print("Failed to request star wars people.")
+	}
+
+	fmt.Println(resp)
+
+	bytes, err := ioutil.ReadAll(resp.Body)
+
+	if err != nil {
+		http.Error(w, err.Error(), http.StatusBadRequest)
+		log.Print("Failed to parse request body")
+	}
+
+	var people AllPeople
+
+	fmt.Println(string(bytes))
+
+	if err := json.Unmarshal(bytes, &people); err != nil {
+		fmt.Println("Error parsing json", err)
+	}
+
+	fmt.Println(people)
+
+	for _, pers := range people.People {
+		pers.getHomeworld()
+		fmt.Println(pers)
+	}
+
+	defer resp.Body.Close()
+
+}
+
+func main() {
+	http.HandleFunc("/", home)
+	http.HandleFunc("/people", getPeople)
+	fmt.Println("Serving on :8080")
+	log.Fatal(http.ListenAndServe(":8080", nil))
+}
+```
+
+## Concurrency
+
+### Concurrency Definition & Practice
+
+#### Goroutines
+
+- A **Goroutine** is a lightweight thread managed by the Go runtime
+
+- Implemented by adding the `go` keyword before executing a function:
+
+  - ```go
+    func doSomethingSlow() {}
+    
+    func main() {
+        go doSomethingSlow()
+    }
+    ```
+
+- it is very easy to spin up multiple threads in Go
+
+- **nothing will execute before the `goroutine` finishes execution**
+
+The package `sync` will help us synchronize the threads we spun up.
+
+If we wanted our `goroutines` to communicate with each other, we would use something called a **channel**.
+
+```go
+package main
+
+import (
+	"fmt"
+	"sync"
+	"time"
+)
+
+// weight group that helps with synchronizing threads
+var wg sync.WaitGroup
+
+func handlePanic() {
+	if r := recover(); r != nil {
+		fmt.Println("PANIC")
+	}
+}
+
+func printStuff() {
+	defer wg.Done()
+	defer handlePanic()
+	for i := 0; i < 3; i++ {
+		fmt.Println(i)
+		time.Sleep(time.Millisecond * 300)
+	}
+}
+
+func main() {
+	wg.Add(1)
+	go printStuff()
+	wg.Wait() // we need a blocker to tell Go to continue execution
+}
+```
+
+## Wrapping Up
+
+### Wrapping Up
+
+#### Resources Brenna Recommends
+
+- [Official Golang Docs]
+  - https://golang.org/doc/
+- [How To Use Interfaces In Go]
+  - https://jordanorelli.com/post/32665860244/how-to-use-interfaces-in-go
+- [Introducing Go]
+  - http://shop.oreilly.com/product/0636920046516.do, Caleb Doxsey, O'Reilly Publications
+- [Web Applications With Go]
+  - https://blog.scottlogic.com/2017/02/28/building-a-web-app-with-go.html
+- [Go Language Programming Practical Basic Tutorial]
+  - https://www.youtube.com/playlist?list=PLQVvvaa0QuDeF3hP0wQoSxpkqgRcgxMqX
+- [Star Wars API]
+  - https://swapi.dev
+- My colleague Justin Holmes, and former colleagues Mike McCrary and Steven Bogacz for their patience with my endless questions.
