@@ -79,3 +79,47 @@
 - in rebelled states, Athens set up Athenian outposts, colonies
 - When the polis of **Megara** allied with Athens, it enraged the Corinthians at **Korintti**, so they began forming alliances with their neighbors to the south of them
   - Megara had a very strategic location, as they where in the middle of the land-bridge, or the isthmus of Corinth
+
+## Week 5 / Lecture 3: Pericles: Aristocrat, Orator, and Radical Democrat
+
+- Pericles was born around 490, but are unsure
+- his family was as elite as could be, son of Xanthippus, an Athenian
+- Xanthippus:
+  - member of Alchmaeonid, that old powerful clan
+  - had been involved in the exchanges of ostracisms back in the 480s
+- in 462, Pericles really comes into the political landscape of Athens
+- in that year, along with a political ally named Ephialtes, the ancient council of the Areopagus is reformed
+- the Areopagus:
+  - the Areopagus, has been around since the beginning of Athenian political history
+  - it exists alongside the democratic counsel of 500 that had been established by Clistenese
+  - consisted of ex-Archons (serve for a year as archon, then go into this council)
+  - tended to be made up of somewhat older, probably more moderate, or even conservative men
+- in 462, the reforms of the Areopagus almost completely took its power away
+- retained its position as a court for cases of voluntary homicide and other religious related offenses
+- any of its real influence it had in Athenian politics was now gone
+- Aeschylus' Oresteia addresses a mystical charter for the founding of the Areopagus as a court to hear cases of homicide
+- he lived a thoroughgoing, aristocratic lifestyle
+- had a beautiful mistress named Aspasia, a courtesan
+  - power couple
+  - she was very smart, could converse elegantly
+  - she was not Athenian, from Miletus
+  - she was, one might say, a professional escort
+- Pericles acted much differently in domestic relations compared to other members of the elite
+- the elites retained a kind of political influence by working through, and in, the democratic process
+- they would marry their sons and daughters to establish alliances
+- Pericles rejected all of forms of this sort of official friendship
+- the main source of his power, as we would say, **is controlling the discourse**.
+- he turned to the people
+- a late Latin poet source said he had an almost incredible power of speaking
+- he was personally incorruptible
+- he had a lot of family wealth so he didn't need to be bribed
+- his ambition was more for Athens rather than himself
+- Thucydides famously says in his estimate of Pericles that during the years of his ascendency Athens was in name a democracy but in fact under the rule of the first citizen
+  - though, he was not a tyrant, the people ruled
+- he sort of embodied Athens at its most excellent
+- with the transfer of the Delian treasury to Athens and with peace with Persia, the Delian League was needed no longer
+- **The Athenian Building Program** by Pericles
+- major decrees established in the mid-century:
+- this view shows Pericles being much more imperialistic, ruthless leader than he had been given credit
+- even with fair amount of evidence, theories, interpretations, and narrative continue to be constructed, with varying degrees of plausibility
+- 

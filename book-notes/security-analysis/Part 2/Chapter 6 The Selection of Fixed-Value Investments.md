@@ -59,3 +59,22 @@ This can be reasonably expected to not hold up in times of depression for three 
 
 ### Lien is No Guarantee against Shrinkage of Values
 
+### Impracticable to Enforce Basic Legal Rights of Lien Holder.
+
+### Delays Are Wearisome.
+
+### Basic Principle Is to Avoid Trouble.
+
+### Corollaries from This First Principle.
+
+3. *Senior Liens are to be favored, unless Junior obligations offer a substantial advantage.*
+
+A junior lien of Company *X* may be selected in preference to a first-mortgage bond of Company *Y*, on one of two bases:
+
+1. The protection for the total debt of Company *X* is adequate and the yield of the junior lien is substantially higher than that of the Company *Y* issue; or
+2. If there is no substantial advantage in yield, then the indicated protection for the total debt of Company *X* must be considerably better than that of Company *Y*.
+
+### Special Status of "Underlying Bonds."
+
+**The ordinary investor may be well advised to leave such issues out of his calculations and stick to the rule that <u>only strong companies have strong bonds</u>.**
+
