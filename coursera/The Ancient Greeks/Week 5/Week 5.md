@@ -159,4 +159,33 @@
 - Aspasia, the beautiful courtesan Pericles loved
 - Persephone became the goddess of the Underworld when she married Hades
 - women played a vital role in religion: Athena, Hera, Demeter, Persephone
-- 
+
+
+
+## Week 5 / Lecture 6: The Periclean Building Program
+
+- right around 450
+- Athenians took 5,000 talents from the profits they had made from tribute and devoted it to the beautification of the city
+  - funds extracted from their fellow Greeks
+- the Persians sacked the city
+- the ruins stayed there for 30 years
+- Pericles started to beautify the city
+- the Propylaea was the grand entrance to the Acropolis
+  - boundary between the secular world of the city and the largely sacred precinct on the top of the Acropolis
+  - two waiting rooms:
+    - one: a picture gallery
+- visitors first destination would have been the Parthenon
+  - remarkably refined
+  - slight curvature, practically letting rainwater run off
+  - had many purposes:
+    - first, a Christian church
+    - when it was part of the Ottoman Empire, it was a Mosque
+  - richly ornamented in sculpture
+  - ![parthenon](./images/parthenon.png)
+  - was brightly painted
+    - in extremely bright light of ancient Greece, you needed bright colors for it to show up
+  - high point of the sculptural decoration was the **Parthenon Frieze**.
+    - had hundreds of figures of the pan-Athenic procession
+
+### "The Great 50 Years" (ca. 480-431 BCE)
+
