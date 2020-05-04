@@ -122,4 +122,41 @@
 - major decrees established in the mid-century:
 - this view shows Pericles being much more imperialistic, ruthless leader than he had been given credit
 - even with fair amount of evidence, theories, interpretations, and narrative continue to be constructed, with varying degrees of plausibility
+
+## Week 5 / Lecture 4: Tragedy and Athenian Civic Life -- Sophocles' *Antigone* (441 BCE)
+
+- in fifth century Athens, tragic theater was central to cultural, political, and civic life
+  - involved entire community
+- always connected to ritual and to the god Dionysus
+- usually took place in the city of Dionysia in the spring
+- natural bowl near the Parthenon, just outside Athens
+- choruses remain important throughout Greek tragedy
+- all the actors were male, total of 3
+- 10 citizen judges
+- begun in Dionysia with a procession, starting by bringing in a statue of Dionysus
+- the young men, the generals would be in the procession
+- the actual tribute from the treasury of Delos would be carried in by precious metals
+- function of the poet was to be a teacher to the city
+- Antigone is loyal to a fault to her dead brother
+- Creon gets "wisdom through suffering" after losing his wife to suicide and such
+
+## Week 5 / Lecture 5: Women in Greek Society
+
+- one prominent woman we have heard of already was Saphos
+- the law stated that a woman of any age had to have an adult male guardian
+- if husband or guardian died, the woman would pass into the care of male relatives
+- they couldn't own property
+- **had the legal status of a child**
+- **marriage was the aim for women**
+  - about 14, early teens, to a man much older, in 20s or 30s
+- **"marriage is for the woman as war is for the man"**
+- men were outside, in the field, assembly, council, etc.
+- women were inside, managing the "oikos" or household
+  - managing children, slaves
+  - each house had at least one slave
+- **making cloth was one of the primary jobs of women**
+- Euripedes' Medea reflects the lives of women in Greece
+- Aspasia, the beautiful courtesan Pericles loved
+- Persephone became the goddess of the Underworld when she married Hades
+- women played a vital role in religion: Athena, Hera, Demeter, Persephone
 - 
