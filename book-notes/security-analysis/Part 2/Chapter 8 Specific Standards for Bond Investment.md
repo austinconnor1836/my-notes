@@ -78,3 +78,9 @@ There is no mathematical means of determining exactly at what point a company or
 
 ### Provisions of New York Statute.
 
+### Industrial Bonds and the Factor of Size.
+
+### Large Size Alone No Guarantee of Safety.
+
+The biggest company may be the weakest if its bonded debt is disproportionately large.
+
