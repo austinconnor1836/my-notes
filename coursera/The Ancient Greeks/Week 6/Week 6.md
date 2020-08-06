@@ -188,4 +188,40 @@ Thucydides 3 causes of the war:
 
 - peace of Niceus of 421 was greeted with general rejoicing, although factions on both sides wanted to continue the war
 - Thucydides argues that the Peloponnesian War lasted 27 years, from 431 to 404
-- 
+- On the Spartan side, two ephores had tried to get Corinth to ally with Thebes against Athens
+- On Athens' side, elected Strategis or General, Alcibiades, got the Peloponnesian states of Elis and Mantineia to ally with Athens
+
+![war resumes](./images/war-resumes.png)
+
+- 2 years later, in 418, the Spartans met the combined forces of the Elians and the Mantineians and the Argives at Magnia and the Spartans won a decisive victory
+- As a result, Alcibides almost got ostracized
+- the situation is getting tenser and tenser
+- In 416, the Athenians go to the small island of Milos, way to the south. They demand that the Milians join the Athenian Confederacy as tribute paying subordinate Allies.
+  - they were hit with tribute back in the 420s, but we don't know if they paid it. Now, Athens is clamping down
+- Milians were settled from Sparta and have remained neutral in the war so far
+- In 420s, the Athenians had killed the adult males and sold the women and children of a territory called Cione, up in the north.
+- Thucydides has crafted for us a dialog about the nature of power.
+- These were fiction, he was making this up.
+- **This passage is so important: <u>The Melian Dialogue</u>**
+  - This is still studied in international relations courses, in courses of philosophy and politics of ethics and the like
+  - it involves many of the important sophistic teachings, that is, the relation between law and nature, between justice and expediency, between word and action.
+- The Melians decide to resist. The Athenians come back with a fleet, kill the males and sell the women and children into slavery. They re-settle the island with 500 colonists from Athens.
+
+- Why does Thucydides give this episode such prominence?
+  - I think initially our sentiment is likely to be entirely on the side of the Mileans, underdogs, resisting against a much greater power.
+  - We felt this way before when the Persians were bearing down on the Greeks.
+  - Now the Athenians are playing the role of the aggressor.
+  - If this were Herodotus, we might see this as an example of Athenian hubris, the overweening power, and arrogance, and violence.
+  - A more consistent way with Thucydides' understanding of how history works, this is an example of a principle that he's articulated before, which is when war goes on long enough in a condition where, as we have already seen, the pre-existing rules of war have been suspended, they don't exist any more. Then there's no place that's safe. Not even a small island that's neutral, out of the way, like Milos.
+  - Another grim understanding is that in Thucydides' understanding of the relation between speech and action, who's right?
+    - Unmistakebly, the Athenians. Their logic, their argument is airtight.
+    - The Melians generally don't stand a chance and to pin their hopes on chance signals to us that they are going to get crushed.
+    - In a sophistic understanding, a perfect conjunction of word and action on the part of the Athenians.
+      - They say what they're going to do.
+      - They have the ability to do it, and they go ahead and do it.
+  - The Athenians clarity and resolve is ice cold.
+  - Behind it is Alcibiades, we'll talk about him more in the next few lectures.
+- What happens next, which is the Athenian attack on a much larger island much farther away in Sicily, where Alcibiades played a central role
+
+
+

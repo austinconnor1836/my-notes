@@ -126,3 +126,8 @@ Knock the bottom of the plate to get the risotto to relax and fall down.
 Finish with grated parmesan cheese
 
 Thus, completes our **Ris e bisi**
+
+With leftover risotto:
+
+**Arancini**
+
