@@ -30,3 +30,8 @@ They also help with onboarding new team members.
 - **Design Language**
 - **Component Library**
 - **Style Guide**
+
+## Foundations of Design
+
+### Color Overview
+

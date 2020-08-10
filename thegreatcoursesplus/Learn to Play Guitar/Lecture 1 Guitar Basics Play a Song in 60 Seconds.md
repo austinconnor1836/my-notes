@@ -38,3 +38,10 @@ Left Hand:
 
 C and G chords
 
+#### C major chord
+
+![c major](./images/c-major.png)
+
+#### G major chord
+
+![g major](./images/g-major.png)
